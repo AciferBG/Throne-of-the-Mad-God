@@ -45,6 +45,7 @@ Compatible with **BG2EE** and **EET**
 The mod is available in: 
 - English
 - German
+- Chinese
 
 ---
 

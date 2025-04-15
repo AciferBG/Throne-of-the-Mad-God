@@ -1,5 +1,6 @@
 ***Throne of the Mad God - Version***
-
+V 1.2
+- added simplified Chinese version by Abdel-613
 V 1.1
 - updated readme
 - switched ac#der04 halberd to weapon slot #1
