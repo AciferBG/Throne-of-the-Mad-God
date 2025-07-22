@@ -57,6 +57,11 @@ LANGUAGE ~Spanish by AlleyV~
          ~ThroneoftheMadGod/language/spanish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/spanish/ThroneoftheMadGod_Journal.tra~
 
+LANGUAGE ~Russian by Origanum8, paladin84 and scheele~
+         ~russian~
+         ~ThroneoftheMadGod/language/russian/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/russian/ThroneoftheMadGod_Journal.tra~
+
 BEGIN ~Throne of the Mad God V 1.5~
 
 //REQUIRE_PREDICATE GAME_IS ~bg2ee eet~       ~This mod runs only on Enhanced Edition engine.~
