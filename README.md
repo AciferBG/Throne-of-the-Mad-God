@@ -48,6 +48,7 @@ The mod is available in:
 - German
 - Chinese
 - Spanish
+- Russian
 
 ---
 
