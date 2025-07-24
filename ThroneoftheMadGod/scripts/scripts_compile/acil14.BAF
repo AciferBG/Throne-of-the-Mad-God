@@ -1,4 +1,14 @@
 IF
+    PartyHasItem("AC#MGSHH")
+    GlobalLT("TalkHorn","ACIL14",2)  // Korolnor: Dungeon lvl 1
+THEN
+    RESPONSE #100
+        CreateCreatureImpassableAllowOverlap("AC#MG14H",[2185.447],S)  // Voice from the Horn
+        SetGlobal("TalkHorn","ACIL14",2)  // Korolnor: Dungeon lvl 1
+        ActionOverride("AC#MG14H",StartDialogueNoSet([PC]))
+END
+
+IF
     Global("AC#ACIL18_Elevator_OPEN","GLOBAL",1)
     OpenState("DOOR03",FALSE)
 THEN

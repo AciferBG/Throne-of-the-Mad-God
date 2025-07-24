@@ -1,5 +1,10 @@
 ***Throne of the Mad God - Version***
 
+V 1.6
+- added Russian Version by Origanum8, paladin84 and scheele
+- the horn in area ACIL14 has now a larger trigger Region as some People missed it
+- the dialogue with Ursummnogh can now be triggered by taking the skull from the troll's altar
+
 V 1.5
 - added the mod's areas to the debug console, thanks Argent77!
 
