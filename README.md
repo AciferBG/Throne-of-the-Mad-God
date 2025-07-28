@@ -39,6 +39,7 @@
 ## Compatibility  
 Compatible with **BG2EE** and **EET**  
 **There might be an issue if you play this mod using SCS's troll regeneration option, making the trolls of this mod invincible**
+
 **You need to install Throne of the Mad God after BP-BGT-Worldmap (using the large not the huge worldmap size)**
 
 ---
