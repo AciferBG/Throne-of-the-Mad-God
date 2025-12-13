@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @4850 = ~Steht still in Ehrfurcht und lauscht der Geschichte dieses Ortes, Lernender.~ [AC#MGSS1] ~Steht still in Ehrfurcht und lauscht der Geschichte dieses Ortes, Lernende.~ [AC#MGSS1]
@@ -45,7 +45,7 @@
 @4889 = ~Ich werde bestimmt keine Fragen von solch einem Metallautomaten beantworten.~
 @4890 = ~Also gut, stellt Eure Frage, Statue.~
 @4891 = ~Was würdet Ihr tun, wenn ich mich einfach davonstehlen würde?~
-@4892 = ~Ich verstehe Euch nicht und frage erneut ein letztes Mal. Der, der die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
+@4892 = ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Derjenige, der die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~ ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Diejenige, die die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
 @4893 = ~So sollt Ihr den Tod eines Diebes sterben!~ ~So sollt Ihr den Tod einer Diebin sterben!~
 @4894 = ~Dies ist Korolnor, Heimstatt des Clans Kuldelver. Sagt mir, zu welchem Reich gehört Korolnor?~
 @4895 = ~Tethyr.~
@@ -58,7 +58,7 @@
 @4902 = ~Eure Antwort gefällt. Geht und wandelt mit dem Segen Shanatars, Zwergenfreund.~ ~Eure Antwort gefällt. Geht und wandelt mit dem Segen Shanatars, Zwergenfreundin.~
 @4903 = ~(Erneut erwacht eine der verwitterten Zwergenstatuen, die diesen Raum umgeben, zum Leben. Die Statue hebt mit monotoner Stimme zu einem kurzen Monolog an.)~ [AC#MGSS1]
 @4904 = ~(seufz) Vermutlich habe ich wieder nicht wirklich eine Wahl, oder?~
-@4905 = ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Der, der die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
+@4905 = ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Derjenige, der die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~ ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Diejenige, die die Steine des Juwelenkönigreiches an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
 @4906 = ~Dies ist Korolnor, Heimstatt des Clans Kuldelver. Sagt mir: Wie hieß der Gründer und Clanvater dieses Ortes hier?~
 @4907 = ~Taark Shanat.~
 @4908 = ~Karlyn Kuldelver.~
@@ -120,7 +120,7 @@
 @4964 = ~(Zum siebten Mal erwacht eine der verwitterten Zwergenstatuen, die diesen Raum umgeben, zum Leben. Die Statue hebt wie immer zu einem kurzen Monolog an.)~ [AC#MGSS1]
 @4965 = ~Der, der die Steine der Zwerge an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
 @4966 = ~Tja, jetzt ist kein Stein mehr übrig. Gehen Euch nicht langsam die Fragen aus?~
-@4967 = ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Der, der die Steine der Zwerge an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
+@4967 = ~Ich verstehe Euch nicht und frage Euch erneut und ein letztes Mal. Derjenige, der die Steine der Zwerge an sich nimmt, muss sich auch als ihrer würdig erweisen. Seid Ihr bereit, Euch der Frage Korolnors zu stellen?~
 @4968 = ~So kämpft gegen die harten Steine des Juwelenkönigreiches!~
 @4969 = ~Dies ist Korolnor, Heimstatt des Clans Kuldelver. In der alten Versammlungshalle vor dem versiegelten Tempel muss ein jeder Abgesandter eine Gabe seines Königreiches ablegen, um Zugang zu dem Thron des Irren Gottes zu erlangen. Welche Gabe wählt Ihr für Korolnor?~
 @4970 = ~Gold.~

@@ -1,12 +1,12 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @4200 = ~Na, wollt Euch jetzt auch bei meinen Ahnen zur Ruhe legen wie dieser Lancameth?~
 @4201 = ~Wie meint Ihr das?~
 @4202 = ~Lasst mich in Frieden!~
-@4203 = ~Seht mich doch an! Ich bin ein Zwerg. Denkt Ihr, Ich kenne die Geschichte meiner Vorfahren nicht? Hättet auch gleich mich fragen können, wenn Ihr auf der Suche nach dem „Klagenden Zwerg“ seid.~
+@4203 = ~Seht mich doch an! Ich bin ein Zwerg. Denkt Ihr, Ich kenne die Geschichte meiner Vorfahren nicht? Hättet auch gleich mich fragen können, wenn Ihr auf der Suche nach dem Klagenden Zwerg seid.~
 @4204 = ~Ihr kennt das Bauwerk, das Bryam Lancameth besucht hat?~
 @4205 = ~Lasst mich in Ruhe!~
 @4206 = ~Macht Ihr Witze? Natürlich kenne ich es! JEDER Zwerg in Amn kennt die Zitadelle von Karlyn Kuldelver. Nun, zumindest fast jeder. Die Festung meiner Urahnen ist doch eines der großartigsten Bauwerke, die meine Rasse jemals zustande gebracht hat. Ob ich das „Bauwerk“ kenne, pfft…~
@@ -15,7 +15,7 @@
 @4209 = ~Gut, hier sind die 500 Goldmünzen. Erzählt mir, was Ihr über dieses Bauwerk wisst.~
 @4210 = ~So viel Gold habe ich nicht. Ich komme wieder, wenn ich das Gold beisammen habe.~
 @4211 = ~Vergesst es.~
-@4212 = ~Wenn Ihr dadurch länger überlebt ist die kleine Summe gut angelegt! Und keiner zwingt Euch dazu. Also was ist, wollt Ihr für 500 Goldmünzen die Geschichte eines alten Zwerges hören? Ansonsten haltet mich nicht länger von meiner Arbeit ab.~
+@4212 = ~Wenn Ihr dadurch länger überlebt, ist die kleine Summe gut angelegt! Und keiner zwingt Euch dazu. Also was ist, wollt Ihr für 500 Goldmünzen die Geschichte eines alten Zwerges hören? Ansonsten haltet mich nicht länger von meiner Arbeit ab.~
 @4213 = ~Gut, hier sind die 500 Goldmünzen. Erzählt mir, was Ihr über dieses Bauwerk wisst.~
 @4214 = ~Denkt Ihr, ich habe so viel Zeit, hier herumzustehen und auf Euch zu warten? Die Leichen begraben sich nicht von allein.~
 @4215 = ~…~
@@ -24,8 +24,8 @@
 @4218 = ~Typisch Zwerg.~
 @4219 = ~Die Gier eines Zwerges kennt keine Ruh’.~
 @4220 = ~500! Was wolltet Ihr noch gleich? Ach ja. Spitzt die Ohren, <PRO_RACE>, vielleicht helfen Euch meine Ausführungen, dieses Abenteuer besser zu überleben als dieser Lancameth …~
-@4221 = ~Das Bauwerk, das man heute „Klagender Zwerg“ nennt, bewachte den Zugang zu der alten Zwergenfestung des Königreiches Korolnor. Ihren Eingang ziert ein Steinkoloss in Zwergengestalt, höher als der höchste Turm Athkatlas! Die alten Zwerge haben die Statue derart ausgehöhlt, dass der Wind durch den riesigen Mund heult und pfeift, als würde ein Sturmriese singen.~
-@4222 = ~Den meisten Eindringlingen schlottern schon die Knie, wenn sie die Festung nur HÖREN, noch bevor sie sie überhaupt zu Gesicht bekommen. Zu schade, dass das ganze Ding mittlerweile von Trollen und dergleichen bevölkert wird. ~
+@4221 = ~Das Bauwerk, das man heute Klagender Zwerg nennt, bewachte den Zugang zu der alten Zwergenfestung des Königreiches Korolnor. Ihren Eingang ziert ein Steinkoloss in Zwergengestalt, höher als der höchste Turm Athkatlas! Die alten Zwerge haben die Statue derart ausgehöhlt, dass der Wind durch den riesigen Mund heult und pfeift, als würde ein Sturmriese singen.~
+@4222 = ~Den meisten Eindringlingen schlottern schon die Knie, wenn sie von der Festung nur HÖREN, noch bevor sie sie überhaupt zu Gesicht bekommen. Zu schade, dass das ganze Ding mittlerweile von Trollen und dergleichen bevölkert wird. ~
 @4223 = ~He, vielleicht ist es doch nicht so schlecht, wenn Ihr Euch der Sache annehmt. Seht zwar nicht ganz so erfahren und gut gerüstet aus wie Lancameth und seine Truppe, aber ich sehe das Feuer des Abenteuers in Euren Augen.~
 @4224 = ~So, jetzt hab ich Euch alles erzählt, was Ihr wissen müsst, wenn Ihr die Ruine betreten wollt. Wünschte, ich könnte Euch begleiten, doch diese alten Hände taugen nur noch zum Ausheben von Gräbern, nicht mehr zum Schlagen auf Stein oder Monster wie einst.~
 @4225 = ~Nun denn, ich werde mich mal wieder an die Arbeit machen. Einen ganzen Karren voll Toter muss ich jetzt vom Brückenviertel abholen und verscharren! Viel Erfolg auf Eurer Reise, möge Dumathoin Euch den Weg weisen und Euer Grab segnen, wenn Ihr in seinen alten Hallen umkommt.~
@@ -92,13 +92,13 @@
 @4286 = ~Ihr … Ihr sprecht solche Dinge gelassen aus. Doch es steckt Wahrheit in Euren Worten.~
 @4287 = ~Gut, wenn Ihr Euch in die gleiche Gefahr begeben wollt wie mein geliebter Mann, ist dies Eure Entscheidung. Ich kann Euch keinen Lohn geben. Doch wenn ich Euch helfen kann, diesen Ort zu finden, werde ich das tun … wenn ich dadurch die Möglichkeit bekäme, einen winzigen Schritt in meinem Leben voranzukommen.~
 @4288 = ~Einer der wenigen Gegenstände, die mir von meinem Liebsten verblieben sind, ist sein Dokument, welches er für seine Untersuchungen zu dem finsteren Ort, den Ihr besuchen wollt, zusammengeschrieben hat. Ich trage seine Sachen jeden Tag seit seinem Verschwinden bei mir, weil mir seine Handschrift und die Worte, die er dort an mich richtete, wenigstens ein wenig Trost zu schenken vermochten.~
-@4289 = ~Ich werde Euch seine Aufzeichnungen geben, wenn Ihr mir versprecht, auf Eurer Reise die Suche nach meinem Mann nicht zu vergessen und mir zu berichten, was sich zugetragen hat.~
+@4289 = ~Ich werde Euch seine Aufzeichnungen geben, wenn Ihr mir versprecht, nach ihm Ausschau zu halten und mit dem, was Ihr werdet erfahren haben, zurückzukehren.~
 @4290 = ~Ich schwöre, dass ich nach Eurem Mann suchen werde!~
 @4291 = ~Das verspreche ich, auch wenn ich nicht garantieren kann, dass ich einen Hinweis auf Euren Mann finden werde.~
 @4292 = ~Nun gut. Wir werden nach ihm suchen und Euch auf dem Laufenden halten.~
 @4293 = ~Ihr werdet schon früh genug erfahren, was mit ihm geschehen ist.~
 @4294 = ~Im Versprechengeben bin ich ganz gut, im -halten eher weniger.~
-@4295 = ~Solltet Ihr irgendetwas finden, von dem Ihr meint, dass es meinem Mann gehört, so bitte ich Euch, dies mir zurückzubringen, auch … auch wenn es sich wohl um …um seine … seine Leiche handeln könnte.~
+@4295 = ~Solltet Ihr irgendetwas finden, von dem Ihr meint, dass es meinem Mann gehört, so bitte ich Euch, dies mir zurückzubringen, auch … auch wenn es sich wohl um … um seine … seine Leiche handeln könnte.~
 @4296 = ~Das werde ich, bei meiner Ehre!~
 @4297 = ~Natürlich. Ich tue mein Möglichstes.~
 @4298 = ~Mal sehen, ob sich das einrichten lässt.~
@@ -123,5 +123,5 @@
 @4317 = ~Ist Euch sonst noch etwas an dem Magier aufgefallen?~
 @4318 = ~Mein Mann meinte, dass dieser Magier, der sich Hundehexer nannte, bereits den Ort besucht habe und man ihn deshalb als Führer brauche. Deshalb hat er ihn mitgenommen.~
 @4319 = ~Wo finde ich den Ort, zu dem Lancameth aufgebrochen ist?~
-@4320 = ~Es tut mir leid Euch mitteilen zu müssen, dass Euer Ehemann tot ist. Ich bringe Euch seinen Kopf, damit Ihr Abschied von ihm nehmen könnt.~
-@4321 = ~Ich konnte Euren Mann leider nicht retten. Es ist grausam, doch alles, was ich von ihm finden konnte, war sein Kopf, den ich Euch jetzt überreiche.~
+@4320 = ~Mit tiefstem Bedauern muss ich Euch vom Ableben Eures Mannes in Kenntnis setzen. Ich gebe Euch seinen Kopf zurück, damit Ihr ihn im Gebet ehren könnt.~
+@4321 = ~Er ist tot … Ich wünschte, ich hätte bessere Nachrichten. Das ist alles, was ich retten konnte – sein Kopf.~

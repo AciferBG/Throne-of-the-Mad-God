@@ -1,15 +1,15 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @4400 = ~Ein Kopf? Lasst einmal sehen … Das ist … Oh! Bei dem W-Wächter aller W-Wächter! Das ist kein gewöhnlicher Fluch. Natürlich müssen wir versuchen, diesen scheußlichen Fluch von dem armen Toten zu bannen! Sprecht mit Sir Lothtyran hinter mir in diesem Raum. Er weiß, was zu tun ist.~
-@4401 = ~Ich habe ein wichtiges Anliegen. Dies hier ist der Kopf eines gefallenen Soldaten im Dienste Amns. Ich hatte gehofft, Ihr könntet ihn nach seinem Tode Erlösung von einem Fluch schenken.~
+@4401 = ~Ich habe ein wichtiges Anliegen. Dies hier ist der Kopf eines gefallenen Soldaten im Dienste Amns. Ich hatte gehofft, Ihr könntet ihm nach seinem Tode Erlösung von einem Fluch schenken.~
 @4402 = ~Ein Kopf? Lasst einmal sehen … Das ist … Oh! Beim Wachsamen! Das ist kein gewöhnlicher Fluch. Nein, damit kann ich Euch nicht helfen. Doch in unserem Tempel im Tempelbezirk gibt es sicher jemanden, der sich diesem … armen Toten annehmen kann. Sprecht dort mit Sir Lothtyran, er wird Euch weiterhelfen können.~
-@4403 = ~Ich habe hier den Kopf eines gefallenen Soldaten und hatte gehofft, Ihr könntet ihn nach seinem Tode Erlösung von einem Fluch schenken.~
+@4403 = ~Ich habe hier den Kopf eines gefallenen Soldaten und hatte gehofft, Ihr könntet ihm nach seinem Tode Erlösung von einem Fluch schenken.~
 @4404 = ~Nun, für solche Dinge sind eigentlich die Priester Kelemvors zuständig, doch da es sich um die Leiche eines gefallenen Kriegers handelt, könnte ich einmal einen Blick darauf werfen. Wisst Ihr, um welche Person es sich handelt?~
 @4405 = ~Um Hauptmann Bryam Lancameth.~
-@4406 = ~Um Hauptmann Lancameth? Ich kannte ihn. Hatte in der Vergangenheit einige Schlachten mit ihm zusammen geschlagen – ein tapferer Mann! Doch wie ich hörte, besingen die Barden in den Tavernen der Stadt bereits seinen Tod. Nicht dass ich mich in solchen Spelunken aufhalten würde, nein! Aber dennoch habe ich davon gehört. Deshalb überrascht es mich, dass Ihr mir nun seinen – was war es? Kopf? – präsentiert.~
+@4406 = ~Um Hauptmann Lancameth? Ich kannte ihn. Habe in der Vergangenheit einige Schlachten mit ihm zusammen geschlagen – ein tapferer Mann! Doch wie ich hörte, besingen die Barden in den Tavernen der Stadt bereits seinen Tod. Nicht dass ich mich in solchen Spelunken aufhalten würde, nein! Aber dennoch habe ich davon gehört. Deshalb überrascht es mich, dass Ihr mir nun seinen – was war es? Kopf? – präsentiert.~
 @4407 = ~Genau um diesen Mann geht es. Seht selbst.~
 @4408 = ~Oh! Das ist … das ist … ugh … Was für eine grauenhaft entstellte Fratze! Dies soll das Gesicht des Hauptmannes sein? Ist er Baphomet persönlich begegnet oder was erklärt diesen … ähm … schrecklichen Gesichtsausdruck?~
 @4409 = ~Er hatte sich in eine Vargouille verwandelt.~
@@ -18,7 +18,7 @@
 @4412 = ~Dies ist … höchst ungewöhnlich. Ich werde Sir Kandelar um Rat fragen, was in diesem Falle weiter zu tun ist.~
 @4413 = ~Sir Kandelar?~
 @4414 = ~Seht Euch diesen Kopf einer Vargouille an. Es soll sich um den Kopf des Hauptmanns Lancameth handeln, den diese tapferen Abenteurer hier in unserem Tempel von seiner ewigen Pein im Abyss erlösen möchten.~
-@4415 = ~Ich habe hier den Kopf eines gefallenen Soldaten von Amn und hatte gehofft, Ihr könntet ihn nach seinem Tode Erlösung schenken.~
+@4415 = ~Ich habe hier den Kopf eines gefallenen Soldaten von Amn und hatte gehofft, Ihr könntet ihm nach seinem Tode Erlösung schenken.~
 @4416 = ~Unsere Bitten sind erhört worden. Helm hat Lancameth seine Gnade zuteilwerden lassen.~
 @4417 = ~Gibt es Hinterbliebene?~
 @4418 = ~Ja, seine trauernde Witwe.~

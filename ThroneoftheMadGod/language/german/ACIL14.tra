@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @5000 = ~Ihr Eindringlinge! Ich, Narg, werde Eure Köpfe meinem Herrn Ursummnogh bringen, nachdem ich den Rest Eures Körpers gefressen habe!~
@@ -24,7 +24,7 @@
 @5018 = ~Ursummnogh nicht dumm! Kleine Leute mächtig. Ihr schwach!~
 @5019 = ~Nein! Kleine Leute brauchten Lancameth, Euch braucht niemand.~
 @5020 = ~Kommt Trolle, kommt herbei! Vaprak schickt uns Fressen!~
-@5021 = ~Ich Ursummnogh der Untötbare. Dies mein Reich! Ihr werdet es mir nicht wegnehmen.~
+@5021 = ~Ich Ursummnogh der Untötbare. Dies mein Reich! Ihr werdet es nicht wegnehmen.~
 @5022 = ~Seid auf der Hut, <CHARNAME>. Mit einem Trollanführer, der sich „Untötbar“ nennt, ist sicher nicht zu spaßen.~
 @5023 = ~Die Boshaftigkeit dieser Kreatur ist noch größer als die eines gewöhnlichen Trolls, <CHARNAME>. Hier ist eindeutig etwas Unheimlicheres am Werk.~
 @5024 = ~Minsk und Boo erkennen diese Art Troll. In Rashemen gibt es Geschichten über zweiköpfige gefallene Trolle. Und so wie sich bei Boo die Barthaare aufstellen, stehen wir gerade einem von ihnen gegenüber!~
@@ -35,7 +35,7 @@
 @5029 = ~Ihr seid der Troll, der für all diesen Ärger hier verantwortlich ist! Ich werde Euch zur Rechenschaft ziehen!~
 @5030 = ~Na, indem ich Euch töte!~
 @5031 = ~Das werden wir sehen.~
-@5032 = ~Außer, ich töte Euch zuerst.~
+@5032 = ~Außer ich töte Euch zuerst.~
 @5033 = ~Das wäre sehr dumm von Euch.~
 @5034 = ~Ursummnogh ist untötbar! Wird Euch alle töten!~
 @5035 = ~Ihr mögt zwei Köpfe haben, aber nur einen Hintern! Und diesen werden wir jetzt so hart treten, dass Ihr auseinanderfallt!~
@@ -104,7 +104,7 @@
 @5098 = ~Ihr mögt ein Gott sein, ich bin ein Halbgott. Fürchtet mich!~ ~Ihr mögt ein Gott sein, ich bin eine Halbgöttin. Fürchtet mich!~
 @5099 = ~Wenn Ihr ein Gott wäret, würdet Ihr es doch sicher leicht selbst herausfinden können, wer ich bin, oder?~
 @5100 = ~Idiot!~
-@5101 = ~Rraagh! Ihr macht mir wütend!~
+@5101 = ~Rraagh! Ihr macht mich wütend!~
 @5102 = ~Wir werden Euch schon noch früh genug finden, erbärmliche Kreatur!~
 @5103 = ~Ursummnogh wird sich Eurer annehmen …~
 @5104 = ~Wer seid Ihr? Antwortet gefälligst!~
@@ -126,7 +126,7 @@
 @5120 = ~Er war einer von „ihnen“? Von wem?~
 @5121 = ~Wer war der Verräter in Eurer Gruppe?~
 @5122 = ~Nicht meine Angelegenheit. Ich gehe wieder.~
-@5123 = ~Kann nicht … darüber … reden … Bin nicht mehr … von dieser Welt … Streng …. zu … sehr … an … Findet und tötet den Verräter … um mir endlich ewige Ruhe zu schenken!~
+@5123 = ~Kann nicht … darüber … reden … Bin nicht mehr … von dieser Welt … Strengt …. zu … sehr … an … Findet und tötet den Verräter … um mir endlich ewige Ruhe zu schenken!~
 @5124 = ~Ihr müsst schon genauer sagen, was ich tun soll.~
 @5125 = ~Was ist mit den anderen aus Eurer Gruppe geschehen?~
 @5126 = ~Ich … weiß es nicht. Als ich starb, waren noch alle anderen am Leben …~
@@ -148,7 +148,7 @@
 @5142 = ~Dann werde ich mir diesen einmal genauer ansehen müssen.~
 @5143 = ~Gold und Edelsteine schätze ich als Antworten besonders. Ihr hattet bei Eurem Tod nicht zufällig welche dabei?~
 @5144 = ~Was nützt alles Silber und Gold, wo wir doch mit nichts auf die Welt kommen … und mit nichts diese Welt wieder verlassen müssen?~
-@5145 = ~Schreitet weiter voran, um mehr … von uns zu finden … Bin nicht … von dieser Welt … strengt … zu … sehr … an …~
+@5145 = ~Schreitet weiter voran, um mehr … von uns zu finden … Bin nicht … von dieser Welt … Strengt … zu … sehr … an …~
 @5146 = ~Es schmerzt mich, jemanden meines Volkes in diesem untoten Zustand zu sehen. Lasst uns versuchen, dem armen Halbling den Weg zu den grünen Feldern der sieben Himmel zu ermöglichen, indem wir den Verrat sühnen.~
 @5147 = ~Bitte tut mir nichts! Aber könntet Ihr Euch vielleicht erst um die ganzen Trolle kümmern, die hier unten herumstreunen?~ [AC#LOTH1]
 @5148 = ~Trolle! Trolle! Überall Trolle! Beschützt mich vor Ihnen, bitte!~ [AC#LOTH2]

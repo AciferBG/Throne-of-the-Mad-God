@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @5250 = ~Haha! Kleine Winzlinge sind mutig, einfach so König Madugg zu treten! Machen einfach die Tür auf und treten ein. Sollte meine Wachen draußen bestrafen, dass sie Euch eingelassen haben …~ [AC#MGFG1]
@@ -34,7 +34,7 @@
 @5278 = ~Was ist geschehen? Warum wurdet Ihr zu Geistern?~
 @5279 = ~Ich komme später zurück.~
 @5280 = ~Unsere Reise war getrieben von Mut und dem Hunger nach Wissen, doch sie führte uns tiefer in die Dunkelheit, als wir es uns je hätten vorstellen können.~
-@5281 = ~Wir suchten das Herz des „Klagenden Zwergs“, jenes alte Bauwerk, umgeben von Geheimnissen alter Mächte. Doch was wir fanden, war nicht nur verborgenes Wissen, sondern auch einen uralten Fluch, gewoben aus Verrat und einem unbändigen Zorn. Dieser Fluch band unsere Seelen an diese sterbliche Welt, gefangen zwischen Leben und Tod.~
+@5281 = ~Wir suchten das Herz des Klagenden Zwergs, jenes alte Bauwerk, umgeben von Geheimnissen alter Mächte. Doch was wir fanden, war nicht nur verborgenes Wissen, sondern auch einen uralten Fluch, gewoben aus Verrat und einem unbändigen Zorn. Dieser Fluch band unsere Seelen an diese sterbliche Welt, gefangen zwischen Leben und Tod.~
 @5282 = ~Wir sind nun Wächter jener Geheimnisse, die wir zu enthüllen versuchten, ewig daran gebunden, die Ruinen vor den Augen der Welt zu verbergen, bis sich vielleicht eines Tages uns eine Erlösung bietet.~
 @5283 = ~Wie können wir Euch erlösen?~
 @5284 = ~Unser Schicksal wurde besiegelt durch den Verrat eines der Unseren, der die Dunkelheit über das Licht stellte und uns hier band, im Schatten ewiger Wacht. Der Verräter wandelt noch immer unter den Schatten, von Schuld und Dunkelheit umgeben. Nur wenn sein Verrat gesühnt wird, wenn Gerechtigkeit das geschehene Unrecht ausgleicht, können unsere Seelen Frieden finden.~
@@ -67,7 +67,7 @@
 @5311 = ~Eher vor Eurem ranzigen Atem, der durch das Rohr nach oben steigt.~
 @5312 = ~Warum sollte ich das tun? Ich bin kein Riese.~
 @5313 = ~Kein … Riese? Ihr … Ihr wagt es, meinen Namen anzurufen, obwohl … Ihr nicht einer der Gläubigen seid? Wer oder was seid Ihr?~
-@5314 = ~Rraagh! Ihr macht mir wütend!~
+@5314 = ~Rraagh! Ihr macht mich wütend!~
 @5315 = ~Wir werden Euch schon noch früh genug finden, erbärmliche Kreatur!~
 @5316 = ~Ihr kehrt zurück! Der Käse war ausgesprochen köstlich!~ [amb_e45a]
 @5317 = ~Und jetzt zu Eurem Teil der Abmachung.~
@@ -108,7 +108,7 @@
 @5352 = ~Ihr könnt seine Gedanken lesen?~
 @5353 = ~Wer könnte dieser „Karontor“ sein?~
 @5354 = ~Aber ja, das ist nicht schwer. Außerdem redet er ständig mit sich selbst, wenn er von diesem „Karontor“ spricht.~
-@5355 = ~„Karontor“ scheint ein Gott der Riesen zu sein, der zu Madugg spricht. Er fühlt sich als der Ausgewählte und lässt sich von diesem „Karontor“ immer hin und her scheuchen. Und Madugg scheucht dann seinerseits seine Riesen hin und her. Madugg denkt, dass er durch Karontor stark wird. Darum kreisen seine Gedanken.~
+@5355 = ~„Karontor“ scheint ein Gott der Riesen zu sein, der zu Madugg spricht. Er fühlt sich als der Ausgewählte und lässt sich von diesem „Karontor“ immer hin- und herscheuchen. Und Madugg scheucht dann seinerseits seine Riesen hin und her. Madugg denkt, dass er durch Karontor stark wird. Darum kreisen seine Gedanken.~
 @5356 = ~Könnt Ihr mir sonst noch etwas über die Riesen erzählen?~
 @5357 = ~Nein, mehr wissen wir nicht.~
 @5358 = ~Wir sind eine Kolonie sehr besonderer Ratten. Einst wurden unsere Urahnen von den Gedankenschindern ausgeschickt, um die Zwergengemeinde auszukundschaften. Die Zwerge sind lange fort, die Illithiden haben uns vergessen, und jetzt leben wir hier unser eigenes bescheidenes Leben inmitten unseres Schwarmes und sehen zu, dass wir nicht von Riesen zertrampelt oder von Riesenkatzen oder Trollen gefressen werden.~
