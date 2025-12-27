@@ -51,6 +51,7 @@ The mod is available in:
 - Chinese
 - Spanish
 - Russian
+- Brazilian Portuguese
 
 ---
 
