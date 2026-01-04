@@ -1,4 +1,7 @@
 ***Throne of the Mad God - Version***
+V 1.8
+- updated simplified Chinese Version by yoshimo0417
+
 V 1.7
 - added Brazilian Portuguese translation by dextermorgan, thank you very much!
 - updated German Version by Shai Hulud
