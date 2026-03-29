@@ -1,4 +1,11 @@
 ***Throne of the Mad God - Version***
+
+V 1.9
+
+-added Polish Translation by my_summertime, Membress of SoM, part of CoB's Clan - thank you very much!
+-added localized readme support (PDF); installer will use language-specific file if available, otherwise fallback to English; thank you by my_summertime!
+-every language (except Polish and English, of course) receives additional English setup placed below own one, the missing strings are taken from the English: ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~; thank you by my_summertime!
+
 V 1.8
 - updated simplified Chinese Version by yoshimo0417
 
