@@ -1,0 +1,1704 @@
+@3 = ~¿Eh?~ [AC#MFFO1]
+@4 = ~¡Ah!~ [FOMOR06A] //[AC#MFFO2]
+@5 = ~El agua de este manantial de repente parece cristalina y pura.~
+@6 = ~Tomas un sorbo y te sientes saludable y renovado.~
+@7 = ~Tienes que acercarte más si deseas beber del recipiente.~
+@8 = ~Dretch~
+@9 = ~Globo de oscuridad~
+@10 = ~Joya de Korolnor~
+@11 = ~ Esta es una gema tallada de la Casa Korolnor, un reino enano caído, famoso por su maestría en el tallado de gemas. Si bien la piedra no posee propiedades mágicas particulares, su artesanía podría alcanzar una considerable suma de dinero para un comerciante. ~
+@12 = ~ Este árbol marchito permanece firmemente arraigado en la roca. El tronco aún parece lo suficientemente fuerte como para soportar un peso considerable.~
+@13 = ~Podrías intentar talar el tronco y usarlo para cruzar el pequeño barranco de regreso a la salida.~
+@14 = ~Eres demasiado débil para cortar el árbol.~
+@15 = ~Con unos cuantos golpes poderosos de tu arma, haces una muesca en la madera hasta que el tronco comienza a inclinarse...~
+@16 = ~El tronco ha caído perfectamente. Estás satisfecho con tu trabajo.~ [AC#10TRE]
+@17 = ~La sartén cae al suelo con un fuerte ruido metálico.~ [AC#15POT]
+@18 = ~Trolls y sus subespecies~
+@19 = ~Trolls y sus subespecies
+
+Por Glouris Mristifos, Conjurador de la Torre del Arte, Zhentil Keep  
+Encargado por el mago Thagdal, maestro de la Torre del Arte  
+
+Tarea: Buscar nuevas especies de trolls para programas de cría.  
+Ubicación: Ruinas enanas en las Montañas Troll  
+
+Prefacio: Los trolls exhiben una adaptabilidad notable. Por un lado, se cruzan con muchas otras razas primitivas; por otro, absorben rasgos de su entorno. Ambos factores pueden dar lugar a nuevos subtipos de trolls con propiedades completamente únicas. Esto los convierte en sujetos ideales para los programas de cría de Zhentil Keep.  
+
+Mi tarea consiste en explorar las ruinas de una antigua fortaleza enana, conocida por los lugareños como el "Enano Llorón", en busca de nuevas variantes de trol. Los lugareños hablan en voz baja de nuevos y terribles cruces.  
+
+Los especímenes más prometedores serán catalogados para que nuestro equipo de ataque pueda capturarlos e integrarlos en las instalaciones de cría de monstruos de Zhentil Keep.  
+
+Ejemplares descubiertos hasta ahora:  
+
+Trol Fantasma: Al contrario de lo que podría esperarse, no es un trol no muerto. Es una cruza entre un Acechador Invisible y un trol común.  
+
+Trol espectral: parece ser una forma verdaderamente no muerta de trol; ¿quizás uno que tuvo contacto con un espectro?  
+
+Troll Gris: Otra variedad de trol corrompido por la no muerte. Parece que una pérdida completa de nivel crea un Troll Gris.  
+
+Troll de Fase: Este trol ha sido tocado por el Plano Etéreo, lo que le permite cambiar de plano como una araña de fase. También puede crear imágenes especulares de sí mismo, confundiendo a sus atacantes. Un espécimen fascinante, aunque difícil de controlar.  
+
+Troll de Piedra: Una raza de trol que, por alguna razón desconocida, posee la capacidad de endurecer su piel como una roca sólida. Extremadamente difícil de abatir. ¡Debe ser capturado para su reproducción!  
+
+Troll Negro: Un tipo de trol extremadamente peligroso. Los Trolls Negros llevan en su interior la sangre de los Planos Inferiores. Pueden invocar demonios menores, desatar poderosos hechizos de relámpago y envolver a sus enemigos en la oscuridad.
+
+Troll Faerzress: Estos troles han estado expuestos a un aura mágica poco común en la Infraoscuridad, conocida por los drow como «Faerzress», que les otorga propiedades extraordinarias. Son altamente resistentes a la magia y pueden suprimirla con su toque.
+
+Trol Venenoso: Los troles cuyas habilidades regenerativas han sido expuestas severamente a potentes toxinas pueden, en raras ocasiones, transformarse en troles venenosos. La sangre venenosa de esta raza salpica a los enemigos cercanos al ser golpeada, ¡incluso a las armas que la perforan! Son excelentes para la reproducción, ya que se crean fácilmente. No es necesario capturar uno; basta con experimentar con troles comunes y diversas toxinas.  
+
+También corren rumores de una especie de trol del Este, tan grande como un gigante con dos cabezas. Sin embargo, como estas criaturas buscan constantemente dominar a otros trols, no son aptas para la reproducción.  
+
+Además, en el Fuerte Zhentil se han oído rumores de magias arcanas extrañas, antiguas y olvidadas que se esconden en la fortaleza. ¿Enanos y magia? Una idea peculiar. Investigaré más a fondo. ~
+@20 = ~Anillo de resistencia al ácido~
+@21 = ~Anillo de resistencia al ácido, 'La locura de Zabarin'  
+
+Durante sus conjuros de diversos limos y fangos, el mago sembiano Zabarin confiaba en este anillo para protegerse de los efectos negativos de las criaturas invocadas.  
+Su especialidad era la invocación de morcillas en miniatura, que sellaba en frascos preparados y colocaba discretamente en las despensas de sus rivales.  
+Zabarin encontró su justo final bajo un avatar masivo de Ghaunadaur, al que había intentado controlar.  
+Contra el poder y la malicia del Señor del Limo, incluso su amado anillo resultó inútil.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Resistencia al ácido: +40%
+
+Peso: 0~
+@22 = ~Alguien dejó una cuerda aquí, probablemente para descender en rápel a otro nivel.~
+@23 = ~Si lo deseas, puedes atar la cuerda al puente derrumbado.~
+@24 = ~ Enrollas la cuerda alrededor de una piedra. Ahora puedes subir y bajar.~
+@25 = ~Trampa activada~ [AC#MGTR1] // Trampa de lanza
+@26 = ~Trampa activada~ [AC#MGTR2] // Trampa de placa de tierra
+@27 = ~Tentáculo cortado~ [AC#MGFLS]
+
+@30 = ~Protección contra enfermedades~
+@31 = ~Magia salvaje~
+@51 = ~ Este paso está bloqueado por numerosas rocas. Tendrás que encontrar otra forma de entrar a la ciudad enana.~
+@52 = ~Este parece haber sido un campamento de aventureros.~
+@53 = ~Una placa de bronce con runas enanas inscritas, aunque no puedes descifrarlas.~
+@54 = ~Chamán Verbeeg~
+@55 = ~Diinkarazan~
+@56 = ~Gigante Fomorian~
+@57 = ~Verbeeg~
+@58 = ~Esta estatua sin duda representa a una diosa enana que no te resulta familiar.~
+@59 = ~Nota de un cazador de tesoros~
+@60 = ~ ¡Por los dioses! Ya nada me retiene aquí. Creímos que, después de que ese capitán amniano nos despejara el camino, podríamos entrar en las ruinas libremente y saquear a nuestro antojo. Supusimos que los troles eran los peores, ¡qué equivocados estábamos!  
+
+Todo había empezado de forma prometedora. Descubrimos un pozo que esperábamos nos llevara a las profundidades de la fortaleza, sin enfrentarnos a más troles. Barkley fue el primero en descender y fue mordido por un demonio alado. Logramos ahuyentar a la criatura, pero después de descansar, ¡la cabeza de Barkley fue arrancada repentinamente de sus hombros! ¡Le salieron alas a las orejas y chilló mientras se lanzaba hacia mí!  
+
+¡Por Beshaba! Corrí como si me hubiera picado una araña de fase. ¡Ahora solo tengo que escabullirme por el pasillo y salir de aquí lo más rápido posible! ~
+@61 = ~Diario de Nhair~
+@62 = ~Día 2 de la expedición  
+Hemos llegado al "Enano Llorón", hemos cruzado el destartalado puente colgante, hemos resuelto los acertijos y ahora nos encontramos ante esta colosal estatua. El viento aúlla a través de la piedra. ¡Solo a los enanos se les ocurriría tallar semejante monumento directamente de la montaña!  
+
+Día 3 de la expedición  
+Toda esta aventura es inquietante. Aquí estamos, en el vestíbulo de Korolnor, y debo decir que reina un silencio inquietante. Demasiado silencioso para mi gusto. A los demás no parece importarles, pero un mediano sabe cuándo algo anda mal. Se me erizan los pelos de los pies a cada paso.  
+
+Día 4 de la expedición  
+El capitán Bryam, nuestro intrépido líder, avanza como si hubiera oro por descubrir en cada esquina. Lady Starthorn, la elfa, siempre se muestra seria y contemplativa; estudia cada runa en las paredes. Nuestro mago, el Perro Mago, sigue siendo un misterio, murmurando constantemente para sí mismo: «No entiendo nada de eso». Luego está la Matrona Iremar, nuestra sacerdotisa, bendiciéndolo todo y a todos con una calma casi inquietante. ¡Mantente alerta, Nhair!  
+
+Día 5 de la expedición  
+Hemos llegado al gran salón. Las placas de bronce en el suelo hablan de la larga historia de este lugar. Todo está inquietantemente vacío. ¡Ni un solo trol a la vista! No confío en este silencio. No se oye ningún sonido, salvo nuestros propios ecos. Se siente como si estuviéramos bailando sobre una fina capa de hielo sobre el río Shaengarne, y debajo de nosotros, el Wastrilith espera. Mantendré los ojos bien abiertos, sobre todo de noche. ¿Quién sabe? Todo esto podría ser una trampa, y seríamos los necios si cayéramos a ciegas en ella. Vigilaré las puertas y las sombras. Si algo acecha, quiero verlo primero.  
+
+Día 6 de la expedición  
+Bryam y los demás avanzaron al segundo nivel. Me quedé atrás para abrir uno de esos viejos cofres enanos cuando ocurrió: el rastrillo que tenía detrás se derrumbó con un fuerte estrépito. ¡No hay vuelta atrás! Era una emboscada. Ahora debía desactivar la trampa y advertir a los demás... ~
+@63 = ~Volante~
+@64 = ~Este es un volante que se usa para abrir una válvula. Parece haber estado expuesto a mucho calor en el pasado.~
+@65 = ~Llave enana~
+@66 = ~Fabricaste esta llave enana en la antigua fundición. Parece encajar en una cerradura muy particular.~
+@67 = ~Molde (Parte Superior)~
+@68 = ~ Esta es la tapa de un antiguo molde enano usado para fundir una llave. El molde está muy corroído, probablemente por la exposición repetida al metal fundido. Sin la parte inferior, es inútil. ~
+@69 = ~Molde (Parte Inferior)~
+@70 = ~ Esta es la base de un antiguo molde enano usado para fundir una llave. El molde está muy corroído, probablemente por la exposición repetida al metal fundido. Sin la tapa, es inútil. ~
+@71 = ~Cinturón de los Enanos~
+@72 = ~ Este cinturón de fabricación enana se otorga a miembros de confianza de otras razas, un honor que rara vez conceden los siempre cautelosos y corpulentos pueblos. Permite a quien lo lleva comprender la intrincada escritura enana y su lenguaje básico.  
+
+Sin embargo, las peculiares costumbres y peculiaridades de los enanos no se pueden transmitir con tanta facilidad: sólo se pueden aprender a través de años de convivencia con su especie, famosa por su rudeza y testarudez.  
+
+Los enanos no pueden usar este cinturón.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Otorga la capacidad de descifrar las runas enanas de Shanatar y comprender los fundamentos de la escritura enana Dethek.  
+– Constitución: +1  
+
+Peso: 2~
+@199 = ~Estatua enana desgastada~
+@200 = ~Escuchador~
+@201 = ~Naga de Hueso~
+@202 = ~Gólem de ceniza~
+@203 = ~Thragmorr~
+@204 = ~Gólem Martillo~
+@205 = ~Gólem de mitra~
+@206 = ~Derro Asesino~
+
+@221 = ~Vargouille~
+@222 = ~El grito de Vargouille~
+@223 = ~Chamán trol~
+@224 = ~Ursummnogh el Inmortal~
+@225 = ~Troll de fase~
+@226 = ~Troll Gris~
+@227 = ~Grito~ [AC#VARGS]
+@228 = ~El beso de Vargouille~
+@229 = ~Troll infectado~
+@230 = ~Grullak Tejedor de Runas~
+@231 = ~Lápida de Durnak~
+@232 = ~Arconte Martillo~
+@233 = ~Horror aullante~
+@234 = ~Centinela empañado~ // Centinela empañado
+@235 = ~Grexilor~
+
+@236 = ~Esclavo Aglar~
+@237 = ~Chamán Goblin~
+@238 = ~Derro Scout~
+@239 = ~Vorgul Lanzafuerte~
+@240 = ~Grubnuk~
+@241 = ~Familiar de Glouris~
+@242 = ~Allip~
+@243 = ~Rutterkin~
+@244 = ~Nishruu salvaje~
+
+@316 = ~Notas de Iremar~
+@317 = ~Con gran entusiasmo, me uní a Bryam Lancameth para explorar los secretos de la antigua fortaleza enana del Reino de Korolnor.  
+
+Siempre me ha fascinado la historia de Shanatar y no podía dejar pasar la oportunidad de ver uno de sus antiguos reinos con mis propios ojos.  
+
+La elección de compañeros de Lancameth puede resultar sorprendente, pero cada uno es un aventurero capaz, listo para enfrentarse a cualquier mal que se interponga en nuestro camino. Rápidamente me hice amigo de Lady Starthorn, la arquera elfa. El único que me resulta inquietante es el extraño mago que se hace llamar el Perro Mago. Parece ser una especie de enano, ¿quizás un duergar? En cualquier caso, tiene mucha experiencia explorando mazmorras. ¿Será de la Infraoscuridad?  
+
+Lamentablemente, perdimos a nuestro ladrón mediano, Nhair Ebendar. Su cuerpo está fuera de mi alcance y, por lo tanto, no puedo devolverlo a la vida. Ahora solo quedamos Lancameth, Starthorn, el Perro Mago y yo.  
+
+Por fin hemos llegado al antiguo salón de reuniones, donde hace siglos se reunían los enviados de los distintos reinos de Shanatar.  
+
+Logré descifrar los símbolos a ambos lados del corredor: cada uno representa uno de los subreinos de Shanatar.  
+Además, se registran los nombres y títulos de los reinos.  
+Cada reino recibió un nombre que reflejaba su industria principal; por ejemplo, Ultoksamrin, rico en Zardazil, se llamó el Reino de Zardazil. Solo los codiciosos enanos de Drakkalor no recibieron un nombre mineral para su ciudad, sino el apropiado título de Ciudad de la Codicia.  
+
+Los símbolos son los siguientes:  
+
+– Sondarr, el Reino de la Estrella de Mar – Una moneda, probablemente representando al dios Vergadain
+– Holorarar, el Reino Dorado – El símbolo de Moradin, un yunque  
+– Ultoksamrin, el Reino Zardazil – Símbolo de Dumathoin, una montaña con un cristal  
+– Barakuir, el Reino de Hierro – Símbolo de Laduguer, un escudo con una flecha  
+– Torglor, el Reino Plateado – Un símbolo desconocido (¿una espiral descendente?), deidad desconocida  
+– Korolnor, el Reino de las Joyas – Siete piedras preciosas, símbolo de un dios no identificado. ¿Quizás la antigua deidad patrona de esta fortaleza?  
+– Alto Shanatar, el Reino Glaciar – El símbolo de Thard Harr, dos guantes  
+– Xothaerin, el Reino Adamant – El símbolo de Sharindlar, una aguja ardiente  
+– Iltkazar, el Reino de Mithril – Símbolo de Clangeddin, dos hachas cruzadas  
+– Drakkalor, la Ciudad de la Avaricia – Símbolo de Abbathor, una daga con incrustaciones de joyas  
+
+Junto a cada símbolo hay un pequeño altar de ofrendas. Parece que los enviados de cada reino colocaron aquí sus símbolos gobernantes. Desconozco el propósito de este ritual.  
+
+Descansaré aquí un momento antes de continuar mi investigación. Debo tener cuidado de no quedarme dormido, pues se oyen ruidos extraños en los pasillos circundantes, y hace tiempo que no veo a mis compañeros restantes. ¿Adónde se habrán ido? ~
+@318 = ~Adorno marino~
+@319 = ~ Esta es una joya de intrincada elaboración que presenta coral y una estrella de mar central. Debió de ser elaborada en un lugar que, hace muchos siglos, fue mar.~
+@320 = ~Pepita de oro~
+@321 = ~ Este es un trozo enorme de oro puro. Su valor debe ser inmenso, pero algo te dice que no deberías venderlo tan fácilmente. ~
+@322 = ~Zardazil~
+@323 = ~El zardazil es un mineral raro de color ámbar. Al ser un metal muy blando, nunca se usa puro, sino en aleaciones o para esmaltar otros metales. Se une a la perfección con otros materiales, casi como si se fusionara con ellos.  
+
+Da la sensación de que este trozo de Zardazil nunca estuvo destinado a un horno de fundición. Está muy desgastado, como si hubiera pasado por muchas manos a lo largo de los siglos. ~
+@324 = ~Esfera de hierro~
+@325 = ~Esta es una esfera de hierro ligeramente oxidada. Su propósito no está claro.~
+@326 = ~Mineral de plata~
+@327 = ~ Este es un enorme trozo de mineral de plata. Da la sensación de que nunca estuvo destinado a un horno de fundición, ya que está muy desgastado, como si hubiera pasado por muchas manos a lo largo de los siglos. ~
+@328 = ~Gema cortada~
+@329 = ~ Esta gema ha sido cuidadosamente tallada y pulida. Podría ser una esmeralda, aunque no se está completamente seguro.  
+
+La artesanía es exquisita, aunque los bordes, que una vez fueron perfectos, se han vuelto quebradizos con el paso de los siglos.  
+
+Como has visto piedras similares por toda la fortaleza, estás seguro de que esta gema fue creada aquí. No deberías extraerla sin cuidado antes de descubrir su verdadero propósito.  
+
+Parece que esta piedra se colocaba frecuentemente en un hueco o en algún tipo de mecanismo.~
+@330 = ~Piedra glaciar~
+@331 = ~ Esta piedra lisa y redondeada debe de provenir de un glaciar, con su superficie pulida a lo largo de los siglos por el movimiento constante. Se adapta cómodamente a la mano. Cómo llegó desde la superficie hasta las profundidades de esta ciudad enana en ruinas sigue siendo un misterio. ~
+@332 = ~Inflexible~
+@333 = ~El adamanto es un mineral metálico puro de color negro azabache. Es uno de los metales más duros, ligeros y frágiles, y se utiliza para forjar la legendaria aleación conocida como adamantita.  
+
+Las razas de la Infraoscuridad, como los drow, lo utilizan a menudo para fabricar armas y armaduras.  
+
+Este trozo de adamant no parece haber sido destinado a un horno de fundición. Sus bordes están desgastados, como si hubiera pasado por muchas manos a lo largo de los siglos. ~
+@334 = ~Mitral~
+@335 = ~El mithril es un metal azul plateado y brillante que se extrae de vetas raras y depósitos profundos que se encuentran en todo Faerûn y las profundidades de la Infraoscuridad.  
+
+El mithril es uno de los metales más ligeros y flexibles, pero lo suficientemente resistente como para usarse en la forja de armaduras.  
+
+Sin embargo, esta pieza particular de Mithril parece tener un propósito diferente.~
+
+@336 = ~Pomo de rubí~
+@337 = ~ Este gran rubí parece haber sido tallado para el pomo de una valiosa espada. Sin embargo, el arma tendría que ser de un tamaño enorme: ¿quizás la espada de una estatua o alguna otra representación enana? ~
+@338 = ~...debo... encontrar acceso... al nivel inferior...~
+@339 = ~...diez reinos de Shanatar... diez llaves...~
+@340 = ~Ultoksamrin... el Reino Zardazil...~
+@341 = ~Barakuir... hogar del Clan Duergar, los Forjadores de Hierro...~
+@342 = ~Torglor... Reino Plateado... dios enano desconocido... ¿uno de los dos marginados?~
+@343 = ~Drakkalor... Ciudad de la Avaricia... adoradores de Abbathor...~
+@344 = ~Fantasma de Iremar~
+@355 = ~ Como enano, reconoces fácilmente las antiguas runas de Dethek. Grabado en grandes letras sobre el suelo metálico está el nombre "Shanatar", el legendario reino enano del que hablan tantas canciones de tus ancestros, ahora en ruinas.~
+@356 = ~Ya has visto runas así muchas veces. Son runas Dethek, la escritura de los enanos. Grabado en letras grandes en el suelo metálico está el nombre "Shanatar", el legendario reino enano que antaño se extendía por las tierras del sur bajo la Costa de la Espada.~
+@357 = ~ Con la ayuda de tu libro de escritura enana, descifras fácilmente las runas de Dethek. Grabado en letras grandes en el suelo metálico está el nombre "Shanatar", el legendario reino enano que antaño se extendía por las tierras meridionales bajo la Costa de la Espada.~
+@358 = ~Hay gruesas runas enanas incrustadas en el suelo de metal, pero no puedes descifrarlas.~
+@359 = ~No puedes ver nada desde esta distancia.~
+@360 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: "Iltkazar, el Reino de Mithril". ~
+@361 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: "Iltkazar, el Reino de Mithril". ~
+@362 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Con la ayuda de tu libro de escritura enana, descifras fácilmente las runas de Dethek. Dicen: "Iltkazar, el Reino de Mithril". ~
+@363 = ~ Hay una pequeña estatua enana en el suelo. Gruesas runas enanas están incrustadas en el suelo metálico junto a ella, pero no puedes descifrarlas.~
+@364 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: «Korolnor, el Reino de las Joyas». ~
+@365 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: «Korolnor, el Reino de las Joyas». ~
+@366 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Con la ayuda de tu libro de escritura enana, descifras fácilmente las runas Dethek. Dicen: "Korolnor, el Reino de las Joyas". ~
+@367 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: "Torglor, el Reino de Plata". ~
+@368 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Dicen: "Torglor, el Reino de Plata". ~
+@369 = ~ Una pequeña estatua enana se yergue en el suelo. Junto a ella, hay pequeñas runas grabadas en la placa de metal. Con la ayuda de tu libro de escritura enana, descifras fácilmente las runas de Dethek. Dicen: "Torglor, el Reino de Plata". ~
+@370 = ~Madugg~
+@371 = ~ Este estandarte lleva el símbolo de Karontor, dios de los gigantes fomorianos. Representa a un lobo invernal.~
+@372 = ~Un lobo blanco está pintado toscamente en esta pancarta.~
+@375 = ~Inkagurksul~
+@376 = ~Derro~
+@377 = ~Rayo de debilitamiento~
+@378 = ~ Estas saetas de ballesta fueron creadas por los Derro, una raza de aspecto enano de la Infraoscuridad. Famosos por su crueldad y locura, los Derro recubren sus saetas con un veneno paralizante que mina la fuerza de la víctima, similar a los efectos de un hechizo de Rayo de Debilitación. Una tirada de salvación contra la muerte anula el efecto del veneno.  
+
+ESTADÍSTICA:  
+
+Habilidades de combate:
+– Fuerza -1 (acumulativa, la salvación contra la muerte anula)
+Duración: 1 turno
+
+Daño: 1d8 (misil)
+Lanzador: Ballesta
+
+Peso: 0~
+@379 = ~Dlimoruk~
+@380 = ~Jamrry Quarrellaugh~
+
+@381 = ~Disculpe, déjeme hablar antes de atacar.~ [AC#LOTH1]
+@382 = ~Mi vida está en ruinas.~ [AC#LOTH2]
+@383 = ~Dokuriingor~
+@384 = ~Bastón de Hellgate~
+@385 = ~Este bastón está hecho de una aleación de metal pesado y parece irradiar un aura de pura maldad.  
+
+El nombre «Puerta del Infierno» no se refiere a los Nueve Infiernos, sino a la ciudad caída de Ascalhorn, ahora conocida simplemente como la Fortaleza de la Puerta del Infierno. Innumerables magos arcanos se batieron en duelo entre sus muros, invocando demonios de los Planos Inferiores, hasta que la ciudad fue finalmente invadida por una gran horda de Tanar'ri, demonios del Abismo.  
+
+Este bastón, atribuido a los enemigos del famoso mago Wulgreth de Ascalhorn, otorga a su portador la capacidad de invocar a dichas criaturas.  
+
+Al blandir el bastón, el usuario puede abrir brevemente un portal al Abismo, permitiendo que varios demonios menores, conocidos como Tanar'ri, entren al Plano Material por un breve periodo. Debido a su naturaleza caótica, estos demonios pueden ser difíciles de controlar, aunque nunca atacarán a su invocador. Nunca se puede saber con certeza qué demonio responderá a la llamada; generalmente Tanar'ri menores como Manes, Rutterkin o Dretches, y ocasionalmente un Diablillo.  
+
+Sin embargo, existe una pequeña posibilidad de que un Tanar'ri mayor, un Nabassu, surja a través del portal. El Nabassu es incontrolable y atacará de inmediato a cualquier ser cercano que no esté protegido por un hechizo de Protección contra el Mal.  
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Una vez al día, invoca a un grupo de Tanar'ri menores para servir al portador durante un breve tiempo.  
+– 10% de probabilidad de que aparezca un Nabassu, atacando todo lo que vea.
+Duración: 1 turno
+
+Requiere:
+12 Inteligencia
+
+Peso: 1~
+@387 = ~Pociones de Jamrry~
+@392 = ~Troll de piedra~
+@393 = ~Trabajador de la forja~
+@395 = ~Abres la puerta del alto horno y, de repente, ¡un elemental de fuego enfurecido salta!~
+@398 = ~Tecla deformada por calor~
+@399 = ~Parece que esta tecla ha estado expuesta a calor extremo durante mucho tiempo.~
+@400 = ~ ¡Abres la puerta del alto horno y un poderoso elemental de fuego irrumpe! ~
+@405 = ~Tabla de runas enanas~
+@406 = ~Esta es una piedra rúnica enana. Está grabada a toda prisa con las palabras:
+Hemos sellado los caminos a la Infraoscuridad. Ya no hay vuelta atrás. La plaga que nos infligieron el Desterrado y sus bestias aladas no debe extenderse a los demás subreinos de Shanatar. Mi deber es quedarme aquí con Garbo, mi compañero de armas, y custodiar la puerta sellada.  
+
+Muchas almas desesperadas intentan huir de la ciudad, pero no hay manera de atravesarla, no desde que los traidores que se negaron a renunciar a los Marginados fueron desterrados por este mismo camino.
+
+Aunque este objeto puede tener valor cultural, no parece mágico ni útil para avanzar en tu misión.~
+@407 = ~"Por decreto de la casa real de Kuldelver, todos los pasajes a las Tierras Profundas han sido sellados, para que la maldición que aflige a nuestro clan no se extienda a los otros subreinos.  
+
+De ahora en adelante, Korolnor permanecerá solo, abandonado a su destino frente a enemigos internos y externos.  
+
+Que nuestro reino surja de nuevo en su hora más oscura o perezca para siempre.~
+@408 = ~ Este antiguo pasadizo está bloqueado por enormes rocas. Parece que alguna vez condujo a la Infraoscuridad, pero ya no hay forma de pasar.~
+@409 = ~Armadura enana rota~
+@410 = ~Esta armadura está forjada a partir de un metal desconocido y parece ser increíblemente antigua.  
+
+Parece que su portador sobrevivió a muchas batallas, pero no a la última. Ahora, destrozado sin posibilidad de reparación, ya no sirve. ~
+@411 = ~Esqueleto gigante~
+@413 = ~Un enorme mapa de bronce está incrustado en el suelo de esta sala, con varias figuras de piedra que representan enanos colocadas sobre él.~
+@415 = ~Este poderoso pilar está inscrito con runas enanas:  
+
+"Construido por Karlyn Kuldelver, Señor de Korolnor, en el año 433 después de la fundación de su casa.  
+
+Que estos salones perduren por toda la eternidad, un refugio seguro para los hermanos y hermanas de Shanatar. "~
+@416 = ~Numerosas runas enanas están grabadas en este poderoso pilar, pero no puedes descifrarlas.~
+@417 = ~Parece ser el mismo hueco del ascensor que viste en el piso de arriba. Debe llevarte aún más profundo.~
+@418 = ~Un pozo desciende aún más hacia abajo desde aquí.~
+@419 = ~Etin esquelético~
+@420 = ~Libro antiguo~
+@421 = ~Espíritu de Karlyn Kuldelver~
+@422 = ~Estatua de Clangeddin~
+@423 = ~Quimera~
+@484 = ~Después de que el grito atormentado del vampiro se desvanece, notas que su cadáver agarra una pequeña rueda manual que se usa para operar una máquina. Tomas la rueda y la guardas de forma segura. ~
+@485 = ~Anillo de la Sabiduría~
+@486 = ~Este modesto anillo mejora enormemente el conocimiento de su portador, otorgándole a <PRO_HIMHER> destellos de memoria de eventos pasados ​​distantes, lo que le permite comprender mejor las conexiones históricas y descifrar textos e idiomas antiguos.  
+
+Estos artefactos son muy buscados por los eruditos.  
+
+Se dice que Oghma una vez le regaló un anillo así a un filósofo arrogante quien, al darse cuenta de su propia ignorancia, abandonó la filosofía por completo y se dedicó a la agricultura.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Conocimiento +20~
+@487 = ~Ildanfal~
+@488 = ~ En Jotun, la lengua de los gigantes, "Ildanfal" significa "Asalto de Fuego". Esta arma demuestra que los gigantes de fuego son maestros herreros.  
+
+Sin embargo, el poderoso martillo es demasiado grande y pesado para alguien más pequeño que un gigante de fuego. Incluso si alguien aumentara mágicamente la fuerza de <PRO_HIMHER> para blandirlo, el arma solo podría blandirse con gran esfuerzo y a una velocidad lenta.  
+
+Además, existe el riesgo de que quien la porta estalle en llamas ocasionalmente. Lo que para los gigantes de fuego podría ser un calor placentero y sanador, podría convertirse en un infierno mortal para cualquier otro.  
+ 
+ESTADÍSTICA:  
+
+Habilidades equipadas:
+– -0,5 ataques por ronda
+
+Habilidades de combate:
+– 5% de probabilidad de que el portador sea alcanzado por un Golpe de llamas al asestar un golpe
+  
+THAC0: +4
+Daño: 2d4+4, +1d8 daño por fuego   
+Tipo de daño: Aplastamiento
+Factor de velocidad: 1
+Tipo de competencia: Martillo de guerra
+Tipo: Una mano
+
+Requiere:
+22 Fuerza
+
+Peso: 20~
+@489 = ~No se puede ver el fondo de esta grieta, pero el aire cálido sube constantemente desde adentro.~
+@490 = ~Troll Hound~
+@491 = ~Kursh Brokenhorn~
+@495 = ~Arco de lluvia de la muerte~
+@496 = ~El Arco de la Lluvia de la Muerte se forjó hace siglos con las ramas jóvenes de un árbol sagrado para los elfos. Su mango está grabado con numerosos símbolos.  
+
+Posee la habilidad de desatar una lluvia devastadora de flechas sobre sus enemigos una vez al día.  
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Lluvia de flechas: una vez al día, una descarga de flechas cae sobre un objetivo, lo que le inflige 2d6 de daño a este y a todos los enemigos en un radio de 10 pies.  
+
+THAC0: +4
+Factor de velocidad: 4
+Tipo de competencia: Arco largo
+Tipo: A dos manos
+Requiere:
+16 Fuerza~
+
+@497 = ~ Esta palanca oxidada servía para activar y desactivar trampas en estas habitaciones. Parece que todavía funciona.~
+@498 = ~ Mueves la palanca. Parece que todas las trampas de los pasillos se han desactivado.~
+@499 = ~Ya has desactivado las trampas.~
+@510 = ~Edicto caballeresco~
+@511 = ~Haimmon, has demostrado que eres digno de ser nombrado caballero en la sagrada Orden de Kuldar de Barakmordin.  
+
+Vuestra última prueba antes del rito de iniciación será viajar a las Montañas Troll y buscar el mal que hemos perseguido durante mucho tiempo, un mal que ahora acecha en los restos del antiguo reino enano de Korolnor.  
+
+Nuestra orden se fundó sobre las antiguas ruinas de los enanos, y Barakmordin significa "Montañas Escudo" en su lengua. Además, la leyenda cuenta que las vecinas Montañas Omlarandin albergaron en su día el legendario reino enano de Iltkazar. Aunque los enanos desaparecieron hace mucho tiempo, los humanos aún conservamos las tradiciones de sus valores, y confío en que cumplirás esta misión con la mayor satisfacción.  
+
+Barakmordin, 1303 DR,  
+Firmado por Gaufrid, el Espada Ancha de Torm,  
+Gran Maestro de la Orden Paladín de Kuldar.~
+
+@514 = ~Aquí descansa Ragmus, primogénito de la Casa Kuldelver, hijo de Karlyn Matagigantes, asesinado a la edad de ocho años por la traicionera flecha de un humano.~
+@515 = ~Huesos de niño~
+@516 = ~Estos son los huesos de un niño. A juzgar por la forma del cráneo, debió de ser un niño enano.~
+@517 = ~Esta gran piedra está inscrita con runas enanas:  
+"Extraños, sabed que ahora entráis en las tierras de los enanos de Korolnor, herederos del gran reino de Shanatar".~
+@518 = ~Esta gran piedra está cubierta con numerosas runas enanas, pero no puedes descifrarlas.~
+@519 = ~Esta gran piedra está inscrita con runas enanas:  
+"Escucha la voz de la estatua de Kuldelvon, cuyo lamento hace huir a los enemigos de los enanos!"~
+@520 = ~Esta gran piedraestá inscrita con runas enanas:  
+"Reino de Korolnor al norte. Karlyn del Clan Kuldelver da la bienvenida a todos los amigos de los enanos a sus salones."~
+@521 = ~Esta gran piedra está inscrita con runas enanas:  
+"En este vado, Karlyn del Clan Kuldelver mató al cobarde Kutlog, Rey de los Gigantes de la Colina, de un solo golpe de su hacha."~
+@522 = ~Esta gran piedra está inscrita con runas enanas:  
+"Los gigantes restantes huyeron a las Montañas de la Carrera de los Gigantes, dando nombre a la cordillera. Karlyn decidió construir la nueva fortaleza de su clan en este vado.  
+
+Para recordar a los gigantes por siempre su derrota, ordenó la construcción de una estatua colosal de un guardián enano, mirando hacia el este, cuya llamada se oye desde lejos por todos los que se acercan, proclamando eternamente: ¡Temed la ira de los enanos!"~
+
+@523 = ~ Esta placa de bronce representa una estatua enana rodeada de siete gemas. El borde está inscrito con runas enanas:  
+Korolnor, Reino de la Joya, hogar del Clan Kuldelver, orgullosa parte del Reino de Shanatar.~
+@524 = ~ Esta placa de bronce representa una estatua enana rodeada de siete gemas. El borde está cubierto de runas enanas, pero no se pueden descifrar.~
+@528 = ~En runas doradas, la palabra "Korolnor" está inscrita en enano sobre la entrada.~
+@529 = ~La espada sagrada perfora la carne del troll demoníaco, desgarrándolo.~
+@530 = ~ Esta placa de bronce muestra el símbolo de un martillo y un yunque rodeados de siete gemas. Es la marca de Moradin, el Padre de Todos los Enanos.  
+
+El borde está inscrito con runas enanas:  
+"Korolnor, Reino de la Joya, descendientes de Taark Shanat, fundador de Shanatar, sirvientes de Moradin."~
+@531 = ~ Esta placa de bronce muestra el símbolo de un martillo y un yunque rodeado de siete gemas. El borde está cubierto de runas enanas, pero no se pueden descifrar.~
+@532 = ~Esta placa de bronce muestra el símbolo de un martillo y un yunque rodeados de siete piedras preciosas: la marca de Moradin.  
+
+El borde está inscrito con runas enanas:  
+"Al igual que los diez reinos de Shanatar, el Reino Joya de Korolnor alguna vez prosperó en una era de prosperidad.  
+
+Moradin veía con buenos ojos a sus hijos. Los enanos de Korolnor eligieron a uno de sus hijos gemelos como su deidad patrona cuando se fundó su reino, cuando aún no había sucumbido a la locura.~
+@533 = ~Esta placa de bronce muestra el símbolo de un enano con túnica rodeado de siete piedras preciosas.  
+
+El borde está inscrito con runas enanas:  
+Pero con el paso del tiempo, el rostro de su patrón cambió y se convirtió en un dios egoísta que comenzó a buscar magia prohibida y secretos ocultos.~
+@534 = ~ Esta placa de bronce muestra el símbolo de un enano con túnica rodeado de siete gemas. El borde está cubierto de runas enanas, pero no se pueden descifrar.~
+@535 = ~Esta placa de bronce muestra el símbolo de un desollador mental rodeado de siete piedras preciosas.  
+
+El borde está inscrito con runas enanas:  
+En una de sus excursiones prohibidas, el hijo de Moradin, junto con su hermano, entró en el dominio del dios de los desolladores mentales y fue maldecido con la locura eterna como castigo.~
+@536 = ~ Esta placa de bronce muestra el símbolo de un desuellamentes rodeado de siete gemas. El borde está cubierto de runas enanas, pero no se pueden descifrar.~
+@538 = ~Este puente claramente fue construido por manos enanas y una vez atravesó el caudaloso río.  
+
+Desafortunadamente, se derrumbó hace mucho tiempo. Reconoces que probablemente fue destruido mediante un mecanismo para que los atacantes se lanzaran a las profundidades. ~
+@539 = ~Este puente una vez atravesó el caudaloso río.  
+
+Desafortunadamente, se derrumbó hace mucho tiempo. Reconoces que probablemente fue destruido mediante un mecanismo para que los atacantes se lanzaran a las profundidades. ~
+@540 = ~Este puente una vez atravesó el caudaloso río.  
+
+Lamentablemente, hace mucho que se derrumbó.~
+
+@543 = ~A este cadáver le falta la cabeza.~
+@544 = ~Este parece ser uno de los antiguos pozos de suministro, que conduce a las profundidades de abajo.  
+
+No puedes ver el fondo, ya que temes que acercarte demasiado podría hacerte caer. El aire que escapa de la oscuridad es fétido y sofocante. ~
+@545 = ~Esta placa lleva el rostro de Moradin, el Padre Todopoderoso.  
+
+Inscrito alrededor con runas enanas:  
+En su ira, Moradin desterró a sus propios hijos gemelos de la compañía de los dioses enanos, para que nunca más trajeran una ruina tan indescriptible al mundo.~
+@546 = ~Esta placa de bronce muestra el símbolo de un enano barbudo.  
+
+El borde está inscrito con runas enanas, pero no puedes descifrarlas.~
+@547 = ~Espadas danzantes~
+@548 = ~El grito de Vargouille~
+@549 = ~Neutralizar gas~
+@550 = ~Neutralizar gas
+(Abjuración)  
+
+Nivel: 7   
+Alcance: Lanzador  
+Duración: Permanente
+Tiempo de lanzamiento: 1  
+Área de efecto: Especial  
+Tiro de salvación: Ninguno  
+
+Al usar este hechizo, el lanzador vuelve inofensivos los vapores, gases, nubes o nieblas dañinos dentro del área de efecto.  
+
+Esto incluye Nube Apestosa, Nube Asesina, Niebla Mortal, Nube Incendiaria y hechizos o efectos similares. Cualquier gas o vapor nocivo restante se disipa.  
+
+Las criaturas afectadas por el gas antes de que se lance el hechizo seguirán sufriendo sus efectos anteriores: este hechizo no niega el daño existente.  
+
+Si se lanza en la misma ronda que un efecto gaseoso, Neutralizar gas también se puede usar para contrarrestar las armas de aliento gaseosas, lo que otorga a las criaturas afectadas una bonificación de +4 a las tiradas de salvación y un 50% de resistencia contra dichos ataques de aliento.~
+
+@551 = ~Troll negro~
+@552 = ~Drenaje de masa de Larloch~
+@553 = ~Drenaje de masa de Larloch  
+(Nigromancia)
+
+Nivel: 9  
+Alcance: 30 pies.  
+Duración: Especial  
+Tiempo de lanzamiento: 3  
+Área de efecto: Criatura y un cuadrado de 30 pies.  
+Tiro de salvación: Ninguno  
+
+Con este hechizo, el lanzador drena la fuerza vital de todos los enemigos dentro del área afectada y la agrega a la propia de <PRO_HISHER>.  
+
+Las víctimas sufren 1d8 puntos de daño, mientras que el lanzador obtiene 1d8 puntos de golpe adicionales por cada criatura afectada.  
+
+Si los puntos de golpe del lanzador superan el máximo de <PRO_HISHER>, <PRO_HESHE> pierde cualquier punto de golpe adicional después de 3 rondas.~
+@554 = ~Billete de crudo~
+@555 = ~Este trozo no está hecho de papel, sino de un trozo de cuero con mal olor.  
+
+Garabateado en letras irregulares y deformes con tinta roja y negra en común:  
+¡Trols del Norte, vengan y únanse a la eterna Presa Real de Stommheim! Ursummnogh, el Inmortal, los teme.~
+@556 = ~Protección contra el bien~
+@557 = ~Narg el Negro~
+@558 = ~Desvanecerse en las sombras~
+@559 = ~Desaparecido en las sombras~
+@564 = ~Fantasma de Nhair Ebendar~
+@565 = ~Esta es una estatua de Berronar Truesilver, la diosa enana de la vida, la curación y la seguridad.~
+@566 = ~Divisor gigante +2/+3~
+@567 = ~ El mango de esta hacha de batalla está hecho del fémur de un gigante. Esta arma fue empuñada antaño por Rothdor, un enano berserker de la hermandad del hacha Clangeddin.  
+
+Rothdor sirvió a un rey de Shanatar en una época en la que una enorme horda de gigantes del este amenazaba con invadir las tierras sobre el reino enano. Los berserkers fueron enviados para ayudar a sus aliados humanos en la superficie y cumplieron su misión con distinción, llevando rápidamente a los gigantes al borde de la derrota en una gran batalla. Desafortunadamente, los humanos a quienes los enanos habían sido enviados a ayudar no mostraron ningún deseo de entrar en la contienda. Uno a uno, tras una larga y agotadora lucha, los berserkers fueron aplastados y pisoteados por los gigantes.  
+
+El hacha de Rothdor pasó por varias manos antes de regresar a los enanos de Shanatar, pero después de la caída de los reinos de Xothaerin, Torglor y Korolnor, la poderosa arma se perdió y se desvaneció en la oscuridad.  
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– Al impactar, los gigantes sufren 3 puntos de daño por sangrado adicionales por asalto durante 2 asaltos y se ralentizan durante 2 asaltos.  
+
+THAC0: +2, +3 (solo para enanos)
+Daño: 1d8+2,(cortante); +3 (sólo para enanos)
+Factor de velocidad: 5
+Tipo de competencia: Hacha
+Tipo: Una mano
+Requiere:
+10 Fuerza
+
+Peso: 5~
+@570 = ~Gólem Esmeralda~
+
+@572 = ~Bryam Lancameth~
+@573 = ~Cabeza de Lancameth~
+@574 = ~Esta es la cabeza de Bryam Lancameth, capitán del ejército amniano, quien descendió al Enano Lamentable junto a sus compañeros. Mordido por un Vargouille, él mismo se ha convertido en una de estas criaturas del Abismo.  
+
+Su cabeza es grotesca, su rostro retorcido en una mueca horrible; en este estado, no sería prudente presentárselo a su viuda en el Distrito del Cementerio. ~
+@575 = ~Estatua del guardián enano~
+@576 = ~Llave de espada~
+@577 = ~Esta "espada" es de hecho una llave intrincadamente elaborada, diseñada para encajar en algún tipo de cerradura.~
+@578 = ~ El aire en esta cámara apesta a podredumbre, descomposición y una malevolencia insondable. Una densa niebla se adhiere al suelo, oscureciendo las profundidades y sin dejar rastro de la verdadera profundidad del abismo. ~
+
+@583 = ~Este parece ser el antiguo trono de Korolnor. La plataforma que hay delante está grabada con runas enanas, pero no puedes descifrarlas.~
+@584 = ~El antiguo y poderoso trono de Korolnor.  
+
+Grabado con runas enanas en la plataforma que está delante de él:  
+
+"Seis guardianes permanecen firmes y fríos,  
+Sus hachas llevan cristales, antiguos y viejos.  
+Ellos custodian el Séptimo, escondido en lo profundo,  
+Para que el mal no despierte de su maldito sueño.  
+
+Atado en piedra, mantienen la guarda,  
+El coraje enano a través de la oscuridad es difícil.  
+El Dios Loco ruge, arrojado abajo,  
+Encadenado con grilletes por el agarre de los guardianes."~
+@585 = ~Palanca pequeña~
+@586 = ~Esta palanca parece ser parte de un mecanismo más grande.~
+@595 = ~¡FILISTOS!~
+@596 = ~Gisbert~
+@603 = ~Darcia Lancameth~
+
+@605 = ~Documentos de Lancameth~
+@606 = ~ Estos son los documentos personales del capitán Bryam Lancameth. Contienen diversos registros relacionados con el mando de una unidad amniana, su servicio en Eshpurta y otros asuntos administrativos que tienen poco que ver con su misión actual.  
+
+Algunas de sus notas detallan su investigación sobre las ruinas de los enanos en la actual Amn, su investigación sobre el supuesto origen de la plaga de trolls en las montañas circundantes y su búsqueda de compañeros adecuados para su expedición final. También se incluye un mapa detallado de las Montañas Troll, con un pico particular cerca del nacimiento de un río marcado de forma prominente. Sobre él está escrito: «El Enano que Llora».  
+
+Puedes revisar las notas para tener una mejor visión general:  
+
+"El 'Enano Llorón' es una antigua fortaleza enana en las Montañas Troll.  
+
+Desde mi estancia en Eshpurta, sé lo numerosos y problemáticos que son los troles en esta región. Sospecho que su origen podría estar en esta antigua fortaleza.  
+
+Además, un mago peculiar con el que me encontré afirmó que las ruinas podrían contener una gran cantidad de gemas. No busco fama ni fortuna, pero esos tesoros sin duda podrían beneficiar a mi tierra natal.  
+
+Encontrar compañeros de confianza para esta aventura no fue tarea fácil, pero creo que ya he reunido un grupo de confianza. Mañana partiremos hacia Eshpurta, donde ofreceremos una última plegaria a Tempus antes de adentrarnos en las Montañas Troll desde el sur.  
+
+Si seguimos el Camino Diente de Troll hacia el norte hasta que se convierta en nada más que un arroyo de montaña, pronto contemplaremos el rostro de piedra del 'Enano Llorón'.~
+@607 = ~Registros de Iremar~
+@608 = ~Estas notas pertenecen a la sacerdotisa Iremar del Templo de Oghma.  
+
+Contienen relatos detallados de la historia enana en las tierras de Amn y Tezhyr.  
+
+Un marcador marca una sección específica: una entrada relacionada con la construcción del 'Enano que llora'.~
+
+@610 = ~Daga de puñetazo de Quar-Shan~
+@611 = ~Quar-Shan fue un formidable asesino de Calimshan que sirvió a los primeros Pashas.  
+
+Si bien esta daga de golpe no causa mucho daño debido a su hoja corta, su pequeño tamaño hace que sea fácil de ocultar, a menudo tomando a los enemigos con la guardia baja mientras bajan sus defensas.  
+
+Como tal, es el arma perfecta para alguien que busca infligir el máximo daño desde las sombras.  
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– Probabilidad de golpe crítico: +5% con esta arma  
+– Bonificación por puñalada por la espalda: +1
+
+  
+THAC0: +3
+Daño: 1d3+3 (perforante)
+Factor de velocidad: 0
+Tipo de competencia: Daga
+Tipo: Una mano
+Requiere:
+3 Fuerza
+
+Peso: 0~
+@612 = ~Jorboud Hornfinger~
+@613 = ~Glouris Mristifos~
+@846 = ~Manto de petrificación~
+@847 = ~Esta capa, supuestamente empapada en la sangre de una gorgona, hace que quien la lleve se convierta instantáneamente en piedra.  
+
+Cualquiera que no quiera terminar como una estatua en el jardín de algún noble de la Costa de la Espada debería ser lo suficientemente sabio como para evitar ponerse esta prenda.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Petrificación
+
+Peso: 3~
+@848 = ~Señor Kandelar~
+
+
+@900 = ~¡Todos los enemigos de los enanos deben ser destruidos!~ [AC#MGGM1]
+@901 = ~~ [AC#MGDI1]
+@902 = ~~ [AC#MGDI2]
+@903 = ~~ [AC#MGDR4]
+@904 = ~~ [AC#MGDR5]
+@905 = ~~ [AC#MGDR1]
+@906 = ~~ [AC#MGDR2]
+@907 = ~~ [AC#MGDR3]
+@908 = ~~ [AC#MGDR6]
+@909 = ~~ [AC#MGDR7]
+@910 = ~~ [AC#MGDR8]
+@911 = ~~ [AC#MGDR9]
+@912 = ~~ [AC#MGGB2]
+@913 = ~~ [AC#MGGB3]
+@914 = ~~ [AC#MGDI3]
+@915 = ~¡Magia maldita, no me obedece!~ [AC#MGDI5]
+@916 = ~~[AC#MGDI4]
+@917 = ~~[AC#MGFG3]
+@918 = ~~ [AC#MG1KF]
+@919 = ~~ [AC#MGUR0]
+
+@956 = ~Invocar Vargouille~
+@961 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: «Drakkalor, Ciudad de la Avaricia». ~
+@962 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: «Xothaerin, Reino Adamant». ~
+@963 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: «Barakuir, Reino de Hierro». ~
+@964 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: "Ultoksamrin, Reino de Zardazil". ~
+@965 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: «Alatorin, Hogar de Taark Shanat». ~
+@966 = ~ Una pequeña estatua enana se yergue en el suelo. En runas Dethek, dice: «Sondarr, Reino del Mar». ~
+@967 = ~Esta pequeña estatua enana se ha caído.~
+@968 = ~Esta figura representa a un contemplador.~
+@969 = ~Esta figura representa un gigante de piedra.~
+@970 = ~ Esta figura representa a un desollador mental. En las runas de Dethek, dice: «Oryndoll, Hogar de los Sabios». ~
+@971 = ~Lady Starthorn~
+@972 = ~Queso Fomoriano~
+@973 = ~Este es un trozo de queso maloliente elaborado por los gigantes fomorianos.  
+
+Preferirías no imaginar qué ingredientes se utilizaron en su creación.~
+@975 = ~Moho oscuro~
+@983 = ~Este trozo no está hecho de papel, sino de cuero maloliente.  
+
+Garabateado en letras irregulares y deformes con tinta roja y negra en común:  
+"¡Trols y Gianos del Sur, vengan al Enano que Llora y únanse a Ursummnogh, el Inmortal y el Rey Madugg! ¡Juntos, trols y gianz enseñarán a los humanos a temer!"~
+@984 = ~Lluvia de la muerte~
+@1000 = ~Innumerables cráneos de varias criaturas se han apilado aquí en un espantoso monumento.  
+
+Solo puedes esperar que los cráneos de los aventureros que buscas no estén entre ellos. ~
+@1001 = ~Esta bandera lleva la imagen de la mano extendida de un monstruo, tal vez la de un troll.~
+@1002 = ~Entrada principal~
+@1102 = ~Hermano Starthorn~
+@1103 = ~Hacha de plata~
+@1104 = ~ Esta hacha está hecha de plata pura. Parece ser un arma ceremonial, no un arma de batalla.~  
+
+@1106 = ~Destrozado~
+@1107 = ~Curación obstaculizada por el veneno de Vargouille~
+@1108 = ~Troll venenoso~
+@1109 = ~Spray de veneno~
+@1110 = ~Troll de Faerzress~
+@1111 = ~Esta llave no parece estar hecha para una cerradura de puerta, sino para algún otro tipo de mecanismo.~
+@1113 = ~Voz del Cuerno~
+@1114 = ~Un ascensor parece descender más profundamente desde aquí.~
+@1115 = ~Este es un altar extraño, aparentemente construido por los troles para adorar a una deidad. Ofrendas, en forma de numerosos restos humanos, yacen esparcidas ante él.  
+Dos tubos de bronce sobresalen de la pared de arriba; parece que fueron fabricados por enanos hace mucho tiempo.~
+@1116 = ~Numerosos cadáveres demacrados, probablemente enanos, yacen apilados en este rincón.  
+Una característica común entre todos ellos: les faltan las cabezas.~
+@1117 = ~Esta tablilla rúnica dice:  
+"Todos aquellos mordidos deben ser llevados a las celdas hasta que se complete su transformación.  
+Una vez que la cabeza se separa del cuerpo, debe ser destruida con un dardo de ballesta.  
+Que Moradin tenga misericordia de sus almas."~
+@1118 = ~Reconoces que este pasaje fue cavado por trolls como una forma de evitar puertas cerradas y poder entrar o salir.~
+@1119 = ~Este pasaje parece haber sido excavado por grandes criaturas para evitar puertas cerradas y poder entrar o salir.~
+@1120 = ~ El sarcófago es de metal sólido y no se puede forzar. Sin embargo, se observa una pequeña cerradura en un lateral; parece que entraría una llave. ~
+@1121 = ~Solo una clave específica parece encajar en este mecanismo.~
+@1122 = ~ El engaste de este contenedor enano está vacío. Antiguamente contenía una pequeña gema, probablemente usada como llave para abrirlo. Sin ella, la cerradura no se puede abrir.~
+@1123 = ~Puntos de sabiduría perdidos~
+@1400 = ~Ya nadie responde.~
+@1401 = ~Un cuerno de bronce sobresale de la roca. Parece que se puede hablar dentro de él.~
+@1402 = ~ Este mecanismo parece redirigir el aire hirviendo de los hornos a una cámara distante, probablemente para calentar otros hornos. Sin embargo, falta un volante para abrir las válvulas.~
+@1403 = ~Te falta un volante para abrir las válvulas y liberar el aire.~
+@1404 = ~Conectas el volante. Si lo deseas, puedes girarlo.~
+@1405 = ~La válvula ahora está abierta.~
+@1406 = ~ Giras el volante y la válvula se abre. Oyes aire extremadamente caliente que corre por las tuberías hacia otra habitación.~
+@1407 = ~ No se puede abrir la válvula. Parece que algo está reteniendo el calor dentro de los hornos, impidiendo que escape el aire caliente.~
+@1408 = ~ No se puede abrir la válvula. La temperatura es demasiado baja; parece que se dejó abierta la puerta del horno.~
+@1409 = ~ La piedra angular que encontraste en la antigua fundición, en posesión del vampiro, encaja perfectamente en este pequeño cofre. Encaja y luego desaparece. ~ [AC#MGCLK]
+@1410 = ~Salida~
+@1411 = ~Al segundo nivel~
+@1412 = ~A la antigua fundición~
+@1413 = ~A la vieja forja~
+
+
+@1500 = ~ Al colocar el objeto en el recipiente, se oye un leve clic. Parece que algún mecanismo se ha bloqueado. ~ [AC#MGCLK]  
+@1501 = ~ Al retirar el objeto, se oye de nuevo el clic. Parece que algún mecanismo se ha reiniciado. ~ [AC#MGCLK]  
+@1510 = ~ El símbolo del dios enano Abbathor. Debajo se lee: «Drakkalor, Ciudad de la Avaricia». ~  
+@1511 = ~ El símbolo del dios enano Vergadain. Debajo se lee: "Sondarr, Reino de la Estrella de Mar". ~  
+@1512 = ~ El símbolo de Moradin. Debajo dice: «Holorarar, Reino Dorado». ~  
+@1513 = ~ El símbolo del dios enano Dumathoin. Debajo se lee: "Ultoksamrin, Reino de Zardazil". ~  
+@1514 = ~ El símbolo del dios enano Laduguer. Debajo se lee: «Barakuir, Reino de Hierro». ~  
+@1515 = ~ Este símbolo no corresponde a ninguna deidad enana que conozcas. Sin embargo, las runas Dethek a continuación dicen: "Torglor, Reino Plateado". ~  
+@1516 = ~ El símbolo representa siete gemas circulares. Debajo, las runas Dethek dicen: "Korolnor, Reino de las Joyas". ~  
+@1517 = ~ El símbolo del dios enano Thard Harr. Debajo se lee: "High-Shanatar, Reino Glaciar". ~  
+@1518 = ~ El símbolo de la diosa enana Sharindlar. Debajo se lee: «Xothaerin, Reino Adamant». ~  
+@1519 = ~ El símbolo de Clangeddin Barbanegra. Debajo dice: "Iltkazar, Reino de Mithril". ~  
+@1520 = ~Un símbolo de una daga, enmarcado arriba y abajo por runas enanas que no puedes descifrar.~  
+@1521 = ~Un símbolo de una moneda de oro, enmarcada arriba y abajo por runas enanas que no puedes descifrar.~  
+@1522 = ~Un símbolo de un yunque, enmarcado arriba y abajo por runas enanas que no puedes descifrar.~  
+@1523 = ~Un símbolo de una montaña con una piedra preciosa flotante encima, enmarcada arriba y abajo por runas enanas que no puedes descifrar.~  
+@1524 = ~Un símbolo de una flecha rota contra un escudo, enmarcada arriba y abajo por runas enanas que no puedes descifrar.~  
+@1525 = ~Un símbolo desconocido, enmarcado arriba y abajo por runas enanas que no puedes descifrar.~  
+@1526 = ~Un símbolo desconocido, enmarcado arriba y abajo por runas enanas que no puedes descifrar.~  
+@1527 = ~Un símbolo de dos guantes, enmarcados arriba y abajo por runas enanas que no puedes descifrar.~  
+@1528 = ~Un símbolo de una aguja ardiente, enmarcada arriba y abajo por runas enanas que no puedes descifrar.~  
+@1529 = ~Un símbolo de dos hachas cruzadas, enmarcadas arriba y abajo por runas enanas que no puedes descifrar.~  
+@1530 = ~Esta sartén se puede dejar caer para distraer a los gigantes, lo que te da tiempo de agarrar el queso para las ratas sin que te den cuenta.~  
+@1531 = ~Una sartén está sujeta precariamente al pilar.~  
+@1600 = ~El escudo que cuelga alrededor del cuello de este troll muerto dice: "¡Esto es lo que les sucede a los Trolz que no se inclinan ante Ursummnogh y Vaprak!"~  
+@1700 = ~ Este dispositivo se usaba antiguamente para fundir piezas de metal. Tiene una ranura para insertar moldes, pero primero tendrás que volver a poner en funcionamiento la antigua fundición.~  
+@1701 = ~ El metal fundido se introduce en el molde a alta presión. De esta manera, emerge una llave perfectamente elaborada, aparentemente hecha para una cerradura muy específica. ~  
+@1702 = ~ La fundición parece estar operativa, al menos parcialmente. Has logrado calentar una sección de la cámara lo suficiente como para que el metal fundido fluya del crisol al mecanismo de fundición.~  
+@1703 = ~Debes colocar ambas piezas del molde en el recipiente para comenzar el proceso de fundición.~  
+@1704 = ~Tira de la palanca oxidada para iniciar el proceso de fundición.~  
+@1800 = ~"Las hachas gemelas de Clangeddin mantienen sellado el Trono del Dios Loco."~  
+@1801 = ~Al segundo nivel~  
+@1802 = ~Ascensor arriba~  
+@1803 = ~Al Trono del Dios Loco~  
+
+
+@1900 = ~~
+@1901 = ~ Tras retirar este cristal, el aire de la cámara se enfría repentinamente y la corriente de aire del abismo se intensifica. Parece que retirar los cristales debilita los vínculos entre los mundos. ~  
+@1902 = ~Salto de gemas~  
+@1903 = ~Galerías mágicas~  
+@1904 = ~Hechicería fallida~  
+@1905 = ~Pisotón~  
+@1906 = ~Las ilusiones de Ilsensine~  
+@1907 = ~¡Enfrenta mis miedos más profundos!~  
+@1908 = ~Risas maníacas~  
+@1909 = ~Zona salvaje~  
+@1910 = ~Ráfaga de viento~  
+@1911 = ~Invocar sirviente~  
+@1912 = ~Invocar Troll Negro~  
+@1913 = ~Transformarse en Vargouille~  
+
+
+@2000 = ~Lenguaje y escritura de los enanos~  
+@2001 = ~Lenguaje y escritura de los enanos
+por Aldym Ryscelsar de Halarahh, Halruaa.
+
+Para los forasteros y miembros de otras razas, las costumbres de los enanos suelen ser difíciles de comprender. Los propios enanos parecen no tener ningún interés en cambiar esto, ya que se les conoce, con razón, como una de las razas humanoides más solitarias y reservadas.
+Para los académicos que, por diversas razones, deben estudiar su cultura, esto representa un desafío significativo. A través de mi investigación, pretendo que el lector pueda descifrar el lenguaje y las runas de la raza enana, así como comprender algunas de sus peculiares costumbres.  
+
+El idioma enano, Dethek, está escrito en una antigua escritura rúnica también llamada Dethek.
+
+Como cabría esperar de los enanos, la escritura y la estructura de las oraciones se han mantenido prácticamente inalteradas durante más de cinco mil años. Las runas de Dethek rara vez se escriben en papel o tela, ya que estos materiales son efímeros y frágiles. Las runas suelen tallarse o grabarse en piedra o metal, ya sea en las paredes de un edificio o en la hoja de una espada. Se pueden encontrar formas especiales de escritura enana en libros hechos de placas de metal encuadernadas o en tablillas de piedra conocidas como piedras rúnicas.  
+
+La gramática enana es similar en estructura a la lengua común, probablemente debido al desarrollo paralelo de ambos idiomas.
+
+Esta estructura compartida facilita considerablemente el aprendizaje y la traducción del enano a los hablantes del idioma común. El alfabeto rúnico de Dethek consta de 24 caracteres. Los sonidos de la "w", la "x" y la "z" se representan con el mismo símbolo.
+Esto puede resultar confuso para los humanos que intentan traducir el idioma, pero para los hablantes nativos de Dethek no supone ningún problema, ya que muy pocas palabras contienen estas letras.  
+
+Los nombres de clanes y tribus, así como algunas de las palabras, razas o frases más comunes, tienen sus propios símbolos. Estos eran útiles para la señalización o la creación de piedras rúnicas.
+
+A cada una de las principales razas de Faerûn se le ha asignado un símbolo único. Estos símbolos se aplican tanto al singular como al plural, por lo que el lector debe deducir su significado a partir del contexto.
+
+Otros símbolos sirven como marcadores direccionales y señalización, representando conceptos ampliamente entendidos: un pie que indica un camino seguro, un casco volcado o un cuerno para beber que marca agua dulce, etc.  
+
+(A continuación se incluye una lista detallada de los símbolos rúnicos enanos y el alfabeto Dethek, que puede resultar útil si alguna vez necesitas descifrar las piedras rúnicas enanas). ~  
+@2002 = ~La historia de los enanos escudo~  
+@2003 = ~La historia de los enanos escudo - Volumen 1.
+
+Un tratado de Oleus de Mintar, erudito al servicio de Oghma.  
+
+Para nosotros, los humanos, los enanos son una raza difícil de comprender. Parecen sospechosos y sombríos. Para comprender por qué se han desarrollado muchos de sus rasgos aparentemente peculiares, debemos examinar la historia de los enanos de la Costa de la Espada.
+
+Según la opinión predominante entre los eruditos, los Enanos Escudo, tal como los conocemos hoy, descienden de un gran reino enano conocido como Shanatar, fundado por Taark Shanat, un héroe enano de tiempos antiguos.  
+
+Taark Shanat condujo a su clan a lo que hoy llamamos las Tierras de la Intriga. Se asentó en una vasta caverna de la Infraoscuridad, fundó el reino de Shanatar y lo llamó Alatorin. Sus hijos partieron y establecieron sus propios reinos, que se extendían kilómetros bajo tierra. Juntos, formaron el imperio enano de Shanatar Profundo.  
+
+En su apogeo, Deep Shanatar constaba de nueve subreinos junto a Alatorin: los reinos de Barakuir, Drakkalor, Iltkazar, Korolnor, Sondarr, Torglor, Ultoksamrin, Xothaerin en la Infraoscuridad y High Shanatar en la superficie.
+
+Cada reino eligió una deidad patrona del panteón enano, aunque algunos de estos dioses han caído en el olvido desde hace mucho tiempo.  
+
+Además, a cada subreino se le dio un título que reflejaba su papel dentro del dominio enano:
+Barakuir - El Reino de Hierro.
+Drakkalor: la ciudad de la avaricia.
+Iltkazar - El Reino de Mithril.
+Korolnor - El Reino de las Joyas.
+Sondarr: el Reino Seastar.
+Torglor – el Reino Plateado.
+Ultoksamrin – el Reino Zardazil.
+Xothaerin – El Reino Adamant.
+Alto Shanatar - El Reino Glaciar.  
+
+Los enanos se enfrentaron a muchos enemigos: drows, contempladores, gigantes y ilícidos.
+
+Particularmente notables fueron el clan Duergar de Barakuir en sus batallas contra los desolladores mentales y el clan Kuldelver, gobernante de Korolnor, por sus guerras contra los gigantes, que dieron a las vecinas Montañas del Paso de los Gigantes su nombre.
+
+Pero con el tiempo, los reinos se volvieron unos contra otros, y su reino, una vez unificado, se derrumbó.  
+
+Debilitados por las constantes luchas internas, los enanos lucharon por contener a los numerosos enemigos que los asediaban por todos lados, invadiendo los dominios de los hijos de Moradin.
+
+Así, el mayor de los imperios enanos finalmente cayó, y los sobrevivientes emigraron hacia el norte para establecer nuevos reinos.
+
+Estos fueron los ancestros de la raza que ahora llamamos Enanos Escudo. Sin embargo, nunca volvieron a alcanzar el esplendor del antiguo Shanatar.  ~
+@2004 = ~Los dioses de los enanos~  
+@2005 = ~Los dioses de los enanos: un resumen.
+Escrito por Aldric de Arabel.  
+
+Moradin, El Forjador de Almas.
+Moradin, el Padre de Todo, reina con supremacía sobre el panteón enano. Es el maestro forjador del mundo y el creador de los enanos. Sus martillazos moldearon a los primeros seres enanos a partir de la piedra inquebrantable de las montañas. Bajo su atenta mirada, los enanos se entrenan en las artes de la herrería, la minería y la guerra.  
+
+Berronar Truesilver, La Madre Venerada.
+Berronar Veraplata, la Madre de los Enanos, permanece junto a Moradin, compartiendo el dominio del panteón enano. Es la protectora de la familia, la guardiana del hogar y la patrona del matrimonio. Bajo su bendición, las familias enanas prosperan, fortaleciéndose y uniéndose.  
+
+Clangeddin Barbaplateada, el padre de la batalla.
+Clangeddin Barbaplateada, dios de la batalla y el honor en la guerra, es el inquebrantable defensor de su pueblo. Con sus poderosas hachas gemelas en la mano, lidera a los ejércitos enanos en la batalla contra sus enemigos.
+Los guerreros enanos invocan su nombre al comienzo de la batalla, porque bajo su protección no conocen el miedo.
+
+Dumathoin, El guardián silencioso.
+Dumathoin, el Guardián de los Secretos, custodia las tumbas y los tesoros de los enanos. En las profundidades de la tierra, resguarda el conocimiento perdido de épocas pasadas y protege las riquezas forjadas por las manos enanas. Su sabiduría es ilimitada, y solo aquellos considerados dignos pueden beneficiarse de su consejo.  
+
+Deidades olvidadas.
+Además de los dioses conocidos del panteón enano, existían otras deidades menos conocidas veneradas por ciertos clanes enanos. Aunque hoy olvidadas, estas deidades desempeñaron un papel importante en la historia enana y merecen un estudio más profundo.  
+
+Antiguos relatos hablan de los hijos gemelos de Moradin, quienes fueron expulsados ​​del panteón enano por su propio padre debido a una traición desconocida. Los clanes enanos que los siguieron sufrieron una maldición especial, pues se vieron obligados a gran velocidad —al menos para los estándares enanos— a elegir una nueva deidad protectora.~
+@2006 = ~Contrato~  
+@2007 = ~ Contrato entre el Sabio Dokuriingor y Moldark. Moldark ha habitado estas ruinas durante mucho tiempo, pero reconoce a los nuevos gobernantes, cuya sangre se remonta a los enanos fundadores. Moldark creará un Troll Gris cada diez días mediante el drenaje de niveles para el programa de cría.  
+
+A cambio, el nuevo señor de Korolnor otorga a Moldark el dominio sobre la antigua fundición y entrega cautivos humanos frescos dos veces cada diez días como sustento. El nuevo señor también se compromete a mantener selladas las tuberías del horno de forja para evitar que los viejos hornos de fundición se vuelvan a encender.~  
+@2008 = ~Piedra de oración enana~  
+@2009 = ~Esta es una piedra rúnica enana. Está grabada a toda prisa con las palabras: "¡Moradin, no me abandones! No quiero ser transformado". Aunque este objeto pueda tener valor cultural, no parece mágico ni útil para avanzar en tu misión. ~
+@2010 = ~Esta es una piedra rúnica enana. Está grabada a toda prisa con las palabras: "¡Berronar, libera a nuestro clan de esta maldición! El Paria no debe seguir molestándonos". Aunque este objeto pueda tener valor cultural, no parece mágico ni útil para avanzar en tu misión. ~
+@2011 = ~Llave del ataúd~  
+@2012 = ~ Esta llave está guardada en un pequeño cofre con forma de ataúd. El objeto apesta a muerte y descomposición, y al parecer pertenece a un ataúd. Pero ¿por qué alguien querría cerrar su propio ataúd? ~  
+@2013 = ~Diario de Dokuriingor~  
+@2014 = ~Diario de Dokuriingor  
+
+Día 101:  
+Hoy es un día glorioso, un día de destino, pues he descubierto la verdad. Yo, Dokuriingor, soy el último descendiente del gran clan enano de Karlyn Kuldelver. ¡Es mi destino recuperar mi reino perdido de Korolnor! Las voces susurran sobre riquezas y poder inconmensurables, que nos pertenecen por derecho, si volvemos a apoderarnos de los salones de nuestros ancestros. El llamado de mis antepasados ​​resuena con fuerza en mis oídos, y lo seguiré, listo para superar los desafíos y las pruebas que nos aguardan.  
+
+Día 103:  
+Las profundidades de nuestro antiguo reino me llaman, atrayéndome con sus tesoros ocultos y secretos perdidos. Puedo sentir la presencia del gran Diinkarazan, el hijo abandonado de Moradin, prisionero del Abismo, pero más poderoso que nunca. Su voz susurra promesas de riquezas inimaginables, de tesoros que superan nuestros sueños más descabellados. ¡Lo seguiré, cumpliré su voluntad y restauraré Korolnor liberándolo!  
+
+Día 121:  
+Casi he llegado a la prisión de Diinkarazan. Me encuentro ante las puertas de su oscuro trono, en las profundidades de las sinuosas cavernas del Enano Lamentante. Me promete riquezas infinitas, y estoy dispuesto a hacer lo que sea necesario para reclamarlas. El poder que siento correr por mis manos es embriagador, y lo usaré para reconstruir Korolnor y reclamar nuestro lugar en el mundo. ¡Ha llegado la hora del clan Derro de Korolnor, y nada se interpondrá en mi camino!  
+
+Día 127:  
+Las puertas de la sala del trono sellada permanecen cerradas, y mis esperanzas de abrirlas yo solo empiezan a desvanecerse. Los antiguos enanos imbuyeron sus cerraduras con una astucia que incluso supera la mía. Los sellos son fuertes y decretan que ningún enano de Korolnor podrá jamás abrir las puertas de la antigua sala del trono. ¡Ni siquiera un Derro, descendiente del gran Shanatar! Ni siquiera yo. ¿Y ahora qué?  
+
+Día 130:  
+Pero entonces, ¡un destello de revelación! Los textos antiguos que he estudiado con tanto esmero revelan una verdad inesperada. La puerta sellada que me separa del trono de Diinkarazan no puede ser abierta por ningún descendiente de Korolnor. Pero quizás *sí* puedan abrirla quienes no sean de la línea de sangre de Korolnor. Yo no puedo abrir las puertas, ¡pero quizás otros sí! Debo encontrar a un necio, a alguien a quien pueda atraer aquí, alguien que me abra las puertas.  
+
+Día 233:  
+He ideado un plan, un plan que usará a las razas inferiores para lograr mi objetivo. Atraeré al aventurero humano Bryam Lancameth a las profundidades de esta fortaleza, bajo el pretexto de una expedición conjunta, y sin querer, le haré abrir las puertas que están cerradas para mí. ¡Nadie sospecha que el débil Mago Canino que ven ante ellos es, en realidad, un poderoso Sabio Derro!  
+
+Día 281:  
+Los preparativos están completos y la trampa está tendida. Pronto, Lancameth y sus compañeros descenderán a las profundidades abisales, guiados por mi astucia y mi engaño. Nunca comprenderán que tienen en sus manos la clave de mi éxito, y me aseguraré de que abran las puertas que se interponen entre mi destino y yo. ¡Diinkarazan espera, y no lo decepcionaré!  
+
+Día 342:  
+La expedición ha llegado a los pasillos de nuestra fortaleza. Las horas pasan, y mi impaciencia crece con cada latido que se desvanece. Los necios todavía me llaman Mago Canino. Todos morirán gritando.  
+
+Día 345:  
+Mi plan parece funcionar. Uno a uno, los compañeros de Bryam Lancameth han caído. Ahora, solo él y yo permanecemos ante las puertas selladas, y puedo ver la sospecha en sus ojos, el atisbo de desconfianza que se arraiga en su corazón. Pero no cederé, no ahora, no cuando el objetivo está tan cerca. Busca la manera de abrir la puerta. Solo debo esperar.  
+
+Día 351:  
+¡Maldición! Bryam Lancameth ha descubierto mi engaño, ha presentido la traición en mi corazón y ha descubierto la verdad tras mis mentiras. Sin despedirse, cruzó la anhelada puerta, sellándola tras él y dejándome sola una vez más, ¡abandonada en el vacío ante la sala del trono! La locura me desgarra los pensamientos mientras busco una nueva forma de abrir las puertas. Diinkarazan espera, impaciente... ¡Debo entrar, entrar, entrar! ~  
+
+@2015 = ~Antracita~  
+@2016 = ~La antracita, un tipo especial de carbón, es conocida por su notable densidad y resistencia al calor, lo que la convierte en la opción preferida de los enanos para generar calor en sus salas y forjas. Este material negro brillante arde de forma prolongada y uniforme, es resistente a la humedad e irradia un calor y una luminosidad intensos. Debido a su significado simbólico, los enanos suelen usar la antracita para iluminar lugares sagrados.~  
+@2017 = ~Placa de campo de mithril +2~  
+@2018 = ~ Esta armadura de mithril perteneció a Karlyn Kuldelver, fundadora del reino enano de Korolnor. Esta impresionante armadura está hecha de mithril, un metal raro de color azul plateado, conocido por su ligereza y flexibilidad. El peto brilla con un suave resplandor azulado y proporciona una protección excepcional a su portador sin limitar significativamente su movilidad. Es ligera y puede ser usada cómodamente incluso por guerreros de menor fuerza.  
+
+El mithril utilizado en esta armadura posee una resistencia natural a la magia, permitiendo a su usuario soportar mejor los ataques mágicos.  
+
+ESTADÍSTICA:
+ 
+Habilidades equipadas:
+– Resistencia al daño mágico: +30%  
+Bonificación de salvación: -2 contra hechizos  
+
+Clase de armadura: -1 (-2 contra cortantes, -1 contra perforantes y proyectiles), -2 (enanos)
+Requiere:
+10 Fuerza
+ 
+Peso: 15~  
+
+@2019 = ~Pieza de armadura~  
+@2020 = ~Placa de hombro de mithril (izquierda)~  
+@2021 = ~Esta pieza de metal finamente elaborada parece haber pertenecido alguna vez a una armadura.~  
+@2022 = ~ Esta hombrera forma parte de la armadura del héroe enano Karlyn Kuldelver, fundador del reino enano de Korolnor. Está hecha de mithril. La armadura completa debió ser un artefacto realmente poderoso.~  
+@2023 = ~Placa de hombro de mithril (derecha)~  
+@2024 = ~ Esta hombrera forma parte de la armadura del héroe enano Karlyn Kuldelver, fundador del reino enano de Korolnor. Está hecha de mithril. La armadura completa debió ser un artefacto realmente poderoso.~  
+@2025 = ~Coraza de la armadura de Karlyn~  
+@2026 = ~ Esta es la coraza central de la armadura de mithril del héroe enano Karlyn Kuldelver. Si un herrero experto la combinara con las dos piezas faltantes (las hombreras), podría reforjarse en un excelente arnés de mithril. Sin embargo, muy pocos herreros poseen el conocimiento para trabajar con mithril, salvo los maestros herreros enanos. Estos artesanos son escasos en los reinos y se resisten a compartir sus secretos. ~  
+
+@2027 = ~Mordida negra +3~  
+@2028 = ~ La punta de esta poderosa lanza está adornada con el colmillo de una gran bestia. Las leyendas afirman que es el diente de un dragón negro, lo que explicaría por qué la punta de la lanza gotea ácido constantemente. El nombre "Mordida Negra" resulta, por lo tanto, muy apropiado.  
+
+Entre los Verbeeg, existe la historia de un señor de la guerra que lideró una banda de estos gigantes a los pantanos para derrotar al dragón negro Vorgarrash. Tras una brutal batalla, el Verbeeg clavó su lanza en las fauces del dragón, rompiendo uno de sus enormes colmillos. El gigante incrustó el diente en su lanza, donde absorbió la magia corrosiva del dragón. Así nació Mordedura Negra, un arma que aún se venera como trofeo de fuerza entre los Verbeeg.  
+
+ESTADÍSTICA:
+
+THAC0: +3
+Daño: 1d6+3, +1 daño por ácido
+Tipo de daño: Perforante
+Factor de velocidad: 3
+Tipo de competencia: Lanza
+Tipo: A dos manos
+Requiere:
+5 Fuerza
+
+Peso: 3~  
+
+@2029 = ~Amuleto del guardián~  
+@2030 = ~ Este amuleto lleva el símbolo de un martillo, elaborado en latón o bronce. Está imbuido de un hechizo divino otorgado por la diosa Berronar a sus sacerdotisas —el "Martillo Guardián"—, que permite invocar un poderoso martillo mágico en batalla.  
+
+Amuletos de este tipo eran usados ​​comúnmente por miembros de alto rango de la sociedad enana y sus familias.  
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+Una vez al día, el portador puede invocar un Martillo Guardián. El martillo aparece en el aire, inflige 2d12 de daño a un oponente (la salvación contra hechizos lo niega) y desaparece.
+
+Habilidades equipadas:
+– Clase de armadura: +1
+– Tiros de salvación: +1
+  
+ 
+Peso: 1~  
+
+@2031 = ~Anillo de Berronar~  
+@2032 = ~Anillos de este tipo son elaborados por los Faenor, como se les llama a los sacerdotes de Berronar en la lengua enana. Su deber es servir como guardianes y protectores de los clanes enanos bajo su cuidado.  
+
+Estos anillos, forjados con los mejores materiales, suelen ser usados ​​por los líderes de los clanes enanos para protegerse de las enfermedades inmundas que acechan en los rincones más profundos y oscuros de la Infraoscuridad.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– El portador es inmune a las enfermedades y aflicciones transmitidas por las criaturas.  
+
+Esto incluye el toque de una momia, el ataque de un otyugh, la mordedura de criaturas abisales conocidas como vargouilles y los ataques de necrófagos. Cabe destacar que, si bien el ataque en sí no se previene, sí se previene la transmisión de efectos similares a enfermedades.  
+
+Sin embargo, este anillo no ofrece protección contra la licantropía o el vampirismo.  
+
+Peso: 0~  
+
+@2033 = ~Colmillo de hueso +2/+3~  
+@2034 = ~ Esta primitiva estrella del alba está hecha de los huesos de un gigante y resulta ser un arma sorprendentemente efectiva. Es notablemente ligera, lo que permite golpes rápidos y potentes en combate.  
+
+Además, otorga a su portador una parte de la fuerza característica de los gigantes. Por último, el lucero del alba está encantado para otorgar una bonificación contra las pequeñas razas humanoides que tanto desprecian los gigantes.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Fuerza: +1
+
+THAC0: +2, +3 (solo para semiorcos); +2 extra contra humanoides pequeños: medianos, gnomos, enanos, goblins y kóbolds  
+Daño: 2d4+2, (aplastante) +3 (solo para semiorcos)
+Factor de velocidad: 3
+Tipo de competencia: Mayal/Estrella de la mañana
+Tipo: Una mano
+Requiere:
+11 Fuerza
+ 
+Peso: 3~  
+
+@2035 = ~Maza Astral Explosiva~  
+@2036 = ~La Maza Astral Explosiva es un arma poderosa forjada con un metal raro y brillante, similar a una estrella. La empuñadura está envuelta en correas de cuero azul intenso que vibran suavemente al tacto. Su impactante punta está intrincadamente decorada con cristales incrustados que brillan como el cielo nocturno.  
+
+Originalmente, esta maza se utilizaba ceremonialmente para marcar la llegada o conclusión de eventos astronómicos importantes.  
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Una vez al día, el portador puede lanzar "Rayo de gloria".
+
+THAC0: +3
+Daño: 1d6+4 (aplastante)
+Factor de velocidad: 4
+Tipo de competencia: Maza
+Tipo: Una mano
+Requiere:
+11 Fuerza
+
+Peso: 8~  
+
+@2037 = ~Descarga Astral~  
+@2038 = ~Hoja mecánica de veneno~  
+@2039 = ~ Los orígenes de esta espada bastarda están estrechamente ligados al plano de Mechanus. En lugar de un pomo, un complejo mecanismo gotea veneno continuamente sobre la hoja. Debido a sus intrincados engranajes, que se asemejan a los de un reloj gnomo, el arma se conoce desde hace mucho tiempo como la "Hoja Mecánica".  
+
+El veneno infundido en la espada daña específicamente a los seres caóticos, lo que convierte a la Espada Mecánica en el arma favorita de los justos.  
+
+Además, la espada tiene la capacidad de detener el paso del tiempo por un breve instante. El mecanismo exacto sigue siendo un misterio, por lo que no está claro cuándo ocurrirá la detención del tiempo.  
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+Las criaturas caóticas alcanzadas por la espada sufren una ralentización de tres asaltos si fallan una tirada de salvación de -2 contra la muerte. La resistencia mágica no previene este efecto.
+– El 2% de los impactos provocan una parada del tiempo durante una ronda.
+
+THAC0: +3
+Daño: 2d4+3 (cortante), +1 de daño por veneno contra criaturas caóticas si fallan una tirada de salvación de -2 contra la muerte.
+Factor de velocidad: 5
+Tipo de competencia: Espada bastarda
+Tipo: Una mano
+Requiere:
+11 Fuerza
+
+Peso: 7~  
+
+@2040 = ~El Panteón Gigante~  
+@2041 = ~Un tratado sobre el Panteón Gigante  
+Escrito por Azmor Delduin, erudito en mitos arcanos y religiones antiguas.  
+
+Dentro del vasto tapiz de tradiciones mitológicas que se entrelazan en los reinos de los mortales, el panteón de los gigantes se erige como uno de los más antiguos e imponentes. La grandeza y el poderío de estos pueblos ancestrales, que antaño gobernaron las tierras, se reflejan en la diversidad y el poder de sus deidades. Estos dioses encarnan no solo las fuerzas elementales y el poder puro de la naturaleza, sino también las complejas y brutales estructuras sociales de los gigantes.  
+
+En el centro del panteón se encuentra Annam Padre de Todos, el dios creador de los gigantes, también conocido como el Padre de Todos los Titanes. Es el gobernante del reino divino, el Ordning, del cual provienen sus hijos, las diversas razas de gigantes. Sin embargo, según la leyenda, Annam se separó de su progenie, decepcionado por sus interminables conflictos, dejándolos a su suerte repartiéndose el mundo.  
+
+Los hijos de Annam: Thrym, Surtr y Stronmaeus  
+
+Los hijos más renombrados de Annam son los Primeros entre los Gigantes: Thrym, dios de los gigantes de hielo, gobernante del caos y el frío; Surtr, dios de los gigantes de fuego, señor de la llama y la destrucción; y Stronmaeus, dios de los gigantes de tormenta, conocido por su sabiduría y benevolencia, pero tan temperamental como las tempestades que domina. Estos tres encarnan los reinos más grandiosos de los gigantes: Hielo, Fuego y Tormenta.  
+
+Mientras estos dioses compiten por el dominio de sus respectivos dominios, comparten la creencia común en la supremacía indiscutible de los gigantes sobre los mortales. En sus leyendas, libran interminables batallas entre sí, cada uno luchando por demostrar su valía como el verdadero heredero de Annam. Sus seguidores viven con la perpetua expectativa de que, algún día, su dios elegido reclame el control absoluto sobre todos los gigantes.  
+
+Vaprak el Destructor: Un paria en el Ordning  
+
+Entre los gigantes, existe una figura repugnante, que no es de noble ascendencia anamita ni está bendecida por los dioses antiguos: Vaprak el Destructor, dios de ogros y troles. Vaprak, una entidad brutal e indómita, encarna el salvajismo puro y un hambre insaciable de destrucción. Sus seguidores —ogros y troles— contrastan marcadamente con los gigantes, más estructurados y apegados al honor.  
+
+Vaprak es descrito como codicioso y destructivo, un dios que acecha en las sombras, sembrando el caos dondequiera que puede. Algunos eruditos creen que Vaprak una vez buscó ser incluido en el panteón de los gigantes, solo para ser expulsado por el propio Annam. Su naturaleza violenta lo hace temido tanto entre dioses como entre mortales, pues busca consumir todo lo que se le ponga por delante.  
+
+Karontor: El paria entre los parias  
+
+Un capítulo aún más oscuro en el panteón de gigantes es la leyenda de Karontor, el dios deforme de los malditos, venerado principalmente por los fomorianos y los desamparados. Antaño un gigante hermoso y poderoso, Karontor estaba retorcido por la envidia y el odio, con un corazón tan negro como su carne destrozada. Su figura lisiada refleja su amargura interior y su odio por sus semejantes.  
+
+Karontor es considerado el patrón de los gigantes marginados, aquellos que no pertenecen a los grandes titanes elementales. Es venerado en las sombras más profundas del mundo, especialmente por quienes se aferran a la esperanza de venganza y a recuperar el poder. Cuentan leyendas antiguas que Karontor fue antaño igual a los demás dioses, pero fue corrompido por sus celos hacia Surtr y Thrym. En su locura, desafió el orden establecido por Annam y finalmente fue maldecido, para nunca recuperar la grandeza que antaño tuvo.  
+
+Entre los oscuros mitos que rodean a Vaprak y Karontor, hay indicios de una alianza retorcida entre estos dos dioses. Ambos son marginados del orden divino, que se deleitan con la destrucción y el caos. Se dice que Karontor una vez invocó a Vaprak para conspirar contra los demás gigantes. Sin embargo, como todos los seres malvados, su alianza está llena de desconfianza. Cada uno busca superar al otro y reclamar la lealtad de los desamparados.  
+
+La filosofía del Panteón  
+
+El panteón de los gigantes refleja las estructuras sociales de los propios titanes. Representa la jerarquía, el gobierno de los fuertes y las incesantes luchas por el poder y el dominio. El propio Annam representa el ideal perdido de un mundo unido de gigantes, pero en su ausencia, las fuerzas del caos y el odio se han infiltrado en el Ordning. Thrym, Surtr y Stronmaeus luchan por el legado de su padre, mientras criaturas como Vaprak y Karontor roen los límites, a la espera de romper el equilibrio.  
+
+Este panteón es una red viva y dinámica de luchas de poder y venganzas personales, que lleva a los gigantes a un ciclo interminable de guerra, conquista y destrucción. Al igual que los propios gigantes, sus dioses encarnan el eterno conflicto entre el poder, el orden y el caos: una lucha sin fin. ~  
+
+@2042 = ~Cabeza reducida~  
+@2043 = ~El regaño de Stenlan~  
+@2044 = ~Esta es la cabeza cuidadosamente cortada y preservada de un humano, encogida a través de rituales arcanos.~  
+@2045 = ~ Esta cabeza reducida perteneció a Stenlan de Luskan, un mago de la Torre Arcana. Sus constantes desvaríos y regaños enfurecieron tanto a sus aprendices que finalmente le cortaron la cabeza y la transformaron en una reliquia reducida. Sin embargo, incluso muerto, Stenlan ha conservado su don para proferir insultos.  
+
+ESTADÍSTICA:  
+Discurso despotricante (1 vez al día): Todas las criaturas hostiles que puedan oírlo deben realizar una tirada de salvación contra hechizos o detener momentáneamente sus acciones (durante un asalto), ya sea luchando, lanzando hechizos o de cualquier otra forma, para buscar el origen de los insultos. Las criaturas afectadas se consideran confundidas durante un asalto.  
+
+Peso: 1~  
+
+@2046 = ~Piedra angular del ataúd~  
+@2047 = ~ Esta delicada piedra rúnica enana parece haber sido elaborada para encajar en un entorno, quizás para abrir un pequeño contenedor. Está limpia y reluciente, lo que sugiere que no pertenece a la habitación donde la encontraste.~  
+
+@2050 = ~Botas del Acechador Nocturno~  
+@2051 = ~ Estas botas negras, confeccionadas en cuero flexible, están misteriosamente ligadas al poder de la noche. Otorgan a quien las lleva la agilidad y la astucia de un depredador nocturno que se desliza entre las sombras. Las botas parecen crujir al entrar en la luz brillante y no dejan huellas visibles en la oscuridad. Cuando quien las lleva permanece en la oscuridad durante un tiempo prolongado, las botas comienzan a vibrar débilmente.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Velocidad de movimiento: +1 por la noche  
+– Moverse silenciosamente: +25% por la noche
+
+Habilidades de carga:
+– Una vez al día, el portador puede invocar un velo de sombras, volviéndose invisible durante dos rondas.  
+
+Peso: 4~  
+
+@2052 = ~Jarra de cerveza~  
+@2053 = ~Jarra de la abundancia~  
+@2054 = ~Esta jarra de cerveza contiene un líquido espumoso y frío.~  
+@2055 = ~ Esta jarra enana posee un encantamiento que la llena de cerveza fría y espumosa una vez al día. El brebaje tiene un efecto especialmente beneficioso en los enanos, aunque sería prudente que los elfos y semielfos evitaran beberla.  
+
+El borde de la jarra lleva una inscripción en runas enanas:  
+"¡NUNCA CONFÍES EN ALGUIEN QUE NO BEBE!"  
+
+ESTADÍSTICA:
+
+Habilidades de carga (una vez al día):
+– THAC0: +4 de bonificación (solo para enanos)  
+  Constitución: +1 bonificación (solo para enanos)  
+  El bebedor es inmune al miedo y al pánico mientras dura la experiencia (todos excepto los elfos).  
+  Vaciar la jarra deja a la mayoría de los bebedores intoxicados durante ocho horas, excepto a los enanos, que pueden manejar su cerveza.
+  Los elfos sufren 3d6 de daño por veneno al beber de la jarra.  
+  Duración: 10 turnos  
+
+Peso: 1~  
+
+@2056 = ~Diario de Bryan Lancameth~  
+@2057 = ~Diario de Bryan Lancameth
+
+Comenzamos nuestro viaje hacia el Enano Lamentante con la esperanza de descubrir los secretos de la antigua fortaleza enana y acabar con los troles. Las ruinas están llenas de un extraño gemido que resuena por los pasillos azotados por el viento. ¿Será este gemido, como sospechaba, simplemente un ingenioso truco mecánico de los antiguos constructores enanos? ¿O es realmente una maldición, como afirman las antiguas leyendas?
+
+Día 5
+Dok, el Perro Mago, que se unió a nosotros como guía, parece saber mucho sobre las estructuras enanas, lo que nos ha sido de gran utilidad.
+
+Día 7
+Cuanto más nos adentramos, más extraño se vuelve este lugar. Caminamos por pasillos abandonados y senderos ocultos, pero no encontramos monstruos.
+
+Día 8
+¡Maldita sea! Nuestro ladrón mediano, Nhair Ebendar, ha muerto. Y el rastrillo que pasamos ha sido dejado caer por una mano desconocida. No hay vuelta atrás.
+
+Día 9
+He empezado a vigilar a Dok en secreto. Susurra a menudo cuando cree que nadie lo escucha. Cuanto más profundizamos, más complacido parece. ¿Le habla a las sombras? El aire aquí está impregnado de viejas traiciones. Debo permanecer alerta.
+
+Día 10
+El Perro Mago conoce caminos y secretos sobre el Enano Llorón que nos ha estado ocultando. Temo que sus intenciones sean más oscuras de lo que creemos.
+
+Día 11
+¡Iremar ha muerto! ¿Cómo pudo pasar esto? Justo cuando resolvimos el rompecabezas enano en el salón de actos.
+
+Día 12
+Dok y yo nos encontramos ante la gran puerta que, según dicen, conduce al Trono del Dios Loco. Vi al Perro Mago murmurar algo: ¿una plegaria o una maldición? No puedo esperar más. He decidido sellar la puerta para siempre. No puedo permitir que se desate la locura que acecha tras ella. Y eso es precisamente lo que quiere el Perro Mago.
+
+Día 13
+¡La puerta está sellada! Dok, el Derro y su dios loco deben permanecer atrapados.
+
+Día 14
+Me ha mordido un Vargouille. Sé lo que significa... Moriré aquí, y mi cabeza vivirá como una de esas grotescas criaturas del Abismo. ¡Debo luchar contra ella!
+
+Se me acaba el tiempo. La mordida está surtiendo efecto, y pronto me convertiré en uno de ellos. Escribo estas últimas palabras con la esperanza de que alguien más capaz que yo encuentre este registro y aprenda de mis errores. Mi única esperanza ahora es que estas palabras sean descubiertas antes de que sea demasiado tarde. ~  
+@2058 = ~La historia de los enanos escudo - Volumen 2~  
+@2059 = ~La historia de los Enanos Escudo - Volumen 2  
+
+Un tratado de Oleus de Mintar, erudito al servicio de Oghma.  
+
+Además de la conocida raza de los Enanos Escudo, los estudiosos han identificado otras subrazas enanas, muchas de las cuales son aún menos acogedoras con los forasteros. Puede sorprender al lector saber que se cree que estas razas también descienden de los clanes enanos de Shanatar.  
+
+Entre ellos se encuentran los duergar, también conocidos como Enanos Grises. Según informes consistentes, los duergar remontan su linaje a un clan del mismo nombre, que antaño se asentaba en Barakuir, el Reino de Hierro. Por razones desconocidas, el clan se rebeló contra sus parientes, desapareció por un tiempo y finalmente regresó, transformado en una versión cruel y retorcida de lo que fueron.  
+
+Menos conocido es que otro habitante irascible de la Infraoscuridad también desciende de los enanos: los Derro. Estas pequeñas criaturas de pelo largo son propensas a la crueldad y la locura excesivas. Veneran a los gemelos marginados de Moradin: Diirinka y Diinkarazan. Los adoradores de Diirinka son mucho más numerosos, quizá porque su hermano gemelo, Diinkarazan, fue desterrado al Abismo.  
+
+Antes de su expulsión del panteón enano, Diirinka era venerada por los enanos del subreino de Torglor, mientras que Diinkarazan era venerada por los enanos de Korolnor. Es lógico que, con el paso de los siglos, algunos de los antiguos clanes enanos de estos dos subreinos se convirtieran gradualmente en los Derro tal como los conocemos hoy, continuando su veneración por sus crueles y enloquecidos dioses: los hijos desamparados de Moradin.  ~ 
+
+@2060 = ~Cabeza de Lancameth~  
+@2061 = ~ Esta es la cabeza de Bryam Lancameth, tras serle liberada la maldición de un Vargouille. Su expresión ahora es tranquila y apacible. Puedes llevarle estos últimos restos a su viuda, Darcia Lancameth, en el Distrito del Cementerio para que pueda despedirse. ~  
+
+@2064 = ~Asesino desollador +4~
+@2065 = ~ Esta espada corta, finamente decorada, fue creada con un único propósito: matar azotamentes. La elección de una espada corta para semejante arma puede parecer sorprendente, pero en túneles y cavernas estrechas, la hoja más corta permite una técnica de corte mucho más efectiva que la espada bastarda o larga, más larga y engorrosa.
+
+La historia de esta arma está estrechamente ligada a Diinkarazan, el dios enano paria. Diinkarazan fue desterrado al Abismo por Ilsensine, dios de los desolladores mentales. Allí, el paria, enloquecido desde hacía tiempo por los horrores del plano, lleva siglos rumiando la venganza. Todo el odio de Diinkarazan hacia los desolladores mentales parece estar grabado en esta espada. En manos de un guerrero experto, esta espada se convierte en la pesadilla de cualquier ilícido.
+
+Se cree que los ilícidos hacen todo lo posible para borrar todos los recuerdos de esta arma de la conciencia colectiva lo más rápido posible.
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– En un golpe crítico, los tentáculos de un desollador mental golpeado quedan mutilados, por lo que pierde la capacidad de extraer los cerebros de otras criaturas.
+
+THAC0: +4, +5 contra desolladores mentales
+Daño: 1d6+4 (perforante), +5 contra desolladores mentales
+Factor de velocidad: 0
+Tipo de competencia: Espada corta
+Tipo: Una mano
+Requiere:
+5 Fuerza
+
+Peso: 1~
+@2066 = ~Aceite pegajoso~
+@2067 = ~ Este aceite contiene una sustancia viscosa. Al lanzar la botella, se derrama al impactar, lo que restringe significativamente el movimiento del objetivo. Los derro, una raza lejanamente emparentada con los enanos y nativa de la Infraoscuridad, suelen usar este aceite para evitar que sus víctimas escapen.
+Solo quienes superan una tirada de salvación contra hechizos pueden resistir sus efectos. El aceite puede lanzarse a unos 12 metros de distancia.
+
+ESTADÍSTICA:
+
+Si el golpe es exitoso, el objetivo se ve afectado por un efecto similar al del hechizo "Grasa" durante dos rondas.
+
+Peso: 1~
+@2068 = ~Pulmón~
+@2069 = ~Este es el pulmón preservado de una criatura.~
+@2070 = ~Pulmón de Gorathul~
+@2071 = ~ Según la leyenda, este es el pulmón del señor gigante de las tormentas Gorathul, conocido por su voz atronadora y su risa imponente. Con el tiempo, el pulmón se ha reducido considerablemente desde la muerte de su dueño, pero aún conserva la capacidad de filtrar aire fresco y puro una vez al día.
+
+ESTADÍSTICA:
+
+El usuario es inmune a los hechizos "Nube Apestosa" y "Nube Matadora" una vez al día.
+Duración: 1 fase
+
+Peso: 8~
+
+@2072 = ~Joya de la Corona de Korolnor~
+@2073 = ~ Esta gema finamente tallada forma parte de las joyas de la corona de la Casa Korolnor. En lo profundo de su núcleo se percibe un resplandor brillante. Es imposible desentrañar la magia ancestral que reside en ella. ~
+@2074 = ~Libro enano antiguo~
+@2075 = ~Cómo Moradin forjó a los enanos
+
+En las profundidades de la tierra, donde solo reinan la oscuridad y los antiguos susurros de la piedra, Moradin, el Padre de Todo, encendió su divina forja. De la roca misma, endurecida por el fuego de su horno, forjó a los primeros enanos. Con cada martillazo, moldeó sus cuerpos de hierro, plata y granito, y sus almas de la inquebrantable voluntad de la tierra. Finalmente, les infundió vida. Así, los hijos de Moradin despertaron, fuertes como la piedra, firmes como las montañas, listos para cumplir su destino.
+
+Moradin envió a sus enanos desde las entrañas de la tierra, donde el núcleo fundido del mundo arde eternamente. Allí, en la oscuridad, acechaba no solo el misterio, sino también el peligro. Antiguos males y la noche eterna buscaban detener su ascenso. Pero los enanos, imbuidos del poder de Moradin, se abrieron paso a través de la piedra, luchando codo con codo, martillo en una mano, escudo en la otra.
+
+Después de interminables días y noches bajo tierra, mientras la roca se hacía más liviana y el aire más enrarecido, el primer enano atravesó la última capa de piedra y entró en la luz del mundo.
+
+Por primera vez, los enanos contemplaron el cielo, una bóveda infinita que los llenó de asombro y maravilla. Pero lo que llenó sus corazones de mayor alegría fue la visión de las montañas que se alzaban ante ellos, majestuosas y orgullosas, como si hubieran sido creadas especialmente para ellos. Comprendieron de inmediato que esta era la tierra que Moradin les había destinado, el lugar donde construirían sus fortalezas y asentarían a sus linajes.
+
+Antes de adentrarse en las montañas, Moradin apareció por última vez. «Has superado las pruebas de las profundidades», dijo con una voz atronadora. «Ahora el reino de las montañas es tuyo. Pero nunca olvides de dónde vienes: del corazón de la tierra, del fuego de mi forja».
+
+Con estas palabras, los bendijo, y los enanos construyeron sus fortalezas en las profundidades de la roca. Construyeron con la sabiduría y la fuerza que Moradin les había otorgado, y sus ciudades florecieron. Los enanos surgieron de las profundidades y se convirtieron en los guardianes de las montañas, y su historia está grabada en los salones de piedra para la eternidad, el legado de Moradin.
+
+Así lo cuentan los ancestros, y así se transmite en los grandes salones. El pueblo enano jamás olvidará su origen.~
+@2076 = ~Libro antiguo enano~
+@2077 = ~La Matrona del Hogar – Berronar
+
+Desde los textos enanos más antiguos, grabados en tablillas de piedra en las profundidades de los salones de sus ancestros, no solo Moradin, el Padre de Todo, ha sido alabado, sino también Berronar, su esposa y Guardiana del Hogar. Se dice que sin la sabiduría y el cuidado de Berronar, incluso el enano más poderoso estaría débil y perdido, pues ella es quien mantiene viva la llama de la lealtad y la protección en los corazones de todos los enanos.
+
+Cuando Moradin forjó a los primeros enanos en piedra y conectó sus corazones con la esencia de la tierra, fue Berronar quien les otorgó su don más preciado: el vínculo de la comunidad. Tejió hilos invisibles entre los enanos, más fuertes que cualquier metal. Estos hilos se tejían con lealtad, honor y protección, uniendo a los enanos no solo entre sí, sino también con las tradiciones y la sabiduría de sus ancestros. Berronar era la guardiana de estos lazos, y su símbolo son dos anillos eternos que nunca se rompen.
+
+Berronar les enseñó a proteger sus salones y a sus familias. Les enseñó a cuidar el fuego del hogar, que no solo les brindaba calor, sino también seguridad. En cada hogar enano arde el Fuego Sagrado del Hogar, un fuego encendido por la propia Berronar para proteger las almas y las moradas de los enanos.
+
+Pero el acto más importante de Berronar tuvo lugar cuando los enanos se enfrentaron por primera vez al peligro de ser desgarrados. En los primeros tiempos, cuando los Primeros conquistaron las montañas y comenzaron a excavar sus salones, la envidia y la discordia se extendieron entre ellos. Los enanos, disputando por los preciosos minerales y tesoros de la tierra, comenzaron a distanciarse. Una ruptura amenazó con sacudir los cimientos mismos de la sociedad enana.
+
+Entonces Berronar descendió de los salones celestiales y se interpuso entre los clanes en guerra. Su voz resonó como el tañido de una campana antigua y profunda, y la tierra tembló al oírla: «Ustedes, hijos de Moradin, están todos tallados en la misma piedra. Su vínculo es eterno y más fuerte que cualquier veta de mineral que puedan reclamar. No olviden lo que los hace fuertes: su unidad, su lealtad, su honor. Quien renuncia a esto es más pobre que quien no tiene oro».
+
+Con estas palabras, depositó un anillo de plata en el suelo, símbolo del vínculo eterno e inquebrantable. Se arrodilló y exhaló una chispa de la Llama Sagrada en el anillo, que se encendió de inmediato, ardiendo en los corazones de todos los enanos. Los clanes en disputa cayeron de rodillas, abrumados por una profunda vergüenza, y juraron no volver a romper su lealtad mutua.
+
+Desde ese día, Berronar ha sido venerada como la diosa de la lealtad, la protección y el parentesco. Los enanos llevan anillos de plata como símbolo de su vínculo mutuo y de las tradiciones que Berronar les legó. Cada vez que se enciende una hoguera en un salón enano, se susurra una plegaria silenciosa a Berronar, pidiéndole que mantenga viva la llama de la comunidad y fortalezca los lazos entre los enanos.
+
+Y así, Berronar, la esposa de Moradin, sigue siendo la eterna guardiana de la unidad enana, Guardiana de la Llama Sagrada, y en los corazones de los enanos, su don perdura: el vínculo de la lealtad, que ni el tiempo ni el hacha pueden cortar.~
+
+@2078 = ~Libro enano antiguo~
+@2079 = ~Cinco cosas que un enano necesita para vivir
+
+Por Bardain Goldmug
+Extracto de la obra "La sabiduría de la piedra: principios y enseñanzas para una vida enana"
+
+1. Piedra sólida bajo sus pies
+
+Ningún enano está completo a menos que sienta la roca sólida bajo él, ya sea en las profundidades de las minas, el pozo o los pasillos de su hogar. La piedra nos lleva como lleva las montañas: inflexible y silenciosa. Un enano sin piedra bajo sus pies es como un martillo sin mango: fuera de lugar e inútil. Cuidado con quienes pasan sus días en tierra blanda que se tambalea y se mueve como un joven rothé tembloroso y profundo. Solo la roca es nuestro hogar, y estar cerca de la tierra es la verdadera naturaleza de un enano.
+
+2. Un martillo que siempre dice la verdad
+
+Un enano sin martillo no es un enano, sino una roca sin veta de mineral. El martillo, ya sea de forja o de guerra, es la herramienta que refleja nuestra alma. Divide la piedra y revela lo que yace oculto, ya sea una veta de mithril o el cráneo de un orco. Un martillo en la mano es más que una herramienta; es la voluntad de nuestro pueblo y un símbolo de nuestra fuerza. Cuidado con el enano que camina sin martillo, pues su camino es díscolo y sus objetivos inciertos.
+
+3. La lealtad del clan
+
+Ningún enano se mantiene solo. No importa cuán profundo sea un túnel, el enano siempre tiene a sus hermanos y hermanas del clan a su lado. La lealtad al clan es como una red de acero: irrompible y firme. Nos une y nos mantiene en pie, incluso cuando la piedra se derrumba. Sin clan, un enano es como un río sin fuente: perdido e incapaz de encontrar su propósito. La lealtad de nuestros linajes es el vínculo eterno que no se rompe, y cada enano sabe que el clan es su escudo y su hogar.
+
+4. La sabiduría de Moradin
+
+Todo enano puede enorgullecerse de llevar la sabiduría del Padre Moradin en su corazón. Pues Moradin nos forjó de piedra e infundió en nosotros el conocimiento de la tierra y el fuego. Esta sabiduría nos enseña lo que fortalece el corazón y despeja la mente. Quien olvida las enseñanzas de Moradin es como mineral sin pureza: inútil y débil, que se desmorona a la primera presión. Cuidado, enano, con desviarse del camino del Padre Todopoderoso, pues solo en su sabiduría encontramos la verdadera fuerza y ​​el amor de la piedra.
+
+5. Una jarra de buena cerveza
+
+Ningún mortal conoce las profundidades del corazón de un enano, pero todo hijo de Moradin sabe que una jarra de buena cerveza es como un espejo de nuestra alma. Una cerveza fuerte, amarga y pesada nos calienta y nos da fuerza, igual que la piedra. Pero cuidado con esos extraños brebajes que prefieren las razas más débiles: esas bebidas ligeras debilitan el corazón. Una cerveza que no tiene el color de la tierra no es apta para un enano, y eso es algo que todo enano debería saber.
+
+En resumen: un enano puede perderlo todo (oro, armas, incluso el techo sobre su cabeza), pero sin estas cinco cosas, vale menos que una piedra hueca.~
+@2080 = ~Libro enano antiguo~
+@2081 = ~Sobre la magia: una advertencia
+
+Es bien sabido que los enanos somos un pueblo de piedra y tierra, no de viento ni palabras susurradas. Nuestra fuerza reside en el martillo y el cincel, en la forja y el pozo de la mina, no en las fugaces construcciones de la magia. Los sucesos que una vez tuvieron lugar bajo esta montaña son un sombrío testimonio de nuestra incompatibilidad con el mundo de la hechicería.
+
+Hace incontables eras, nuestro patrón, impulsado por la ambición y una curiosidad fatídica, recurrió a las artes de la magia. Su búsqueda de poder lo llevó a los confines más remotos de los planos, donde ninguna antorcha podría jamás brillar. Sin respeto por las leyes antiguas, se perdió en sus ansias mágicas, y el resultado, como todos sabemos, fue una catástrofe.
+
+Sus acciones sacudieron los cimientos de nuestro reino. La magia, salvaje e indómita, desató una calamidad que casi significó el fin de nuestros grandes salones. La piedra se quebró y monstruos aulladores volaron entre nuestras filas. Es evidente que las almas de los enanos nunca estuvieron hechas para la imprevisibilidad de la magia, así como la roca nunca estuvo hecha para surcar los cielos.
+
+Así, los enanos nos hemos mantenido firmes desde entonces, convencidos de que la magia es fuente de inquietud y desgracia para nuestro pueblo. Rechazamos las artes arcanas y, en cambio, confiamos en la fuerza de nuestras manos, el filo de nuestras hachas y la abundancia de nuestras minas. Nuestro poder reside en el metal y la piedra, no en las efímeras promesas de los magos.
+
+Que quienes lean este libro honren la sabiduría de nuestros ancestros y respeten los límites que nos protegen. El mundo de la magia es un reino de cambio e incertidumbre, y nosotros, el pueblo de piedra, debemos mantener nuestro legado como guardianes de la tierra.
+
+Que el destino del Paria de Morndinsamman sirva como testimonio de los errores pasados ​​y como advertencia para las generaciones futuras.~
+@2082 = ~La historia de Korolnor~
+@2083 = ~En las profundidades del tiempo, bajo la cima intacta del Monte Batyr en las Montañas Troll, fundamos el reino de Korolnor. Bajo el sabio gobierno de Karlyn Kuldelver, el Primero de Su Nombre, excavamos nuestros salones en roca viva y trajimos gloria y honor a las montañas.
+
+Pero esa gloria se desvaneció cuando Diinkarazan, nuestro patrón, siguió el camino de la magia. Su corazón, antaño puro y firmemente arraigado en las enseñanzas de Moradin, se corrompió al buscar la hechicería prohibida y ahondar en secretos que deberían haber permanecido fuera del alcance de todos los enanos.
+
+Cuando su traición se hizo evidente, Diinkarazan fue expulsado del panteón de Moradin. Sellamos las puertas de sus salones sagrados. Su templo, antaño un lugar de oración y reverencia, fue clausurado, y su nombre fue borrado de nuestras crónicas, para que su magia oscura e incontrolable nunca más nos asolara.
+
+Buscamos refugio en la fe de Clangeddin, Padre de la Batalla, y juramos no desviarnos jamás del camino de nuestros antepasados. Aquí nos mantenemos, vigilantes y resueltos, preservando nuestra historia y defendiendo la paz que nuestros antepasados ​​una vez soñaron.
+
+Diinkarazan, el Desterrado, siempre buscaba la manera de regresar a la sala del trono y al mundo de los mortales. El deber de Korolnor era vigilar esta montaña, asegurándose de que el hijo perdido de Moradin nunca más pudiera traer calamidades al pueblo enano.
+
+Pero hubo quienes entre nosotros se negaron a abandonar el camino de la magia salvaje de Diinkarazan. A pesar de la corrupción que se había apoderado de nuestro antiguo patrón, permanecieron fieles a él, impulsados ​​por una sed de poder y una fe ciega. Intentaron liberarlo y, al hacerlo, desataron bestias del Abismo que descendieron sobre nosotros en enjambres. Su mordisco portó la maldición del Paria, y nuestros queridos hermanos de clan se transformaron en los sirvientes alados de Diinkarazan.
+
+Cuando se reveló la traición, los ancianos de Korolnor decretaron que quienes no renunciaran a Diinkarazan ya no podrían permanecer entre nosotros. Fueron exiliados, desterrados a las profundidades de la Infraoscuridad, al reino de la oscuridad eterna. El propio Karlyn pronunció una poderosa maldición rúnica: Ningún enano de Korolnor volvería a abrir la puerta del trono del Dios Loco. Karlyn era el guardián, y cumpliría con este deber por toda la eternidad, incluso después de la muerte.
+
+Que los descendientes aprendan a reconocer el bien y a evitar el mal, y que los errores de los Desterrados les enseñen a buscar siempre el verdadero camino.~
+
+@2084 = ~Nota de Derro~
+@2085 = ~Programa de cría de trolls~
+@2086 = ~Esta nota está escrita en una forma extrañamente alterada de escritura enana que no puedes descifrar fácilmente.~
+@2087 = ~ Este texto está escrito en escritura derro, que parece ser una variante de la escritura enana. Es un registro de los esfuerzos de los sabios derro por establecer un programa de cría de troles:
+
+Programa de cría de trolls:
+5 Trolls Grises recibidos del vampiro
+Troles de fuego y hielo reclutados
+4 trolls de Faerzress llegaron desde la Infraoscuridad
+
+Planes futuros:
+Crea 20 Trolls Espectrales a través del contacto con un espectro.
+Crea 20 trolls de piedra usando la mirada de un basilisco.
+Crea 30 trolls fantasmas cruzándolos con un acosador invisible.
+Crea 30 trolls venenosos a través del contacto con el veneno de wyvern.
+
+Todos los trolls normales son enviados a la superficie para cazar esclavos humanos, a quienes nuestro amo requiere para abrir las puertas selladas.
+Una vez que las puertas se abran y nuestro dios sea liberado, completaremos el ejército de troles. Entonces, se pondrá en marcha el plan para conquistar la Infraoscuridad. ~
+@2088 = ~Nota de Ursummnogh~
+@2089 = ~Mi leal sirviente Ursummnogh,
+
+Pronto, un grupo de aventureros ingresará a las ruinas que necesitamos para nuestros propósitos.
+Debes esconderte con todos tus troles hasta que todos los miembros del grupo hayan cruzado la puerta. Luego, debes cerrarla. Recuerda: solo puedes reabrirla si forjas una nueva llave. Así que no la cierres demasiado pronto. Los aventureros deben creer que esta parte de las ruinas está deshabitada.
+
+El grupo de aventureros está formado por los siguientes miembros:
+Un soldado humano llamado Bryam Lancameth
+Un ladrón mediano llamado Nhair Ebendar
+Una arquera elfa que se hace llamar Maid Starthorn
+Una sacerdotisa humana conocida como Iremar
+Y un mago de raza desconocida.
+
+El grupo es extremadamente poderoso y destruirá a cualquiera de tus trolls si lo descubren.
+
+Uno de estos miembros intentará liberar a nuestro dios de las profundidades. Se les revelará una vez que todo el grupo haya fallecido. ~
+@2090 = ~Escudo de truenos +2~
+@2091 = ~Fabricado con el raro metal Hizaagkur, que posee una carga eléctrica innata, este escudo produce una descarga eléctrica desagradable a quien lo toca, excepto a quien lo porta. Una vez al día, la energía almacenada en su interior puede liberarse en un poderoso trueno. Se dice que un guerrero enano anónimo usó este escudo para provocar una avalancha en las Montañas Troll, sepultando una horda de orcos atacantes bajo la roca que caía.
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Trueno: una fuerte explosión que aturde a todos en un radio de 15 pies (la salvación contra hechizos niega) una vez al día
+Duración: 3 rondas
+
+Habilidades equipadas:
+– Clase de armadura: +3
+– Sin protección contra ataques con misiles
+– Un golpe exitoso contra el portador de este escudo hace que el atacante reciba 1 punto de daño eléctrico.
+
+Requiere:
+4 Fuerza
+
+Peso: 2~
+@2092 = ~Martillo de los Arcontes~
+@2093 = ~ La cabeza de este martillo tiene la forma de las alas de un ser celestial. Está perfectamente equilibrado para realizar golpes potentes. Como la mayoría de las armas de los Planos Superiores, posee la capacidad de destruir a los no muertos, aunque no con la misma intensidad que las armas empuñadas por seres más poderosos, como los planetarios o los solares.
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– En un golpe exitoso, una criatura no muerta tiene un 5% de probabilidad de ser destruida (Salvación contra Muerte -4)
+
+ESTADÍSTICA:
+
+THAC0: +3
+Daño: 1d4+4 (aplastante)
+Factor de velocidad: 1
+Tipo de competencia: Martillo de guerra
+Tipo: Una mano
+Requiere:
+16 Fuerza
+
+Peso: 3~
+@2094 = ~Capa del Caos~
+@2095 = ~ Esta capa puede ser tanto una bendición como una maldición para quien la lleva, cambiando de un momento a otro. Puede ser una poderosa ventaja en un instante y una peligrosa debilidad al siguiente. Se desconoce su fuente de energía, pero solo los aventureros más temerarios o insensatos deberían atreverse a usarla.
+
+Los magos salvajes, conocidos por su habilidad para ejercer magia caótica, obtienen mayores beneficios al usar este objeto, aunque ni siquiera ellos pueden controlar por completo su naturaleza salvaje. Los hechizos "Escudo del Caos" y "Escudo del Caos Mejorado" protegen contra los efectos negativos del manto. Sin embargo, incluso para un mago salvaje, las bonificaciones de clase de armadura y tiradas de salvación son impredecibles, fluctuando entre 0 y -5 en cada ronda.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura: fluctúa entre -5 y +5 cada ronda
+– Tiros de salvación: fluctúa entre -5 y +5 cada ronda
+
+Peso: 3~
+@2096 = ~Guardián de la Montaña~
+@2097 = ~Este robusto casco está grabado con delicadas runas a lo largo de la frente, lo que le confiere un aire de antigua autoridad. Además de ofrecer una fuerte protección contra ataques, permite al portador ver a través de la piedra sólida una vez al día como si fuera cristal. Esta habilidad mágica se activa con las antiguas runas enanas, lo que permite descubrir cuevas ocultas, pozos de minas y otros secretos subterráneos. Originalmente diseñado para ayudar a los guardianes de minas a localizar vetas de mineral ocultas y garantizar la seguridad de los túneles, el Guardián de la Montaña es una herramienta invaluable para quienes buscan desvelar los misterios de la Infraoscuridad.
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Vista de piedra
+El portador de este yelmo puede explorar una zona subterránea (no al aire libre) una vez al día, de forma similar al hechizo de mago "Visión lejana". Tras una ronda, el efecto desaparece.
+
+Habilidades equipadas:
+– Clase de armadura: +1
+– Protege contra golpes críticos
+
+Peso: 2~
+@2098 = ~Anillo de compañía~
+@2099 = ~ Este anillo es el único vestigio de los compañeros que acompañaron a Bryam Lancameth en su última expedición. Está tallado en madera y pintado. Simboliza la lealtad, la fuerza y ​​el vínculo que solo comparten quienes se aventuran juntos en lo desconocido.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Armonía defensiva (una vez al día)
+– Fuerza de Uno (una vez al día)
+
+Peso: 0~
+@2100 = ~Guanteletes de Nacidos de la Forja~
+@2101 = ~ Estos guantes fueron creados para moldear metal y forjar acero. Por ello, están imbuidos de una serie de encantamientos para ayudar al maestro herrero en la artesanía de <PRO_HISHER>. Estos guantes solo pueden ser usados ​​por las razas de piedra: enanos y gnomos. Los enanos los usan con la bendición de Moradin, mientras que los gnomos reciben el favor de Flandal Piel de Acero, sus respectivos mecenas de la herrería.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Resistencia al fuego: +25%
+– Competencia con armas de guerra: +1
+Bonificación de THAC0 contra Gólems de Hierro: -2
+– Bonificación de daño contra gólems de hierro: +2
+
+Peso: 2~
+@2102 = ~Mano de un troll~
+@2103 = ~Mano de Grubnuk +3~
+@2104 = ~Esta es la mano cortada de un troll.~
+@2105 = ~Esta mano perteneció al trol Grubnuk antes de que te la regalara en agradecimiento. La mano cercenada es un arma sorprendentemente efectiva. Al equiparla, los tendones de la mano del trol se fusionan con los del portador, lo que permite blandirla como una garra e infligir daño penetrante. Aunque es más lenta que las armas pequeñas, su mayor daño compensa con creces esta desventaja. Un fragmento del poder regenerativo del trol se transfiere al portador. Sin embargo, la mano absorbe una parte de la fuerza vital de <PRO_HISHER> a cambio, y no se puede extraer fácilmente.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Regenera 1 punto de vida cada 2 rondas
+– Puntos de vida: -10
+– Solo se puede eliminar con un hechizo Eliminar maldición
+
+THAC0: +6
+Daño: 1d6+3 (perforante)
+Factor de velocidad: 3
+Tipo de competencia: ninguna
+Tipo: Una mano
+Requiere:
+3 Fuerza
+
+Peso: 3~
+
+@2106 = ~Corona~
+@2107 = ~Susurrando la verdad~
+@2108 = ~Una corona ornamentada y delicadamente elaborada.~
+@2109 = ~Esta corona tiene su origen en la era de los grandes imperios de Netheril, cuando un gobernante que manejaba hechizos buscaba la iluminación absoluta.
+
+Para lograr su objetivo, condensó en la diadema la esencia de un ser ancestral, conocido como Yllatharn el Pensador. Yllatharn era una entidad increíblemente inteligente, pero a la vez completamente demente, abrumada por la avalancha de pensamientos y posibilidades infinitas del Plano Astral.
+
+Con la guía de Yllatharn, el gobernante creó este artefacto de intrincado diseño, con forma de pequeña corona. La gema azul incrustada en su interior parece latir débilmente con la luz. El objeto emana un aura inquietante: una sensación de profunda comprensión, acompañada de un peso abrumador. Quien lo porta escucha constantemente un suave susurro que otorga brillantes revelaciones, pero siembra dudas y conflictos internos.
+
+Como resultado, la confianza del usuario y su capacidad de reaccionar rápidamente ante las situaciones se ven afectadas.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Inteligencia: +1
+– Sabiduría: +1
+– Carisma: -1
+– Tiros de salvación: -1
+
+Peso: 0~
+@2110 = ~Escudo del Guardián de la Perdición~
+@2111 = ~Este escudo está consagrado a Kelemvor, Señor de los Muertos. Además de brindar una sólida protección en batalla, también sirve como baluarte contra los no muertos, ayudándolos a encontrar su descanso final. El escudo está elaborado con madera oscura y reforzado con un marco de bronce. En su centro, el símbolo de Kelemvor —una mano esquelética sosteniendo una balanza— se alza prominente.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura: +3
+– Bonificación de CA y tirada de salvación contra no muertos: +2
+Bonificación de tirada de salvación contra nigromancia: +2
+
+Requiere:
+12 Fuerza
+
+Peso: 5~
+@2112 = ~Cinturón de troll~
+@2113 = ~ Este cinturón está cosido con varias partes de un trol: huesos, piel y entrañas. Quien lo usa se beneficia de la regeneración acelerada por la que los troles son tan famosos.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Regeneración: 1 punto de vida por ronda
+
+Peso: 2~
+@2114 = ~Este escudo está completamente abollado y no pudo proteger a su portador de un golpe devastador.~
+@2115 = ~Antorcha eterna~
+@2116 = ~La Antorcha Eterna es una antorcha de llama perpetua, toscamente tallada en la madera ignífuga de un árbol desconocido. Esta antorcha no solo sirve como fuente de luz permanente, sino también como un garrote bastante efectivo en combate. Con cada golpe, inflige daño de fuego menor adicional al oponente. Gracias a su llama inextinguible, la antorcha otorga a su portador infravisión, lo que le permite ver mejor en la oscuridad.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Infravisión hasta 120 pies.
+
+THAC0: +0
+Daño: 1d2, +1d4 daño por fuego
+Tipo de daño: Aplastamiento
+Factor de velocidad: 3
+Tipo de competencia: Club
+Tipo: Una mano
+Requiere:
+5 Fuerza
+
+Peso: 3~
+@2117 = ~Clave dentada~  
+@2118 = ~Esta llave es afilada y dentada, aparentemente destinada a un cofre especial o una jaula.~
+@2119 = ~Cimitarra prismática +3~
+@2120 = ~El prisionero de los elementos
+
+Esta Cimitarra Prismática, forjada por las propias fuerzas elementales, fue creada como un recipiente para su poder. Espíritus de fuego, hielo, relámpago, ácido y energía mágica pura están ligados a la hoja, desatando sus fuerzas aleatoriamente con cada golpe. Su resplandor resplandeciente protege a su portador de la ceguera.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– El portador es inmune a la ceguera.
+
+THAC0: +3
+Daño: 1d8+3 (cortante), +1 fuego, +1 ácido, +1 magia, +1 frío, +1 electricidad (aleatorio)
+Factor de velocidad: 2
+Tipo de competencia: Cimitarra/Wakizashi/Ninjatō
+Tipo: Una mano
+Requiere:
+10 Fuerza
+
+Peso: 1~
+@2121 = ~Martillo neumático +3~
+@2122 = ~Forjado por artesanos enanos, el Martillo de Aire fue diseñado como una herramienta mágica de rescate para los oscuros y peligrosos túneles de la Infraoscuridad, donde el humo y los vapores tóxicos representan una amenaza constante. Este objeto abre una puerta a un reino más allá del mundo material, lleno del aire puro del Plano Elemental. Al activarse su runa, el martillo libera una poderosa ráfaga que refresca un área de 9 metros con aire limpio, suficiente para sustentar a ocho humanos (o doce enanos) con un esfuerzo moderado. Este viento puede dispersar nubes venenosas y niebla mágica, incluyendo las creadas por hechizos como Nubes Mortales.
+Esta arma sólo puede ser utilizada por enanos.
+
+Habilidades de carga:
+– Zona de Aire Dulce una vez al día
+
+ESTADÍSTICA:
+
+THAC0: +3
+Daño: 1d4+4 (aplastante)
+Factor de velocidad: 1
+Tipo de competencia: Martillo de guerra
+Tipo: Una mano
+Requiere:
+9 Fuerza
+
+Peso: 4~
+@2123 = ~Vela de humo~
+@2124 = ~ Esta vela está hecha de cera de hollín que al encenderse emite una densa nube de humo. Sirve como conducto para invocar un méfit de humo de los Planos Internos, que servirá al usuario durante un breve periodo. La vela puede usarse tres veces antes de consumirse por completo.
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Invocar a Mephit de Humo (3 cargas)
+  Duración: 1 turno
+
+Peso: 1~
+@2125 = ~Segunda piel del enano +3~
+@2126 = ~Quien afirme que los enanos solo destacan en el trabajo de la piedra y el metal se equivocará con esta armadura de cuero. Hecha con la piel de un rothé profundo, ha sido cuidadosamente curtida con tinturas mágicas para ofrecer una excelente resistencia al daño, además de un aroma sorprendentemente agradable.
+
+Sin embargo, uno debe poseer la complexión robusta y la circunferencia amplia de un enano para beneficiarse plenamente de esta armadura.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– +10% de resistencia al daño cortante, perforante, de proyectiles y aplastante (solo para enanos)
+– Carisma: +1 (solo para enanos)
+
+Clase de armadura: 5 (7 contra perforantes y misiles)
+Requiere:
+3 Fuerza
+
+Peso: 4~
+@2127 = ~Bala de rata +1~
+@2128 = ~ Estas balas están hechas de pelo de rata, fundido en un trozo endurecido mediante una sustancia desconocida. Tienen la capacidad de invocar una rata durante tres rondas, apareciendo en el lugar del enemigo alcanzado.
+
+ESTADÍSTICA:
+
+– Al impactar: ​​Invoca una rata común junto a la criatura golpeada.
+
+THAC0: +1
+Daño: 1d4+2 (misil)
+Lanzador: Honda
+
+Peso: 0~
+@2129 = ~Guiño de borracho~  
+@2130 = ~El Guiño Borracho es una maza mágica empuñada por el famoso maestro cervecero y sacerdote de Vergadain, Bardain Jarra Dorada, también conocido como Bardain el Ungido por la Cerveza. Su lema era: «Vergadain atesora oro con alegría, Bardain lo ahoga todo en cerveza».
+ 
+La cabeza de esta arma es una jarra de metal, con su robusta empuñadura reconvertida en una cachiporra mortal. Esta maza ceremonial se usaba frecuentemente en rituales sagrados para rociar con cerveza a los fieles reunidos, una bendición en nombre del divino festejo del Maestro Cervecero. Hasta el día de hoy, la maza gotea un hilo constante de cerveza desde su borde superior. Tras una exposición prolongada, tanto el oponente golpeado como incluso quien la empuña pueden intoxicarse. Grabado en el mango hay un antiguo dicho enano: "¡Si no puedes con ellos luchando, bébelos!"
+
+La maza se considera una mezcla divina de artesanía enana y absoluta irresponsabilidad.  
+
+ESTADÍSTICA:  
+
+Habilidades equipadas:
+– Constitución: +1 (sólo para enanos)
+
+Habilidades de carga:
+– Una vez al día, si está ebrio, el portador puede pronunciar una Palabra Santa liberando un eructo atronador.
+
+Habilidades de combate:
+– En un golpe exitoso, la maza aumenta la intoxicación del objetivo o del portador en 10.
+
+ESTADÍSTICA:
+
+THAC0: +3
+Daño: 1d6+4
+Tipo de daño: Aplastamiento
+Factor de velocidad: 4
+Tipo de competencia: Maza
+Tipo: Una mano
+Requiere:
+10 Fuerza
+
+Peso: 6~
+@2131 = ~Bolsa de gemas y escarabajos caprichosos~
+@2132 = ~ Esta desgastada bolsa de cuero vibra y cruje de forma inquietante, como si estuviera poseída por una voluntad propia e impredecible. Su origen se remonta al curioso experimento de un gnomo excéntrico que buscaba crear un suministro infinito de gemas; sin embargo, un pequeño contratiempo alquímico conectó su matriz mágica con las fuerzas caóticas de la naturaleza.  
+
+Ahora, una vez al día, el portador de la bolsa puede meter la mano y sacar una gema reluciente. Sin embargo, la magia es voluble: en ocasiones, en lugar de un tesoro, emerge un escarabajo furioso, ansioso por manifestar su desagrado. La criatura muerde inmediatamente la mano del usuario antes de escabullirse para atacar a cualquier criatura a su alcance.    
+
+ESTADÍSTICA:
+
+– Una vez al día, produce una piedra preciosa aleatoria.
+– 15 % de probabilidad de invocar un escarabajo hostil que primero inflige 20 puntos de daño antes de atacar a las criaturas cercanas
+
+Peso: 6~
+@2133 = ~Bastón de defensa~  
+@2134 = ~El Bastón de Defensa es un bastón encantado que refuerza a su portador con hechizos protectores. Permite a su dueño lanzar Armadura y Escudo una vez al día. Además, el bastón mejora la clase de armadura del portador emanando un aura protectora sutil.  
+
+Según la leyenda, estos bastones se forjaron en Myth Drannor para que sus hechiceros tuvieran más probabilidades de sobrevivir en el campo de batalla. Muchos se perdieron en el caos de la caída de la ciudad, y hasta el día de hoy, los eruditos hablan de reliquias olvidadas que yacen en las profundidades de antiguas ruinas, esperando a su próximo portador.  
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura: +1
+
+Habilidades de carga:
+– Armadura (como el hechizo de mago de nivel 1) una vez al día  
+– Escudo (como el hechizo de mago de nivel 1) una vez al día  
+
+THAC0: +2
+Daño: 1d6+2 (aplastante)
+Factor de velocidad: 1
+Tipo de competencia: Bastón
+Tipo: A dos manos
+Requiere:
+5 Fuerza
+
+Peso: 1~  
+
+@3000 = ~Una estatua de Clangeddin Barbaplateada~
+@3001 = ~Diinkarazan, el hijo marginado de Moradin~
+@3002 = ~ Un cráneo ahuecado de un gigante, que aún irradia un gran calor. Probablemente se usaba para quemar sustancias con regularidad. ~
+@3003 = ~El dios Illithid Ilsensine destierra a Diinkarazan al Abismo~
+@3004 = ~Karlyn Kuldelver, Patriarca de Korolnor~
+@3005 = ~Este parece ser el otro extremo del cuerno utilizado para la comunicación en los niveles superiores.~
+@3006 = ~La antracita se enciende con una llama brillante.~
+@3007 = ~"A la Antigua Sala del Trono de los Marginados"~
+@3008 = ~"Diinkarazan, traidor de los ideales enanos"~
+@3009 = ~"Diinkarazan, acusado de practicar magia incontrolable"~
+@3010 = ~"Diinkarazan, expulsado del Panteón Enano"~
+@3011 = ~ Se ha colocado un hacha sobre este altar. Queda una segunda ranura vacía; parece que colocar otra arma podría activar un mecanismo.~
+@3012 = ~No puedes usar el hechizo "Vista de piedra" al aire libre.~
+@3013 = ~No puedes usar el hechizo "Vista de piedra" aquí.~
+@3014 = ~La estatua de Kelemvor brilla brevemente y una placa con el símbolo del Señor de los Muertos cae de repente al suelo.~
+@3015 = ~Escuchas una puerta de metal cerrándose más arriba.~
+@3016 = ~Se ha vuelto a abrir una puerta de metal más arriba.~
+
+@3017 = ~ Qué lástima que no reconociera a un compañero Zhentarim. Bueno, ¡quizás era demasiado estúpido para eso! No importa. ¡Que descanses, Gloriosos Inadaptados! ¡Ja! ~
+@3018 = ~ No les contaré nada a mis jefes. No es raro que los Zhentarim se maten entre sí de vez en cuando, pero no le demos tanta importancia al tieso que tenemos aquí.~
+@3019 = ~Al agarrarla, la piedra preciosa se desintegra en polvo brillante.~ [EFF_E03]
+
+@3020 = ~"¿Qué es ese maldito ruido? ¡Oigo a alguien ahí fuera!"~
+@3021 = ~"Argh. Cosas incompetentes."~
+@3022 = ~"¿Quién se está metiendo con mis trolls ahí arriba? ¡Muéstrate!"~
+@3023 = ~"¡Al próximo tonto que me decepcione lo entregaré a los gigantes!"~
+@3024 = ~"¡Detén ese ruido ahora mismo o subiré yo mismo!"~
+@3025 = ~"Alguien pagará caro este ultraje."~
+@3026 = ~"Si esos trolls me han fallado, rodarán cabezas, ¡lo juro!"~
+@3027 = ~"¡Qué maldición sobre este día miserable! ¡Exijo silencio!"~
+@3028 = ~"Quienquiera que esté causando este caos lo pagará caro. ¿Me oyes? ¿ME OYES?"~
+@3029 = ~"¡Estoy perdiendo la paciencia!"~
+@3030 = ~ "¡Este ruido es insoportable! ¿Quién está manipulando a mis guardias?"~
+@3031 = ~"¿Qué traición es esta? ¡Revélate, cobarde!"~
+@3032 = ~"¿Nadie puede hacer su trabajo ahí arriba? ¡Que se callen esos intrusos!"~
+@3033 = ~"¿Tan difíciles son mis órdenes? ¡Silencien a esos intrusos ahora!"~
+@3034 = ~"¡Por los dientes de Vaprak, me aseguraré de que alguien sufra por este alboroto!"~
+@3035 = ~Rata~
+@3036 = ~El Dios Loco ha sido desterrado nuevamente.~
+@3037 = ~Emberon~
+@3038 = ~Escarabajo aburrido~
+@3039 = ~Sólo puedes eructar la palabra sagrada estando ebrio.~  
+
+@3040 = ~Hongos venenosos~
+@3041 = ~Nube venenosa~
+
+
+
+

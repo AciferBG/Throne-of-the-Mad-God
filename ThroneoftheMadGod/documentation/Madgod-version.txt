@@ -1,6 +1,37 @@
 ***Throne of the Mad God - Version***
+
+V 1.9
+
+-added Polish Translation by my_summertime, Membress of SoM, part of CoB's Clan - thank you very much!
+-added localized readme support (PDF); installer will use language-specific file if available, otherwise fallback to English; thank you by my_summertime!
+-every language (except Polish and English, of course) receives additional English setup placed below own one, the missing strings are taken from the English: ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~; thank you by my_summertime!
+
+V 1.8
+- updated simplified Chinese Version by yoshimo0417
+
+V 1.7
+- added Brazilian Portuguese translation by dextermorgan, thank you very much!
+- updated German Version by Shai Hulud
+
+V 1.6
+- added Russian Version by Origanum8, paladin84 and scheele
+- the horn in area ACIL14 has now a larger trigger Region as some People missed it
+- the dialogue with Ursummnogh can now be triggered by taking the skull from the troll's altar
+
+V 1.5
+- added the mod's areas to the debug console, thanks Argent77!
+
+V 1.4
+- changed the script in AR0800 to not break Bodhi's appearance in chapter 6 anymore
+- Ring of Companionship has correct item stats
+- added compatibility for the EE Fixpack for Snow Trolls, Ice Trolls, Troll Shamans, Fire Trolls and Faerzress Trolls.
+
+V 1.3
+- added Spanish version by AlleyV
+
 V 1.2
 - added simplified Chinese version by Abdel-613
+
 V 1.1
 - updated readme
 - switched ac#der04 halberd to weapon slot #1

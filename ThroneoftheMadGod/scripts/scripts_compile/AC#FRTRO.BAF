@@ -1,41 +1,26 @@
 IF
-	OnCreation()
+    StateCheck(Myself,STATE_SLEEPING)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
+    RESPONSE #100
+        NoAction()
 END
 
 IF
-	HPLT(Myself,12)
+    OR(3)
+        See(NearestEnemyOfType([PC.0.0.BARD_ALL]))
+        See(NearestEnemyOfType([PC.0.0.LONG_BOW]))
+        See(NearestEnemyOfType([PC.0.0.SORCERER]))
+    !StateCheck(LastSeenBy(Myself),STATE_REALLY_DEAD)
+    !StateCheck(LastSeenBy(Myself),STATE_INVISIBLE)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
-		ChangeAnimationNoEffect("AC#FRTR2")  // Faerzress-Troll
+    RESPONSE #100
+        AttackReevaluate(LastSeenBy(Myself),5)
 END
 
 IF
-	TimerExpired(77)
+    See(NearestEnemyOf(Myself))
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
-END
-
-IF
-	OR(3)
-		See(NearestEnemyOfType([PC.0.0.BARD_ALL]))
-		See(NearestEnemyOfType([PC.0.0.MAGE_ALL]))
-		See(NearestEnemyOfType([PC.0.0.SORCERER]))
-!StateCheck(LastSeenBy(Myself),STATE_REALLY_DEAD)
-!StateCheck(LastSeenBy(Myself),STATE_INVISIBLE)
-THEN
-	RESPONSE #100
-		AttackReevaluate(LastSeenBy(Myself),5)
-END
-	
-IF
-	See(NearestEnemyOf(Myself))
-THEN
-	RESPONSE #100
-		AttackReevaluate(NearestEnemyOf(Myself),5)
+    RESPONSE #100
+        AttackReevaluate(NearestEnemyOf(Myself),5)
 END
 

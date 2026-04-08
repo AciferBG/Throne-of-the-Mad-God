@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @5500 = ~Nein! Bitte nichts tun! Grubnuk will keinen Ärger.~
@@ -29,7 +29,7 @@
 @5523 = ~Grubnuk macht Vorschlag. Wenn <PRO_RACE> Grubnuk nach draußen von hier fort lässt, gibt Euch Grubnuk als Dank seine Hand.~
 @5524 = ~Es braucht schon mehr als einen Handschlag als Belohnung für meine Dienste.~
 @5525 = ~Ihr meint, Ihr trennt Euch die Hand ab und gebt sie mir als Belohnung?~
-@5526 = ~Nein, nein, <PRO_RACE> versteht falsch. Grubnuk gibt Euch seine neue Hand. <PRO_RACE> kann Hand behalten. Grubnuk wächst in ein paar Tagen andere Hand. Grubnuks Hand ist mächtig, aber Grubnuk will seine alte Hand zurück.~
+@5526 = ~Nein, nein, <PRO_RACE> versteht falsch. Grubnuk gibt Euch seine neue Hand, <PRO_RACE> kann Hand behalten. Grubnuk wächst in ein paar Tagen andere Hand. Grubnuks Hand ist mächtig, aber Grubnuk will seine alte Hand zurück.~
 @5527 = ~In Ordnung. Dann mal her mit Eurer Hand.~
 @5528 = ~Ihr könnt gehen, aber ich will Eure Hand nicht.~
 @5529 = ~Anderer Vorschlag: Ihr behaltet Eure Hand, aber werdet durch meine Hand sterben.~

@@ -1,22 +1,11 @@
 
 BACKUP ~ThroneoftheMadGod/backup~
 AUTHOR ~Acifer~
-README ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme.pdf~
-VERSION ~V 1.2~
+README ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme-%LANGUAGE%.pdf~ ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme.pdf~
+VERSION ~1.9~
 
 ALWAYS
 
-/*
-  ACTION_DEFINE_ARRAY fl#reload BEGIN setup END
-  
-  LAF HANDLE_CHARSETS
-  INT_VAR
-  infer_charset = 1
-  STR_VAR
-  tra_path = EVAL ~ThroneoftheMadGod/language~
-  reload_array = fl#reload
-  END
-*/
   ACTION_IF GAME_IS ~eet~ BEGIN
     OUTER_SET bg2_chapter = 12
   END ELSE BEGIN
@@ -51,6 +40,7 @@ AUTO_TRA ~ThroneoftheMadGod/language/%s~
 LANGUAGE ~Deutsch~
          ~german~
          ~ThroneoftheMadGod/language/german/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/german/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~English~
@@ -61,15 +51,40 @@ LANGUAGE ~English~
 LANGUAGE ~Simplified Chinese by Abdel-613~
          ~schinese~
          ~ThroneoftheMadGod/language/schinese/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/schinese/ThroneoftheMadGod_Journal.tra~
+         
+LANGUAGE ~Spanish by AlleyV~
+         ~spanish~
+         ~ThroneoftheMadGod/language/spanish/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/spanish/ThroneoftheMadGod_Journal.tra~
 
-BEGIN ~Throne of the Mad God V 1.2~
+LANGUAGE ~Russian by Origanum8, paladin84 and scheele~
+         ~russian~
+         ~ThroneoftheMadGod/language/russian/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/russian/ThroneoftheMadGod_Journal.tra~
+         
+LANGUAGE ~Brazilian Portuguese by dextermorgan~
+         ~portuguese~
+         ~ThroneoftheMadGod/language/portuguese/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/portuguese/ThroneoftheMadGod_Journal.tra~
 
-//REQUIRE_PREDICATE GAME_IS ~bg2ee eet~       ~This mod runs only on Enhanced Edition engine.~
-REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) ~Requires BG2:EE or EET patched to 2.0 or higher.~  // Requires BG2:EE or EET patched to 2.0 or higher.
+LANGUAGE ~Polish by my_summertime, Membress of SoM, part of CoB's Clan~
+         ~polish~
+         ~ThroneoftheMadGod/language/polish/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/polish/ThroneoftheMadGod_Journal.tra~
+         
+BEGIN @0
+
+//REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @2  // Requires BG2:EE or EET patched to 2.0 or higher.
 
 INCLUDE ~ThroneoftheMadGod/lib/extra_regexp_vars.tph~
 INCLUDE ~ThroneoftheMadGod/lib/functions.tph~
+INCLUDE ~ThroneoftheMadGod/lib/add_areas_lua.tpa~
 
 ADD_JOURNAL @15000 @15001 @15002 @17000 @17001 @17002 @17003 @17004 @17010 @19000 @19001 @19002 @19003 @19010 @50000 @50001 @51000 @52001 @52002 @52003 @52004 @52008 @52009 @52010 @52050 @52051 @52052 @52060 @55000 @70000 @80000 @80001 USING ~ThroneoftheMadGod/language/%LANGUAGE%/ThroneoftheMadGod_Journal.tra~
 
@@ -758,6 +773,36 @@ COPY ~ThroneoftheMadGod/lightmaps/copy~         ~override~
 // Searchmap files
 ///////////////////////////////////////////////////////////////////////
 COPY ~ThroneoftheMadGod/searchmaps/copy~         ~override~
+
+///////////////////////////////////////////////////////////////////////
+// Adding areas to the debug console, thank you Argent77!
+///////////////////////////////////////////////////////////////////////
+
+ACTION_DEFINE_ASSOCIATIVE_ARRAY my_areas_lua BEGIN
+  "ACIL10" => "The Wailing Dwarf: Outside"
+  "ACIL11" => "The Wailing Dwarf: Destroyed entrance"
+  "ACIL12" => "The Wailing Dwarf: Trap level"
+  "ACIL13" => "The Wailing Dwarf: History of Korolnor level"
+  "ACIL14" => "Korolnor: Dungeon lvl 1"
+  "ACIL15" => "Korolnor: Dungeon lvl 2"
+  "ACIL16" => "Korolnor: Bridge entrance"
+  "ACIL17" => "Korolnor: Foundry (working)"
+  "ACIL18" => "Korolnor: Temple of Clangeddin"
+  "ACIL19" => "Korolnor: Throne of the Mad God"
+  "ACIL1K" => "Korolnor: Chasm of Kuldelver"
+  "ACIL1L" => "Korolnor: Sealed Underdark exit"
+  "ACIL1R" => "The Wailing Dwarf: Child's grave area"
+  "ACIL1U" => "Korolnor: Foundry (destroyed)"
+  "ACIL1V" => "Korolnor: Smithy"
+  "ACIL1W" => "The Wailing Dwarf: Berronar's temple"
+END
+
+LAF add_areas_lua
+  INT_VAR
+    soa = 1   // add to BG2 SoA campaign
+  STR_VAR
+    map_array = "my_areas_lua"
+END
 
 ///////////////////////////////////////////////////////////////////////
 // Worldmap

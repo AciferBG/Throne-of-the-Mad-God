@@ -1,70 +1,48 @@
 IF
-	OnCreation()
+    Global("AC#Troll_Tales","ACIL12",2)
+    AttackedBy([GOODCUTOFF],DEFAULT)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
+    RESPONSE #100
+        Enemy()
+        SetGlobal("AC#Troll_Tales","ACIL12",3)
 END
 
 IF
-	!StateCheck(Myself,STATE_REALLY_DEAD)
-	HPLT(Myself,12)
+    Global("AC#Troll_Tales","ACIL12",2)
+    See("AC#TRO72")  // Troll
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
-		ChangeAnimationNoEffect("AC#TRSN2")
+    RESPONSE #100
+        Enemy()
+        AttackReevaluate("AC#TRO72",5)  // Troll
 END
 
 IF
-	TimerExpired(77)
+    See(NearestEnemyOf(Myself))
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
+    RESPONSE #100
+        EquipMostDamagingMelee()
+        AttackReevaluate(NearestEnemyOf(Myself),30)
 END
 
 IF
-	Global("AC#Troll_Tales","ACIL12",2)
-	AttackedBy([GOODCUTOFF],DEFAULT)
+    AttackedBy([GOODCUTOFF],DEFAULT)
+    Allegiance(Myself,NEUTRAL)
 THEN
-	RESPONSE #100
-                Enemy()
-		SetGlobal("AC#Troll_Tales","ACIL12",3)
+    RESPONSE #100
+        Enemy()
 END
 
 IF
-	Global("AC#Troll_Tales","ACIL12",2)
-	See("AC#TRO72")
+    See(NearestEnemyOf(Myself))
 THEN
-	RESPONSE #100
-                Enemy()
-		AttackReevaluate("AC#TRO72",5)
+    RESPONSE #100
+        AttackReevaluate(NearestEnemyOf(Myself),5)
 END
 
 IF
-	See(NearestEnemyOf(Myself))
+    AttackedBy([ANYONE],DEFAULT)
 THEN
-	RESPONSE #100
-		EquipMostDamagingMelee()
-		AttackReevaluate(NearestEnemyOf(Myself),30)
+    RESPONSE #100
+        AttackReevaluate(LastAttackerOf(Myself),5)
 END
 
-IF
-	AttackedBy([GOODCUTOFF],DEFAULT)
-	Allegiance(Myself,NEUTRAL)
-THEN
-	RESPONSE #100
-		Enemy()
-END
-
-IF
-	See(NearestEnemyOf(Myself))
-THEN
-	RESPONSE #100
-		AttackReevaluate(NearestEnemyOf(Myself),5)
-END
-
-IF
-	AttackedBy([ANYONE],DEFAULT)
-THEN
-	RESPONSE #100
-		AttackReevaluate(LastAttackerOf(Myself),5)
-END

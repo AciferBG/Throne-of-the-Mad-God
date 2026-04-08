@@ -1,0 +1,1683 @@
+@0 	  = ~Throne of the Mad God mod do BG II EE~
+@1 	  = ~Ten mod dziala tylko z silnikiem Enhanced Edition.~
+@2 	  = ~Wymaga BG2:EE lub EET w wersji 2.0 lub wyzszej.~
+@3    = ~Hę?~ [AC#MFFO1]
+@4    = ~Ach!~ [FOMOR06A]
+@5    = ~Woda w źródle nagle staje się krystalicznie czysta i przejrzysta.~
+@6    = ~Bierzesz łyk i czujesz, jak wstępują w ciebie nowe siły, a ciało ogarnia zbawienne odświeżenie.~
+@7    = ~Musisz podejść bliżej, jeśli chcesz się napić z misy.~
+@8    = ~Drecz~
+@9    = ~Klosz ciemności~
+@10   = ~Klejnot z Korolnoru~
+@11   = ~To oszlifowany kamień szlachetny z Korolnoru, upadłego krasnoludzkiego królestwa słynącego z kunsztu jubilerskiego. Choć sam kamień nie posiada szczególnych właściwości magicznych, kunszt jego wykonania może przynieść pokaźną sumę u kupca.~
+@12   = ~To uschnięte drzewo jest mocno zakorzenione w skale. Pień wciąż zdaje się dość silny, by wytrzymać spory ciężar.~
+@13   = ~Możesz spróbować ściąć pień i użyć go jako kładki, by przejść przez niewielki wąwóz z powrotem do wyjścia.~
+@14   = ~Jesteś zbyt słaby, by ściąć to drzewo.~ ~Jesteś zbyt słaba, by ściąć to drzewo.~
+@15   = ~Kilkoma potężnymi uderzeniami broni wyrąbujesz nacięcie w drewnie, aż pień zaczyna się przechylać...~
+@16   = ~Pień upadł idealnie. Jesteś zadowolony ze swojej pracy.~ ~Pień upadł idealnie. Jesteś zadowolona ze swojej pracy.~  [AC#10TRE]
+@17   = ~Rondel upada na ziemię z głośnym brzękiem.~ [AC#15POT]
+@18   = ~Trolle i ich podgatunki~
+@19   = ~Trolle i ich podgatunki
+
+Autor: Glouris Mristifos, Mistrz Przemian z Wieży Sztuki w Twierdzy Zhentil
+Zleceniodawca: Mag Thagdal, Mistrz Wieży Sztuki
+
+Zadanie: Odnalezienie nowych gatunków trolli na potrzeby programów hodowlanych
+Lokalizacja: Krasnoludzkie ruiny w Trollowych Górach
+
+Wstęp: Trolle wykazują niezwykłe zdolności adaptacyjne. Z jednej strony krzyżują się z wieloma innymi prymitywnymi rasami, z drugiej zaś – chłoną cechy otoczenia. Oba te czynniki mogą prowadzić do powstania nowych odmian o unikalnych właściwościach. Czyni to trolle idealnymi obiektami dla programów hodowlanych Twierdzy Zhentil.
+
+Moim celem jest zbadanie ruin starożytnej krasnoludzkiej fortecy, znanej miejscowym jako Zawodzący Krasnolud, w poszukiwaniu kolejnych wariantów tych istot. Lokalny lud szepcze z trwogą o przerażających, nowych mieszańcach.
+
+Najbardziej obiecujące osobniki zostaną skatalogowane, aby nasz oddział uderzeniowy mógł je schwytać i wcielić do ośrodków hodowli potworów w Twierdzy Zhentil.
+
+Dotychczas odkryte okazy:
+
+Duchowy troll – Wbrew pozorom nie jest to troll nieumarły. Stanowi raczej osobliwą krzyżówkę pomiędzy niewidzialnym myśliwym a pospolitym trollem. 
+
+Widmowy troll – Wydaje się być prawdziwie nieumarłą formą trolla. Być może to osobnik, który miał styczność z upiorem?
+
+Szary troll – Kolejna odmiana trolla przeobrażona w nieumarłego. Zdaje się, że całkowite wyssanie poziomów tworzy szarego trolla.
+
+Troll przenikający – Ten troll został dotknięty Sferą eteryczną, co pozwala mu przemieszczać się pomiędzy sferami niczym pająk przenikający. Potrafi również tworzyć swoje lustrzane obrazy, dezorientując napastników. Okaz fascynujący, lecz trudny do kontrolowania.
+
+Kamienny troll – Odmiana trolla, która z niewiadomych przyczyn posiada zdolność utwardzania skóry na kształt litej skały. Niezwykle trudny do zgładzenia. Obowiązkowo schwytać do celów hodowlanych!
+
+Czarny troll – Wyjątkowo niebezpieczny gatunek. W żyłach czarnych trolli płynie krew z niższych sfer. Potrafią przywoływać pomniejsze biesy, wyzwalać potężne wyładowania elektryczne i spowijać wrogów ciemnością.
+
+Troll faerzress – Trolle te zostały wystawione na działanie rzadkiej magicznej aury Podmroku, znanej drowom jako „Faerzress”, która nadaje im nadzwyczajne właściwości. Wykazują wysoką odporność na magię i potrafią tłumić ją swoim dotykiem.
+
+Jadowy troll – Trolle, których zdolności regeneracyjne zostały wystawione na działanie silnych toksyn, w rzadkich przypadkach mogą zmienić się w jadowe trolle. Trująca krew tej odmiany pryska na pobliskich wrogów przy trafieniu, oblepiając nawet broń, która ich rani! Doskonały materiał do hodowli, gdyż łatwo ich stworzyć – nie ma potrzeby chwytania dzikich okazów, wystarczą eksperymenty na pospolitych osobnikach z użyciem różnych toksyn.
+
+Krążą również plotki o gatunku trolla ze Wschodu, wielkim niczym olbrzym i posiadającym dwie głowy. Jednak z racji tego, że stworzenia te nieustannie dążą do dominacji nad innymi trollami, nie nadają się do celów hodowlanych.
+
+Dodatkowo do Twierdzy Zhentil dotarły pogłoski o dziwnej, starożytnej i zapomnianej magii drzemiącej wewnątrz fortecy. Krasnoludy i magia? Osobliwa myśl. Zbadam to dokładniej.~
+@20   = ~Pierścień odporności na kwas~
+@21   = ~Pierścień odporności na kwas: „Głupota Zabarina”
+
+Podczas przywoływania rozmaitych szlamów i śluzów, sembijski mag Zabarin polegał na tym pierścieniu, by chronić się przed żrącymi efektami swoich własnych kreacji. Jego specjalnością było przyzywanie miniaturowych czarnych galaret, które zamykał w przygotowanych słojach, a następnie dyskretnie podrzucał do spiżarni swoich rywali. Zabarin dokonał żywota pod cielskiem potężnego awatara Ghaunadaura, nad którym próbował przejąć kontrolę. W starciu z czystą potęgą i złośliwością Pana Szlamów nawet jego ukochany pierścień okazał się bezużyteczny.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na kwas: +40%
+
+Waga: 0~
+@22   = ~Ktoś zostawił tu linę – prawdopodobnie po to, by spuścić się na niższy poziom.~
+@23   = ~Jeśli chcesz, możesz przywiązać linę do zawalonego mostu.~
+@24   = ~Oplatasz linę wokół głazu. Teraz można już wchodzić i schodzić.~
+@25   = ~Pułapka została uruchomiona~ [AC#MGTR1]
+@26   = ~Pułapka została uruchomiona~ [AC#MGTR2]
+@27   = ~Macka została odcięta~ [AC#MGFLS]
+@30   = ~Ochrona przed chorobą~
+@31   = ~Dzika magia~
+@51   = ~Przejście blokują liczne głazy. Musisz znaleźć inną drogę do krasnoludzkiego miasta.~
+@52   = ~Wygląda to na obozowisko poszukiwaczy przygód.~
+@53   = ~Brązowa tablica pokryta krasnoludzkimi runami, których nie potrafisz odczytać.~
+@54   = ~Szaman verbeegów~
+@55   = ~Diinkarazan~
+@56   = ~Fomorianin~
+@57   = ~Verbeeg~
+@58   = ~Ten posąg bez wątpienia przedstawia nieznaną ci krasnoludzką boginię.~
+@59   = ~Notatka łowcy skarbów~
+@60   = ~Na wszystkich bogów! Nic już mnie tu nie zatrzyma. Myśleliśmy, że skoro ten amnijski kapitan przetarł szlak, będziemy mogli swobodnie wejść do ruin i łupić, ile wlezie. Myśleliśmy, że trolle to najgorsze, co nas spotka – jakżeśmy się mylili!
+
+Wszystko zaczęło się tak obiecująco. Znaleźliśmy szyb, który – jak mieliśmy nadzieję – zaprowadzi nas w głąb twierdzy bez konieczności walki z trollami. Barkley schodził pierwszy i został ugryziony przez jakąś skrzydlatą bestię. Udało nam się ją przepędzić, ale gdy tylko udaliśmy się na spoczynek, głowa Barkleya nagle odpadła mu od ramion! Z jego uszu wyrosły skrzydła i z wrzaskiem rzucił się na mnie!
+
+Na Beshabę, uciekałem stamtąd, jakby mnie ukąsił pająk przenikający. Teraz muszę tylko przemknąć się przez główną salę i wiać stąd jak najdalej!~
+@61   = ~Dziennik Nhaira~
+@62   = ~Wyprawy dzień drugi
+Dotarliśmy do „Zawodzącego Krasnoluda”, przeszliśmy przez rozklekotany most wiszący, rozwiązaliśmy zagadki i teraz stoimy przed tym kolosalnym posągiem. Wiatr wyje wśród skał. Tylko krasnoludy mogły wpaść na pomysł, by wykuć taki monument prosto w zboczu góry!
+
+Wyprawy dzień trzeci
+Całe to przedsięwzięcie napawa mnie niepokojem. Jesteśmy w sali wejściowej Korolnoru i muszę przyznać, że panuje tu upiorna cisza. Jak na mój gust, jest tu zdecydowanie zbyt cicho. Innym zdaje się to nie przeszkadzać, ale niziołek wie, kiedy coś jest nie tak. Z każdym krokiem włosy na moich stopach stają dęba.
+
+Wyprawy dzień czwarty
+Kapitan Bryam, nasz nieustraszony dowódca, maszeruje przed siebie, jakby za każdym rogiem czekało złoto. Lady Startoróg, ta elfka, jest wiecznie poważna i zamyślona – studiuje każdą runę na ścianach. Nasz mag, Psi Czarodziej, pozostaje zagadką; ciągle mruczy coś pod nosem, z czego nic nie rozumiem. No i jest jeszcze Matrona Iremar, nasza kapłanka, błogosławiąca wszystko i wszystkich ze spokojem, który jest niemal deprymujący. Nhairze, miej się na baczności!
+
+Wyprawy dzień piąty
+Dotarliśmy do wielkiej sali. Brązowe tablice na posadzce opowiadają o długiej historii tego miejsca. Wszystko jest przerażająco puste. Ani jednego trolla w zasięgu wzroku! Nie ufam tej ciszy. Nie słychać nic poza echem naszych własnych kroków. Mam wrażenie, jakbyśmy tańczyli na cienkim lodzie na rzece Shaengarne, podczas gdy pod nami czai się wastrilith. Będę miał oczy szeroko otwarte, zwłaszcza w nocy. Kto wie? To może być pułapka, a my wchodzimy w nią jak durnie. Będę pilnował drzwi i cieni. Jeśli coś tam się czai, chcę to zobaczyć pierwszy.
+
+Wyprawy dzień szósty
+Bryam i reszta ruszyli na drugi poziom. Zostałem z tyłu, żeby spróbować otworzyć jedną z tych starych krasnoludzkich skrzyń, i wtedy to się stało – krata za moimi plecami opadła z głośnym łomotem. Nie ma odwrotu! To rzeczywiście była zasadzka. Muszę teraz rozbroić pułapkę przede mną i ostrzec resztę...~
+@63   = ~Pokrętło~
+@64   = ~To pokrętło służy do otwierania jakiegoś zaworu. Wygląda na to, że w przeszłości było wystawione na działanie wysokiej temperatury.~
+@65   = ~Krasnoludzki klucz~
+@66   = ~Klucz ten został przez ciebie wykuty w starej odlewni. Zdaje się pasować do bardzo konkretnego zamka.~
+@67   = ~Forma odlewnicza (górna część)~
+@68   = ~To pokrywa starej krasnoludzkiej formy służącej do odlewania klucza. Forma jest mocno skorodowana – prawdopodobnie od wielokrotnego kontaktu z roztopionym metalem. Bez dolnej części jest bezużyteczna.~
+@69   = ~Forma odlewnicza (dolna część)~
+@70   = ~To podstawa starej krasnoludzkiej formy służącej do odlewania klucza. Forma jest mocno skorodowana – prawdopodobnie od wielokrotnego kontaktu z roztopionym metalem. Bez pokrywy jest bezużyteczna.~
+@71   = ~Pas krasnoludów~
+@72   = ~Ten kunsztownie wykonany pas jest przyznawany zaufanym przedstawicielom innych ras – to zaszczyt rzadko spotykany u wiecznie nieufnych krasnoludów. Pozwala on noszącemu pojąć zawiłości krasnoludzkiego pisma i podstawy ich języka.
+
+Osobliwych zwyczajów i dziwactw krasnoludów nie da się jednak przekazać tak łatwo. Można się ich wyuczyć jedynie przez lata życia pośród tych słynących z opryskliwości i uporu istot.
+
+Krasnoludy nie mogą używać tego pasa.
+
+PARAMETRY:
+
+Specjalne:
+– Pozwala odczytywać krasnoludzkie runy Shanataru i rozumieć podstawy krasnoludzkiego pisma dethek
+– Kondycja: +1
+
+Waga: 2~
+@199  = ~Zwietrzały krasnoludzki posąg~
+@200  = ~Słuchacz~
+@201  = ~Kościana naga~
+@202  = ~Popielny golem~
+@203  = ~Thragmorr~
+@204  = ~Młotoręki golem~
+@205  = ~Mithrilowy golem~
+@206  = ~Zabójca derro~
+@221  = ~Wargulec~
+@222  = ~Krzyk wargulca~
+@223  = ~Szaman trolli~
+@224  = ~Ursummnogh Nieśmiertelny~
+@225  = ~Troll przenikający~
+@226  = ~Szary troll~
+@227  = ~Krzyk~ [AC#VARGS]
+@228  = ~Pocałunek wargulca~
+@229  = ~Zarażony troll~
+@230  = ~Grullak Runotkacz~
+@231  = ~Durnak Nagrobny~
+@232  = ~Archon młot~
+@233  = ~Zawodząca groza~
+@234  = ~Zaśniedziały strażnik~
+@235  = ~Greksylor~
+@236  = ~Niewolnik Aglar~
+@237  = ~Szaman goblinów~
+@238  = ~Zwiadowca derro~
+@239  = ~Worgul Silna Włócznia~
+@240  = ~Grubnuk~
+@241  = ~Chowaniec Glourisa~
+@242  = ~Allip~
+@243  = ~Przechera~
+@244  = ~Dziki nishruu~
+@316  = ~Zapiski Iremar~
+@317  = ~Z wielkim entuzjazmem dołączyłam do Bryama Lancametha, by odkrywać tajemnice starej krasnoludzkiej twierdzy w Królestwie Korolnoru.
+
+Zawsze fascynowała mnie historia Shanataru i nie mogłam przepuścić okazji, by na własne oczy ujrzeć jedno z jego dawnych państw.
+
+Wybór towarzyszy Lancametha może zaskakiwać, ale każdy z nich to sprawny poszukiwacz przygód – gotowy stawić czoła każdemu złu, które stanie nam na drodze. Szybko zaprzyjaźniłam się z Lady Startoróg, elfią łuczniczką. Jedynym, który napawa mnie niepokojem, jest dziwny mag nazywający siebie Psim Czarodziejem. Zdaje się być jakimś krasnoludem – może duergarem? Tak czy inaczej, ma wielkie doświadczenie w badaniu lochów. Czyżby pochodził z Podmroku?
+
+Niestety, straciliśmy naszego złodzieja, niziołka Nhaira Ebendara. Jego ciało znajduje się poza moim zasięgiem, przez co nie mogę przywrócić go do życia. Teraz zostaliśmy tylko my: Lancameth, Startoróg, Psi Czarodziej i ja.
+
+W końcu dotarliśmy do starej sali zgromadzeń, gdzie przed wiekami zbierali się wysłannicy różnych królestw Shanataru.
+
+Udało mi się rozszyfrować symbole po obu stronach korytarza – każdy z nich reprezentuje jedno z podległych królestw Shanataru. Prócz tego zapisano nazwy i tytuły tych państw. Każdemu królestwu nadano przydomek odzwierciedlający jego główny przemysł – na przykład Ultoksamrin, bogate w zardazil, nazwano Królestwem zardazilu. Jedynie chciwe krasnoludy z Drakkaloru nie otrzymały nazwy od minerału, lecz stosowny tytuł Miasta chciwości.
+
+Symbole przedstawiają się następująco:
+
+– Sondarr, Królestwo morskiej gwiazdy – moneta, prawdopodobnie symbol boga Vergadaina
+– Holorarar, Królestwo złota – symbol Moradina, kowadło
+– Ultoksamrin, Królestwo zardazilu – symbol Dumathoina, góra z kryształem
+– Barakuir, Królestwo żelaza – symbol Laduguera, tarcza ze strzałą
+– Torglor, Królestwo srebra – nieznany symbol (opadająca spirala?), bóstwo nieznane
+– Korolnor, Królestwo klejnotów – siedem kamieni szlachetnych, symbol niezidentyfikowanego boga – być może dawnego patrona tej twierdzy?
+– Wysoki Shanatar, Królestwo lodowca – symbol Tharda Harra, dwie rękawice
+– Xothaerin, Królestwo adamantu – symbol Sharindlar, płonąca igła
+– Iltkazar, Królestwo mithrilu – symbol Clangeddina, dwa skrzyżowane topory
+– Drakkalor, Miasto chciwości – symbol Abbathora, wysadzany klejnotami sztylet
+
+Obok każdego symbolu znajduje się mały ołtarz ofiarny. Wygląda na to, że wysłannicy każdego królestwa składali tu niegdyś swe insygnia władzy. Cel tego rytuału pozostaje dla mnie tajemnicą.
+
+Odpocznę tu chwilę, zanim zacznę dalsze badania. Muszę uważać, by nie zasnąć, bo z okolicznych sal dobiegają dziwne dźwięki, a od dłuższego czasu nie widziałam moich towarzyszy. Gdzież oni się podziali?~
+@318  = ~Morska ozdoba~
+@319  = ~To misternie wykonany klejnot przedstawiający koral i centralnie umieszczoną morską gwiazdę. Musiał zostać wykonany w miejscu, które przed wieloma wiekami było morzem.~
+@320  = ~Samorodek złota~
+@321  = ~To potężna bryła czystego złota. Jej wartość musi być ogromna, ale coś ci podpowiada, że nie powinno się jej tak łatwo sprzedawać.~
+@322  = ~Zardazil~
+@323  = ~Zardazil to rzadka, bursztynowo zabarwiona ruda. Stanowiąc metal o niezwykłej miękkości nigdy nie występuje w czystej postaci – wykorzystuje się go wyłącznie w stopach lub do powlekania innych metali. Wiąże się on bez trudu z innymi materiałami, jakby stapiał się z materiałem, którego dotyka.
+
+Masz wrażenie, że ta bryła zardazilu nie była przeznaczona do przetopienia. Jest wyraźnie wytarta, jakby przez stulecia przechodziła z rąk do rąk.~
+@324  = ~Żelazna kula~
+@325  = ~To nieco zardzewiała żelazna kula. Jej przeznaczenie jest niejasne.~
+@326  = ~Ruda srebra~
+@327  = ~To potężna bryła srebra. Masz wrażenie, że nigdy nie miała trafić do pieca hutniczego, gdyż jest mocno wygładzona, jakby przez stulecia przechodziła przez wiele rąk.~
+@328  = ~Oszlifowany klejnot~
+@329  = ~Ten kamień szlachetny został starannie oszlifowany i wypolerowany. Być może jest to szmaragd, choć nie masz co do tego całkowitej pewności.
+
+Kunszt wykonania budzi podziw, lecz krawędzie, niegdyś doskonałe, z biegiem wieków stały się kruche.
+
+Widziałeś już podobne kamienie w całej twierdzy, dlatego nie masz wątpliwości, że ten klejnot powstał właśnie tutaj. Nie powinieneś usuwać go pochopnie, zanim nie poznasz jego prawdziwego przeznaczenia.
+
+Wszystko wskazuje na to, że kamień był wielokrotnie osadzany w gnieździe lub jakimś mechanizmie.~ ~Ten kamień szlachetny został starannie oszlifowany i wypolerowany. Być może jest to szmaragd, choć nie masz co do tego całkowitej pewności.
+
+Kunszt wykonania budzi podziw, lecz krawędzie, niegdyś doskonałe, z biegiem wieków stały się kruche.
+
+Widziałaś już podobne kamienie w całej twierdzy, dlatego nie masz wątpliwości, że ten klejnot powstał właśnie tutaj. Nie powinnaś usuwać go pochopnie, zanim nie poznasz jego prawdziwego przeznaczenia.
+
+Wszystko wskazuje na to, że kamień był wielokrotnie osadzany w gnieździe lub jakimś mechanizmie.~
+@330  = ~Kamień lodowcowy~
+@331  = ~Ten gładki, zaokrąglony kamień musiał pochodzić z lodowca. Jego powierzchnia została wypolerowana przez stulecia nieustannego ruchu. Idealnie leży w dłoni. To, jak trafił z powierzchni w głębiny tego niszczejącego krasnoludzkiego miasta, pozostaje zagadką.~
+@332  = ~Adamant~
+@333  = ~Adamant to czysta ruda metalu o barwie kruczej czerni. Należy do najtwardszych, najlżejszych i najbardziej kruchych metali; służy do wykuwania legendarnego stopu znanego jako adamantyt. Często wykorzystują go rasy Podmroku, takie jak drowy, do wyrobu broni i pancerzy. 
+
+Ten odłamek adamantu nie wygląda na taki, który miał trafić do przetopienia. Jego krawędzie są starte, jakby przez stulecia przeszedł przez wiele rąk.~
+@334  = ~Mithril~
+@335  = ~Mithril to srebrzystoniebieski, lśniący metal wydobywany z rzadkich żył i głębokich złóż w całym Faerûnie i mrokach Podmroku.
+
+Mithril jest jednym z najlżejszych i najbardziej elastycznych metali – a przy tym wystarczająco mocnym, by używać go do kucia pancerzy. Jednak ten konkretny kawałek mithril zdaje się służyć do innego celu.~
+@336  = ~Rubinowa głowica~
+@337  = ~Ten wielki rubin zdaje się służyć jako głowica cennego ostrza, jednakże broń ta musiałaby być olbrzymich rozmiarów – być może to ostrze jakiegoś posągu lub innego krasnoludzkiego monumentu?~
+@338  = ~...trzeba... znaleźć dostęp... do niższego poziomu...~
+@339  = ~...dziesięć królestw Shanataru... dziesięć kluczy...~
+@340  = ~Ultoksamrin... Królestwo zardazilu...~
+@341  = ~Barakuir... dom klanu duergarów, kowali żelaza...~
+@342  = ~Torglor... Królestwo srebra... nieznany krasnoludzki bóg... jeden z dwóch wygnańców?~
+@343  = ~Drakkalor... Miasto chciwości... czciciele Abbathora...~
+@344  = ~Duch Iremar~
+@355  = ~Jako krasnolud bez trudu rozpoznajesz pradawne runy dethek. Wielkimi znakami wyryto w metalowej posadzce nazwę „Shanatar” – legendarne krasnoludzkie królestwo, opiewane przez naszych przodków w niezliczonych pieśniach, od wieków obrócone w ruinę.~ ~Jako krasnoludka bez trudu rozpoznajesz pradawne runy dethek. Wielkimi znakami wyryto w metalowej posadzce nazwę „Shanatar” – legendarne krasnoludzkie królestwo, opiewane przez naszych przodków w niezliczonych pieśniach, od wieków obrócone w ruinę.~
+@356  = ~Widziałeś już takie runy wiele razy. To runy dethek – pismo krasnoludów. Wielkimi znakami wyryto w metalowej posadzce nazwę „Shanatar”, legendarnego krasnoludzkiego królestwa, które w zamierzchłych wiekach rozciągało się pod południowymi ziemiami Wybrzeża Mieczy.~ ~Widziałaś już takie runy wiele razy. To runy dethek – pismo krasnoludów. Wielkimi znakami wyryto w metalowej posadzce nazwę „Shanatar”, legendarnego krasnoludzkiego królestwa, które w zamierzchłych wiekach rozciągało się pod południowymi ziemiami Wybrzeża Mieczy.~
+@357  = ~Korzystając z księgi poświęconej krasnoludzkiemu pismu, bez trudu odczytujesz runy dethek. Wielkimi znakami wyryto w metalowej posadzce nazwę „Shanatar” – legendarnego krasnoludzkiego królestwa, które w zamierzchłych wiekach rozciągało się pod południowymi ziemiami Wybrzeża Mieczy.~
+@358  = ~W metalowej posadzce osadzono grube krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@359  = ~Z tej odległości niczego nie dostrzeżesz.~
+@360  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Iltkazar, Królestwo mithrilu”.~
+@361  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Iltkazar, Królestwo mithrilu”.~
+@362  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Korzystając z księgi krasnoludzkiego pisma, bez trudu rozszyfrowujesz runy dethek. Głoszą one: „Iltkazar, Królestwo mithrilu”.~
+@363  = ~Na posadzce stoi niewielki krasnoludzki posąg. Obok niego w metalową posadzkę wtopiono grube krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@364  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Korolnor, Królestwo klejnotów”.~
+@365  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Korolnor, Królestwo klejnotów”.~
+@366  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Korzystając z księgi krasnoludzkiego pisma, bez trudu rozszyfrowujesz runy dethek. Głoszą one: „Korolnor, Królestwo klejnotów”.~
+@367  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Torglor, Królestwo srebra”.~
+@368  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Głoszą one: „Torglor, Królestwo srebra”.~
+@369  = ~Na posadzce stoi niewielki krasnoludzki posąg. Tuż obok w metalowej płytce wyryto małe runy. Korzystając z księgi krasnoludzkiego pisma, bez trudu rozszyfrowujesz runy dethek. Głoszą one: „Torglor, Królestwo srebra”.~
+@370  = ~Madugg~
+@371  = ~Na sztandarze widnieje symbol Karontora, boga Fomorian. Przedstawia on zimowego wilka.~
+@372  = ~Na sztandarze widnieje niezgrabnie namalowany biały wilk.~
+@375  = ~Inkagurksul~
+@376  = ~Derro~
+@377  = ~Bełt osłabienia~
+@378  = ~Bełty te zostały wykonane przez derro – podobną do krasnoludów rasę zamieszkującą Podmrok. Osławieni zarówno okrucieństwem, jak i obłędem, derro pokrywają swoje bełty paraliżującą trucizną, która wysysa siły ofiary, działając podobnie jak czar Promień osłabienia. Udany rzut obronny przeciw śmierci niweczy działanie trucizny.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: -1 (kumuluje się, rzut obronny przeciw śmierci neguje)
+Czas działania: 1 tura
+
+Obrażenia: 1k8
+Typ obrażeń: pocisk
+Wyrzutnia: kusza
+
+Waga: 0~
+@379  = ~Dlimoruk~
+@380  = ~Jamrry Śmiechoswar~
+@381  = ~Wybaczcie mi, proszę, pozwólcie mi przemówić, nim zaatakujecie.~ [AC#LOTH1]
+@382  = ~Moje życie jest w ruinie.~ [AC#LOTH2]
+@383  = ~Dokuriingor~
+@384  = ~Kostur Piekielnych Wrót~
+@385  = ~Ten kostur wykonany został z ciężkiego stopu metali i zdaje się promieniować aurą czystego zła.
+
+Nazwa „Piekielne Wrota” odnosi się nie do Dziewięciu Piekieł, lecz do upadłego miasta Ascalhorn, znanego dziś jedynie jako Twierdza Piekielnych Wrót. Niegdyś w jej murach niezliczeni mistrzowie magii toczyli pojedynki, przyzywając biesy z niższych Sfer, aż w końcu miasto zostało opanowane przez wielką hordę tanar'ri – demonów z Otchłani.
+
+Kostur ten, kojarzony z wrogami słynnego maga Wulgretha z Ascalhornu, daje dzierżącemu moc przywoływania owych istot. Używając go, można na krótko otworzyć portal do Otchłani, pozwalając kilku mniejszym demonom wejść w Sferę materialną. Ze względu na swą chaotyczną naturę, demony te mogą być trudne do opanowania, choć nigdy nie zaatakują przyzywającego. Nigdy nie wiadomo, jaki bies odpowie na wezwanie – najczęściej są to pomniejsze tanar'ri, takie jak demony mane, przechery czy drecze, a sporadycznie chochliki.
+
+Istnieje jednak niewielka szansa, że przez portal przedostanie się potężniejszy tanar'ri – nabassu. Nabassu nie da się kontrolować i natychmiast zaatakuje każdą istotę w pobliżu, która nie jest chroniona czarem Ochrona przed złem.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Raz dziennie przywołuje grupę pomniejszych tanar'ri, które przez krótki czas służą posiadaczowi.
+– 10% szans, że zamiast nich pojawi się nabassu, atakujący wszystko w zasięgu wzroku.
+Czas działania: 1 tura
+
+Wymagania:
+– Inteligencja: 12
+
+Waga: 1~
+@387  = ~Mikstury Jamrry’ego~
+@392  = ~Kamienny troll~
+@393  = ~Pracownik kuźni~
+@395  = ~Otwierasz drzwiczki pieca hutniczego i nagle wyskakuje z niego rozwścieczony żywiołak ognia!~
+@398  = ~Zdeformowany żarem klucz~
+@399  = ~Wygląda na to, że ten klucz przez długi czas był wystawiony na działanie skrajnie wysokiej temperatury.~
+@400  = ~Otwierasz drzwiczki pieca hutniczego i z impetem wydostaje się z niego potężny żywiołak ognia!~
+@405  = ~Krasnoludzka tabliczka runiczna~
+@406  = ~To krasnoludzki kamień runiczny. W pośpiechu wyryto na nim słowa:
+„Zapieczętowaliśmy przejścia prowadzące do Podmroku. Nie ma już drogi powrotu. Zaraza, którą sprowadził na nas Wygnaniec wraz ze swoimi skrzydlatymi bestiami, nie może rozlać się na pozostałe podkrólestwa Shanataru. Moim obowiązkiem jest pozostać tutaj razem z Garbo, moim współtowarzyszem, i strzec zamkniętej bramy.
+
+Wielu zrozpaczonych próbuje uciec z miasta, lecz nie ma dla nich wyjścia – odkąd zdrajcy, którzy odmówili wyrzeczenia się Wygnańca, zostali wypędzeni tą właśnie drogą.”
+
+Choć przedmiot ten może posiadać wartość kulturową, nie wydaje się być ani magicznym, ani też przydatnym w twojej misji.~
+@407  = ~„Na mocy dekretu królewskiego rodu Kuldelver wszystkie przejścia do Głębokich Ziem zostały zapieczętowane, aby klątwa trapiąca nasz klan nie rozprzestrzeniła się na pozostałe podkrólestwa.
+
+Odtąd Korolnor pozostaje zdane wyłącznie na siebie, porzucone własnemu losowi wobec wrogów zarówno z wewnątrz, jak i z zewnątrz.
+
+Niech nasze królestwo albo odrodzi się w tej najciemniejszej godzinie, albo zginie na zawsze.”.~
+@408  = ~To dawne przejście jest zablokowane przez potężne głazy. Zdaje się, że niegdyś prowadziło do Podmroku, ale nie ma już możliwości przejścia.~
+@409  = ~Zniszczona krasnoludzka zbroja~
+@410  = ~Ta zbroja została wykuta z nieznanego metalu i wygląda na niezwykle starą.
+
+Wszystko wskazuje na to, że jej właściciel przetrwał wiele bitew – ale nie tę ostatnią. Pancerz jest strzaskany i nie nadaje się do naprawy; nie będzie z niego żadnego pożytku.~
+@411  = ~Szkielet olbrzyma~
+@413  = ~W posadzce tego pomieszczenia osadzono wielką mapę z brązu, na której umieszczono kilka kamiennych figurek przedstawiających krasnoludy.~
+@415  = ~Na tym potężnym filarze wyryto krasnoludzkie runy:
+
+„Wzniesione przez Karlyna Kuldelvera, Pana Korolnor, w roku 433 po założeniu jego rodu.
+
+Niechaj te pałace trwają po wsze czasy, będąc bezpieczną przystanią dla braci i sióstr z Shanataru”.~
+@416  = ~Na tym potężnym filarze wyryto liczne krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@417  = ~To zdaje się ten sam szyb windy, który widziałeś na piętrze powyżej. Musi prowadzić jeszcze głębiej w dół.~ ~To zdaje się ten sam szyb windy, który widziałaś na piętrze powyżej. Musi prowadzić jeszcze głębiej w dół.~
+@418  = ~W tym miejscu szyb schodzi jeszcze głębiej.~
+@419  = ~Szkielet ettina~
+@420  = ~Starożytna księga~
+@421  = ~Duch Karlyna Kuldelvera~
+@422  = ~Posąg Clangeddina~
+@423  = ~Chimera~
+@484  = ~Gdy udręczony krzyk wampira milknie, zauważasz, że w jego martwej dłoni spoczywa niewielkie pokrętło, służące do obsługi jakiegoś mechanizmu. Zabierasz je i chowasz do ekwipunku.~
+@485  = ~Pierścień wiedzy~
+@486  = ~Ten skromnie wyglądający pierścień znacznie poszerza wiedzę noszącego, zsyłając przebłyski wspomnień o wydarzeniach z odległej przeszłości. Pozwala to lepiej zrozumieć historyczne powiązania oraz rozszyfrować starożytne teksty i języki.
+
+Artefakty tego typu są niezwykle cenione przez uczonych.
+
+Powiada się, że Oghma podarował niegdyś taki pierścień pewnemu aroganckiemu filozofowi, który uświadomiwszy sobie własną ignorancję, porzucił filozofię i poświęcił się uprawie roli.
+
+PARAMETRY:
+
+Specjalne:
+– Wiedza: +20~
+@487  = ~Ildanfal~
+@488  = ~W języku olbrzymów, jotun, „Ildanfal” oznacza „Ognisty Szturm”. Broń ta stanowi dowód na to, że ogniste olbrzymy są mistrzami kowalstwa.
+
+Ten potężny młot jest jednak o wiele za duży i za ciężki dla kogoś mniejszego niż ognisty olbrzym. Nawet gdyby komuś udało się magicznie zwiększyć swą siłę, by móc go udźwignąć, władanie tą bronią wymagałoby ogromnego wysiłku i byłoby niezwykle powolne.
+
+Co więcej, istnieje ryzyko, że dzierżący młot może od czasu do czasu stanąć w płomieniach. To, co ogniste olbrzymy uznają za przyjemne, kojące ciepło, dla kogoś innego może okazać się zabójczym piekłem.
+
+PARAMETRY:
+
+Specjalne:
+– Liczba ataków na rundę: -0,5
+– 5% szans na uderzenie Słupem ognia w posiadacza przy każdym udanym trafieniu
+
+Obrażenia: 2k4 +4, +1k8 obrażeń od ognia
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 22
+
+Waga: 20~
+@489  = ~Nie dostrzegasz dna tej szczeliny, lecz z jej wnętrza nieustannie unosi się ciepłe powietrze.~
+@490  = ~Ogar trolli~
+@491  = ~Kursh Złamanorogi~
+@495  = ~Łuk Deszczu Śmierci~
+@496  = ~Łuk Deszczu Śmierci został wykonany przed wiekami z młodych gałęzi świętego drzewa elfów. Jego drzewce pokrywają liczne wyryte symbole.
+
+Pozwala on raz dziennie przyzywać niszczycielski deszcz strzał na wrogów
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Deszcz strzał: raz dziennie na cel spada grad strzał, zadając 2k6 obrażeń jemu oraz wszystkim przeciwnikom w promieniu 3 metrów.
+
+TraK0: +4
+Opóźnienie: 4
+Rodzaj biegłości: łuk długi
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 16
+
+Waga: 3~
+@497  = ~Ta zardzewiała dźwignia służyła niegdyś do aktywowania i dezaktywowania pułapek w tych pomieszczeniach. Zdaje się wciąż działać.~
+@498  = ~Przesuwasz dźwignię. Wygląda na to, że wszystkie pułapki w korytarzach zostały rozbrojone.~
+@499  = ~Pułapki są już rozbrojone.~
+@510  = ~Rycerski edykt~
+@511  = ~Haimmonie, dowiodłeś, żeś godzien pasowania na rycerza w świętym Zakonie Kuldara z Barakmordin.
+
+Twoją ostatnią próbą przed obrzędem inicjacji będzie wyprawa w Trollowe Góry i odnalezienie zła, które ścigamy od dawna – zła czającego się teraz w pozostałościach dawnego krasnoludzkiego królestwa Korolnor.
+
+Nasz zakon został założony na starożytnych ruinach krasnoludów, a Barakmordin oznacza w ich języku „Góry Tarczy”. Co więcej, legenda głosi, że sąsiednie góry Omlarandin były niegdyś siedzibą legendarnego królestwa Iltkazar. Choć krasnoludy dawno zniknęły, my, ludzie, wciąż podtrzymujemy tradycje ich wartości i jestem pewien, że wypełnisz tę misję ku naszemu najwyższemu zadowoleniu.
+
+Barakmordin, 1303 r. KD,
+Podpisano: Gaufrid, Szerokie Ostrze Torma,
+Wielki Mistrz Paladynów Zakonu Kuldara.~
+@514  = ~Tu spoczywa Ragmus, pierworodny z rodu Kuldelver, syn Karlyna Zabójcy Olbrzymów, zgładzony w wieku ośmiu lat przez zdradziecką ludzką strzałę.~
+@515  = ~Kości dziecka~
+@516  = ~To kości dziecka. Sądząc po kształcie czaszki, musiało to być krasnoludzkie dziecko.~
+@517  = ~Na tym wielkim kamieniu wyryto krasnoludzkie runy:
+„Obcy, miejcie świadomość, że wkraczacie na ziemie krasnoludów z Korolnoru, spadkobierców wielkiego królestwa Shanatar”.~
+@518  = ~Ten wielki kamień pokrywają liczne krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@519  = ~Na tym wielkim kamieniu wyryto krasnoludzkie runy:
+„Usłysz głos posągu Kuldelvona, którego jęk zmusza wrogów krasnoludów do ucieczki!”~
+@520  = ~Na tym wielkim kamieniu wyryto krasnoludzkie runy:
+„Na północ leży Królestwo Korolnoru. Karlyn z klanu Kuldelver wita w swych komnatach wszystkich przyjaciół krasnoludów”.~
+@521  = ~Na tym wielkim kamieniu wyryto krasnoludzkie runy:
+„Przy tym brodzie Karlyn z klanu Kuldelver jednym cięciem topora zgładził tchórzliwego Kutloga, króla wzgórzowych olbrzymów”.~
+@522  = ~Na tym wielkim kamieniu wyryto krasnoludzkie runy:  
+„Ocalałe olbrzymy zbiegły w Góry Ucieczki Olbrzymów. Od tamtych dni pasmo to nosi właśnie tę nazwę, przypominającą o ich ucieczce i klęsce. Karlyn postanowił wznieść nową twierdzę swego rodu przy tym właśnie brodzie.  
+
+Aby po wsze czasy przypominać olbrzymom o ich klęsce, nakazał wznieść potężny posąg krasnoludzkiego strażnika. Zwrócony na wschód monument, którego jęk słychać z oddali, wiecznie obwieszcza każdemu przybyszowi: Drżyjcie przed gniewem krasnoludów!”~
+@523  = ~Ta tablica z brązu przedstawia krasnoludzki posąg otoczony siedmioma klejnotami. Na obramowaniu wyryto krasnoludzkie runy:  
+„Korolnor, Królestwo klejnotów, dom klanu Kuldelver, dumna część Królestwa Shanataru”.~
+@524  = ~Ta tablica z brązu przedstawia krasnoludzki posąg otoczony siedmioma klejnotami. Na obramowaniu widnieją krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@528  = ~Nad wejściem widnieje napisane złotymi runami krasnoludzkie słowo „Korolnor”.~
+@529  = ~Święty miecz przebija ciało demonicznego trolla, rozrywając go na strzępy.~
+@530  = ~Ta tablica z brązu przedstawia symbol młota i kowadła otoczony siedmioma klejnotami. To znak Moradina, Wszechojca krasnoludów.  
+
+Na obramowaniu wyryto krasnoludzkie runy:  
+„Korolnor, Królestwo klejnotów, potomkowie Taarka Shanata, założyciela Shanataru, słudzy Moradina”.~
+@531  = ~Ta tablica z brązu przedstawia symbol młota i kowadła otoczony siedmioma klejnotami. Na obramowaniu widnieją krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@532  = ~Ta tablica z brązu przedstawia symbol młota i kowadła otoczony siedmioma klejnotami – znak Moradina.  
+
+Na obramowaniu wyryto krasnoludzkie runy:  
+„Podobnie jak wszystkie dziesięć królestw Shanataru, tak i Królestwo klejnotów, Korolnor, przeżywało niegdyś wiek dobrobytu.  
+
+Moradin spoglądał na swe dzieci z przychylnością. Gdy królestwo powstawało, krasnoludy z Korolnoru wybrały na swego patrona jednego z bliźniaczych synów Moradina – było to w czasach, gdy nie uległ on jeszcze szaleństwu”.~
+@533  = ~Ta tablica z brązu przedstawia odzianego w szaty krasnoluda otoczonego siedmioma klejnotami.  
+
+Na obramowaniu wyryto krasnoludzkie runy:  
+„Lecz wraz z upływem czasu oblicze ich patrona uległo zmianie; stał się on samolubnym bóstwem, które zaczęło pożądać zakazanej magii i mrocznych tajemnic”.~
+@534  = ~Ta tablica z brązu przedstawia odzianego w szaty krasnoluda otoczonego siedmioma klejnotami. Na obramowaniu widnieją krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@535  = ~Ta tablica z brązu przedstawia symbol łupieżcy umysłów otoczony siedmioma klejnotami.  
+
+Na obramowaniu wyryto krasnoludzkie runy:  
+„Podczas jednej ze swych zakazanych wypraw syn Moradina wraz ze swym bratem wkroczył do domeny boga łupieżców umysłów i za karę został przeklęty wiecznym szaleństwem”.~
+@536  = ~Ta tablica z brązu przedstawia symbol łupieżcy umysłów otoczony siedmioma klejnotami. Na obramowaniu widnieją krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@538  = ~Ten most został niewątpliwie wzniesiony rękami krasnoludów i niegdyś spinał brzegi rwącej rzeki.  
+
+Niestety dawno temu uległ zniszczeniu. Dostrzegasz, że prawdopodobnie użyto specjalnego mechanizmu, by posłać napastników prosto w przepaść.~
+@539  = ~Ten most spinał niegdyś brzegi rwącej rzeki.  
+
+Niestety dawno temu uległ zniszczeniu. Dostrzegasz, że prawdopodobnie użyto specjalnego mechanizmu, by posłać napastników prosto w przepaść.~
+@540  = ~Ten most spinał niegdyś brzegi rwącej rzeki. Niestety dawno temu uległ zniszczeniu.~
+@543  = ~Te zwłoki nie mają głowy.~
+@544  = ~To zdaje się jeden ze starych szybów wentylacyjnych, prowadzący w głębokie czeluście.
+
+Nie dostrzegasz dna, a lęk przed zbyt bliskim podejściem do krawędzi podpowiada ci, że jeden fałszywy krok może skończyć się upadkiem. Powietrze wydostające się z mroku jest stęchłe i duszne.~
+@545  = ~Ta tablica przedstawia oblicze Moradina Wszechojca.
+
+Wokół niego wyryto krasnoludzkie runy:
+„W swym gniewie Moradin wygnał swe bliźniacze dzieci ze wspólnoty krasnoludzkich bogów, aby nigdy więcej nie sprowadziły na świat tak niewypowiedzianej zguby”.~
+@546  = ~Ta tablica z brązu przedstawia symbol brodatego krasnoluda. Obramowanie pokrywają krasnoludzkie runy, ale nie potrafisz ich odczytać.~
+@547  = ~Tańczące ostrza~
+@548  = ~Krzyk wargulca~
+@549  = ~Neutralizacja gazu~
+@550  = ~Neutralizacja gazu
+(Odrzucanie)
+
+Poziom: 7
+Zasięg: rzucający
+Czas działania: trwały
+Czas rzucania: 1
+Obszar działania: specjalny
+Rzut obronny: brak
+
+Dzięki temu zaklęciu mag sprawia, że szkodliwe opary, gazy, chmury lub mgły znajdujące się w obszarze działania stają się nieszkodliwe. Dotyczy to Śmierdzącej chmury, Zabójczej chmury, Zabójczej mgły, Zapalającej chmury oraz podobnych czarów i efektów. Wszelkie utrzymujące się szkodliwe wyziewy zostają rozproszone. Istoty, które znajdowały się pod wpływem oparów przed rzuceniem czaru, nadal będą odczuwać jego skutki – zaklęcie to nie cofa już otrzymanych obrażeń. Jeśli Neutralizacja gazu zostanie rzucona w tej samej rundzie, w której wystąpił efekt oparów, może również posłużyć do przeciwdziałania atakom zionięciem opartym na gazie, zapewniając poszkodowanym istotom modyfikator +4 do rzutów obronnych oraz 50% odporności na takie ataki.~
+@551  = ~Czarny troll~
+@552  = ~Grupowe drążenie Larlocha~
+@553  = ~Grupowe drążenie Larlocha
+(Nekromancja)
+
+Poziom: 9
+Zasięg: 10 metrów
+Czas działania: specjalny
+Czas rzucania: 3
+Obszar działania: 1 istota oraz kwadrat o boku 10 metrów
+Rzut obronny: brak
+
+Za pomocą tego czaru mag wysysa siłę życiową wszystkich wrogów w obszarze działania i dodaje ją do własnej. Ofiary otrzymują 1k8 obrażeń, podczas gdy rzucający zyskuje 1k8 punktów życia za każdą trafioną istotę. Jeśli liczba punktów życia maga przekroczy jego poziom maksymalny, traci on nadmiarowe punkty po upływie 3 rund.~
+@554  = ~Koślawo spisana notatka~
+@555  = ~Ten skrawek nie jest papierem, lecz kawałkiem cuchnącej skóry.
+
+Zabazgrany został poszarpanymi, koślawymi literami, czerwono-czarnym atramentem, we wspólnym:
+„Trole z Puunocy, ićta na połdnie i dołonczta do wiecznego Krurestwa Sztomhajm! Ursummnogh Niezabijalny czeka na was.”~
+@556  = ~Ochrona przed dobrem~
+@557  = ~Narg Czarny~
+@558  = ~Rozmycie w cieniu~
+@559  = ~Znika w cieniu~
+@564  = ~Duch Nhaira Ebendara~
+@565  = ~To posąg Berronar Czyste Srebro, krasnoludzkiej bogini życia, uzdrawiania i bezpieczeństwa.~
+@566  = ~Rozpruwacz Olbrzymów +2/+3~
+@567  = ~Drzewce tego topora wykonano z kości udowej olbrzyma. Broń ta należała niegdyś do Rothdora, krasnoludzkiego berserkera z bractwa toporów Clangeddina.
+
+Rothdor służył królowi Shanataru w czasach, gdy potężna horda olbrzymów ze wschodu zagroziła ziemiom leżącym nad krasnoludzkim królestwem. Berserkerów wysłano na pomoc ludzkim sprzymierzeńcom na powierzchni i zadanie to wykonali z niezwykłym męstwem – w wielkiej bitwie szybko doprowadzili olbrzymy na skraj klęski. Niestety, ludzie, których krasnoludy miały wesprzeć, nie wykazali najmniejszej chęci, by sami stanąć do walki. Po długim i wyczerpującym boju berserkerzy, jeden po drugim, zostali otoczeni i stratowani przez olbrzymy.
+
+Topór Rothdora przechodził później z rąk do rąk, aż w końcu powrócił do krasnoludów Shanataru. Po upadku królestw Xothaerin, Torgloru i Korolnoru potężna broń zaginęła jednak bez śladu i na długie lata popadła w zapomnienie.
+
+PARAMETRY:
+
+Specjalne:
+– Trafione olbrzymy otrzymują dodatkowe 3 obrażenia od krwotoku na rundę przez 2 rundy oraz zostają spowolnione na 2 rundy
+
+Obrażenia: 1k8 +2, +3 (tylko krasnoludowie)
+TraK0: +2, +3 (tylko krasnoludowie)
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 5~
+@570  = ~Szmaragdowy golem~
+@572  = ~Bryam Lancameth~
+@573  = ~Głowa Lancametha~
+@574  = ~Oto głowa Bryama Lancametha, kapitana armii Amn, który wraz ze swoimi towarzyszami wyruszył do Zawodzącego Krasnoluda. Ukąszony przez wargulca, sam stał się jedną z tych poczwar z Otchłani.
+
+Głowa jest groteskowa, a twarz wykrzywiona w ohydnym grymasie – w tym stanie niemądrze byłoby pokazywać ją wdowie z Dzielnicy Cmentarnej.~
+@575  = ~Posąg krasnoludzkiego strażnika~
+@576  = ~Klucz-miecz~
+@577  = ~Ten „miecz” jest w rzeczywistości misternie wykonanym kluczem, zaprojektowanym tak, by pasował do odpowiedniego zamka.~
+@578  = ~Powietrze w tej komnacie przesiąknięte jest odorem zgnilizny, rozkładu i niewysłowionej złośliwości. Gęsta mgła ściele się przy ziemi, zasłaniając to, co kryje się poniżej, i nie pozostawiając żadnej wskazówki, jak głęboko naprawdę sięga otchłań.~
+@583  = ~To zdaje się być dawnym tronem Korolnoru. Podium przed nim jest pokryte krasnoludzkimi runami, ale nie potrafisz ich odczytać.~
+@584  = ~Starożytny, potężny tron Korolnoru.
+
+Na podium przed nim wyryto krasnoludzkie runy:
+
+„Strażników sześciu w wiecznym chłodzie trwa,
+Każdego topór dawny kryształ ma.
+Siódmego chronią, co się w głębiach skrył,
+Aby nie zbudzić zła niszczących sił.
+
+Zaklęci w kamień, wieczną pełnią straż,
+Szalony Bóg w dół spadły krzywi twarz.
+W okowach straży drży pobity Wróg,
+Tu krasnoludów męstwo chroni próg”.~
+@585  = ~Mała dźwignia~
+@586  = ~Ta dźwignia wydaje się częścią większego mechanizmu.~
+@595  = ~FILISTRZY!~
+@596  = ~Gisbert~
+@603  = ~Darcia Lancameth~
+@605  = ~Dokumenty Lancametha~
+@606  = ~Są to osobiste dokumenty kapitana Bryama Lancametha. Zawierają rozmaite zapiski związane z dowodzeniem oddziałem z Amn, jego służbą w Eshpurcie oraz inne sprawy administracyjne, mające niewielki związek z twoją obecną misją.
+
+Niektóre z jego notatek szczegółowo opisują badania nad krasnoludzkimi ruinami na terenie dzisiejszego Amn, dochodzenie w sprawie rzekomego źródła plagi trolli w okolicznych górach oraz poszukiwania odpowiednich towarzyszy na jego ostatnią wyprawę. Dołączona jest również szczegółowa mapa Trollowych Gór, na której wyraźnie zaznaczono jeden ze szczytów, położony niedaleko źródeł rzeki. Nad nim widnieje napis: „Zawodzący Krasnolud”.
+
+Przeglądasz notatki, by zyskać lepszy pogląd na sytuację:
+
+„Zawodzący Krasnolud to starożytna krasnoludzka forteca w Trollowych Górach.
+
+Z czasów mojej służby w Eshpurcie wiem, jak liczne i uciążliwe są trolle w tym regionie. Podejrzewam, że źródło ich plagi może znajdować się właśnie w tej dawnej twierdzy.
+
+Co więcej, osobliwy, niewysoki mag, którego spotkałem, twierdził, że ruiny mogą skrywać ogromne ilości klejnotów. Nie pragnę sławy ani bogactwa, lecz takie skarby z pewnością mogłyby przysłużyć się mojej ojczyźnie.
+
+Znalezienie godnych zaufania towarzyszy nie było łatwym zadaniem, lecz wierzę, że udało mi się zebrać odpowiednią drużynę. Jutro wyruszamy do Eshpurty, gdzie wzniesiemy ostatnią modlitwę do Tempusa, nim od południa wkroczymy w Trollowe Góry.
+
+Jeśli podążymy na północ wzdłuż nurtu Trollowego Zęba, aż rzeka stanie się jedynie górskim strumieniem, wkrótce powinniśmy ujrzeć kamienne oblicze Zawodzącego Krasnoluda”.~
+@607  = ~Notatki Iremar~
+@608  = ~Notatki te należą do kapłanki Iremar ze świątyni Oghmy.
+
+Zawierają szczegółowe sprawozdania z historii krasnoludów na ziemiach Amn i Tethyru.
+
+Zakładka wskazuje konkretny fragment – wpis poświęcony budowie Zawodzącego Krasnoluda.~
+@610  = ~Sztylet naręczny Quar-Shana~
+@611  = ~Quar-Shan był groźnym zabójcą z Calimshanu, służącym pierwszym paszom.
+
+Choć ten sztylet naręczny zadaje niewielkie obrażenia ze względu na krótką klingę, jego niewielkie rozmiary pozwalają łatwo go ukryć. Często zaskakuje przeciwników w chwili, gdy ci opuszczają gardę.
+
+Z tego powodu jest to broń idealna dla kogoś, kto pragnie zadawać śmiertelne ciosy z ukrycia.
+
+PARAMETRY:
+
+Specjalne:
+– Szansa na trafienie krytyczne: +5% przy użyciu tej broni
+– Premia do ciosu w plecy: +1
+
+Obrażenia: 1k3 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 0~
+@612  = ~Jorboud Rogopalcy~
+@613  = ~Glouris Mristifos~
+@846  = ~Płaszcz petryfikacji~
+@847  = ~Ten płaszcz, rzekomo nasączony krwią gorgony, sprawia, że nosząca go osoba natychmiast zamienia się w kamień.
+
+Każdy, kto nie chce skończyć jako posąg w ogrodzie jakiegoś szlachcica z Wybrzeży Mieczy, powinien wykazać się rozsądkiem i unikać zakładania tego odzienia.
+
+PARAMETRY:
+
+Specjalne:
+– Petryfikacja
+
+Waga: 3~
+@848  = ~Sir Kandelar~
+@900  = ~Wszyscy wrogowie krasnoludów muszą zginąć!~ [AC#MGGM1]
+@901  = ~~ [AC#MGDI1]
+@902  = ~~ [AC#MGDI2]
+@903  = ~~ [AC#MGDR4]
+@904  = ~~ [AC#MGDR5]
+@905  = ~~ [AC#MGDR1]
+@906  = ~~ [AC#MGDR2]
+@907  = ~~ [AC#MGDR3]
+@908  = ~~ [AC#MGDR6]
+@909  = ~~ [AC#MGDR7]
+@910  = ~~ [AC#MGDR8]
+@911  = ~~ [AC#MGDR9]
+@912  = ~~ [AC#MGGB2]
+@913  = ~~ [AC#MGGB3]
+@914  = ~~ [AC#MGDI3]
+@915  = ~Przeklęta magia, nie chce mnie słuchać!~ [AC#MGDI5]
+@916  = ~~ [AC#MGDI4]
+@917  = ~~ [AC#MGFG3]
+@918  = ~~ [AC#MG1KF]
+@919  = ~~ [AC#MGUR0]
+@956  = ~Przyzwanie wargulca~
+@961  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Drakkalor, Miasto chciwości”.~
+@962  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Xothaerin, Królestwo adamantu”.~
+@963  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Barakuir, Królestwo żelaza”.~
+@964  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Ultoksamrin, Królestwo zardazilu”.~
+@965  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Alatorin, Dom Taarka Shanata”.~
+@966  = ~Na ziemi stoi niewielki krasnoludzki posąg. Wyryte na nim runy dethek głoszą: „Sondarr, Królestwo morza”.~
+@967  = ~Ten niewielki krasnoludzki posąg przewrócił się.~
+@968  = ~Ta figurka przedstawia obserwatora.~
+@969  = ~Ta figurka przedstawia kamiennego olbrzyma.~
+@970  = ~Ta figurka przedstawia łupieżcę umysłów. Wyryte na niej runy dethek głoszą: „Oryndoll, Dom Strażników Wiedzy”.~
+@971  = ~Lady Startoróg~
+@972  = ~Fomoriański ser~
+@973  = ~To kawałek cuchnącego sera wyrabianego przez Fomorian.
+
+Wolisz nawet nie myśleć o tym, jakich składników użyto do jego produkcji.~
+@975  = ~Moldark~
+@983  = ~Ten skrawek nie jest papierem, lecz kawałkiem cuchnącej skóry.
+
+Nabazgrano na nim we wspólnym koślawymi, zniekształconymi literami przy użyciu czerwonawo-czarnego atramentu:
+„TrOLe i olBszymy z pOudnia, pszycHoćta do ZAWODZOnCeGo KrasNOluDA i dołonczta do Ursummnogha NiEzabiJalnego i Krula Madugga! Razem tRole i olbszymy naUczom ludzi sTRACHU!”~
+@984  = ~Deszcz śmierci~
+@1000 = ~Wzniesiono tutaj makabryczny monument ze stosów niezliczonych czaszek należących do najróżniejszych stworzeń.
+
+Możesz mieć tylko nadzieję, że nie ma wśród nich czaszek poszukiwaczy przygód, których szukasz.~
+@1001 = ~Na tej fladze widnieje wizerunek wyciągniętej łapy potwora – być może trolla.~
+@1002 = ~Główne wejście~
+@1102 = ~Brat Startoróg~
+@1103 = ~Srebrny topór~
+@1104 = ~Ten topór został wykonany z czystego srebra. Zdaje się być raczej bronią ceremonialną niż orężem przeznaczonym do walki.~
+@1106 = ~Strzaskanie~
+@1107 = ~Regeneracja powstrzymana przez jad wargulca~
+@1108 = ~Jadowy troll~
+@1109 = ~Rozpylenie trucizny~
+@1110 = ~Troll Faerzress~
+@1111 = ~Ten klucz najwyraźniej nie służy do otwierania drzwi, lecz raczej do jakiegoś innego rodzaju mechanizmu.~
+@1113 = ~Głos z tuby~
+@1114 = ~Wygląda na to, że winda zjeżdża stąd jeszcze głębiej w dół.~
+@1115 = ~To osobliwy ołtarz, najwyraźniej wzniesiony przez trolle ku czci jakiegoś bóstwa. Przed nim porozrzucane są liczne ofiary w postaci ludzkich szczątków.
+Z muru powyżej wystają dwie brązowe rury – wszystko wskazuje na to, że zostały wykonane przez krasnoludy w odległej przeszłości.~
+@1116 = ~W tym kącie leżą zwały licznych, wychudzonych zwłok, prawdopodobnie krasnoludów. Wszystkie mają jedną wspólną cechę – brak im głów.~
+@1117 = ~Ta tabliczka runiczna głosi:
+„Wszystkich ukąszonych należy przenieść do cel, dopóki przemiana nie dobiegnie końca.
+Gdy tylko głowa oddzieli się od ciała, musi zostać zniszczona bełtem z kuszy.
+Niech Moradin okaże litość ich duszom”.~
+@1118 = ~Dostrzegasz, że to przejście zostało wykopane przez trolle, aby ominąć zamknięte drzwi i umożliwić sobie wejście lub wyjście.~
+@1119 = ~Widać, że trolle wykopały to przejście, by omijać zamknięte drzwi i swobodnie się przemieszczać.~
+@1120 = ~Sarkofag jest wykonany z litego metalu i nie można go otworzyć siłą. Zauważasz jednak z boku mały zamek – wygląda na to, że pasowałby do niego klucz.~
+@1121 = ~Wygląda na to, że do tego mechanizmu pasuje tylko konkretny klucz.~
+@1122 = ~Gniazdo w tym krasnoludzkim pojemniku jest puste. Niegdyś znajdował się tu mały klejnot, służący prawdopodobnie jako klucz do otwarcia skrytki. Bez niego zwolnienie blokady jest niemożliwe.~
+@1123 = ~Utrata punktu mądrości~
+@1400 = ~Nikt już nie odpowiada.~
+@1401 = ~Ze skały wystaje brązowa tuba. Wygląda na to, że można przez nią mówić.~
+@1402 = ~Ten mechanizm służy najwyraźniej do przekierowywania gorącego powietrza z pieców do odległej komnaty – prawdopodobnie w celu ogrzewania innych palenisk. Brakuje jednak pokrętła do otwarcia zaworów.~
+@1403 = ~Brakuje ci pokrętła, aby otworzyć zawory i wypuścić powietrze.~
+@1404 = ~Mocujesz pokrętło. Jeśli chcesz, możesz je przekręcić.~
+@1405 = ~Zawór jest teraz otwarty.~
+@1406 = ~Przekręcasz pokrętło i zawór się otwiera. Słyszysz świst ekstremalnie gorącego powietrza pędzącego rurami do innego pomieszczenia.~
+@1407 = ~Nie możesz otworzyć zaworu. Coś zdaje się więzić ciepło wewnątrz pieców, uniemożliwiając gorącemu powietrzu ujście.~
+@1408 = ~Nie możesz otworzyć zaworu. Temperatura jest zbyt niska – gdzieś muszą być uchylone drzwiczki pieca.~
+@1409 = ~Ten znaleziony przy wampirze w starej odlewni zwornik pasuje idealnie do tej małej kasetki. Zatrzaskuje się na miejscu, a potem znika.~ [AC#MGCLK]
+@1410 = ~Wyjście~
+@1411 = ~Na drugi poziom~
+@1412 = ~Do starej odlewni~
+@1413 = ~Do starej kuźni~
+@1500 = ~Umieszczasz przedmiot w misie i słyszysz ciche kliknięcie. Jakiś mechanizm najwyraźniej wskoczył na swoje miejsce.~ [AC#MGCLK]
+@1501 = ~Gdy zabierasz przedmiot, ponownie słyszysz kliknięcie. Mechanizm najwyraźniej powrócił do pierwotnego stanu.~ [AC#MGCLK]
+@1510 = ~Symbol krasnoludzkiego boga Abbathora. Poniżej widnieje napis: „Drakkalor, Miasto chciwości”.~
+@1511 = ~Symbol krasnoludzkiego boga Vergadaina. Poniżej widnieje napis: „Sondarr, Królestwo morskiej gwiazdy”.~
+@1512 = ~Symbol Moradina. Poniżej widnieje napis: „Holorarar, Królestwo złota”.~
+@1513 = ~Symbol krasnoludzkiego boga Dumathoina. Poniżej widnieje napis: „Ultoksamrin, Królestwo zardazilu”.~
+@1514 = ~Symbol krasnoludzkiego boga Laduguera. Poniżej widnieje napis: „Barakuir, Królestwo żelaza”.~
+@1515 = ~Ten symbol nie pasuje do żadnego znanego ci krasnoludzkiego bóstwa. Jednak runy dethek poniżej głoszą: „Torglor, Królestwo srebra”.~
+@1516 = ~Symbol przedstawia siedem krążących kamieni szlachetnych. Poniżej widnieją runy dethek: „Korolnor, Królestwo klejnotów”.~
+@1517 = ~Symbol krasnoludzkiego boga Tharda Harra. Poniżej widnieje napis: „Wysoki Shanatar, Królestwo lodowca”.~
+@1518 = ~Symbol krasnoludzkiej bogini Sharindlar. Poniżej widnieje napis: „Xothaerin, Królestwo adamantu”.~
+@1519 = ~Symbol Clangeddina Srebrobrodego. Poniżej widnieje napis: „Iltkazar, Królestwo mithrilu”.~
+@1520 = ~Symbol sztyletu. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1521 = ~Symbol złotej monety. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1522 = ~Symbol kowadła. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1523 = ~Symbol góry, nad którą unosi się klejnot. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1524 = ~Symbol strzały rozbijającej się o tarczę. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1525 = ~Nieznany symbol. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1526 = ~Nieznany symbol. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1527 = ~Symbol dwóch rękawic. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1528 = ~Symbol płonącej igły. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1529 = ~Symbol dwóch skrzyżowanych toporów. Nad nim i pod nim widnieją krasnoludzkie runy, których nie potrafisz odczytać.~
+@1530 = ~Ten rondel można zrzucić, by odwrócić uwagę olbrzymów, co da ci czas na niezauważone zabranie sera dla szczurów.~
+@1531 = ~Do filaru przymocowany jest niepewnie rondel.~
+@1600 = ~Napis na tarczy wiszącej na szyi tego martwego trolla głosi: „To zpotyka trole, co nje kłanjajom sie pszyt Ursummnoghem i Vaprakiem!”~
+@1700 = ~To urządzenie służyło niegdyś do odlewania metalowych części. Znajduje się tu szczelina, w której można umieścić formy, ale najpierw musisz ponownie uruchomić starą odlewnię.~
+@1701 = ~Roztopiony metal zostaje pod wysokim ciśnieniem wtłoczony do formy. Wyłania się idealnie wykonany klucz, najwyraźniej pasujący do bardzo konkretnego zamka.~
+@1702 = ~Odlewnia zdaje się działać – przynajmniej częściowo. Udało ci się rozgrzać sekcję komory na tyle, by roztopiony metal mógł płynąć z tygla do mechanizmu odlewniczego.~
+@1703 = ~Aby rozpocząć proces odlewania, musisz umieścić w pojemniku obie części formy.~
+@1704 = ~Pociągasz za zardzewiałą dźwignię, by rozpocząć proces odlewania.~
+@1800 = ~„Bliźniacze topory Clangeddina strzegą pieczęci Tronu Szalonego Boga”.~
+@1801 = ~Na drugi poziom~
+@1802 = ~Winda w górę~
+@1803 = ~Do Tronu Szalonego Boga~
+@1900 = ~~
+@1901 = ~Po wyjęciu kryształu powietrze w komnacie nagle staje się chłodniejsze, a podmuch z otchłani poniżej przybiera na sile. Zdaje się, że usunięcie kryształów osłabia więzi między światami.~
+@1902 = ~Klejnotowy skok~
+@1903 = ~Magiczne banialuki~
+@1904 = ~Partackie czary~
+@1905 = ~Tupnięcie~
+@1906 = ~Iluzje Ilsensine’a~
+@1907 = ~Staw czoła mym najgłębszym lękom!~
+@1908 = ~Maniakalny śmiech~
+@1909 = ~Strefa dzikiej magii~
+@1910 = ~Podmuch wiatru~
+@1911 = ~Przyzwanie sługi~
+@1912 = ~Przyzwanie czarnego trolla~
+@1913 = ~Przemiana w wargulca~
+@2000 = ~Język i pismo krasnoludów~
+@2001 = ~Język i pismo krasnoludów
+Autor: Aldym Ryscelsar z Halarahh, Halruaa.
+
+Dla obcych oraz przedstawicieli innych ras krasnoludzkie zwyczaje bywają trudne do pojęcia. Sami krasnoludowie zdają się nie mieć najmniejszego zamiaru tego zmieniać, gdyż nie bez powodu uchodzą za jedną z najbardziej skrytych i nieufnych ras humanoidalnych.
+
+Dla uczonych, którzy z różnych powodów zmuszeni są badać ich kulturę, stanowi to nie lada wyzwanie. Moje badania mają na celu umożliwienie czytelnikowi rozszyfrowania języka i run krasnoludzkiego ludu, a także zrozumienia niektórych z jego osobliwych obyczajów.
+
+Język krasnoludzki, zwany dethek, zapisywany jest starożytnym pismem runicznym noszącym tę samą nazwę.
+
+Jak można się spodziewać po krasnoludach, zarówno pismo, jak i struktura zdań pozostały w dużej mierze niezmienione od ponad pięciu tysięcy lat. Runy dethek rzadko nanoszone są na papier czy płótno, ponieważ materiały te uznawane są za nietrwałe i kruche. Zazwyczaj ryje się je lub wytrawia w kamieniu bądź metalu – na ścianach budowli, ostrzach mieczy czy elementach uzbrojenia. Specyficzne formy krasnoludzkiego piśmiennictwa można również znaleźć w księgach wykonanych z połączonych metalowych płyt albo na kamiennych tablicach zwanych kamieniami runicznymi.
+
+Gramatyka krasnoludzka posiada strukturę zbliżoną do języka wspólnego, co najprawdopodobniej wynika z równoległego rozwoju obu języków.
+
+Wspólna struktura sprawia, że osobom posługującym się językiem wspólnym stosunkowo łatwo jest uczyć się dethek i dokonywać jego tłumaczeń. Alfabet runiczny składa się z dwudziestu czterech znaków. Dźwięki odpowiadające literom „w”, „x” oraz „z” reprezentowane są przez ten sam symbol. Może to być mylące dla ludzi próbujących tłumaczyć ten język, jednak dla rodzimych użytkowników nie stanowi to problemu, ponieważ bardzo niewiele słów zawiera te głoski.
+
+Nazwy klanów i plemion, a także niektóre z najczęściej używanych słów, nazw ras oraz utartych fraz posiadają własne, odrębne symbole. Były one szczególnie przydatne przy tworzeniu oznaczeń oraz kamieni runicznych.
+
+Każdej z głównych ras Faerûnu przypisano unikalny znak. Symbole te stosowane są zarówno w liczbie pojedynczej, jak i mnogiej, co oznacza, że czytelnik musi wywnioskować właściwe znaczenie z kontekstu.
+
+Inne znaki pełnią funkcję wskaźników kierunku i oznaczeń, reprezentując powszechnie zrozumiałe pojęcia: stopa wskazująca bezpieczną ścieżkę, odwrócony hełm czy róg do picia symbolizujący świeżą wodę i tym podobne.
+
+(Poniżej znajduje się szczegółowa lista krasnoludzkich symboli runicznych oraz alfabetu dethek, która może okazać się przydatna, jeśli kiedykolwiek zajdzie potrzeba rozszyfrowania krasnoludzkich kamieni runicznych).~
+@2002 = ~Historia krasnoludów tarczowych~
+@2003 = ~Historia krasnoludów tarczowych – tom I
+
+Traktat autorstwa Oleusa z Mintaru, uczonego w służbie Oghmy
+
+Dla nas, ludzi, krasnoludy pozostają rasą trudną do zrozumienia. Często postrzegane są jako podejrzliwe i ponure. Aby pojąć, skąd wzięło się wiele ich osobliwych cech, musimy przyjrzeć się dziejom ich obecności na Wybrzeżu Mieczy.
+
+Według przeważającej opinii uczonych krasnoludy tarczowe, jakie znamy dzisiaj, wywodzą się z potężnego krasnoludzkiego królestwa znanego jako Shanatar, założonego przez Taarka Shanata – bohatera z zamierzchłych czasów.
+
+Taark Shanat poprowadził swój klan do krainy, którą obecnie nazywamy Ziemiami Intryg. Osiedlił się w rozległej jaskini Podmroku, gdzie założył królestwo Shanataru i ustanowił swą siedzibę w Alatorinie. Jego potomkowie wyruszyli stamtąd, by zakładać własne domeny, rozciągające się kilometrami pod ziemią. Wspólnie stworzyły one krasnoludzkie imperium znane jako Głęboki Shanatar.
+
+W okresie swego największego rozkwitu Głęboki Shanatar obejmował dziewięć podległych królestw, oprócz samego Alatorinu: Barakuir, Drakkalor, Iltkazar, Korolnor, Sondarr, Torglor, Ultoksamrin, Xothaerin w Podmroku oraz Wysoki Shanatar na powierzchni.
+
+Każde z tych królestw obrało sobie patrona spośród krasnoludzkiego panteonu, choć imiona niektórych z owych bogów dawno już popadły w zapomnienie.
+
+Ponadto każdemu z podległych królestw nadano tytuł odzwierciedlający jego rolę w strukturze krasnoludzkiego władztwa:
+Barakuir – Królestwo żelaza,
+Drakkalor – Miasto chciwości,
+Iltkazar – Królestwo mithrilu,
+Korolnor – Królestwo klejnotów,
+Sondarr – Królestwo morskiej gwiazdy,
+Torglor – Królestwo srebra,
+Ultoksamrin – Królestwo zardazilu,
+Xothaerin – Królestwo adamantu,
+Wysoki Shanatar – Królestwo lodowca.
+
+Krasnoludy zmuszone były mierzyć się z wieloma wrogami: drowami, obserwatorami, olbrzymami oraz illithidami.
+
+Na szczególne wyróżnienie zasługuje klan Duergar z Barakuiru za swe zaciekłe wojny z łupieżcami umysłów, a także klan Kuldelver, władcy Korolnoru, za długotrwałe konflikty z olbrzymami – od których sąsiednie Góry Biegu Olbrzyma wzięły swoją nazwę.
+
+Z czasem jednak królestwa Shanataru zwróciły się przeciwko sobie. Niegdyś zjednoczone imperium zaczęło się rozpadać, a osłabione nieustannymi walkami wewnętrznymi krasnoludy coraz trudniej odpierały napór licznych wrogów, wdzierających się do domen dzieci Moradina.
+
+Ostatecznie największe z krasnoludzkich imperiów upadło. Ci, którzy przetrwali, wyruszyli na północ, by zakładać nowe państwa. To właśnie oni stali się przodkami rasy, którą dziś znamy jako krasnoludy tarczowe. Nigdy jednak nie zdołali odzyskać dawnej potęgi i wspaniałości Shanataru.~
+@2004 = ~Bogowie krasnoludów~
+@2005 = ~Bogowie krasnoludów: Streszczenie.
+Autor: Aldric z Arabel.
+
+Moradin, Kowal Dusz
+Moradin, Wszechojciec, panuje nad krasnoludzkim panteonem jako jego najwyższe bóstwo. Jest mistrzem kowalstwa całego świata oraz stwórcą krasnoludów. Uderzenia jego młota ukształtowały pierwsze krasnoludzkie istoty z nieustępliwego górskiego kamienia. Pod jego czujnym okiem krasnoludy doskonalą się w kowalstwie, górnictwie oraz sztuce wojennej.
+
+Berronar Czyste Srebro, Wielebna Matka
+Berronar Czyste Srebro, Matka Krasnoludów, stoi u boku Moradina, współrządząc krasnoludzkim panteonem. Jest opiekunką rodziny, strażniczką domowego ogniska oraz patronką małżeństw. Dzięki jej błogosławieństwu krasnoludzkie rody trwają w jedności, rozkwitając w sile i stabilności.
+
+Clangeddin Srebrnobrody, Ojciec Bitew
+Clangeddin Srebrnobrody, bóg bitwy i honoru w walce, jest nieugiętym obrońcą swego ludu. Z potężnymi bliźniaczymi toporami w dłoniach prowadzi krasnoludzkie armie do boju. Krasnoludzcy wojownicy wzywają jego imienia przed każdą bitwą, wierząc, że pod jego opieką nie zaznają strachu.
+
+Dumathoin, Milczący Strażnik
+Dumathoin, Strażnik Sekretów pod Górą, czuwa nad grobowcami i skarbami krasnoludów. W głębinach ziemi strzeże zapomnianej wiedzy minionych epok oraz bogactw wykutych krasnoludzkimi rękami. Jego mądrość jest niezmierna, lecz tylko nieliczni, uznani za godnych, mogą liczyć na jego radę.
+
+Zapomniane bóstwa
+Poza znanymi bogami panteonu istniały niegdyś również inne, mniej znane bóstwa, czczone przez wybrane klany. Choć dziś niemal całkowicie zapomniane, odegrały istotną rolę w dziejach krasnoludów i zasługują na dalsze badania oraz rekonstrukcję dawnych wierzeń.
+
+Dawne opowieści wspominają także o bliźniaczych dzieciach Moradina, wygnanych z panteonu przez własnego ojca z powodu zdrady, której natury nie ujawniono. Klany krasnoludów, które niegdyś oddawały im cześć, zostały dotknięte szczególną klątwą – zmuszono je bowiem w wielkim pośpiechu, przynajmniej jak na krasnoludzkie standardy, do wyboru nowego bóstwa opiekuńczego.~
+@2006 = ~Kontrakt~
+@2007 = ~Kontrakt zawarty między mędrcem Dokuriingorem a Moldarkiem
+
+Zamieszkujący od dawna owe ruiny Moldark, uznaje nowych władców, których krew wywodzi się od krasnoludzkich założycieli. Zgodnie z postanowieniami kontraktu Moldark zobowiązuje się do stworzenia jednego szarego trolla każdego dziesięciodnia, poprzez wysysanie poziomów, na potrzeby programu hodowlanego.
+
+W zamian nowy pan Korolnoru oddaje Moldarkowi we władanie starą odlewnię oraz zobowiązuje się dwa razy w ciągu dziesięciodnia dostarczać świeżych ludzkich jeńców jako pożywienie. Nowy władca przyrzeka ponadto utrzymywać rury pieca kowalskiego w stanie zapieczętowanym, aby zapobiec ponownemu uruchomieniu dawnych pieców odlewniczych.~
+@2008 = ~Krasnoludzki kamień modlitewny~
+@2009 = ~To krasnoludzki kamień runiczny. W pośpiechu wyryto na nim słowa: „Moradinie, nie opuszczaj mnie! Nie chcę zostać przemieniony”. Choć przedmiot ten może posiadać wartość kulturową, nie wydaje się być ani magicznym, ani też przydatnym w twojej misji.~
+@2010 = ~To krasnoludzki kamień runiczny. W pośpiechu wyryto na nim słowa: „Berronar, zdejmij tę klątwę z naszego klanu! Niech Wygnaniec nie dręczy nas dłużej”. Choć przedmiot ten może posiadać wartość kulturową, nie wydaje się być ani magicznym, ani też przydatnym w twojej misji.~
+@2011 = ~Klucz do trumny~
+@2012 = ~Ten klucz znajduje się w małej kasetce w kształcie trumny. Przedmiot cuchnie śmiercią i rozkładem; najwyraźniej pasuje do jakiejś trumny. Ale po co ktoś miałby zamykać własną trumnę na klucz?~
+@2013 = ~Dziennik Dokuriingora~
+@2014 = ~Dziennik Dokuriingora
+
+Dzień 101
+Dzień dzisiejszy jest chwalebny – dniem przeznaczenia, albowiem poznałem prawdę! Ja, Dokuriingor, jestem ostatnim potomkiem wielkiego krasnoludzkiego rodu Karlyna Kuldelvera! Moim losem jest odzyskanie utraconego królestwa Korolnoru. Głosy szepczą o niezmierzonym bogactwie i potędze, które słusznie do nas należą, jeśli tylko ponownie obejmiemy w posiadanie pałace naszych przodków. Zew pradziadów rozbrzmiewa donośnie w mych uszach – i podążę za nim, gotów stawić czoła wszelkim próbom i wyzwaniom.
+
+Dzień 103
+Głębiny naszego starożytnego królestwa wzywają mnie, kusząc ukrytymi skarbami i zapomnianymi tajemnicami. Czuję obecność wielkiego Diinkarazana, zapomnianego syna Moradina, uwięzionego w Otchłani, a mimo to potężniejszego niż kiedykolwiek. Jego głos szepcze obietnice niewyobrażalnych bogactw – skarbów przewyższających nasze najśmielsze sny. Podążę za nim, wypełnię jego wolę i przywrócę świetność Korolnoru, uwalniając go z więzienia!
+
+Dzień 121
+Jestem blisko. Prawie dotarłem do więzienia Diinkarazana. Stoję u bram jego mrocznego tronu, głęboko w krętych jaskiniach Zawodzącego Krasnoluda. Obiecuje mi bezkresne bogactwa, a ja gotów jestem uczynić wszystko, by po nie sięgnąć. Moc, którą czuję w swoich dłoniach, jest odurzająca. Użyję jej, by odbudować Korolnor i przywrócić nam należne miejsce w świecie. Nadszedł czas klanu Derro z Korolnoru – i nic nie stanie mi na drodze!
+
+Dzień 127
+Drzwi do zapieczętowanej sali tronowej pozostają nieugięcie zamknięte. Moja nadzieja na ich samodzielne otwarcie słabnie. Starożytne krasnoludy nasyciły swe zamki sprytem przewyższającym nawet mój własny. Pieczęcie są potężne i głoszą, iż żaden krasnolud z Korolnoru nigdy więcej nie odrygluje wrót starej sali tronowej. Nawet Derro, potomek wielkiego Shanataru. Nawet ja. Co teraz?
+
+Dzień 130
+Nagle – iskra objawienia! Starożytne teksty, które tak skrupulatnie studiowałem, ujawniają nieoczekiwaną prawdę. Zapieczętowane drzwi dzielące mnie od tronu Diinkarazana nie mogą zostać otwarte przez żadnego potomka Korolnoru. Lecz być może mogą zostać otwarte przez kogoś spoza królewskiej linii krwi. Ja nie zdołam złamać pieczęci... ale inni mogą. Muszę znaleźć głupca. Kogoś, kogo tu zwabię. Kogoś, kto otworzy te drzwi w moim imieniu.
+
+Dzień 233
+Opracowałem plan, który pozwoli mi wykorzystać niższe rasy do osiągnięcia mego celu. Zwabię ludzkiego poszukiwacza przygód, Bryama Lancametha, w głąb tej fortecy pod pozorem wspólnej wyprawy. Nieświadomie otworzy on drzwi, które dla mnie pozostają zamknięte. Nikt nie podejrzewa, że słaby Psi Czarodziej, którego widzą przed sobą, jest w istocie potężnym mędrcem Derro!
+
+Dzień 281
+Przygotowania dobiegły końca. Pułapka została zastawiona. Wkrótce Lancameth i jego towarzysze zstąpią w otchłanne głębiny, prowadzeni moim sprytem i karmieni mymi kłamstwami. Nigdy nie pojmą, że to oni dzierżą klucze do mego triumfu. Dopilnuję, by odryglowali bramy stojące między mną a moim przeznaczeniem. Diinkarazan czeka, a ja go nie zawiodę!
+
+Dzień 342
+Ekspedycja dotarła do korytarzy naszej fortecy. Godziny mijają, a moja niecierpliwość rośnie z każdym przyciszonym uderzeniem serca. Głupcy wciąż nazywają mnie Psim Czarodziejem. Wszyscy zginą z krzykiem na ustach.
+
+Dzień 345
+Mój plan zdaje się działać. Jeden po drugim towarzysze Bryama Lancametha ginęli. Teraz tylko on i ja stoimy przed zapieczętowanymi drzwiami. Widzę podejrzenie w jego oczach – cień nieufności zapuszcza korzenie w jego sercu. Nie mogę się zachwiać. Nie teraz, gdy cel jest tak blisko. On szuka sposobu na otwarcie wrót. Ja muszę jedynie czekać.
+
+Dzień 351
+Przekleństwo! Bryam Lancameth przejrzał moją grę. Wyczuł zdradę w mym sercu i odkrył prawdę skrytą za kłamstwami. Bez słowa przeszedł przez upragnione wrota, ryglując je za sobą i pozostawiając mnie ponownie samego – skazanego na trwanie w pustce przed salą tronową! Szaleństwo wbija swe pazury w mój umysł, gdy w gorączce poszukuję nowego sposobu na otwarcie drzwi.
+Diinkarazan czeka, a jego zniecierpliwienie narasta...
+Muszę wejść. Muszę. Muszę!!~
+@2015 = ~Antracyt~
+@2016 = ~Antracyt, specyficzna odmiana węgla, znany jest ze swojej niezwykłej gęstości i odporności na wysoką temperaturę, co czyni go ulubionym wyborem krasnoludów do ogrzewania pomieszczeń i rozpalania palenisk w kuźniach. Ten lśniący, czarny materiał pali się długo i równomiernie, jest odporny na wilgoć oraz promieniuje intensywnym żarem i blaskiem. Ze względu na swoje symboliczne znaczenie antracyt jest często używany przez krasnoludy do oświetlania miejsc świętych.~
+@2017 = ~Mithrilowa zbroja polowa +2~
+@2018 = ~Ta mithrilowa zbroja należała niegdyś do Karlyna Kuldelvera, założyciela krasnoludzkiego królestwa Korolnoru. Ten imponujący pancerz wykonano z mithrilu, rzadkiego, srebrzystoniebieskiego metalu słynącego z lekkości i elastyczności. Napierśnik mieni się delikatnym błękitnym blaskiem i zapewnia noszącemu wyjątkową ochronę, nie krępując przy tym znacząco ruchów. Jest lekki i może być noszony wygodnie nawet przez wojowników o mniejszej sile.
+
+Mithril użyty do wykonania tej zbroi posiada naturalną odporność na magię, pozwalając noszącemu lepiej przetrwać magiczne ataki.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magiczne obrażenia: +30%
+– Premia do rzutów obronnych: +2 przeciw czarom
+
+Klasa Pancerza: -1 (-2 przeciw broniom siecznym, -1 przeciw broniom kłutym i pociskom), -2 (krasnoludowie)
+
+Wymagania:
+– Siła: 10
+
+Waga: 15~
+@2019 = ~Fragment zbroi~
+@2020 = ~Mithrilowy naramiennik (lewy)~
+@2021 = ~Ten misternie wykonany kawałek metalu stanowił niegdyś, jak się wydaje, część zbroi.~
+@2022 = ~Ten naramiennik stanowi część zbroi krasnoludzkiego bohatera Karlyna Kuldelvera, założyciela krasnoludzkiego królestwa Korolnoru. Wykonano go z mithrilu. Cała zbroja musiała być potężnym artefaktem.~
+@2023 = ~Mithrilowy naramiennik (prawy)~
+@2024 = ~Ten naramiennik stanowi część zbroi krasnoludzkiego bohatera Karlyna Kuldelvera, założyciela krasnoludzkiego królestwa Korolnoru. Wykonano go z mithrilu. Cała zbroja musiała być potężnym artefaktem.~
+@2025 = ~Napierśnik zbroi Karlyna~
+@2026 = ~To napierśnik mithrilowej zbroi krasnoludzkiego bohatera Karlyna Kuldelvera. Jeśli połączyć ją z dwoma brakującymi elementami – naramiennikami – i oddać w ręce doświadczonego kowala, można by przetopić ją na nowo i odtworzyć znakomitą mithrilową kolczugę.
+
+Niewielu jednak kowali posiada wiedzę niezbędną do pracy z mithrilem. Poza krasnoludzkimi mistrzami kuźni sztuka ta jest niemal zapomniana. Tacy rzemieślnicy są rzadkością w Krainach i niechętnie dzielą się swoimi sekretami.~
+@2027 = ~Czarny kąsacz +3~
+@2028 = ~Grot tej potężnej włóczni zdobi kieł jakiejś wielkiej bestii. Legendy głoszą, że to ząb czarnego smoka, co wyjaśniałoby, dlaczego z ostrza nieustannie sączy się kwas. Nazwa „Czarny kąsacz” jest zatem nader trafna.
+
+Wśród verbeegów krąży opowieść o watażce, który poprowadził grupę tych olbrzymów na bagna, by zgładzić czarnego smoka Vorgarrasha. Po brutalnej walce verbeeg wbił swą włócznię w smoczą paszczę, odłamując jeden z jego potężnych kłów. Olbrzym kazał następnie osadzić ząb w swojej włóczni, gdzie wchłonął on żrącą magię smoka. Tak narodził się Czarny kąsacz – broń do dziś czczona wśród verbeegów jako trofeum siły.
+
+PARAMETRY:
+
+Obrażenia: 1k6+3, +1 obrażenie od kwasu
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 3
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@2029 = ~Amulet strażnika~
+@2030 = ~Ten wykonany z mosiądzu lub brązu amulet nosi symbol młota. Został nasycony boskim zaklęciem „Młot strażniczy”, które bogini Berronar daruje swym kapłankom – pozwala ono przywołać w walce potężny, magiczny młot.
+
+Amulety tego rodzaju były powszechnie noszone przez wysokich rangą członków krasnoludzkiej społeczności oraz ich rodziny.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Rzuty obronne: +1
+
+Właściwości ładunków:
+– Raz dziennie noszący może przywołać Młot strażniczy. Młot pojawia się w powietrzu, zadaje przeciwnikowi 2k12 obrażeń (rzut obronny przeciw czarom neguje) i znika.
+
+Waga: 1~
+@2031 = ~Pierścień Berronar~
+@2032 = ~Pierścienie tego rodzaju są wyrabiane przez faenorów – jak w krasnoludzkim języku nazywa się kapłanów Berronar. Ich obowiązkiem jest pełnienie roli strażników i opiekunów krasnoludzkich klanów.
+
+Te wykute z najszlachetniejszych materiałów pierścienie są często noszone przez przywódców klanów, by chronić ich przed plugawymi chorobami czającymi się w mrocznych zakątkach Podmroku.
+
+PARAMETRY:
+
+Specjalne:
+– Noszący jest odporny na choroby i przypadłości przenoszone przez stworzenia. Dotyczy to dotyku mumii, ataku otiaga, ukąszenia istot Otchłani zwanych wargulcami oraz uderzeń ghuli. Należy pamiętać, że chociaż sam atak nie jest powstrzymywany, to zapobiega on przenoszeniu efektów chorobowych. Pierścień ten nie zapewnia jednak żadnej ochrony przed likantropią ani wampiryzmem.
+
+Waga: 0~
+@2033 = ~Kościany kieł +2/+3~
+@2034 = ~Ten prymitywny morgensztern został wykonany z kości olbrzyma i okazuje się zaskakująco skuteczną bronią. Jest niezwykle lekki, co pozwala na zadawanie szybkich i potężnych ciosów.
+
+Co więcej, przekazuje posiadaczowi cząstkę siły, z której słyną olbrzymy. Morgensztern jest także umagiczniony tak, by zapewniać premię przeciwko małym rasom humanoidalnym, którymi olbrzymy tak bardzo gardzą.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +1
+
+Obrażenia: 2k4+2, +3 (tylko półorkowie)
+TraK0: +2, +3 (tylko półorkowie); dodatkowe +2 przeciw małym humanoidom: niziołkom, gnomom, krasnoludom, goblinom i koboldom
+Typ obrażeń: obuchowe
+Opóźnienie: 3
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 3~
+@2035 = ~Astralna maczuga wybuchów~
+@2036 = ~Astralna maczuga wybuchów to potężna broń wykuta z rzadkiego, lśniącego niczym gwiazdy metalu. Rękojeść owinięta jest ciemnoniebieskimi skórzanymi pasami, które pod dotykiem lekko pulsują. Jej głowica jest misternie zdobiona osadzonymi kryształami, które migoczą niczym nocne niebo.
+
+Pierwotnie maczuga ta była używana ceremonialnie do obwieszczania nadejścia lub zakończenia istotnych wydarzeń astronomicznych.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Raz dziennie noszący może rzucić zaklęcie Pocisk chwały.
+
+Obrażenia: 1k6+4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 8~
+@2037 = ~Astralne wyładowanie~
+@2038 = ~Mechaniczne ostrze jadu~
+@2039 = ~Pochodzenie tego miecza półtoraręcznego jest ściśle związane ze sferą Mechanus. Zamiast głowni posiada on skomplikowany mechanizm, który nieustannie sączy truciznę na ostrze. Ze względu na misterne tryby, przypominające mechanizm gnomiego zegara, broń ta od dawna znana jest jako „Mechaniczne ostrze”.
+
+Trucizna zawarta w ostrzu szczególnie dotkliwie rani istoty o chaotyczne, co czyni Mechaniczne ostrze ulubioną bronią prawych wojowników.
+
+Ponadto ostrze posiada zdolność zatrzymywania na krótką chwilę przesypujących się piasków czasu. Dokładny mechanizm pozostaje tajemnicą, przez co nigdy nie wiadomo, kiedy to zatrzymanie czasu nastąpi.
+
+PARAMETRY:
+
+Specjalne:
+– Chaotyczne istoty trafione ostrzem zostają spowolnione na trzy rundy, jeśli nie wykonają rzutu obronnego przeciw śmierci z modyfikatorem -2. Odporność na magię nie chroni przed tym efektem.
+– 2% szans na wywołanie przy trafieniu zatrzymania czasu na jedną rundę.
+
+Obrażenia: 2k4+3, +1 obrażeń od trucizny przeciw istotom o chaotycznym charakterze (rzut obronny przeciw śmierci z modyfikatorem -2 neguje)
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 7~
+@2040 = ~Panteon olbrzymów~
+@2041 = ~Traktat o panteonie olbrzymów
+Autor: Azmor Delduin, badacz mitycznych przekazów i starożytnych religii
+
+W rozległym gobelinie mitologicznych tradycji tkanych w krainach śmiertelników panteon olbrzymów jawi się jako jeden z najstarszych i najbardziej monumentalnych. Wspaniałość oraz potęga tych pradawnych ludów, które niegdyś władały światem, znajdują swe odbicie w różnorodności i sile ich bóstw. Bogowie ci ucieleśniają nie tylko żywioły i surową potęgę natury, lecz także złożone, często brutalne struktury społeczne samych olbrzymów.
+
+W centrum panteonu stoi Annam Rodzic Świata – stwórca olbrzymów, znany również jako Ojciec Wszystkich Tytanów. To on ustanowił boską domenę Ordningu, z której wywodzą się jego dzieci, czyli poszczególne rasy olbrzymów. Według legend Annam odwrócił się jednak od swego potomstwa, rozczarowany ich nieustannymi konfliktami, pozostawiając ich samym sobie, by podzielili między siebie świat.
+
+Synowie Annama: Thrym, Surtur i Stronmaus
+
+Najsłynniejszymi dziećmi Annama są Pierwsi pośród Olbrzymów: Thrym, bóg lodowych olbrzymów, władca zimna i chaosu; Surtur, bóg ognistych olbrzymów, pan płomieni i zniszczenia; oraz Stronmaus, bóg olbrzymów burzowych, znany ze swej mądrości i względnej dobroci, lecz równie nieprzewidywalny jak nawałnice, którymi włada. Ta trójka ucieleśnia najpotężniejsze domeny olbrzymiego rodzaju: Lód, Ogień i Burzę.
+
+Choć bogowie ci rywalizują o dominację, łączy ich wspólna wiara w bezdyskusyjną wyższość olbrzymów nad śmiertelnikami. W legendach toczą niekończące się boje, starając się dowieść, że to właśnie im przysługuje miano prawowitego dziedzica Annama. Ich wyznawcy żyją w nieustannym oczekiwaniu na dzień, w którym ich bóg obejmie ostateczną władzę nad całym olbrzymim rodzajem.
+
+Vaprak Niszczyciel: Wygnaniec Ordningu
+
+Pośród olbrzymów istnieje jednak odrażająca postać, która nie wywodzi się ze szlachetnej linii Annama ani nie cieszy się błogosławieństwem starszych bogów – Vaprak Niszczyciel, bóg ogrów i trolli. Brutalny i nieokiełznany, Vaprak ucieleśnia dziką, pierwotną przemoc oraz nienasycony głód destrukcji. Jego wyznawcy – ogry i trolle – stanowią jaskrawy kontrast wobec bardziej zorganizowanych, kierujących się honorem społeczności olbrzymów.
+
+Vaprak opisywany jest jako chciwy i zgubny bóg, czający się w cieniu i siejący chaos wszędzie tam, gdzie tylko zdoła. Niektórzy uczeni są zdania, że niegdyś próbował on dołączyć do panteonu olbrzymów, lecz został odrzucony i wygnany przez samego Annama. Jego gwałtowna natura budzi lęk zarówno wśród bogów, jak i śmiertelników, gdyż Vaprak pragnie pochłonąć wszystko, co stanie mu na drodze.
+
+Karontor: Wygnaniec pośród Wygnańców
+
+Jeszcze mroczniejszym rozdziałem w mitologii olbrzymów jest legenda o Karontorze – zdeformowanym bogu przeklętych, czczonym głównie przez fomorian i wszelkich wyrzutków olbrzymiego rodu. Niegdyś piękny i potężny, Karontor został spaczony przez zawiść i nienawiść; jego serce stało się czarne niczym jego zniszczone ciało. Ułomna postać boga jest odzwierciedleniem wewnętrznej goryczy i pogardy, jaką darzy własnych pobratymców.
+
+Karontor uznawany jest za patrona wygnanych olbrzymów – tych, którzy nie pasują do wielkich tytanów żywiołów. Czczony bywa w najgłębszych mrokach świata, zwłaszcza przez tych, którzy wciąż żywią nadzieję na zemstę i powrót do dawnej potęgi. Starożytne legendy głoszą, że Karontor niegdyś dorównywał innym bogom, lecz zgubiła go zazdrość wobec Surtura i Thryma. W swym szaleństwie sprzeciwił się porządkowi ustanowionemu przez Annama i został przeklęty, tracąc wszelką szansę na odzyskanie utraconej wielkości.
+
+Spaczone przymierze
+
+W mrocznych mitach otaczających zarówno Vapraka, jak i Karontora pojawiają się wzmianki o spaczonej formie przymierza między tymi dwoma wyklętymi bóstwami. Obaj pozostają wyrzutkami boskiego porządku i czerpią radość z chaosu oraz zniszczenia. Powiada się, że Karontor niegdyś wezwał Vapraka, by wspólnie spiskować przeciwko innym olbrzymom. Jak jednak przystało na istoty tak nikczemne, ich współpraca od samego początku podszyta była nieufnością. Każdy z nich pragnie ostatecznie przechytrzyć drugiego i zagarnąć lojalność potępionych wyłącznie dla siebie.
+
+Filozofia panteonu
+
+Panteon olbrzymów odzwierciedla strukturę społeczną samych tytanów. Reprezentuje hierarchię, prawo silniejszego oraz nieustanną walkę o władzę i dominację. Annam uosabia utracony ideał zjednoczonego świata olbrzymów, lecz pod jego nieobecność siły chaosu i nienawiści wdarły się do Ordningu. Thrym, Surtur i Stronmaus rywalizują o dziedzictwo ojca, podczas gdy istoty takie jak Vaprak i Karontor żerują na obrzeżach boskiego porządku, czekając na moment, by zburzyć jego kruchą równowagę.
+
+Panteon ten pozostaje żywą, dynamiczną siecią rywalizacji, osobistych wendett i nieustannych konfliktów, spychającą olbrzymy w niekończący się cykl wojen, podbojów i destrukcji. Bogowie olbrzymów, podobnie jak i one same, ucieleśniają odwieczny konflikt między potęgą, porządkiem a chaosem – walkę, która, jak się zdaje, nigdy nie dobiegnie końca.~
+@2042 = ~Zasuszona głowa~
+@2043 = ~Zrzędliwy Stenlan~
+@2044 = ~To odcięta i zakonserwowana ludzka głowa, którą poddano procesowi zmniejszenia za pomocą tajemnych rytuałów.~
+@2045 = ~Ta zasuszona głowa należała niegdyś do Stenlana z Luskan, maga z Magicznej Wieży. Jego nieustanne tyrady i zrzędzenie tak rozwścieczyły jego uczniów, że ci w końcu pozbawili go głowy i zmienili ją w zasuszoną relikwię. Jednak nawet po śmierci Stenlan zachował dar miotania obelg.
+
+PARAMETRY:
+
+Specjalne:
+– Potok obelg (raz dziennie): wszystkie wrogie istoty w zasięgu słuchu muszą wykonać rzut obronny przeciw czarom. Niepowodzenie sprawia, że na jedną rundę przerywają swoje działania (walkę, rzucanie czarów itp.), by odnaleźć źródło zniewagi. Dotknięte tym efektem stworzenia są traktowane jako ogarnięte zamętem przez jedną rundę.
+
+Waga: 1~
+@2046 = ~Zwornik kasetki~
+@2047 = ~Ten delikatny krasnoludzki kamień runiczny został wykonany tak, by pasował do kompozycji – być może służy do otwarcia małego pojemnika. Jest przejrzysty i lśniący, co sugeruje, że nie należy do pomieszczenia, w którym go znaleziono.~
+@2050 = ~Buty nocnego łowcy~
+@2051 = ~Te czarne buty, wykonane z miękkiej skóry, są w tajemniczy sposób powiązane z potęgą nocy. Nadają noszącemu zwinność i spryt nocnego drapieżnika mknącego przez cienie. Obuwie zdaje się skrzypieć przy wchodzeniu w jasne światło, nie pozostawia jednak żadnych widocznych śladów w ciemnościach. Gdy właściciel przebywa w mroku przez dłuższy czas, buty zaczynają lekko pulsować.
+
+PARAMETRY:
+
+Specjalne:
+– Prędkość ruchu: +1 w nocy
+– Ciche chodzenie: +25% w nocy
+
+Właściwości ładunków:
+– Raz dziennie noszący może przywołać zasłonę cieni, stając się niewidzialnym na dwie rundy
+
+Waga: 4~
+@2052 = ~Kufel piwa~
+@2053 = ~Kufel obfitości~
+@2054 = ~Ten kufel wypełnia chłodny, pieniący się trunek.~
+@2055 = ~Ten krasnoludzki kufel nosi zaklęcie, dzięki któremu raz dziennie sam napełnia się chłodnym, pieniącym się piwem. Napój ten działa wyjątkowo korzystnie na krasnoludy, jednak elfy i półelfy powinny wystrzegać się picia z tego naczynia.
+
+Na krawędzi naczynia widnieje inskrypcja w krasnoludzkich runach:
+„NIGDY NIE UFAJ KOMUŚ, KTO NIE PIJE!”
+
+PARAMETRY:
+
+Właściwości ładunków (raz dziennie):
+– Kufel obfitości
+Specjalne:
+– TraK0: +4 (tylko krasnoludowie)
+– Kondycja: +1 (tylko krasnoludowie)
+– Pijący staje się odporny na strach i panikę (wszyscy poza elfami)
+– Opróżnienie kufla wprawia większość pijących w stan upojenia alkoholowego na 8 godzin – z wyjątkiem krasnoludów, które mają mocne głowy.
+– Elfy otrzymują 3k6 obrażeń od trucizny po wypiciu zawartości
+Czas działania: 10 tur
+
+Waga: 1~
+@2056 = ~Dziennik Bryama Lancametha~
+@2057 = ~Dziennik Bryama Lancametha
+
+Rozpoczęliśmy wyprawę do Zawodzącego Krasnoluda z nadzieją na odkrycie tajemnic starej fortecy oraz położenie kresu pladze trolli. Ruiny wypełnia osobliwy, żałosny jęk, niosący się echem po smaganych wiatrem salach. Czy dźwięk ten jest jedynie sprytną sztuczką mechaniczną dawnych budowniczych, jak początkowo podejrzewałem? A może to prawdziwa klątwa, o której wspominają starożytne legendy?
+
+Dzień 5
+Dok, Psi Czarodziej, który dołączył do nas jako przewodnik, wykazuje zaskakująco rozległą wiedzę na temat krasnoludzkich konstrukcji. Jego wskazówki okazały się dla nas niezwykle pomocne.
+
+Dzień 7
+Im głębiej schodzimy, tym bardziej niepokojące staje się to miejsce. Przemierzamy opuszczone sale i ukryte przejścia, a mimo to nie napotykamy żadnych potworów. Cisza jest nienaturalna.
+
+Dzień 8
+Niech to! Nasz niziołek złodziej, Nhair Ebendar, nie żyje. Krata, którą minęliśmy wcześniej, została opuszczona przez nieznaną istotę. Droga powrotna została odcięta.
+
+Dzień 9
+Zacząłem potajemnie obserwować Doka. Często szepcze coś pod nosem, gdy sądzi, że nikt go nie słucha. Im głębiej wchodzimy, tym bardziej wydaje się zadowolony. Czy on... rozmawia z cieniami? Powietrze przesycone jest zapachem dawnej zdrady. Muszę zachować czujność.
+
+Dzień 10
+Psi Czarodziej zna ścieżki i sekrety Zawodzącego Krasnoluda, które wcześniej przed nami ukrywał. Obawiam się, że jego zamiary są znacznie mroczniejsze, niż początkowo sądziliśmy.
+
+Dzień 11
+Iremar nie żyje. Jak to możliwe? I to właśnie w chwili, gdy rozwiązaliśmy krasnoludzką zagadkę w sali zgromadzeń. To nie może być przypadek.
+
+Dzień 12
+Dok i ja stoimy teraz przed potężnymi drzwiami, które, jak głoszą zapiski, prowadzą do Tronu Szalonego Boga. Widziałem, jak Psi Czarodziej mruczy coś pod nosem – modlitwę czy klątwę? Nie mogę dłużej zwlekać. Postanowiłem zapieczętować te wrota na wieki. Nie mogę pozwolić, by szaleństwo czające się za nimi zostało uwolnione. A właśnie tego pragnie Dok.
+
+Dzień 13
+Drzwi zapieczętowane. Dok, derro i ich obłąkany bóg muszą pozostać uwięzieni.
+
+Dzień 14
+Zostałem ukąszony przez wargulca. Wiem, co to oznacza... Zginę tutaj, a moja głowa będzie żyć dalej jako jedna z groteskowych poczwar Otchłani. Muszę z tym walczyć. Muszę.
+
+Mój czas dobiega końca. Klątwa zaczyna działać i wkrótce stanę się jednym z nich. Spisuję te ostatnie słowa w nadziei, że ktoś mądrzejszy i silniejszy ode mnie odnajdzie te zapiski i wyciągnie wnioski z moich błędów. Moją jedyną nadzieją jest to, że dziennik ten zostanie odnaleziony, zanim będzie za późno.~
+@2058 = ~Historia krasnoludów tarczowych – tom II~
+@2059 = ~Historia krasnoludów tarczowych – tom II
+
+Traktat autorstwa Oleusa z Mintaru, uczonego w służbie Oghmy
+
+Poza dobrze znaną rasą krasnoludów tarczowych badacze zidentyfikowali kilka innych podras, z których wiele jest jeszcze mniej przychylnie nastawionych do obcych. Czytelnika może zaskoczyć fakt, iż uważa się, że również one wywodzą się z klanów dawnego Shanataru.
+
+Wśród nich znajdują się duergarowie, zwani także krasnoludami szarymi. Zgodnie z powszechnie przyjmowaną teorią ich rodowód sięga klanu o tej samej nazwie, który niegdyś zamieszkiwał Barakuir, Królestwo żelaza. Z nieznanych przyczyn klan ten zwrócił się przeciwko swoim pobratymcom, po czym na długi czas zniknął z kart historii. Gdy jego przedstawiciele powrócili, byli już odmienieni – stali się okrutną i spaczoną karykaturą dawnych krasnoludów.
+
+Mniej znanym faktem jest to, że inni ponurzy mieszkańcy Podmroku również wywodzą się od krasnoludów. Mowa tu o derro. Te niewielkie, długowłose istoty wykazują skłonność do skrajnego okrucieństwa oraz obłędu. Czczą one wygnane niegdyś bliźnięta Moradina – Diirinka i Diinkarazana. Wyznawcy Diirinka są znacznie liczniejsi, być może dlatego, że jego brat bliźniak, Diinkarazan, został strącony do Otchłani.
+
+Przed wydaleniem z krasnoludzkiego panteonu Diirinka był czczony przez krasnoludy z królestwa Torglor, podczas gdy Diinkarazana czcili w Korolnorze. Można przypuszczać, że na przestrzeni wieków niektóre ze starożytnych klanów tych dwóch państw stopniowo przeistoczyły się w derro, jakich znamy dzisiaj, kontynuując kult swych okrutnych i obłąkanych bogów – porzuconych dzieci Moradina.~
+@2060 = ~Głowa Lancametha~
+@2061 = ~To głowa Bryama Lancametha po zdjęciu z niego klątwy wargulca. Jego oblicze jest teraz spokojne i pogodne. Możesz zanieść te szczątki jego wdowie, Darcii Lancameth, do Dzielnicy Cmentarnej, aby mogła się z nim pożegnać.~
+@2064 = ~Pogromca łupieżców +4~
+@2065 = ~Ten misternie zdobiony krótki miecz został stworzony w jednym celu: do zabijania łupieżców umysłów. Wybór krótkiego miecza na taką broń może wydawać się zaskakujący, ale w wąskich tunelach i jaskiniach krótkie ostrze pozwala na znacznie skuteczniejszą technikę cięcia niż dłuższy i bardziej nieporęczny miecz półtoraręczny czy długi.
+
+Historia tej broni jest ściśle związana z Diinkarazanem, wygnanym krasnoludzkim bogiem. Diinkarazan został wtrącony do Otchłani przez Ilsensine’a, boga łupieżców umysłów. Tam wygnaniec, od dawna trawiony szaleństwem wywołanym przez okropieństwa tej sfery, od wieków przemyśliwał nad zemstą. Cała nienawiść Diinkarazana do łupieżców umysłów zdaje się być wpleciona w to ostrze. W rękach sprawnego wojownika miecz ten staje się koszmarem każdego illithida.
+
+Uważa się, że illithidzi dokładają wszelkich starań, by jak najszybciej wymazać wszelkie wspomnienia o tej broni ze zbiorowej świadomości.
+
+PARAMETRY:
+
+Specjalne:
+– Przy trafieniu krytycznym: macki trafionego łupieżcy umysłów zostają okaleczone, przez co traci on zdolność wysysania mózgów innych stworzeń
+
+Obrażenia: 1k6 +4, +5 przeciw łupieżcom umysłów
+TraK0: +4, +5 przeciw łupieżcom umysłów
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 1~
+@2066 = ~Lepki olej~
+@2067 = ~Ten olej zawiera gęstą, lepką substancję. Rzucona butelka rozbija się przy uderzeniu, rozlewając zawartość i poważnie ograniczając zdolność poruszania się trafionego celu. Derro – rasa daleko spokrewniona z krasnoludami i pochodząca z Podmroku – często używają tego oleju, by uniemożliwić ofiarom ucieczkę. 
+Jedynie istoty, którym powiedzie się rzut obronny przeciw czarom, są w stanie oprzeć się jego działaniu. Olej można cisnąć na odległość około 12 metrów.
+
+PARAMETRY:
+
+Specjalne:
+– Przy trafieniu na cel nakładany jest efekt podobny do zaklęcia „Śliskość”, trwający przez dwie rundy.
+
+Waga: 1~
+@2068 = ~Płuco~
+@2069 = ~To zakonserwowane płuco jakiegoś stworzenia.~
+@2070 = ~Płuco Gorathula~
+@2071 = ~Wedle legend jest to płuco Gorathula, władcy olbrzymów burzowych, słynącego z grzmiącego głosu i gromkiego śmiechu. Z biegiem czasu organ ten znacznie się skurczył, lecz mimo to wciąż zachował zdolność oczyszczania i dostarczania świeżego, czystego powietrza raz dziennie.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik staje się odporny na czary „Śmierdząca chmura” i „Zabójcza chmura” raz dziennie.
+Czas działania: 1 faza
+
+Waga: 8~
+@2072 = ~Klejnot koronny Korolnoru~
+@2073 = ~Ten misternie oszlifowany kamień szlachetny jest częścią klejnotów koronnych Korolnoru. W jego głębi dostrzec można jasny blask. Nie sposób pojąć starożytnej magii, która drzemie w tym kamieniu.~
+@2074 = ~Starożytna krasnoludzka księga~
+@2075 = ~Jak Moradin wykuł krasnoludy
+
+W najgłębszych pałacach pod ziemią, gdzie panują jedynie ciemność i starożytne szepty skał, Moradin Wszechojciec rozpalił swą boską kuźnię. Z samej skały, zahartowanej w ogniu jego pieca, wykuł pierwsze krasnoludy. Każdym uderzeniem młota nadawał kształt ich ciałom z żelaza, srebra i granitu, a ich dusze ulepił z nieugiętej woli ziemi. W końcu tchnął w nie życie. Tak przebudziły się dzieci Moradina – silne jak głaz i niewzruszone jak góry, gotowe wypełnić swe przeznaczenie.
+
+Moradin wyprowadził swe krasnoludy z wnętrzności ziemi, gdzie wiecznie płonie roztopione jądro świata. W mroku czaiły się nie tylko tajemnice, lecz także liczne niebezpieczeństwa. Starożytne zło i wieczna noc próbowały powstrzymać ich marsz ku powierzchni. Lecz krasnoludy, natchnione mocą Moradina, przebijały się przez litą skałę, walcząc ramię w ramię – z młotem w jednej dłoni i tarczą w drugiej.
+
+Po niezliczonych dniach i nocach spędzonych pod ziemią, gdy skała stawała się coraz lżejsza, a powietrze coraz rzadsze, pierwszy krasnolud przebił ostatnią warstwę kamienia i wkroczył w światło świata.
+
+Po raz pierwszy ujrzeli niebo – bezkresne sklepienie, które napełniło ich podziwem i zdumieniem. Lecz tym, co najbardziej poruszyło ich serca, był widok majaczących w oddali gór: majestatycznych i dumnych, jakby stworzonych specjalnie dla nich. Natychmiast pojęli, że oto ziemia przeznaczona im przez Moradina – miejsce, gdzie wzniosą swe twierdze i zapuszczą korzenie swych rodów.
+
+Zanim postawili stopę wśród górskich szczytów, Moradin ukazał się im po raz ostatni.
+„Przeszliście próby głębin” – przemówił głosem niczym grzmot. – „Teraz królestwo gór należy do was. Lecz nigdy nie zapominajcie, skąd pochodzicie: z serca ziemi i z ognia mojej kuźni”.
+
+Tymi słowy pobłogosławił swój lud, a krasnoludy wzniosły swe fortece głęboko w skale. Budowały je z mądrością i siłą, którymi obdarzył je Moradin, a ich miasta rozkwitały z wiekiem. Tak krasnoludy powstały z głębin i stały się strażnikami gór – a ich dzieje zostały wyryte w kamiennych pałacach na całą wieczność, jako dziedzictwo Moradina.
+
+Tak powiadają przodkowie i tak przekazywana jest ta opowieść w wielkich pałacach. Krasnoludzki lud nigdy nie zapomni swych korzeni.~
+@2076 = ~Starożytna krasnoludzka księga~
+@2077 = ~Matrona Ogniska – Berronar
+
+Już najstarsze krasnoludzkie teksty, wyryte na kamiennych tablicach w głębi pałaców przodków, sławią nie tylko Moradina Wszechojca, lecz także Berronar – jego małżonkę i Strażniczkę Ogniska. Powiada się, że bez mądrości i troski Berronar nawet najpotężniejszy krasnolud byłby słaby i zagubiony, gdyż to ona podtrzymuje w sercach krasnoludów ogień lojalności, opieki i wzajemnego oddania.
+
+Gdy Moradin wykuwał pierwsze krasnoludy z kamienia i natchnął ich serca esencją ziemi, Berronar obdarzyła je najcenniejszym z darów – więzią wspólnoty. Utkała między nimi niewidzialne nici, mocniejsze niż jakikolwiek metal. Splecione z lojalności, honoru i wzajemnej ochrony, wiązały krasnoludy nie tylko ze sobą nawzajem, lecz także z tradycją i mądrością przodków. Berronar została strażniczką tych więzi, a jej symbolem stały się dwa wieczne, nierozerwalne pierścienie.
+
+To ona nauczyła krasnoludy, jak chronić swoje pałace i strzec swych rodzin. Pokazała im, jak dbać o ogień w palenisku – płomień, który przynosił nie tylko ciepło, lecz również bezpieczeństwo. W każdym krasnoludzkim domu płonie Święty Ogień Ogniska, zapalony niegdyś przez samą Berronar, by strzec dusz i domostw jej ludu.
+
+Największy czyn bogini dokonał się jednak w chwili, gdy krasnoludom po raz pierwszy zagroził rozłam. W dawnych dniach, gdy Pierwsi podbijali góry i rzeźbili swe pałace, między klanami wkradły się zawiść i niezgoda. Spory o drogocenne rudy i skarby ziemi zaczęły oddzielać krasnoludy od siebie, a rozłam groził zachwianiem samych fundamentów ich społeczeństwa.
+
+Wówczas Berronar zstąpiła z pałaców Krasnoludzkiego Domu i stanęła pomiędzy zwaśnionymi klanami. Jej głos zadźwięczał niczym uderzenie starego, głębokiego dzwonu, a ziemia zadrżała, gdy przemówiła:
+„Wy, dzieci Moradina, wszyscy jesteście wyciosani z tej samej skały. Wasza więź jest wieczna i silniejsza niż jakakolwiek żyła rudy, którą pragniecie posiąść. Nie zapominajcie o tym, co czyni was potężnymi – o jedności, lojalności i honorze. Ten, kto się ich wyrzeka, jest uboższy niż ten, kto nie posiada złota wcale”.
+
+Tymi słowy położyła na ziemi srebrny pierścień – symbol wiecznej, nierozerwalnej więzi. Uklękła i tchnęła w niego iskrę Świętego Płomienia, który natychmiast zapłonął w sercach wszystkich krasnoludów. Zwaśnione klany padły na kolana, przejęte głębokim wstydem, i przysięgły, że nigdy więcej nie złamią lojalności wobec siebie nawzajem.
+
+Od tamtej pory Berronar czczona jest jako bogini lojalności, ochrony i pokrewieństwa. Krasnoludy noszą srebrne pierścienie na znak więzi między sobą oraz z tradycjami, którymi obdarowała je Berronar. Za każdym razem, gdy w krasnoludzkiej sali rozpala się ogień, szeptana jest cicha modlitwa do Strażniczki Ogniska, by podtrzymywała płomień wspólnoty i wzmacniała więzi pomiędzy jej dziećmi.
+
+I tak Berronar, małżonka Moradina, pozostaje wieczną strażniczką krasnoludzkiej jedności – Opiekunką Świętego Płomienia. A w sercach krasnoludów trwa jej dar: więź lojalności, której nie przetnie ani czas, ani topór.~
+@2078 = ~Starożytna krasnoludzka księga~
+@2079 = ~Pięć rzeczy, których krasnolud potrzebuje do życia
+
+Autor: Bardain Złotokufel
+Fragment dzieła „Mądrość skały: Zasady i nauki krasnoludzkiego życia”
+
+1. Solidna skała pod stopami
+
+Żaden krasnolud nie czuje się spełniony, jeśli nie ma pod stopami litej skały – czy to głęboko w kopalni, w szybie, czy w salach własnego domu. Kamień niesie nas tak, jak niesie góry: niewzruszony i milczący. Krasnolud pozbawiony skały pod nogami jest jak młot bez trzonka – nie na miejscu i bezużyteczny. Strzeżcie się tych, którzy spędzają dnie na miękkiej ziemi, chwiejącej się i uginającej niczym młody, drżący głębinowy roth. Jedynie skała jest naszym domem, a bliskość ziemi – prawdziwą naturą krasnoluda.
+
+2. Młot, który zawsze mówi prawdę
+
+Krasnolud bez młota nie jest krasnoludem, lecz głazem pozbawionym żyły rudy. Młot – czy to kowalski, czy bojowy – jest narzędziem, które odbija samą naszą duszę. Rozłupuje kamień i ujawnia to, co ukryte: żyłę mithrilu albo czaszkę orka. Młot w dłoni to coś więcej niż narzędzie – to wola naszego ludu i symbol naszej siły. Strzeżcie się krasnoluda, który chodzi bez młota, albowiem jego ścieżka bywa kręta, a zamiary niejasne.
+
+3. Lojalność klanu
+
+Żaden krasnolud nie stoi samotnie. Nieważne, jak głęboko sięga tunel, zawsze ma u boku braci i siostry z klanu. Lojalność klanu jest jak stalowa sieć – mocna i niemal niezniszczalna. Wiąże nas i podtrzymuje, nawet gdy skała zaczyna kruszeć. Bez klanu krasnolud jest jak rzeka bez źródła – zagubiony i pozbawiony celu. Każdy z nas wie, że klan jest zarazem tarczą i domem.
+
+4. Mądrość Moradina
+
+Każdy krasnolud winien nosić w sercu mądrość Ojca Moradina. To on wykuł nas z kamienia i tchnął w nas wiedzę o ziemi oraz ogniu. Jego nauki wzmacniają serce i rozjaśniają umysł. Ten, kto o nich zapomina, jest jak ruda pełna zanieczyszczeń – krucha, bezużyteczna i słaba, krusząca się pod pierwszym naciskiem. Strzeż się, krasnoludzie, zbaczania ze ścieżki Wszechojca, gdyż tylko w jego mądrości odnajdujemy prawdziwą siłę i miłość do skały.
+
+5. Kufel dobrego piwa
+
+Żadna śmiertelna istota nie zgłębi w pełni krasnoludzkiego serca, lecz każde dziecko Moradina wie, że kufel dobrego piwa jest jego zwierciadłem. Piwo powinno być mocne, gorzkie i ciężkie – rozgrzewające i krzepiące niczym skała. Strzeżcie się jednak dziwnych wywarów lubianych przez słabsze rasy, gdyż lekkie napitki czynią serce wątłym. Piwo, które nie ma barwy ziemi, nie jest godne krasnoluda – i o tym powinien pamiętać każdy z nas.
+
+Podsumowanie: krasnolud może stracić wszystko – złoto, broń, a nawet dach nad głową – lecz bez tych pięciu rzeczy wart jest mniej niż wydrążony kamień.~
+@2080 = ~Starożytna krasnoludzka księga~
+@2081 = ~O magii: Ostrzeżenie
+
+Powszechnie wiadomo, że my, krasnoludy, jesteśmy ludem skały i ziemi, a nie wiatru czy szeptanych słów. Nasza siła tkwi w młocie i dłucie, w kuźni oraz szybie kopalnianym, nie zaś w ulotnych konstrukcjach magii. Wydarzenia, które niegdyś rozegrały się pod tą górą, stanowią ponure świadectwo naszej niezgodności ze światem czarów.
+
+Niezliczone wieki temu nasz patron, pchany ambicją i zgubną ciekawością, zwrócił się ku sztukom magicznym. Jego pogoń za potęgą zaprowadziła go na najdalsze krańce sfer, gdzie nigdy nie dotarło światło żadnej pochodni. Pozbawiony szacunku dla starożytnych praw, zatracił się w swym pragnieniu mocy, a jego czyny – jak wszyscy dziś wiemy – doprowadziły do katastrofy.
+
+Na skutek jego działań zadrżały głębokie fundamenty naszej krainy. Magia, dzika i nieokiełznana, sprowadziła nieszczęście, które niemal położyło kres istnieniu naszych wielkich pałaców. Skała pękła, a wyjące potwory wdarły się w nasze szeregi. Stało się jasne, że dusze krasnoludów nigdy nie były stworzone do nieprzewidywalności magii, tak jak skała nigdy nie miała wznieść się ku niebu.
+
+Od tamtej pory my, krasnoludy, trwamy niewzruszeni w przekonaniu, że magia jest dla naszego ludu źródłem niepokoju i zguby. Unikamy sztuk tajemnych, pokładając ufność w sile własnych rąk, ostrości toporów i bogactwie kopalń. Nasza potęga tkwi w metalu i kamieniu, nie w ulotnych obietnicach czarodziejów.
+
+Niech ci, którzy czytają tę księgę, uszanują mądrość przodków oraz granice, które nas chronią. Świat magii jest krainą zmian i niepewności, a my – lud skały – musimy strzec swego dziedzictwa jako strażnicy ziemi.
+
+Niech los Wygnanego z Morndinsamman pozostanie świadectwem dawnych błędów i ostrzeżeniem dla przyszłych pokoleń.~
+@2082 = ~Historia Korolnoru~
+@2083 = ~W mrokach czasu, pod nietkniętym szczytem Góry Batyr w Trollowych Górach, założyliśmy królestwo Korolnoru. Pod mądrymi rządami Karlyna Kuldelvera, Pierwszego Tego Imienia, wyciosaliśmy nasze pałace w żywej skale i przynieśliśmy górom chwałę oraz honor.
+
+Lecz chwała ta przygasła, gdy Diinkarazan, nasz patron, wkroczył na zgubną ścieżkę magii. Jego serce, niegdyś czyste i głęboko zakorzenione w naukach Moradina, uległo skażeniu, gdy zapragnął zakazanych czarów i sięgnął po tajemnice, które powinny na zawsze pozostać poza zasięgiem krasnoludzkich rąk.
+
+Gdy jego zdrada wyszła na jaw, Diinkarazan został wygnany z panteonu Moradina. Zapieczętowaliśmy bramy prowadzące do jego świętych pałaców. Świątynia, niegdyś miejsce modlitwy i czci, została zamknięta, a jego imię wymazano z kronik – aby nigdy więcej jego mroczna, nieokiełznana magia nie sprowadziła na nas zguby.
+
+Zwróciliśmy się wówczas ku wierze w Clangeddina, Ojca Bitew, i przysięgliśmy nigdy nie zbaczać ze ścieżki przodków. Trwamy tu do dziś, czujni i niezłomni, strzegąc naszej historii i broniąc pokoju, o którym marzyli nasi pradziadowie.
+
+Diinkarazan Wygnaniec nie przestał jednak szukać drogi powrotnej do sali tronowej i świata śmiertelników. Obowiązkiem Korolnoru było czuwać nad tą górą i dopilnować, by zaginiony syn Moradina nigdy więcej nie sprowadził nieszczęścia na krasnoludzki lud.
+
+Byli jednak wśród nas tacy, którzy odmówili porzucenia ścieżki dzikiej magii Diinkarazana. Pomimo skażenia, które opanowało naszego dawnego patrona, pozostali mu wierni, gnani żądzą potęgi i ślepą wiarą. Próbując go uwolnić, wypuścili na świat bestie z Otchłani, które spadły na nas chmarami. Ich ukąszenie niosło klątwę Wygnańca, a nasi ukochani klanowi bracia przemieniali się w uskrzydlone sługi Diinkarazana.
+
+Gdy zdrada stała się oczywista, starszyzna Korolnoru orzekła, że ci, którzy nie wyrzekną się Diinkarazana, nie mogą dłużej pozostawać wśród nas. Zostali odprawieni jako wygnańcy i wypędzeni w głębiny Podmroku, do krainy wiecznej ciemności. Sam Karlyn wypowiedział potężną runiczną klątwę: żaden krasnolud z Korolnoru nigdy nie zdoła otworzyć drzwi do tronu Szalonego Boga. Karlyn został strażnikiem tej pieczęci i miał wypełniać swą powinność przez całą wieczność – nawet po śmierci.
+
+Niech potomni nauczą się rozpoznawać dobro i unikać zła, a błędy Wygnanych niech na zawsze uczą ich trwania na prawdziwej ścieżce.~
+@2084 = ~Notatka derro~
+@2085 = ~Program hodowli trolli~
+@2086 = ~Ta notatka została zapisana w przedziwnie zmienionej odmianie krasnoludzkiego pisma, trudnej do odczytania.~
+@2087 = ~Tekst zapisano pismem derro, będącym odmianą krasnoludzkiego zapisu. Jest to rejestr działań mędrców derro zmierzających do ustanowienia programu hodowli trolli:
+
+Program hodowli trolli:
+5 szarych trolli pozyskanych od wampira
+Zwerbowano trolle lodowe i ogniste
+4 trolle faerzress przybyły z Podmroku
+
+Dalsze plany:
+Stworzyć 20 widmowych trolli poprzez kontakt z upiorem
+Stworzyć 20 kamiennych trolli przy użyciu spojrzenia bazyliszka
+Stworzyć 30 duchowych trolli poprzez krzyżowanie z niewidzialnym tropicielem
+Stworzyć 30 jadowych trolli poprzez kontakt z jadem wiwerny
+
+Wszystkie zwykłe trolle są wysyłane na powierzchnię, aby polowały na ludzkich niewolników, których nasz pan potrzebuje do otwarcia zapieczętowanych bram.
+Gdy bramy zostaną otwarte, a nasz bóg uwolniony, ukończymy armię trolli. Wówczas zostanie wprawiony w ruch plan podboju Podmroku.~
+@2088 = ~Notatka Ursummnogha~
+@2089 = ~Mój lojalny sługo Ursummnoghu,
+
+Niebawem do ruin, które mają nam posłużyć do realizacji naszych zamierzeń, wkroczy grupa poszukiwaczy przygód.
+Masz się ukryć wraz ze wszystkimi trollami, aż ostatni członek grupy przejdzie przez bramę. Dopiero wtedy masz ją zamknąć.
+Pamiętaj – bramę można ponownie otworzyć wyłącznie po wykuciu nowego klucza. Nie zapieczętuj jej więc zbyt wcześnie.
+Poszukiwacze muszą być przekonani, że ta część ruin jest niezamieszkana.
+
+Drużyna składa się z następujących osób:
+– Ludzki żołnierz Bryam Lancameth
+– Złodziej niziołek Nhair Ebendar
+– Elfia łuczniczka nazywająca siebie Panną Startoróg
+– Ludzka kapłanka znana jako Iremar
+– Mag nieznanej rasy.
+
+Grupa ta jest niezwykle potężna i zniszczy każdego z twoich trolli, jeśli tylko zostaną odkryte.
+
+Jeden z jej członków podejmie próbę uwolnienia naszego boga z głębin. Ujawni się przed tobą dopiero wtedy, gdy cała grupa przejdzie przez bramę.~
+@2090 = ~Grzmiąca tarcza +2~
+@2091 = ~Tarcza ta została wykuta z rzadkiego metalu zwanego hizaagkur, który posiada wrodzony ładunek elektryczny. Każdy, kto jej dotknie – poza właścicielem – odczuje nieprzyjemne porażenie. Raz dziennie zgromadzona w tarczy energia może zostać uwolniona w postaci potężnego gromowego wyładowania.
+
+Wedle przekazów pewien bezimienny krasnoludzki wojownik użył niegdyś tej tarczy, by wywołać lawinę w Trollowych Górach, grzebiąc pod spadającymi skałami całe stado nacierających orków.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Nie chroni przed pociskami
+– Trafienie użytkownika tarczy powoduje, że napastnik otrzymuje 1 punkt obrażeń od elektryczności
+
+Właściwości ładunków:
+– Grzmot: potężny huk, który ogłusza wszystkich w promieniu 4,5 metra (rzut obronny przeciw czarom neguje) raz dziennie
+Czas działania: 3 rundy
+
+Wymagania:
+– Siła: 4
+
+Waga: 2~
+@2092 = ~Młot archonów~
+@2093 = ~Głowica tego młota ma kształt skrzydeł niebiańskiej istoty. Jest on doskonale wyważony, co pozwala na wyprowadzanie potężnych ciosów. Jak większość broni z wyższych Sfer, posiada zdolność niszczenia nieumarłych – choć nie w takim stopniu, jak oręż posiadany przez potężniejsze byty, takie jak planetary czy solary.
+
+PARAMETRY:
+
+Specjalne:
+– Przy trafieniu istnieje 5% szans na zniszczenie nieumarłego (rzut obronny przeciw śmierci z modyfikatorem -4 neguje)
+
+Obrażenia: 1k4 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 16
+
+Waga: 3~
+@2094 = ~Płaszcz chaosu~
+@2095 = ~Ten płaszcz może być dla noszącego zarówno błogosławieństwem, jak i przekleństwem – a stan ten zmienia się z chwili na chwilę. W jednej sekundzie może być potężnym atutem, by w następnej stać się niebezpieczną słabością. Źródło jego energii pozostaje nieznane, a jedynie najbardziej lekkomyślni lub szaleni poszukiwacze przygód powinni odważyć się go założyć.
+
+Dzicy magowie, znani ze swej zdolności władania chaotyczną magią, czerpią z tego przedmiotu większe korzyści, choć nawet oni nie potrafią w pełni kontrolować jego dzikiej natury. Czary „Tarcza chaosu” oraz „Ulepszona tarcza chaosu” chronią przed negatywnymi skutkami płaszcza. Jednak nawet w przypadku dzikiego maga premie do Klasy Pancerza i rzutów obronnych pozostają nieprzewidywalne, wahając się w każdej rundzie od 0 do -5.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: waha się od -5 do +5 w każdej rundzie
+– Rzuty obronne: wahają się od -5 do +5 w każdej rundzie
+
+Waga: 3~
+@2096 = ~Górski strażnik~
+@2097 = ~Ten solidny hełm zdobią misternie wyryte runy biegnące wzdłuż czoła, nadające mu aurę pradawnego autorytetu. Oprócz zapewniania skutecznej ochrony przed ciosami, pozwala on noszącemu raz dziennie widzieć przez lity kamień tak, jakby był przezroczystym szkłem.
+
+Ta magiczna zdolność uruchamiana jest przez starożytne krasnoludzkie runy, odsłaniając ukryte jaskinie, szyby kopalniane oraz inne podziemne sekrety. Hełm ten, zaprojektowany pierwotnie z myślą o strażnikach gór i nadzorcach kopalń, służył do odnajdywania ukrytych żył rudy i zapewniania bezpieczeństwa tuneli. Dla tych, którzy pragną zgłębiać tajemnice Podmroku, Górski strażnik jest narzędziem nieocenionej wartości.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Chroni przed trafieniami krytycznymi
+
+Właściwości ładunków:
+– Kamienny wzrok (raz dziennie): umożliwia zbadanie obszaru pod ziemią (nie na zewnątrz), działa podobnie do czaru maga „Dalekowzroczność”.
+Czas działania: 1 runda
+
+Waga: 2~
+@2098 = ~Pierścień towarzyszy~
+@2099 = ~Ten pierścień jest jedyną pozostałością po towarzyszach, którzy towarzyszyli Bryamowi Lancamethowi w jego ostatniej wyprawie. Jest on wyrzeźbiony w drewnie i pomalowany. Pierścień symbolizuje lojalność, siłę i więź, którą dzielą tylko ci, którzy wspólnie wyruszają w nieznane.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Jedność obronna (raz dziennie)
+– Siła jedności (raz dziennie)
+
+Waga: 0~
+@2100 = ~Wykute rękawice~
+@2101 = ~Rękawice te stworzono z myślą o kształtowaniu metalu i wykuwaniu stali. Z tego względu nasycono je szeregiem zaklęć, które wspomagają mistrza kowalstwa w rzemiośle.
+
+Rękawice mogą nosić wyłącznie rasy kamienia – krasnoludy i gnomy. Krasnoludy zakładają je z błogosławieństwem Moradina, zaś gnomy cieszą się przychylnością Flandala Stalowoskórego, swoich patronów sztuki kowalskiej.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień: +25%
+– Biegłość w posługiwaniu się młotami bojowymi: +1
+– Premia do TraK0 przeciw żelaznym golemom: -2
+– Premia do obrażeń przeciw żelaznym golemom: +2
+
+Waga: 2~
+@2102 = ~Łapa trolla~
+@2103 = ~Łapa Grubnuka +3~
+@2104 = ~To odcięta łapa trolla.~
+@2105 = ~Ta łapa niegdyś należała do trolla Grubnuka, który podarował ją tobie w geście wdzięczności. Odcięta ręka okazuje się być zaskakująco skuteczną bronią. Po założeniu ścięgna trolla zrastają się z ciałem noszącego, pozwalając władać nią niczym szponem, zadającym obrażenia kłute.
+
+Choć jest wolniejsza od mniejszych broni, jej znacznie większa siła rażenia w pełni rekompensuje tę wadę. Cząstka regeneracyjnej mocy trolla przenika na noszącego, lecz w zamian dłoń wysysa część sił życiowych i nie daje się łatwo zdjąć.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja 1 punktu życia co 2 rundy
+– Punkty życia: -10
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Obrażenia: 1k6 +3
+TraK0: +6
+Typ obrażeń: kłute
+Opóźnienie: 3
+Rodzaj biegłości: brak
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 3~
+@2106 = ~Korona~
+@2107 = ~Szepcząca prawda~
+@2108 = ~Misterna, bogato zdobiona korona.~
+@2109 = ~Korona ta pochodzi z epoki wielkich imperiów Netherilu, czasów, gdy jeden z władców władających magią zapragnął osiągnąć absolutne oświecenie.
+
+By zrealizować swój cel, uwięził w diademie esencję pradawnej istoty znanej jako Yllatharn Myśliciel. Był to byt o niewyobrażalnej inteligencji, lecz przy tym całkowicie obłąkany – przytłoczony naporem nieskończonych myśli i możliwości płynących ze Sfery astralnej. Kierując się jego podszeptami, władca stworzył ten misternie wykonany artefakt, uformowany na kształt niewielkiej korony. Osadzony w nim błękitny klejnot zdaje się delikatnie pulsować w świetle. Przedmiot emanuje niepokojącą aurą – poczuciem głębokiego wglądu, któremu towarzyszy przytłaczający ciężar.
+
+Każdy, kto go nosi, nieustannie słyszy cichy szept, obdarzający błyskotliwymi objawieniami, lecz jednocześnie zasiewający wątpliwości i wewnętrzne konflikty. W rezultacie pewność siebie noszącego oraz zdolność do szybkiego reagowania na wydarzenia ulegają osłabieniu.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Mądrość: +1
+– Charyzma: -1
+– Rzuty obronne: -1
+
+Waga: 0~
+@2110 = ~Tarcza Strażnika Zagłady~
+@2111 = ~Tarcza ta została poświęcona Kelemvorowi, Władcy Umarłych. Oprócz zapewniania solidnej ochrony w boju stanowi również zaporę przeciwko nieumarłym, pomagając odesłać ich na ostateczny spoczynek.
+
+Wykonana jest z ciemnego drewna, wzmocnionego brązową ramą. Pośrodku widnieje wyraźnie symbol Kelemvora – szkieletowa dłoń dzierżąca szale wagi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Premia do KP i rzutów obronnych przeciw nieumarłym: +2
+– Premia do rzutów obronnych przeciw nekromancji: +2
+
+Wymagania:
+– Siła: 12
+
+Waga: 5~
+@2112 = ~Pas trolla~
+@2113 = ~Ten pas został zszyty z różnych części trolla – kości, skóry i wnętrzności. Każdy, kto go nosi, korzysta z przyspieszonej regeneracji, z której tak słyną trolle.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja: 1 punkt życia na rundę
+
+Waga: 2~
+@2114 = ~Ta tarcza jest całkowicie pogięta; nie zdołała uchronić swego właściciela przed miażdżącym ciosem.~
+@2115 = ~Wieczna pochodnia~
+@2116 = ~Wieczna pochodnia to nieustannie tląca się żagiew, zgrubnie wyciosana z ognioodpornego drewna nieznanego drzewa. Służy ona nie tylko jako stałe źródło światła, lecz także jako całkiem znośna maczuga w walce. Przy każdym uderzeniu zadaje przeciwnikowi dodatkowe, niewielkie obrażenia od ognia. Dzięki nigdy niegasnącemu płomieniowi pochodnia zapewnia posiadaczowi infrawizję, pozwalając na lepsze widzenie w ciemnościach.
+
+PARAMETRY:
+
+Specjalne:
+– Infrawizja do 36 metrów
+
+Obrażenia: 1k2, +1k4 obrażeń od ognia
+TraK0: +0
+Typ obrażeń: obuchowe
+Opóźnienie: 3
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@2117 = ~Ząbkowany klucz~
+@2118 = ~Ten klucz jest ostry i ząbkowany, najwyraźniej przeznaczony do specjalnej skrzyni lub klatki.~
+@2119 = ~Pryzmatyczny sejmitar +3~
+@2120 = ~Więzień żywiołów
+
+Ten wykuty przez same siły żywiołów Pryzmatyczny sejmitar, został stworzony jako naczynie dla ich potęgi. Duchy ognia, lodu, błyskawic, kwasu oraz czystej energii magicznej są uwięzione w ostrzu, uwalniając swe siły losowo przy każdym trafieniu. Jego mieniący się blask chroni dzierżącego przed ślepotą.
+
+PARAMETRY:
+
+Specjalne:
+– Niewrażliwość na oślepienie
+
+Obrażenia: 1k8 +3, dodatkowo +1 od ognia, +1 od kwasu, +1 od magii, +1 od zimna lub +1 od elektryczności (losowo)
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 1~
+@2121 = ~Powietrzny młot +3~
+@2122 = ~Powietrzny młot został wykuty przez krasnoludzkich rzemieślników jako magiczny przyrząd ratunkowy, przeznaczony do użycia w mrocznych i zdradliwych tunelach Podmroku, gdzie dym i trujące opary stanowią nieustanne zagrożenie.
+
+Przedmiot ten otwiera przejście do sfery leżącej poza światem materialnym, nasyconej czystym powietrzem ze Sfery żywiołu powietrza. Po aktywowaniu runy młot uwalnia potężny podmuch, który wypełnia obszar o promieniu 9 metrów świeżym powietrzem – wystarczającym, by przy umiarkowanym wysiłku podtrzymać funkcje życiowe ośmiu ludzi (lub dwunastu krasnoludów). Strumień wiatru potrafi rozproszyć trujące opary oraz magiczne mgły, w tym również te wywołane zaklęciami pokroju Zabójczej chmury.
+
+Z broni tej mogą korzystać wyłącznie krasnoludy.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Strefa czystego powietrza (raz dziennie)
+
+Obrażenia: 1k4 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 4~
+@2123 = ~Świeca dymna~
+@2124 = ~Świeca ta została wykonana z osmolonego wosku, który po zapaleniu natychmiast zaczyna wydzielać gęste kłęby dymu. Służy jako medium do przywołania mefita dymu ze Sfer wewnętrznych, który przez krótki czas będzie służył używającemu.
+
+Świecę można wykorzystać trzykrotnie, nim zostanie całkowicie wypalona.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Przyzwanie mefita dymu (3 ładunki)
+Czas działania: 1 tura
+
+Waga: 1~
+@2125 = ~Druga skóra krasnoluda +3~
+@2126 = ~Każdy, kto twierdzi, że krasnoludy mistrzowsko opanowały wyłącznie obróbkę kamienia i metalu, szybko zmieni zdanie na widok tej skórzanej zbroi. Wykonana ze skóry głębinowego rotha, została starannie wyprawiona przy użyciu magicznych nalewek, co zapewnia jej znakomitą odporność na obrażenia – a przy tym zaskakująco przyjemny zapach.
+
+Aby jednak w pełni wykorzystać jej właściwości, trzeba posiadać krępą posturę i solidną tuszę krasnoluda.
+
+PARAMETRY:
+
+Specjalne:
+– +10% odporności na obrażenia sieczne, kłute, obuchowe i od pocisków (tylko krasnoludowie)
+– Charyzma: +1 (tylko krasnoludowie)
+
+Klasa Pancerza: 5 (7 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 3
+
+Waga: 4~
+@2127 = ~Szczurzy pocisk +1~
+@2128 = ~Pociski te wykonane są ze szczurzego futra, splecionego w stwardniałą bryłę przez nieznaną substancję. Posiadają zdolność przyzywania szczura na czas trzech rund; pojawia się on w miejscu trafienia wroga.
+
+PARAMETRY:
+
+Specjalne:
+– Przy trafieniu: przywołuje zwykłego szczura obok trafionego stworzenia
+
+Obrażenia: 1k4 +2
+TraK0: +1
+Typ obrażeń: pocisk
+Wyrzutnia: proca
+
+Waga: 0~
+@2129 = ~Pijackie mrugnięcie~
+@2130 = ~Pijackie mrugnięcie to magiczna maczuga dzierżona przez słynnego piwowara i kapłana Vergadaina, Bardaina Złotokufla, znanego również jako Bardain Namaszczony Piwem. Jego przewodnią myślą było: „Złoto Vergadain zbiera z wdzięcznością, w piwie je Bardain topi z radością”.
+
+Głowicą tej broni jest metalowy kufel, którego solidny uchwyt został przerobiony na zabójczy obuch. Ta ceremonialna buława była często używana podczas świętych rytuałów, gdy zgromadzonych wiernych oblewano piwem – błogosławieństwem w imię boskiej hulanki Piwowara. Do dziś z górnej krawędzi broni sączy się nieustanny strużek piwa. Przy dłuższym kontakcie zarówno trafiony przeciwnik, jak i sam dzierżący mogą odczuć skutki upojenia.
+
+Na drzewcu wyryto stare krasnoludzkie powiedzenie:
+„Jeśli nie możesz pokonać ich w walce – przepij ich!”
+
+Maczuga ta uważana jest za boską mieszankę krasnoludzkiego kunsztu i całkowitego braku odpowiedzialności.
+
+PARAMETRY:
+
+Specjalne:
+– Kondycja: +1 (tylko krasnoludowie)
+– Przy udanym trafieniu maczuga zwiększa poziom upojenia alkoholowego celu lub posiadacza o 10.
+
+Właściwości ładunków:
+– Raz dziennie, jeśli posiadacz jest pijany, może wypowiedzieć Święte słowo poprzez potężne beknięcie.
+
+Obrażenia: 1k6 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 6~
+@2131 = ~Torba kapryśnych klejnotów i żuków~
+@2132 = ~Ta zużyta, skórzana sakiewka grzechocze i szeleści w niepokojący sposób, jakby opętana przez nieprzewidywalną, własną wolę. Jest wynikiem osobliwego eksperymentu ekscentrycznego gnoma, który pragnął stworzyć nieskończone zapasy kamieni szlachetnych – jednak drobny wypadek alchemiczny związał jej magiczną bazę z chaotycznymi siłami natury.
+
+Teraz, raz dziennie, posiadacz torby może sięgnąć do środka i wyciągnąć lśniący klejnot. Magia jest jednak kapryśna – od czasu do czasu zamiast skarbu wyłania się rozwścieczony żuk, pragnący dać wyraz swemu niezadowoleniu. Stworzenie natychmiast kąsa dłoń użytkownika, po czym umyka, by zaatakować dowolną istotę w zasięgu wzroku.
+
+PARAMETRY:
+
+Specjalne:
+– Raz dziennie wytwarza losowy kamień szlachetny
+– 15% szans na przyzwanie wrogiego żuka, który najpierw zadaje użytkownikowi 20 obrażeń, a następnie atakuje pobliskie stworzenia
+
+Waga: 6~
+@2133 = ~Kostur obrony~
+@2134 = ~Kostur obrony to umagiczniony kij, który wspomaga posiadacza czarami ochronnymi. Pozwala właścicielowi raz dziennie rzucić Zbroję oraz Tarczę. Dodatkowo poprawia klasę pancerza użytkownika, emanując subtelną aurą ochronną.
+
+Według legendy kostury te były niegdyś wytwarzane w Myth Drannor, aby dać tamtejszym czarodziejom większą szansę na przetrwanie na polu bitwy. Wiele z nich zaginęło w chaosie upadku miasta i do dziś uczeni szepczą o zapomnianych reliktach spoczywających w głębiach starożytnych ruin, oczekujących na kolejnego właściciela.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+
+Właściwości ładunków:
+– Zbroja (jako czar maga z 1. poziomu) – raz dziennie
+– Tarcza (jako czar maga z 1. poziomu) – raz dziennie
+
+Obrażenia: 1k6 +2
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 1~
+@3000 = ~Posąg Clangeddina Srebrobrodego~
+@3001 = ~Diinkarazan, Wygnany Syn Moradina~
+@3002 = ~Wydrążona czaszka olbrzyma, wciąż promieniująca wielkim żarem. Prawdopodobnie regularnie spalano w niej jakieś substancje.~
+@3003 = ~Illithidzki bóg Ilsensine wygania Diinkarazana do Otchłani~
+@3004 = ~Karlyn Kuldelver, Patriarcha Korolnoru~
+@3005 = ~To zdaje się być drugim końcem tuby służącej do komunikacji z wyższymi poziomami.~
+@3006 = ~Antracyt zapłonął jasnym płomieniem.~
+@3007 = ~„Do dawnej Sali Tronowej Wygnańca”~
+@3008 = ~„Diinkarazan, Zdrajca Krasnoludzkich Ideałów”~
+@3009 = ~„Diinkarazan, Oskarżony o Uprawianie Niekontrolowanej Magii”~
+@3010 = ~„Diinkarazan, Odrzucony Przez Krasnoludzki Panteon”~
+@3011 = ~Na ołtarzu położono topór. Drugie zagłębienie pozostaje puste – wygląda na to, że umieszczenie tam kolejnej broni może aktywować mechanizm.~
+@3012 = ~Nie możesz używać czaru „Kamienny wzrok” na zewnątrz.~
+@3013 = ~Nie możesz użyć tutaj czaru „Kamienny wzrok”.~
+@3014 = ~Posąg Kelemvora rozbłyska na chwilę, a tabliczka z symbolem Władcy Umarłych nagle upadła na ziemię.~
+@3015 = ~Słyszysz dźwięk metalowych drzwi zamykających się gdzieś powyżej.~
+@3016 = ~Metalowe drzwi powyżej zostały ponownie otwarte.~
+@3017 = ~Szkoda, że nie rozpoznał innego Zhentarima. Cóż, może był na to zbyt głupi! Nieważne. Spoczywaj w pokoju, chwalebny odszczepieńcze! Ha!~
+@3018 = ~Nie mam zamiaru mówić moim szefom o całej tej sprawie. To nic niezwykłego, że Zhentarimowie od czasu do czasu wykańczają się nawzajem, ale nie róbmy afery z jednego trupa.~
+@3019 = ~Gdy chwytasz klejnot, rozpada się on w migoczący pył.~ [EFF_E03]
+@3020 = ~„Co to za przeklęty hałas? Słyszę tam kogoś!”~
+@3021 = ~„Argh. Beznadziejne kreatury.”~
+@3022 = ~„Kto tam rozrabia z moimi trollami? Pokaż się!”~
+@3023 = ~„Następnego głupca, który mnie zawiedzie, rzucę na pożarcie olbrzymom!”~
+@3024 = ~„Natychmiast przestańcie robić ten jazgot, bo sam tam przyjdę!”~
+@3025 = ~„Ktoś słono zapłaci za tę zniewagę.”~
+@3026 = ~„Przysięgam, że jeśli te trolle mnie zawiodły, to polecą głowy!”~
+@3027 = ~„Niech klątwa spadnie na ten przeklęty dzień! Domagam się ciszy!”~
+@3028 = ~„Ktokolwiek sieje ten chaos, zapłaci drogo. Słyszycie mnie? SŁYSZYCIE?!”~
+@3029 = ~„Kończy mi się cierpliwość!”~
+@3030 = ~„Tego hałasu nie da się znieść! Kto majstruje przy moich strażnikach?”~
+@3031 = ~„Cóż to za zdrada? Ujawnij się, tchórzu!”~
+@3032 = ~„Czy nikt tam na górze nie potrafi wykonać rozkazu? Uciszcie tych intruzów!”~
+@3033 = ~„Czy moje polecenia są aż tak trudne? Natychmiast uciszcie intruzów!”~
+@3034 = ~„Na kły Vapraka – ktoś odpokutuje za ten rozgardiasz!”~
+@3035 = ~Szczurza nora~
+@3036 = ~Szalony Bóg został ponownie wygnany.~ 
+@3037 = ~Emberon~
+@3038 = ~Nudnożuk~
+@3039 = ~Możesz beknąć Świętym słowem tylko wtedy, gdy jesteś pod wpływem alkoholu.~  
+@3040 = ~Trująca papka~
+@3041 = ~Trująca chmura~

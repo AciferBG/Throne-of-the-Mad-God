@@ -138,7 +138,9 @@ COPY ~%MOD_FOLDER%/cre/AC#MGTI3.cre~ ~override~ // Ice troll leader #1
 
 
 COPY ~%MOD_FOLDER%/cre/AC#MGTF1.cre~ ~override~ // Fire troll #1
-COPY ~%MOD_FOLDER%/cre/AC#MGTF3.cre~ ~override~ // Fire troll #1
+COPY ~%MOD_FOLDER%/cre/AC#MGTF3.cre~ ~override~ // Fire troll #3 (speaker)
+
+COPY ~%MOD_FOLDER%/cre/AC#MGTF4.cre~ ~override~ // Fire troll #4 (in area ACIL1V)
 
 COPY ~%MOD_FOLDER%/cre/AC#MGTL1.cre~ ~override~ // Troll watcher in area ACIL14
 

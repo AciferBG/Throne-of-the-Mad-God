@@ -1,0 +1,132 @@
+/**
+ * This function can be used to add areas with their names to the area list of the debug console.
+ *
+ * INT_VAR bg1        Indicates whether to expand the area list for the BG1 main campaign.
+ * INT_VAR sod        Indicates whether to expand the area list for the SoD campaign.
+ * INT_VAR soa        Indicates whether to expand the area list for the BG2:SoA campaign.
+ * INT_VAR tob        Indicates whether to expand the area list for the BG2:ToB expansion.
+ * INT_VAR bp1        Indicates whether to expand the Black Pits area list.
+ * INT_VAR bp2        Indicates whether to expand the Black Pits 2 area list.
+ * INT_VAR tut        Indicates whether to expand the Tutorial area list.
+ * INT_VAR iwd        Indicates whether to expand the area list for the IWD main campaign.
+ * INT_VAR how        Indicates whether to expand the area list for the IWD:HoW expansion.
+ * INT_VAR pst        Indicates whether to expand the PST area list.
+ * STR_VAR comment    An optional comment that is added in front of the added list of area entries.
+ * STR_VAR map_array  Name of the associative array containing "area resref => area name" definitions.
+ * RET success        Returns a non-zero value if the areas have been added successfully.
+ */
+DEFINE_ACTION_FUNCTION add_areas_lua
+INT_VAR
+  bg1 = 0
+  sod = 0
+  soa = 0
+  tob = 0
+  bp1 = 0
+  bp2 = 0
+  tut = 0
+  iwd = 0
+  how = 0
+  pst = 0
+STR_VAR
+  comment   = ""
+  map_array = ""
+RET
+  success
+BEGIN
+  OUTER_SET success = 0
+
+  ACTION_DEFINE_ARRAY lua_campaigns BEGIN "bg1" "sod" "soa" "tob" "bp1" "bp2" "tut" "iwd" "how" "pst" END
+  ACTION_DEFINE_ASSOCIATIVE_ARRAY lua_arrays BEGIN
+    // game, campaign => lua array name
+    "eet", "bg1" => "cheatAreas"
+    "eet", "sod" => "cheatAreas"
+    "eet", "soa" => "cheatAreas"
+    "eet", "tob" => "cheatAreasExpansion"
+    "eet", "bp1" => "cheatAreasArena_BP1"
+    "eet", "bp2" => "cheatAreasArena"
+    "eet", "tut" => "cheatAreasTutorial"
+    "bg1", "bg1" => "cheatAreas"
+    "bg1", "sod" => "cheatAreasExpansion"
+    "bg1", "bp1" => "cheatAreasArena"
+    "bg1", "tut" => "cheatAreasTutorial"
+    "bg2", "soa" => "cheatAreas"
+    "bg2", "tob" => "cheatAreasExpansion"
+    "bg2", "bp2" => "cheatAreasArena"
+    "bg2", "tut" => "cheatAreasTutorial"
+    "iwd", "iwd" => "cheatAreas"
+    "iwd", "how" => "cheatAreasHoW"
+    "pst", "pst" => "cheatAreas"
+  END
+  OUTER_SPRINT indent "%TAB%"
+  ACTION_IF (GAME_IS "eet") BEGIN
+    OUTER_SPRINT game "eet"
+  END ELSE ACTION_IF (GAME_IS "bgee") BEGIN
+    OUTER_SPRINT game "bg1"
+  END ELSE ACTION_IF (GAME_IS "bg2ee") BEGIN
+    OUTER_SPRINT game "bg2"
+  END ELSE ACTION_IF (GAME_IS "iwdee") BEGIN
+    OUTER_SPRINT game "iwd"
+    OUTER_SPRINT indent ""
+  END ELSE ACTION_IF (GAME_IS "pstee") BEGIN
+    OUTER_SPRINT game "pst"
+    OUTER_SPRINT indent "%TAB%%TAB%"
+  END ELSE BEGIN
+    OUTER_SPRINT game ""
+  END
+
+  ACTION_IF (NOT "%map_array%" STR_EQ "" && NOT "%game%" STR_EQ "") BEGIN
+    COPY_EXISTING "bgee.lua" "override"
+      PATCH_PHP_EACH lua_campaigns AS _ => campaign BEGIN
+        SET is_game = VARIABLE_IS_SET $lua_arrays("%game%" "%campaign%")
+        SET is_campaign = EVAL "%campaign%" != 0
+        PATCH_IF (is_game && is_campaign) BEGIN
+          SET as_strref = "%game%" STR_EQ "pst" // In PSTEE area names are added as strrefs
+          SPRINT array_name $lua_arrays("%game%" "%campaign%")
+          PATCH_IF (NOT VARIABLE_IS_SET $arrays_patched("%array_name%")) BEGIN
+            PATCH_LOG "Adding areas to lua array: %array_name%"
+            SET $arrays_patched("%array_name%") = 1 // don't patch the same array multiple times
+            SET pos_start = INDEX_BUFFER("^[ %TAB%]*%array_name%[ %TAB%]*=[ %TAB%]*{[ %TAB%]*[%WNL%]")
+            PATCH_IF (pos_start >= 0) BEGIN
+              SET pos_end = INDEX_BUFFER("^[ %TAB%]*}[ %TAB%]*[%WNL%]" pos_start)
+              PATCH_IF (pos_end > pos_start) BEGIN
+                // previous array item must end with a comma
+                SET pos_prev = RINDEX_BUFFER("}" pos_end - 1)
+                PATCH_IF (pos_prev > pos_start && INDEX_BUFFER("}[ %TAB%]*," pos_prev) != pos_prev) BEGIN
+                  INSERT_BYTES (pos_prev + 1) 1
+                  WRITE_ASCII (pos_prev + 1) "," (1)
+                  SET pos_end += 1
+                END
+                SET pos = pos_end
+
+                // adding optional comment
+                PATCH_IF (NOT "%comment%" STR_EQ "") BEGIN
+                  SPRINT line "%indent%-- %comment%%WNL%"
+                  SET len = STRING_LENGTH "%line%"
+                  INSERT_BYTES pos len
+                  WRITE_ASCIIE pos "%line%" (len)
+                  SET pos += len
+                END
+
+                // adding list of areas
+                PATCH_PHP_EACH EVAL "%map_array%" AS resref => desc BEGIN
+                  TO_UPPER "resref"
+                  PATCH_IF (as_strref) BEGIN
+                    SET strref = RESOLVE_STR_REF("%desc%")
+                    SPRINT line ~%indent%{"%resref%", %strref%},%WNL%~
+                  END ELSE BEGIN
+                    SPRINT line ~%indent%{"%resref%", "%desc%"},%WNL%~
+                  END
+                  SET len = STRING_LENGTH "%line%"
+                  INSERT_BYTES pos len
+                  WRITE_ASCIIE pos "%line%" (len)
+                  SET pos += len
+                END
+              END
+            END
+          END
+          SET success = 1
+        END
+      END
+    BUT_ONLY IF_EXISTS
+  END
+END

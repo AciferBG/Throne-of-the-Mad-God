@@ -12,7 +12,7 @@ EXTEND_BOTTOM ~ar0334.bcs~ ~%MOD_FOLDER%/scripts/_ar0334.baf~
 
 // create the plot start for the wailing dwarf quest
 EXTEND_TOP ~ar0709.bcs~ ~%MOD_FOLDER%/scripts/_ar0709.baf~ // create bard in Den of the Seven Vales
-EXTEND_TOP ~ar0800.bcs~ ~%MOD_FOLDER%/scripts/_ar0800.baf~ // create Lancameth's widow in cemetary
+EXTEND_BOTTOM ~ar0800.bcs~ ~%MOD_FOLDER%/scripts/_ar0800.baf~ // create Lancameth's widow in cemetary
 
 EXTEND_TOP ~ar0901.bcs~ ~%MOD_FOLDER%/scripts/_ar0901.baf~ // Lancameth's redemption in temple of helm
 

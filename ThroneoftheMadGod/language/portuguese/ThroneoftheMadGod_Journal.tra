@@ -1,0 +1,129 @@
+// Journal strings
+// Throne of the Mad God
+@15000 = ~Uma Tática de Queijo
+
+No segundo nível do **Anão Lamentador**, encontrei um grupo de ratos inteligentes. Em troca de roubar um pedaço de queijo dos gigantes, eles prometeram me ajudar a lutar contra essas criaturas. Devo tentar me esgueirar até o queijo sem ser notado e distrair os gigantes para pegá-lo.~
+
+@15001 = ~Uma Tática de Queijo
+
+Eu peguei o queijo! Agora devo devolvê-lo aos ratos falantes.~
+
+@15002 = ~Uma Tática de Queijo
+
+Os ratos ficaram extremamente gratos pelo queijo e me forneceram informações úteis e assistência.~
+
+@17000 = ~A Antiga Fundição Anã
+
+Nos salões do **Anão Lamentador**, descobri uma velha fundição que esfriou. Gostaria de saber se consigo fazê-la funcionar novamente.~
+
+@17001 = ~A Antiga Fundição Anã
+
+Eu reiniciei a fundição e devo dar uma olhada mais de perto em como ela funciona.~
+
+@17002 = ~A Antiga Fundição Anã
+
+Encontrei a parte superior de um molde de fundição que poderia ser usado para forjar uma chave — se eu tivesse a outra parte e pudesse reiniciar a velha fundição na parte norte do **Anão Lamentador**.~
+
+@17003 = ~A Antiga Fundição Anã
+
+Encontrei a parte inferior de um molde de fundição que poderia ser usado para forjar uma chave — se eu tivesse a outra parte e pudesse reiniciar a velha fundição na parte norte do **Anão Lamentador**.~
+
+@17004 = ~A Antiga Fundição Anã
+
+Nas mãos de um vampiro, encontrei um volante que provavelmente era usado para abrir e fechar tubulações.~
+
+@17010 = ~A Antiga Fundição Anã
+
+Na fundição, consegui fundir uma chave grande que, com sorte, me permitirá avançar ainda mais nas ruínas anãs.~
+
+@19000 = ~O Trono do Deus Louco
+
+Os anões selaram as seções mais profundas onde o "Excluído" era outrora adorado. Parece que a estátua de Clangeddin guarda as entradas para esta área, e talvez eu possa encontrar uma maneira de abrir os portões ali.~
+
+@19001 = ~O Trono do Deus Louco
+
+O espírito de Karlyn Kuldelver apareceu para mim. Ele não me impedirá de abrir a sala do trono, pois não sou descendente de Korolnor. Para obter acesso à sala do trono do Excluído, devo reunir duas metades de uma arma — se entendi corretamente, na estátua de Clangeddin Barba Prateada.~
+
+@19002 = ~O Trono do Deus Louco
+
+Eu abri os portões selados. Em algum lugar abaixo, a sala do trono deve estar localizada — e, com sorte, o Capitão Bryam Lancameth também.~
+
+@19003 = ~O Trono do Deus Louco
+
+Atrás da última porta selada, encontra-se o Trono do Deus Louco. Bryam Lancameth me avisou severamente para não abrir esta câmara e enfrentar a entidade aprisionada lá dentro.~
+
+@19010 = ~O Trono do Deus Louco
+
+Derrotei Diinkarazan em sua antiga sala do trono. Talvez a paz retorne agora à antiga fortaleza.~
+
+@50000 = ~A Última Expedição de Lancameth
+
+Na taverna "Covil dos Sete Vales" na *Waukeen's Promenade*, ouvi a balada de um bardo. A canção supostamente conta uma história verdadeira sobre um grupo de aventureiros que viajou para as Montanhas dos Trolls e nunca mais voltou. Devo falar com o bardo se quiser saber mais.~
+
+@50001 = ~A Última Expedição de Lancameth
+
+Obtive algumas informações de fundo sobre uma balada executada por um bardo no "Covil dos Sete Vales". A Última Expedição de Lancameth foi um grupo de aventureiros liderado pelo capitão Amniano Bryam Lancameth, que, junto com quatro companheiros, partiu para explorar uma fortaleza anã nas Montanhas dos Trolls. Parece que o grupo era uma mistura de indivíduos com objetivos e ambições diferentes. Ninguém voltou — apesar das armas poderosas que carregavam. Eu poderia perguntar à esposa enlutada de Lancameth para onde sua última jornada o levou. Ela está hospedada no Distrito do Cemitério perto da estátua de Kelemvor em Athkatla desde que seu marido desapareceu.~
+
+@51000 = ~A Última Expedição de Lancameth
+
+Encontrei o último membro sobrevivente do grupo do Capitão Bryam Lancameth. Aquele que usava o pseudônimo "Mago Cão" era, na verdade, um mago **Derro**. Ele acreditava que os **Derro** eram os verdadeiros descendentes deste clã anão. Ele havia conduzido a expedição de Lancameth a este lugar apenas para reabrir as portas seladas para a antiga sala do trono do deus abandonado. Lancameth parece ter percebido seu engano e selado as portas depois de entrar. Devo passar por essas portas para finalmente encontrar Bryam Lancameth.~
+
+@52001 = ~A Última Expedição de Lancameth
+
+A viúva do capitão desaparecido Bryam Lancameth me deu suas anotações antigas. Seu grupo viajou para uma antiga fortaleza anã nas Montanhas dos Trolls, conhecida como o "**Anão Lamentador**". Ela espera no Distrito do Cemitério de Athkatla, perto da estátua de Kelemvor. Se eu descobrir algo sobre o destino de seu marido, posso relatar a ela lá.~
+
+@52002 = ~A Última Expedição de Lancameth
+
+Eu encontrei Bryam Lancameth. Infelizmente, ele foi transformado em um Vargouille, e eu não tive escolha a não ser matá-lo. Ele me pediu para levar sua cabeça e encontrar uma maneira de remover a maldição dele — mesmo que isso não o trouxesse de volta à vida.~
+
+@52003 = ~A Última Expedição de Lancameth
+
+Peguei o crânio de Bryam Lancameth. Ele me pediu para procurar uma maneira de remover a maldição em um templo de Helm — mesmo que isso não o trouxesse de volta à vida.~
+
+@52004 = ~A Última Expedição de Lancameth
+
+Com a bênção de Helm, a cabeça grotescamente transformada de Bryam Lancameth retornou à sua verdadeira forma humana. Neste estado, posso devolver o crânio à sua viúva, que espera na estátua de Kelemvor no Distrito do Cemitério de Athkatla.~
+
+@52008 = ~A Última Expedição de Lancameth
+
+Os restos mortais de Lancameth encontraram seu descanso final no templo de Helm.~
+
+@52009 = ~A Última Expedição de Lancameth
+
+Eu entreguei à viúva de Lancameth a cabeça grotescamente transformada de seu marido. Ela se recusou a acreditar que era tudo o que restava dele e fugiu angustiada.~
+
+@52010 = ~A Última Expedição de Lancameth
+
+Devolvi os restos mortais de seu marido à viúva de Lancameth, pelo que ela ficou muito grata.~
+
+@52050 = ~A Última Expedição de Lancameth
+
+Encontrei o ladrão *halfling* Nhair Ebendar do grupo de Lancameth, que agora permanece dentro do **Anão Lamentador** como um espírito morto-vivo. Suas dicas vagas sugerem que uma traição entre os antigos companheiros impede sua alma de encontrar descanso.~
+
+@52051 = ~A Última Expedição de Lancameth
+
+Encontrei outro ex-membro do grupo de aventureiros do Capitão Bryam Lancameth: A sacerdotisa Iremar. Ela também agora permanece como um espírito inquieto dentro da antiga fortaleza anã. Ela também fala de uma traição que nega paz à sua alma.~
+
+@52052 = ~A Última Expedição de Lancameth
+
+Localizei agora o terceiro ex-companheiro de Bryam Lancameth — Lady Starthorn. Assim como os outros que encontrei até agora, ela existe apenas como um fantasma inquieto, buscando vingança contra um traidor.~
+
+@55000 = ~A Última Expedição de Lancameth
+
+Bryam Lancameth partiu para um lugar nas Montanhas dos Trolls chamado "**Anão Lamentador**" e nunca mais foi visto.~
+
+@52060 = ~A Última Expedição de Lancameth
+
+Bryam Lancameth partiu para um lugar nas Montanhas dos Trolls chamado "**Anão Lamentador**" e nunca mais foi visto.~
+
+@70000 = ~Uma Balada no "Covil dos Sete Vales"
+
+Na taverna "Covil dos Sete Vales" na *Waukeen's Promenade*, um bardo deseja tocar uma balada. Se eu estiver interessado, devo ouvir a história.~
+
+@80000 = ~O Alquimista no "**Anão Lamentador**"
+
+Nas masmorras do "**Anão Lamentador**", libertei um alquimista gnomo que havia sido forçado a preparar poções para os trolls. Ele ficou muito feliz com seu resgate e me deu algumas de suas poções, que certamente serão úteis.~
+
+@80001 = ~O Alquimista no "**Anão Lamentador**"
+
+Jamrry, o alquimista, concordou em permanecer nas ruínas anãs e continuar me fornecendo poções.~

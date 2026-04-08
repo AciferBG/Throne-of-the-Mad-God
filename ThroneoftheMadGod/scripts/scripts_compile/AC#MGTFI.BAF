@@ -1,30 +1,49 @@
 IF
-	GlobalGT("Meet_Ursu","ACIL14",0)
-	Allegiance(Myself,NEUTRAL)
+    StateCheck(Myself,STATE_REALLY_DEAD)
+    Global("cdnorepeat","LOCALS",0)
 THEN
-	RESPONSE #100
-		Enemy()
+    RESPONSE #100
+        SetGlobal("cdnorepeat","LOCALS",1)
+        CreateVisualEffectObject("ICMAGICH",Myself)
+        CreateVisualEffectObject("SPFIREPI",Myself)
+        DestroySelf()
 END
 
 IF
-	OnCreation()
+    StateCheck(Myself,STATE_SLEEPING)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
+    RESPONSE #100
+        NoAction()
 END
 
 IF
-	HPLT(Myself,12)
+    GlobalGT("Meet_Ursu","ACIL14",0)
+    Allegiance(Myself,NEUTRAL)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
-		ChangeAnimationNoEffect("HGTRL02")  // Feuertroll
+    RESPONSE #100
+        Enemy()
 END
 
 IF
-	TimerExpired(77)
+    Heard([ANYONE],111)
 THEN
-	RESPONSE #100
-		StartTimer(77,6)
+    RESPONSE #100
+        MoveToObject(NearestEnemyOf(Myself))
+END
+
+IF
+    AttackedBy([GOODCUTOFF],DEFAULT)
+    !Allegiance(Myself,ENEMY)
+THEN
+    RESPONSE #100
+        Enemy()
+END
+
+IF
+    ActionListEmpty()
+    See(NearestEnemyOf(Myself))
+THEN
+    RESPONSE #100
+        AttackReevaluate(NearestEnemyOf(Myself),6)
 END
 

@@ -1,11 +1,11 @@
 // creator: Shai Hulud
 // game: Throne of the Mad God
-// date: 2025-03-23, 22:02
+// date: 2025-10-15, 21:25
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @15000 = ~So ein Käse
 
-In der zweiten Ebene des „Klagenden Zwergs“ habe ich eine Gruppe intelligenter Ratten getroffen. Im Austausch für den Diebstahl eines Stückchens Käse von Riesen haben sie mir Hilfe im Kampf gegen diese Kreaturen versprochen. Ich sollte versuchen, mich unbemerkt zum Käse vorzuschleichen und die Riesen abzulenken, um den Käse zu stibitzen.~
+In der zweiten Ebene des Klagenden Zwergs habe ich eine Gruppe intelligenter Ratten getroffen. Im Austausch für den Diebstahl eines Stückchens Käse von Riesen haben sie mir Hilfe im Kampf gegen diese Kreaturen versprochen. Ich sollte versuchen, mich unbemerkt zum Käse vorzuschleichen und die Riesen abzulenken, um den Käse zu stibitzen.~
 @15001 = ~So ein Käse
 
 Ich habe den Käse! Nun muss ich ihn zurück zu den sprechenden Ratten bringen.~
@@ -14,16 +14,16 @@ Ich habe den Käse! Nun muss ich ihn zurück zu den sprechenden Ratten bringen.~
 Die Ratten zeigten sich über den Käse äußerst dankbar und gaben mir nützliche Informationen und Hilfe.~
 @17000 = ~Die alte Gießerei der Zwerge
 
-In den Hallen des "Klagenden Zwergs" habe ich eine alte Gießerei entdeckt, die erkaltet ist. Ich frage mich, ob ich sie wieder in Gang setzen kann.~
+In den Hallen des Klagenden Zwergs habe ich eine alte Gießerei entdeckt, die erkaltet ist. Ich frage mich, ob ich sie wieder in Gang setzen kann.~
 @17001 = ~Die alte Gießerei der Zwerge
 
 Ich habe die Gießerei wieder zum Laufen gebracht und sollte mir einmal ansehen, wie sie funktioniert.~
 @17002 = ~Die alte Gießerei der Zwerge
 
-Ich habe den oberen Teil einer Gussform gefunden, mit deren Hilfe ich einen Schlüssel gießen könnte, wenn ich den anderen Teil besitze und die alte Gießerei im nördlichen Teil des „Klagenden Zwergs“ wieder in Gang setzen könnte.~
+Ich habe den oberen Teil einer Gussform gefunden, mit deren Hilfe ich einen Schlüssel gießen könnte, wenn ich den anderen Teil besitze und die alte Gießerei im nördlichen Teil des Klagenden Zwergs wieder in Gang setzen könnte.~
 @17003 = ~Die alte Gießerei der Zwerge
 
-Ich habe den unteren Teil einer Gussform gefunden, mit deren Hilfe ich einen Schlüssel gießen könnte, wenn ich den anderen Teil besitze und die alte Gießerei im nördlichen Teil des „Klagenden Zwergs“ wieder in Gang setzen könnte.~
+Ich habe den unteren Teil einer Gussform gefunden, mit deren Hilfe ich einen Schlüssel gießen könnte, wenn ich den anderen Teil besitze und die alte Gießerei im nördlichen Teil des Klagenden Zwergs wieder in Gang setzen könnte.~
 @17004 = ~Die alte Gießerei der Zwerge
 
 In den Händen eines Vampirs fand ich ein Handrad, mit dessen Hilfe wohl früher einmal Rohre geöffnet und geschlossen werden konnten.~
@@ -50,13 +50,13 @@ Ich habe Diinkarazan in seinem alten Thronsaal besiegt. Vielleicht herrscht jetz
 In der Taverne „Zur Höhle der sieben Geier“ in Waukeens Promenade habe ich der Ballade eines Barden gelauscht. Das Lied handelt angeblich von einer wahren Begebenheit, bei der sich eine Heldengruppe in die Trollberge aufgemacht hat und niemals wieder zurückkehrte. Ich sollte den Barden ansprechen, wenn ich mehr darüber wissen möchte.~
 @50001 = ~Lancameths letzte Expedition
 
-Ich habe einige Hintergründe über eine Ballade erfahren, welche von einem Barden im „Zur Höhle der sieben Geier" dargeboten wurde. Bei „Lancameths letzter Expedition“ handelte es sich um ein Abenteuer des amnischen Hauptmanns Bryam Lancameth, welcher mit seinen vier Gefährten auszog, um eine Zwergenfestung in den Trollbergen zu erkunden. Es schien sich um eine bunt zusammengewürfelte Truppe mit unterschiedlichen Zielen und Absichten gehandelt zu haben. Niemand ist zurückgekehrt, trotz mächtiger Waffen, welche sie bei sich trugen. Ich könnte Lancameths trauernde Frau fragen, wohin ihn seine letzte Reise hingeführt hat. Sie hält sich seit dem Verschwinden ihres Mannes auf dem Friedhofsviertel in der Nähe von Kelemvors Statue hier in Athkatla auf.~
+Ich habe einige Hintergründe über eine Ballade erfahren, welche von einem Barden im „Zur Höhle der sieben Geier“ dargeboten wurde. Bei „Lancameths letzter Expedition“ handelte es sich um ein Abenteuer des amnischen Hauptmanns Bryam Lancameth, welcher mit seinen vier Gefährten auszog, um eine Zwergenfestung in den Trollbergen zu erkunden. Es schien sich um eine bunt zusammengewürfelte Truppe mit unterschiedlichen Zielen und Absichten gehandelt zu haben. Niemand ist zurückgekehrt, trotz mächtiger Waffen, welche sie bei sich trugen. Ich könnte Lancameths trauernde Frau fragen, wohin ihn seine letzte Reise hingeführt hat. Sie hält sich seit dem Verschwinden ihres Mannes auf dem Friedhofsviertel in der Nähe von Kelemvors Statue hier in Athkatla auf.~
 @51000 = ~Lancameths letzte Expedition
 
 Ich bin dem letzten Gefährten des Hauptmannes Bryam Lancameth begegnet. Der, der sich in verhüllter Gestalt „Hundehexer“ genannt hatte, war in Wirklichkeit ein Derro-Magier. Er war der Überzeugung, die Derro seien die wahren Nachfahren dieses Zwergenclans. Er hatte Lancameths Expedition allein zu dem Zweck an diesen Ort geführt, um die verschlossenen Tore zu dem alten Thronsaal des verstoßenen Gottes wieder zu öffnen. Lancameth scheint ihm auf die Schliche gekommen zu sein und hat die Tore nach seinem weiteren Vordringen wieder versiegelt. Ich werde hinter die Tore gelangen müssen, um Bryam Lancameth endlich zu finden.~
 @52001 = ~Lancameths letzte Expedition
 
-Die Witwe des verschollenen Hauptmannes Bryam Lancameth hat mir dessen alte Aufzeichnungen gegeben. Seine Gruppe ist zu einer alten Zwergenfestung in den Trollbergen gereist, die „Klagender Zwerg“ genannt wird. Sie wartet im Friedhofsviertel in Athkatla an der Statue Kelemvors. Falls ich etwas über das Schicksal ihres Mannes herausfinde, kann ich es Ihr dort mitteilen.~
+Die Witwe des verschollenen Hauptmannes Bryam Lancameth hat mir dessen alte Aufzeichnungen gegeben. Seine Gruppe ist zu einer alten Zwergenfestung in den Trollbergen gereist, die Klagender Zwerg genannt wird. Sie wartet im Friedhofsviertel in Athkatla an der Statue Kelemvors. Falls ich etwas über das Schicksal ihres Mannes herausfinde, kann ich es Ihr dort mitteilen.~
 @52002 = ~Lancameths letzte Expedition
 
 Ich habe Bryam Lancameth gefunden. Leider ist er in eine Vargouille verwandelt worden, und mir blieb nur, ihn zu töten. Er bat mich, seinen Kopf an mich zu nehmen und eine Möglichkeit zu finden, ihm zumindest nach seinem Tod ein wenig Ruhe zu verschaffen und den Fluch von ihm zu nehmen, auch wenn ihn das sicher nicht mehr lebendig machen wird.~
@@ -77,7 +77,7 @@ Ich habe der Witwe Lancameths den zu einer Fratze entstellten Kopf ihres Mannes 
 Ich habe der Witwe Lancameths die sterblichen Überreste ihres Mannes überbracht, worüber sie sehr dankbar war.~
 @52050 = ~Lancameths letzte Expedition
 
-Ich bin dem Halblingsdieb Nhair Ebendar aus Lancameths Gruppe begegnet, der jetzt innerhalb des „Klagenden Zwergs“ sein Dasein als untoter Geist führen muss. Seinen vagen Andeutungen zufolge lässt ein Verrat innerhalb der ehemaligen Gefährten seine Seele keine Ruhe finden.~
+Ich bin dem Halblingsdieb Nhair Ebendar aus Lancameths Gruppe begegnet, der jetzt innerhalb des Klagenden Zwergs sein Dasein als untoter Geist führen muss. Seinen vagen Andeutungen zufolge lässt ein Verrat innerhalb der ehemaligen Gefährten seine Seele keine Ruhe finden.~
 @52051 = ~Lancameths letzte Expedition
 
 Ich bin einem weiteren ehemaligen Mitglied der Abenteurergruppe um den Hauptmann Bryam Lancameth begegnet – der Priesterin Iremar. Auch sie fristet nun als Geist ihr Dasein in dem alten Zwergenbauwerk. Auch sie berichtet von einem Verrat, der ihrer Seele keine Ruhe schenkt.~
@@ -86,16 +86,16 @@ Ich bin einem weiteren ehemaligen Mitglied der Abenteurergruppe um den Hauptmann
 Mit Maid Sternendorn habe ich nun die dritte ehemalige Gefährtin von Bryam Lancameth ausfindig machen können. Wie alle anderen Gefährten, denen ich bisher begegnet bin, ist sie nichts mehr als ein ruheloser Geist, der auf Rache nach einem Verräter sinnt.~
 @52060 = ~Lancameths letzte Expedition
 
-Bryam Lancameth ist in den Trollbergen zu einem Ort, welcher „Klagender Zwerg“ heißt, aufgebrochen und dort verschollen.~
+Bryam Lancameth ist in den Trollbergen zu einem Ort, welcher Klagender Zwerg heißt, aufgebrochen und dort verschollen.~
 @55000 = ~Lancameths letzte Expedition
 
-Bryam Lancameth ist in den Trollbergen zu einem Ort, welcher „Klagender Zwerg“ heißt, aufgebrochen und dort verschollen.~
+Bryam Lancameth ist in den Trollbergen zu einem Ort, welcher Klagender Zwerg heißt, aufgebrochen und dort verschollen.~
 @70000 = ~Eine Ballade in der Taverne „Zur Höhle der sieben Geier“
 
 In der Taverne „Zur Höhle der sieben Geier“ in Waukeens Promenade möchte ein Barde eine Ballade zum Besten geben. Wenn ich Interesse habe, sollte ich der Geschichte einmal zuhören.~
-@80000 = ~Der Alchimist im „Klagenden Zwerg“
+@80000 = ~Der Alchimist im Klagenden Zwerg
 
-Ich habe in den Gewölben des „Klagenden Zwergs“ einen gnomischen Alchemisten befreit, der für die Trolle magische Tränke herstellen musste. Über seine Rettung war er hocherfreut und hat mir einige seiner Tränke überlassen, die mir sicher noch von Nutzen sein werden.~
-@80001 = ~Der Alchimist im „Klagenden Zwerg“
+Ich habe in den Gewölben des Klagenden Zwergs einen gnomischen Alchemisten befreit, der für die Trolle magische Tränke herstellen musste. Über seine Rettung war er hocherfreut und hat mir einige seiner Tränke überlassen, die mir sicher noch von Nutzen sein werden.~
+@80001 = ~Der Alchimist im Klagenden Zwerg
 
 Jamrry, der Alchemist, hat sich bereit erklärt, in den Zwergenruinen zu bleiben und mich weiter mit Tränken zu versorgen.~
