@@ -39,8 +39,8 @@ AUTO_TRA ~ThroneoftheMadGod/language/%s~
 
 LANGUAGE ~Deutsch~
          ~german~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~  
          ~ThroneoftheMadGod/language/german/Setup-ThroneoftheMadGod.tra~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/german/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~English~
@@ -50,30 +50,31 @@ LANGUAGE ~English~
          
 LANGUAGE ~Simplified Chinese by Abdel-613~
          ~schinese~
-         ~ThroneoftheMadGod/language/schinese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/schinese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/schinese/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~Spanish by AlleyV~
          ~spanish~
-         ~ThroneoftheMadGod/language/spanish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/spanish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/spanish/ThroneoftheMadGod_Journal.tra~
 
 LANGUAGE ~Russian by Origanum8, paladin84 and scheele~
          ~russian~
-         ~ThroneoftheMadGod/language/russian/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/russian/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/russian/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~Brazilian Portuguese by dextermorgan~
          ~portuguese~
-         ~ThroneoftheMadGod/language/portuguese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
+         ~ThroneoftheMadGod/language/portuguese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/portuguese/ThroneoftheMadGod_Journal.tra~
 
 LANGUAGE ~Polish by my_summertime, Membress of SoM, part of CoB's Clan~
          ~polish~
+         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/polish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/polish/ThroneoftheMadGod_Journal.tra~
          
