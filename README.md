@@ -52,6 +52,7 @@ The mod is available in:
 - Spanish
 - Russian
 - Brazilian Portuguese
+- Polish
 
 ---
 
