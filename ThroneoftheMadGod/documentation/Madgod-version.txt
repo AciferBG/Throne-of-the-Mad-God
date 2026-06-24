@@ -1,5 +1,12 @@
 ***Throne of the Mad God - Version***
 
+V 2.1
+- Fixed an error where most text for non-English languages was installed in English due to an incorrect language path.
+
+V 2.0
+- updated simplified Chinese Version by Abdel-613
+
+
 V 1.9
 
 -added Polish Translation by my_summertime, Membress of SoM, part of CoB's Clan - thank you very much!
