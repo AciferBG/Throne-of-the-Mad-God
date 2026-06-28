@@ -1,10 +1,13 @@
 ***Throne of the Mad God - Version***
 
 V 2.2
-- Fixed Worldmap position and icon index of The Wailing Dwarf area, by Roberciiik.
+- Fixed the worldmap position and icon index of The Wailing Dwarf area, by Roberciiik.
+- Fixed several grammar issues (thanks to Roshan).
+- Vargouilles no longer use their kiss ability from a distance.
+- Faerzress Trolls now correctly dispel magic with every successful hit.
 
 V 2.1
-- Fixed an error where most text for non-English languages was installed in English due to an incorrect language path.
+- Fixed an error where most text for non-English languages was installed in English due to some WeiDU issue.
 
 V 2.0
 - updated simplified Chinese Version by Abdel-613
