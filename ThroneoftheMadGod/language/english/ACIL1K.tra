@@ -25,7 +25,7 @@
 @4524 = ~You should leave now. Do you find your way out on your own?~
 @4525 = ~Good to know. Now get out of here.~
 @4526 = ~We don’t know. There are rumors that the Derro are led by a particularly powerful sorcerer, whose madness is deep and dangerous. He is trying to open a door deep within the complex and needed human assistance. That’s all we know.~
-@4527 = ~Do you really find your way out on your own?~
+@4527 = ~Can you really find your way out on your own?~
 @4528 = ~Then you’d best go now. We will continue deeper into the complex.~
 @4529 = ~We don’t know. It seems the mage is the maddest of them all. He is trying to open a door deep within the complex and needs the help of humans. That’s all we know.~
 @4530 = ~Please, can we leave now?~
@@ -35,6 +35,6 @@
 @4534 = ~Y-yes, certainly. Judging by the way you look, you didn’t leave much of our former jailers standing. We will find our way out.~
 @4535 = ~Then go now.~
 @4536 = ~Take care. We will venture deeper into the complex.~
-@4537 = ~Farewell. And take care of yourselves here! Though I doubt I need to tell you that, seeing as you made it this far. You have saved our lives. We will never forget what you have done for us!~
+@4537 = ~Farewell. And take care of yourselves here! Though I doubt I need to tell you that, seeing as you've made it this far. You have saved our lives. We will never forget what you have done for us!~
 @4538 = ~Come, friends, freedom awaits!~
 @4539 = ~Oh, p-please don’t hurt us, my <PRO_LADYLORD>!~

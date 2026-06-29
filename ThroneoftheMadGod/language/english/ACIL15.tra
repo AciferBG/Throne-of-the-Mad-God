@@ -74,7 +74,7 @@
 @5322 = ~No.~
 @5323 = ~You have returned! Do you have the cheese?~ [amb_e45a]
 @5324 = ~Yes, here it is.~
-@5325 = ~Oh! With all your stench of sweat and blood, the cheese was almost drowned out!~
+@5325 = ~Oh! With the stench of all your sweat and blood, the cheese has almost been drowned out!~
 @5326 = ~Do you smell it, brothers and sisters? This will be a feast!~
 @5327 = ~Very well. What do you want to know?~
 @5328 = ~What can you tell me?~
@@ -109,7 +109,7 @@
 @5355 = ~Karontor appears to be a god of the giants who speaks to Madugg. He sees himself as the chosen one and lets this Karontor order him around. And Madugg, in turn, orders his giants around. Madugg believes he grows stronger through Karontor. That is what his thoughts revolve around.~
 @5356 = ~Can you tell me anything else about the giants?~
 @5357 = ~No, we do not know more.~
-@5358 = ~We are a colony of very special rats. Once, our ancestors were sent by the mind flayers to spy on the dwarven community. The dwarves have been gone for a long time, the illithids forgot about us, and now we live our own humble lives in the midst of our swarm, trying not to get trampled by giants or eaten by giant cats or trolls.~
+@5358 = ~We are a colony of very special rats. Once, our ancestors were sent by the mind flayers to spy on the dwarven community. The dwarves have been gone for a long time, the illithids have forgotten about us, and now we live our own humble lives in the midst of our swarm, trying not to get trampled by giants or eaten by giant cats or trolls.~
 @5359 = ~If any are still alive, sure! We will send some lesser rats to pester them, keep them busy. But you’ll have to do the killing yourselves!~
 @5360 = ~Good. Send out the rats.~
 @5361 = ~I've already taken care of the giants.~
@@ -130,7 +130,7 @@
 @5376 = ~Who’s hiding there?~
 @5377 = ~We are rats. Very clever rats!~
 @5378 = ~So that’s why you can talk?~
-@5379 = ~No. We are not mice—we are... rats. A special kind of rats.~
+@5379 = ~No. We are not mice—we are... rats. A special kind of rat.~
 @5380 = ~And you talk?~
 @5381 = ~If there are many of us, yes.~
 @5382 = ~How many of you are there?~
@@ -140,17 +140,17 @@
 @5386 = ~Yes, I think I understand.~
 @5387 = ~Then let’s hear your proposal.~
 @5388 = ~Not interested.~
-@5389 = ~Alright, listen up. In the next big room, there’s a huge piece of cheese. Delicious cheese! Unfortunately, we can’t reach it because it’s on a table. You get us the cheese, and we’ll help you.~
+@5389 = ~Alright, listen up. In the next big room, there’s a huge piece of cheese. Delicious cheese! Unfortunately, we can’t reach it because it’s on a table. You get us the cheese and we’ll help you.~
 @5390 = ~That doesn’t sound too difficult.~
 @5391 = ~Why should I do that?~
 @5392 = ~Because we could help you in return. And it’s not hard! You just have to get past the giants who call this part of the dwarven ruins their home.~
-@5393 = ~There are giants here? What kind of giants?~
+@5393 = ~There are giants here? What kind of giant?~
 @5394 = ~I’m supposed to risk my life fighting giants for a piece of cheese?~
 @5395 = ~And what do I get in return?~
 @5396 = ~Forget it.~
 @5397 = ~That’s what we thought! You just have to get past the giants who call this part of the dwarven ruins their home.~
 @5398 = ~Giants? What kind of giants?~
-@5399 = ~A few giants won’t stop me from bringing you a cheese.~
+@5399 = ~A few giants won’t stop me from bringing you cheese.~
 @5400 = ~A good attitude.~
 @5401 = ~From the way you look, you’d have to pass them anyway if you want to delve deeper into the dwarven city.~
 @5402 = ~What kind of giants live here?~
@@ -158,7 +158,7 @@
 @5404 = ~You don’t have to bring us the whole cheese wheel. Just a small piece!~
 @5405 = ~Deal.~
 @5406 = ~I still say you should get it yourselves.~
-@5407 = ~We can help you! We observe a lot in this place, from the shadows. You seem to be looking for something. Gold? Gems? Doesn’t matter. You bring us the cheese, we tell you stories.~
+@5407 = ~We can help you! We observe a lot of this place from the shadows. You seem to be looking for something. Gold? Gems? Doesn’t matter. You bring us the cheese, we tell you stories.~
 @5408 = ~I’m looking for a lost adventuring party.~
 @5409 = ~That’s irrelevant for now. Cheese first!~
 @5410 = ~Oh, and if you manage to get our cheese quietly, without making a mess, we will help you take care of the giants.~
@@ -177,7 +177,7 @@
 @5423 = ~Suit yourself. Then we won’t help you either!~
 @5424 = ~As you wish, cheesebringer.~
 @5425 = ~You speak our language well, <RACE>!~
-@5426 = ~Of course, it’s a good plan. After all, it’s ours!~
+@5426 = ~Of course it's a good plan. After all, it’s ours!~
 @5427 = ~Now get going before some stray cat notices us. Return with the cheese, then we’ll talk further.~
 @5428 = ~A cheese in exchange for a giant? Boo is eager to track down this... cheese! Maybe he’ll get a piece too?~
 @5429 = ~How much lower will you sink, <CHARNAME>? Now we’re making deals with rats?~

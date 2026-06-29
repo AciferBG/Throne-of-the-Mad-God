@@ -2,7 +2,7 @@
 BACKUP ~ThroneoftheMadGod/backup~
 AUTHOR ~Acifer~
 README ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme-%LANGUAGE%.pdf~ ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme.pdf~
-VERSION ~1.9~
+VERSION ~2.2~
 
 ALWAYS
 
@@ -39,7 +39,6 @@ AUTO_TRA ~ThroneoftheMadGod/language/%s~
 
 LANGUAGE ~Deutsch~
          ~german~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~  
          ~ThroneoftheMadGod/language/german/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/german/ThroneoftheMadGod_Journal.tra~
          
@@ -50,38 +49,33 @@ LANGUAGE ~English~
          
 LANGUAGE ~Simplified Chinese by Abdel-613~
          ~schinese~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/schinese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/schinese/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~Spanish by AlleyV~
          ~spanish~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/spanish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/spanish/ThroneoftheMadGod_Journal.tra~
 
 LANGUAGE ~Russian by Origanum8, paladin84 and scheele~
          ~russian~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/russian/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/russian/ThroneoftheMadGod_Journal.tra~
          
 LANGUAGE ~Brazilian Portuguese by dextermorgan~
          ~portuguese~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/portuguese/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/portuguese/ThroneoftheMadGod_Journal.tra~
 
 LANGUAGE ~Polish by my_summertime, Membress of SoM, part of CoB's Clan~
          ~polish~
-         ~ThroneoftheMadGod/language/english/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/polish/Setup-ThroneoftheMadGod.tra~
          ~ThroneoftheMadGod/language/polish/ThroneoftheMadGod_Journal.tra~
          
 BEGIN @0
 
 //REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1
-REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @2  // Requires BG2:EE or EET patched to 2.0 or higher.
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @2  // Requires BG2:EE or EET patched to 2.2 or higher.
 
 INCLUDE ~ThroneoftheMadGod/lib/extra_regexp_vars.tph~
 INCLUDE ~ThroneoftheMadGod/lib/functions.tph~
