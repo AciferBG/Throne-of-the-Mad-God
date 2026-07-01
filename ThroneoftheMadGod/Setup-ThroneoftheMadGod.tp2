@@ -2,7 +2,7 @@
 BACKUP ~ThroneoftheMadGod/backup~
 AUTHOR ~Acifer~
 README ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme-%LANGUAGE%.pdf~ ~ThroneoftheMadGod/documentation/Throne_of_the_Mad_God_Readme.pdf~
-VERSION ~2.2~
+VERSION ~2.3~
 
 ALWAYS
 
@@ -75,7 +75,7 @@ LANGUAGE ~Polish by my_summertime, Membress of SoM, part of CoB's Clan~
 BEGIN @0
 
 //REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @1
-REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @2  // Requires BG2:EE or EET patched to 2.2 or higher.
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~ && FILE_EXISTS ~engine.lua~) @2  // Requires BG2:EE or EET patched to 2.3 or higher.
 
 INCLUDE ~ThroneoftheMadGod/lib/extra_regexp_vars.tph~
 INCLUDE ~ThroneoftheMadGod/lib/functions.tph~

@@ -1,5 +1,8 @@
 ***Throne of the Mad God - Version***
 
+V 2.3
+- updated chinese Translation by Abdel-613
+
 V 2.2
 - Fixed the worldmap position and icon index of The Wailing Dwarf area, by Roberciiik.
 - Fixed several grammar issues (thanks to Roshan).
