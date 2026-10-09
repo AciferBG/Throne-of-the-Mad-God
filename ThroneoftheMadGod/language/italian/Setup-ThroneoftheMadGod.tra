@@ -1,0 +1,1663 @@
+@0 = ~Il Trono del Dio Folle~
+@1 = ~Questo mod funziona soltanto con il motore delle Enhanced Edition.~
+@2 = ~Richiede BG2:EE o EET aggiornato alla versione 2.0 o superiore.~
+@3 = ~Eh?~ [AC#MFFO1]
+@4 = ~Ah!~ [FOMOR06A]
+@5 = ~L'acqua di questa sorgente appare improvvisamente limpida e cristallina.~
+@6 = ~Ne bevi un sorso e ti senti sano e rinvigorito.~ ~Ne bevi un sorso e ti senti sana e rinvigorita.~
+@7 = ~Devi avvicinarti se vuoi bere dalla vasca.~
+@8 = ~Dretch~
+@9 = ~Globo di Oscurità~
+@10 = ~Gioiello di Korolnor~
+@11 = ~Questa gemma tagliata proviene dalla Casata Korolnor, un regno nanico caduto famoso per l'arte di tagliare le pietre preziose. La pietra non possiede particolari proprietà magiche, ma la sua raffinata lavorazione potrebbe fruttare una bella somma presso un mercante.~
+@12 = ~Questo albero avvizzito è ancora saldamente radicato nella roccia. Il tronco sembra abbastanza robusto da sopportare un peso considerevole.~
+@13 = ~Potresti provare ad abbattere il tronco e usarlo per attraversare il piccolo burrone e tornare verso l'uscita.~
+@14 = ~Sei troppo debole per abbattere l'albero.~
+@15 = ~Con alcuni poderosi colpi della tua arma incidi una tacca nel legno, finché il tronco comincia a inclinarsi...~
+@16 = ~Il tronco è caduto alla perfezione. Sei soddisfatto del tuo lavoro.~ ~Il tronco è caduto alla perfezione. Sei soddisfatta del tuo lavoro.~ [AC#10TRE]
+@17 = ~La padella cade a terra con un forte clangore.~ [AC#15POT]
+@18 = ~I troll e le loro sottospecie~
+@19 = ~I troll e le loro sottospecie
+
+Di Glouris Mristifos, Evocatore della Torre dell'Arte, Zhentil Keep
+Commissionato dal Mago Thagdal, Maestro della Torre dell'Arte
+
+Incarico: individuare nuove specie di troll per i programmi di allevamento
+Luogo: rovine naniche nelle Montagne dei Troll
+
+Prefazione: i troll mostrano una notevole capacità di adattamento. Da un lato si incrociano con molte altre razze primitive; dall'altro assorbono caratteristiche dall'ambiente circostante. Entrambi i fattori possono dare origine a nuovi sottotipi di troll con proprietà del tutto uniche. Ciò li rende soggetti ideali per i programmi di allevamento di Zhentil Keep.
+
+Il mio compito è esplorare le rovine di un'antica fortezza nanica, conosciuta dagli abitanti del luogo come «Nano Gemente», alla ricerca di ulteriori varianti di troll. La gente del posto sussurra di terribili nuovi incroci.
+
+Gli esemplari più promettenti verranno catalogati, così che la nostra squadra d'assalto possa catturarli e integrarli nelle strutture di allevamento di mostri di Zhentil Keep.
+
+Esemplari scoperti finora:
+
+Troll Fantasma – Contrariamente a quanto si potrebbe pensare, non è un troll non morto. Si tratta invece di un incrocio tra un Cacciatore Invisibile e un troll comune.
+
+Troll Spettrale – Sembra essere una vera forma non morta di troll, forse un esemplare entrato in contatto con un wraith?
+
+Troll Grigio – Un'altra varietà di troll corrotta dalla non morte. Sembra che un completo risucchio di livelli generi un Troll Grigio.
+
+Troll Intermittente – Questo troll è stato toccato dal Piano Etereo, il che gli permette di spostarsi tra i piani come un ragno intermittente. Può inoltre creare immagini speculari di sé stesso, confondendo gli aggressori. Un esemplare affascinante, anche se difficile da controllare.
+
+Troll di Pietra – Una razza di troll che, per ragioni sconosciute, possiede la capacità di indurire la pelle come roccia solida. Estremamente difficile da uccidere. Da catturare assolutamente per l'allevamento!
+
+Troll Nero – Una varietà di troll estremamente pericolosa. I Troll Neri portano nel sangue l'influsso dei Piani Inferiori. Possono evocare immondi minori, scatenare potenti incantesimi di fulmine e avvolgere i nemici nelle tenebre.
+
+Troll di Faerzress – Questi troll sono stati esposti a una rara aura magica del Sottosuolo, nota ai drow come «Faerzress», che conferisce loro proprietà straordinarie. Sono altamente resistenti alla magia e possono sopprimerla con il proprio tocco.
+
+Troll Velenoso – I troll le cui capacità rigenerative vengono sottoposte in modo estremo a potenti tossine possono, in rari casi, trasformarsi in Troll Velenosi. Quando uno di questi troll viene colpito, il suo sangue velenoso schizza sui nemici vicini e perfino sulle armi che lo trafiggono! Eccellente per l'allevamento, poiché questi esemplari possono essere creati facilmente. Non occorre catturarne uno: dovrebbero bastare esperimenti con troll comuni e varie tossine.
+
+Si vocifera inoltre di una specie di troll proveniente dall'Est, grande quanto un gigante e dotata di due teste. Tuttavia, poiché queste creature cercano continuamente di dominare gli altri troll, non sono adatte all'allevamento.
+
+Inoltre, a Zhentil Keep sono giunte voci su strane, antiche e dimenticate magie arcane che dormirebbero nella fortezza. Nani e magia? Un pensiero singolare. Indagherò ulteriormente.~
+@20 = ~Anello di Resistenza all'Acido~
+@21 = ~Anello di Resistenza all'Acido, «La Follia di Zabarin»
+
+Durante le sue evocazioni di melme e fanghiglie di ogni genere, il mago sembiano Zabarin faceva affidamento su questo anello per proteggersi dagli effetti nocivi delle creature evocate.
+La sua specialità consisteva nell'evocare minuscoli protoplasmi neri, che rinchiudeva in barattoli preparati appositamente e collocava con discrezione nelle dispense dei suoi rivali.
+Zabarin incontrò la fine che meritava sotto un enorme avatar di Ghaunadaur, che aveva tentato di controllare.
+Contro l'immenso potere e la malvagità del Signore delle Melme, perfino il suo amato anello si rivelò inutile.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza all'Acido: +40%
+
+Peso: 0~
+@22 = ~Qualcuno ha lasciato qui una corda, probabilmente per calarsi a un altro livello.~
+@23 = ~Se vuoi, puoi legare la corda al ponte crollato.~
+@24 = ~Avvolgi la corda attorno a una pietra. Ora è possibile salire e scendere.~
+@25 = ~Trappola scattata~ [AC#MGTR1]
+@26 = ~Trappola scattata~ [AC#MGTR2]
+@27 = ~Tentacolo reciso~ [AC#MGFLS]
+
+@30 = ~Protezione dalle Malattie~
+@31 = ~Magia Selvaggia~
+@51 = ~Questo passaggio è bloccato da numerosi massi. Dovrai trovare un'altra via per entrare nella città nanica.~
+@52 = ~Sembra essere stato l'accampamento di alcuni avventurieri.~
+@53 = ~Una targa di bronzo incisa con rune naniche, che però non riesci a decifrare.~
+@54 = ~Sciamano Verbeeg~
+@55 = ~Diinkarazan~
+@56 = ~Gigante Fomoriano~
+@57 = ~Verbeeg~
+@58 = ~Questa statua raffigura senza dubbio una dea nanica a te sconosciuta.~
+@59 = ~Nota di un Cacciatore di Tesori~
+@60 = ~Per gli dèi! Nulla mi trattiene più in questo posto. Pensavamo che, dopo che quel capitano dell'Amn aveva liberato la strada, avremmo potuto entrare nelle rovine indisturbati e saccheggiare a nostro piacimento. Credevamo che i troll fossero il peggio che avremmo trovato... quanto ci sbagliavamo!
+
+Era iniziato tutto in modo così promettente. Scoprimmo un pozzo che speravamo ci avrebbe condotti più in profondità nella fortezza, senza dover affrontare altri troll. Barkley fu il primo a scendere e venne morso da un immondo alato. Riuscimmo a scacciare la creatura, ma dopo che ci riposammo la testa di Barkley si strappò improvvisamente dalle spalle! Dalle orecchie gli spuntarono delle ali e lanciò un urlo mentre si scagliava contro di me!
+
+Per Beshaba, corsi come se mi avesse punto un ragno intermittente. Ora devo soltanto sgattaiolare di nuovo attraverso la sala d'ingresso e andarmene da qui il più in fretta possibile!~
+@61 = ~Diario di Nhair~
+@62 = ~Giorno 2 della spedizione
+Siamo arrivati al «Nano Gemente», abbiamo attraversato il traballante ponte sospeso, risolto gli enigmi e ora ci troviamo davanti a questa statua colossale. Il vento ulula attraverso la pietra. Soltanto i nani potevano pensare di scolpire un simile monumento direttamente nella montagna!
+
+Giorno 3 della spedizione
+Tutta questa impresa mi mette a disagio. Eccoci qui, nella sala d'ingresso di Korolnor, e devo dire che regna un silenzio inquietante. Troppo silenzio, per i miei gusti. Agli altri non sembra importare, ma un halfling sa quando qualcosa non quadra. I peli sui miei piedi si rizzano a ogni passo.
+
+Giorno 4 della spedizione
+Il capitano Bryam, il nostro impavido capo, marcia avanti come se ci fosse oro dietro ogni angolo. Lady Starthorn, l'elfa, è sempre così seria e riflessiva: studia ogni runa sulle pareti. Il nostro mago, il Mago dei Cani, resta un mistero e borbotta di continuo tra sé; io non capisco una parola. E poi c'è la Matrona Iremar, la nostra sacerdotessa, che benedice ogni cosa e ogni persona con una calma quasi inquietante. Sta' all'erta, Nhair!
+
+Giorno 5 della spedizione
+Abbiamo raggiunto la grande sala. Le targhe di bronzo sul pavimento raccontano la lunga storia di questo luogo. È tutto inquietantemente vuoto. Nemmeno un troll in vista! Non mi fido di questo silenzio. Nessun suono, tranne l'eco dei nostri passi. Mi sembra di danzare su una sottile lastra di ghiaccio sopra il fiume Shaengarne, con un Wastrilith in attesa sotto di noi. Terrò gli occhi aperti, soprattutto di notte. Chissà? Potrebbe essere tutta una trappola, e noi saremmo gli sciocchi che vi entrano bendati. Terrò d'occhio le porte e le ombre. Se qualcosa si nasconde là fuori, voglio essere il primo a vederlo.
+
+Giorno 6 della spedizione
+Bryam e gli altri sono avanzati verso il secondo livello. Io sono rimasto indietro per forzare uno di questi vecchi forzieri nanici quando è successo: la saracinesca dietro di me è precipitata con un fragore assordante. Nessuna via di ritorno! Era davvero un'imboscata. Ora devo disinnescare la trappola davanti a me e avvertire gli altri...~
+@63 = ~Volantino~
+@64 = ~Questo volantino serve ad aprire una specie di valvola. Sembra essere stato esposto a un calore intenso in passato.~
+@65 = ~Chiave Nanica~
+@66 = ~Hai fabbricato questa chiave nanica nell'antica fonderia. Sembra adatta a una serratura molto particolare.~
+@67 = ~Stampo (Parte Superiore)~
+@68 = ~Questo è il coperchio di un antico stampo nanico usato per realizzare una chiave per fusione. Lo stampo è fortemente corroso, probabilmente per la ripetuta esposizione al metallo fuso. Senza la parte inferiore è inutile.~
+@69 = ~Stampo (Parte Inferiore)~
+@70 = ~Questa è la base di un antico stampo nanico usato per realizzare una chiave per fusione. Lo stampo è fortemente corroso, probabilmente per la ripetuta esposizione al metallo fuso. Senza il coperchio è inutile.~
+@71 = ~Cintura della Stirpe Nanica~
+@72 = ~Questa cintura di fattura nanica viene concessa a membri fidati di altre razze, un onore raramente accordato dal sempre diffidente popolo dei nani. Permette a chi la indossa di comprendere l'intricata scrittura nanica e i fondamenti della lingua.
+
+Le peculiari usanze e stranezze dei nani, tuttavia, non possono essere trasmesse con altrettanta facilità; possono essere apprese soltanto dopo anni trascorsi al fianco di un popolo notoriamente burbero e ostinato.
+
+I nani non possono usare questa cintura.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Permette di decifrare le rune naniche di Shanatar e comprendere i fondamenti della scrittura nanica Dethek
+– Costituzione: +1
+
+Peso: 2~
+@199 = ~Statua Nanica Consunta~
+@200 = ~Ascoltatore~
+@201 = ~Naga d'Ossa~
+@202 = ~Golem di Cenere~
+@203 = ~Thragmorr~
+@204 = ~Golem Martello~
+@205 = ~Golem di Mithral~
+@206 = ~Assassino Derro~
+
+@221 = ~Vargouille~
+@222 = ~Urlo della Vargouille~
+@223 = ~Troll Sciamano~
+@224 = ~Ursummnogh l'Inammazzabile~
+@225 = ~Troll Intermittente~
+@226 = ~Troll Grigio~
+@227 = ~Urlo~ [AC#VARGS]
+@228 = ~Bacio della Vargouille~
+@229 = ~Troll Infetto~
+@230 = ~Grullak Runeweaver~
+@231 = ~Durnak Gravestone~
+@232 = ~Arconte del Martello~
+@233 = ~Orrore Ululante~
+@234 = ~Sentinella Ossidata~
+@235 = ~Grexilor~
+
+@236 = ~Schiavo Aglar~
+@237 = ~Sciamano Goblin~
+@238 = ~Esploratore Derro~
+@239 = ~Vorgul Strongspear~
+@240 = ~Grubnuk~
+@241 = ~Famiglio di Glouris~
+@242 = ~Allip~
+@243 = ~Rutterkin~
+@244 = ~Nishruu Selvaggio~
+
+@316 = ~Appunti di Iremar~
+@317 = ~Con grande entusiasmo mi sono unita a Bryam Lancameth per esplorare i segreti dell'antica roccaforte nanica del Regno di Korolnor.
+
+Sono sempre stata affascinata dalla storia di Shanatar e non potevo lasciarmi sfuggire l'occasione di vedere con i miei occhi uno dei suoi antichi regni.
+
+La scelta dei compagni di Lancameth può sorprendere, ma ciascuno è un avventuriero capace, pronto ad affrontare qualunque male ci si pari davanti. Ho fatto subito amicizia con Lady Starthorn, l'arciera elfica. L'unico che mi mette a disagio è lo strano mago che si fa chiamare Mago dei Cani. Sembra essere una specie di nano, forse un duergar? In ogni caso ha molta esperienza nell'esplorazione dei sotterranei. Potrebbe provenire dal Sottosuolo?
+
+Purtroppo abbiamo perso il nostro ladro halfling, Nhair Ebendar. Il suo corpo è fuori dalla mia portata e, pertanto, non posso riportarlo in vita. Ora restiamo soltanto Lancameth, Starthorn, il Mago dei Cani e io.
+
+Finalmente abbiamo raggiunto l'antica sala delle assemblee, dove secoli fa si riunivano gli emissari dei vari regni di Shanatar.
+
+Sono riuscita a decifrare i simboli sui due lati del corridoio: ognuno rappresenta uno dei regni minori di Shanatar.
+Sono inoltre registrati i nomi e i titoli dei regni.
+A ogni regno veniva attribuito un titolo che ne rifletteva l'attività principale: per esempio Ultoksamrin, ricca di Zardazil, era chiamata Regno dello Zardazil. Soltanto gli avidi nani di Drakkalor non ricevettero per la loro città un nome legato a un minerale, bensì l'appropriato titolo di Città dell'Avidità.
+
+I simboli sono i seguenti:
+
+– Sondarr, il Regno della Stella Marina – Una moneta, probabilmente rappresentante il dio Vergadain
+– Holorarar, il Regno dell'Oro – Il simbolo di Moradin, un'incudine
+– Ultoksamrin, il Regno dello Zardazil – Il simbolo di Dumathoin, una montagna con un cristallo
+– Barakuir, il Regno del Ferro – Il simbolo di Laduguer, uno scudo con una freccia
+– Torglor, il Regno dell'Argento – Un simbolo sconosciuto (una spirale discendente?), divinità ignota
+– Korolnor, il Regno del Gioiello – Sette pietre preziose, simbolo di un dio non identificato, forse l'antica divinità protettrice di questa roccaforte?
+– Alto Shanatar, il Regno del Ghiacciaio – Il simbolo di Thard Harr, due guanti
+– Xothaerin, il Regno dell'Adamantio – Il simbolo di Sharindlar, un ago infuocato
+– Iltkazar, il Regno del Mithral – Il simbolo di Clangeddin, due asce incrociate
+– Drakkalor, la Città dell'Avidità – Il simbolo di Abbathor, un pugnale incrostato di gemme
+
+Accanto a ogni simbolo si trova un piccolo altare per le offerte. Sembra che gli emissari di ciascun regno vi deponessero un tempo i simboli del proprio dominio. Lo scopo di questo rituale mi resta sconosciuto.
+
+Mi riposerò qui brevemente prima di continuare le mie ricerche. Devo fare attenzione a non addormentarmi, perché strani rumori riecheggiano dalle sale circostanti e non vedo i compagni rimasti da un po' di tempo. Dove si saranno cacciati?~
+@318 = ~Ornamento Marino~
+@319 = ~Questo gioiello finemente lavorato presenta del corallo e una stella marina al centro. Dev'essere stato realizzato in un luogo che, molti secoli fa, era occupato dal mare.~
+@320 = ~Pepita d'Oro~
+@321 = ~Questo è un enorme blocco d'oro puro. Il suo valore dev'essere immenso, eppure qualcosa ti dice che non dovresti venderlo tanto facilmente.~
+@322 = ~Zardazil~
+@323 = ~Lo Zardazil è un raro minerale color ambra. Essendo un metallo molto tenero, non viene mai usato allo stato puro, ma viene legato ad altri metalli o impiegato per smaltarli. Si lega perfettamente agli altri materiali, quasi fondendosi con essi.
+
+Hai l'impressione che questo pezzo di Zardazil non sia mai stato destinato a una fornace. È molto consumato, come se nei secoli fosse passato di mano in mano.~
+@324 = ~Sfera di Ferro~
+@325 = ~Questa sfera di ferro è leggermente arrugginita. Il suo scopo non è chiaro.~
+@326 = ~Minerale d'Argento~
+@327 = ~Questo è un enorme pezzo di minerale d'argento. Hai l'impressione che non sia mai stato destinato a una fornace, poiché è molto consumato, come se nei secoli fosse passato di mano in mano.~
+@328 = ~Gemma Tagliata~
+@329 = ~Questa pietra preziosa è stata accuratamente tagliata e lucidata. Potrebbe essere uno smeraldo, anche se non ne sei del tutto certo.
+
+La lavorazione è squisita, benché gli spigoli un tempo perfetti siano divenuti fragili nel corso dei secoli.
+
+Poiché hai visto pietre simili in tutta la roccaforte, sei certo che questa gemma sia stata lavorata qui. Non dovresti rimuoverla senza cautela prima di averne scoperto il vero scopo.
+
+Sembra che questa pietra venisse inserita spesso in un alloggiamento o in qualche tipo di meccanismo.~ ~Questa pietra preziosa è stata accuratamente tagliata e lucidata. Potrebbe essere uno smeraldo, anche se non ne sei del tutto certa.
+
+La lavorazione è squisita, benché gli spigoli un tempo perfetti siano divenuti fragili nel corso dei secoli.
+
+Poiché hai visto pietre simili in tutta la roccaforte, sei certa che questa gemma sia stata lavorata qui. Non dovresti rimuoverla senza cautela prima di averne scoperto il vero scopo.
+
+Sembra che questa pietra venisse inserita spesso in un alloggiamento o in qualche tipo di meccanismo.~
+@330 = ~Pietra del Ghiacciaio~
+@331 = ~Questa pietra liscia e arrotondata deve provenire da un ghiacciaio; la sua superficie è stata levigata nei secoli dal movimento continuo. Si adagia comodamente nella mano. Come sia arrivata dalla superficie fino alle profondità di questa città nanica in rovina resta un mistero.~
+@332 = ~Adamantio~
+@333 = ~L'adamantio è un minerale metallico puro, nero come la pece. È tra i metalli più duri, leggeri e fragili, e viene usato per forgiare la leggendaria lega nota come adamantite.
+
+Viene spesso utilizzato dalle razze del Sottosuolo, come i drow, per fabbricare armi e armature.
+
+Questo pezzo di adamantio non sembra destinato a una fornace. I bordi sono consumati, come se nei secoli fosse passato di mano in mano.~
+@334 = ~Mithral~
+@335 = ~Il mithral è un metallo lucente color argento-blu estratto da rare vene e profondi giacimenti sparsi per Faerûn e nelle profondità del Sottosuolo.
+
+Il mithral è uno dei metalli più leggeri e flessibili, eppure è abbastanza resistente da essere impiegato nella forgiatura di armature.
+
+Questo particolare pezzo di mithral, tuttavia, sembra avere uno scopo diverso.~
+
+@336 = ~Pomo di Rubino~
+@337 = ~Questo grande rubino sembra essere stato lavorato come pomo di una lama preziosa. L'arma, tuttavia, dovrebbe essere di dimensioni enormi, forse la lama di una statua o di qualche altra raffigurazione nanica?~
+@338 = ~...devo... trovare l'accesso... al livello inferiore...~
+@339 = ~...dieci regni di Shanatar... dieci chiavi...~
+@340 = ~Ultoksamrin... il Regno dello Zardazil...~
+@341 = ~Barakuir... dimora del Clan Duergar, i Forgiatori del Ferro...~
+@342 = ~Torglor... Regno dell'Argento... dio nanico sconosciuto... uno dei due reietti?~
+@343 = ~Drakkalor... Città dell'Avidità... adoratori di Abbathor...~
+@344 = ~Fantasma di Iremar~
+@355 = ~In quanto nano, riconosci facilmente le antiche rune Dethek. Sul pavimento metallico è inciso a grandi lettere il nome «Shanatar», il leggendario regno nanico di cui parlano tanti canti dei tuoi antenati, ormai da tempo caduto in rovina.~ ~In quanto nana, riconosci facilmente le antiche rune Dethek. Sul pavimento metallico è inciso a grandi lettere il nome «Shanatar», il leggendario regno nanico di cui parlano tanti canti dei tuoi antenati, ormai da tempo caduto in rovina.~
+@356 = ~Hai già visto molte volte rune simili. Sono rune Dethek, la scrittura dei nani. Sul pavimento metallico è inciso a grandi lettere il nome «Shanatar», il leggendario regno nanico che un tempo si estendeva sotto le terre meridionali della Costa della Spada.~
+@357 = ~Con l'aiuto del tuo libro sulla scrittura nanica, decifri facilmente le rune Dethek. Sul pavimento metallico è inciso a grandi lettere il nome «Shanatar», il leggendario regno nanico che un tempo si estendeva sotto le terre meridionali della Costa della Spada.~
+@358 = ~Spesse rune naniche sono incastonate nel pavimento metallico, ma non riesci a decifrarle.~
+@359 = ~Da questa distanza non riesci a distinguere nulla.~
+@360 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Iltkazar, il Regno del Mithral».~
+@361 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Iltkazar, il Regno del Mithral».~
+@362 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Con l'aiuto del tuo libro sulla scrittura nanica, decifri facilmente le rune Dethek. Recitano: «Iltkazar, il Regno del Mithral».~
+@363 = ~Sul pavimento si erge una piccola statua nanica. Spesse rune naniche sono incastonate nel pavimento metallico accanto a essa, ma non riesci a decifrarle.~
+@364 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Korolnor, il Regno del Gioiello».~
+@365 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Korolnor, il Regno del Gioiello».~
+@366 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Con l'aiuto del tuo libro sulla scrittura nanica, decifri facilmente le rune Dethek. Recitano: «Korolnor, il Regno del Gioiello».~
+@367 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Torglor, il Regno dell'Argento».~
+@368 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Recitano: «Torglor, il Regno dell'Argento».~
+@369 = ~Sul pavimento si erge una piccola statua nanica. Accanto a essa, piccole rune sono incise nella lastra metallica. Con l'aiuto del tuo libro sulla scrittura nanica, decifri facilmente le rune Dethek. Recitano: «Torglor, il Regno dell'Argento».~
+@370 = ~Madugg~
+@371 = ~Questo vessillo reca il simbolo di Karontor, dio dei giganti Fomoriani. Raffigura un lupo invernale.~
+@372 = ~Su questo vessillo è dipinto rozzamente un lupo bianco.~
+@375 = ~Inkagurksul~
+@376 = ~Derro~
+@377 = ~Dardo dell'Indebolimento~
+@378 = ~Questi quadrelli da balestra sono stati fabbricati dai Derro, una razza simile ai nani proveniente dal Sottosuolo. Famigerati tanto per la crudeltà quanto per la follia, i Derro ricoprono i propri dardi con un veleno paralizzante che prosciuga la forza della vittima, in modo simile agli effetti dell'incantesimo Raggio di Indebolimento. Un tiro-salvezza contro Morte riuscito annulla l'effetto del veleno.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Forza: -1 (cumulativo; un tiro-salvezza contro Morte riuscito annulla l'effetto)
+Durata: 1 turno
+
+Danno: 1d8 (da proiettile)
+Dispositivo: Balestra
+
+Peso: 0~
+@379 = ~Dlimoruk~
+@380 = ~Jamrry Quarrellaugh~
+
+@381 = ~Scusatemi, vi prego, lasciatemi parlare prima di attaccare.~ [AC#LOTH1]
+@382 = ~La mia vita è a pezzi.~ [AC#LOTH2]
+@383 = ~Dokuriingor~
+@384 = ~Bastone di Hellgate~
+@385 = ~Questo bastone è realizzato con una pesante lega metallica e sembra emanare un'aura di pura malvagità.
+
+Il nome «Hellgate» non si riferisce ai Nove Inferni, bensì alla città caduta di Ascalhorn, oggi conosciuta soltanto come Hellgate Keep. Un tempo innumerevoli utilizzatori di magia arcana si sfidavano entro le sue mura, evocando immondi dai Piani Inferiori, finché la città non venne infine travolta da una grande orda di Tanar'ri, demoni dell'Abisso.
+
+Questo bastone, attribuito ai nemici del celebre mago Wulgreth di Ascalhorn, conferisce a chi lo impugna la capacità di evocare simili creature.
+
+Impugnando il bastone, l'utilizzatore può aprire brevemente un portale verso l'Abisso, permettendo a diversi demoni minori, conosciuti come Tanar'ri, di entrare per breve tempo nel Primo Piano Materiale. A causa della loro natura caotica, questi demoni possono essere difficili da controllare, anche se non attaccheranno mai il proprio evocatore. Non si può mai sapere con certezza quale immondo risponderà alla chiamata: più spesso Tanar'ri minori come Manes, Rutterkin o Dretch e, occasionalmente, un Imp.
+
+Esiste tuttavia una piccola possibilità che dal portale emerga un Tanar'ri maggiore, un Nabassu. Il Nabassu non può essere controllato e attaccherà immediatamente qualunque essere nelle vicinanze che non sia protetto dall'incantesimo Protezione dal Male.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Una volta al giorno evoca un gruppo di Tanar'ri minori che servono chi impugna il bastone per un breve periodo.
+– 10% di probabilità che appaia invece un Nabassu, che attaccherà tutto ciò che vede.
+Durata: 1 turno
+
+Richiede:
+Intelligenza 12
+
+Peso: 1~
+@387 = ~Pozioni di Jamrry~
+@392 = ~Troll di Pietra~
+@393 = ~Operaio della Forgia~
+@395 = ~Apri lo sportello dell'altoforno e, all'improvviso, un elementale del fuoco infuriato balza fuori!~
+@398 = ~Chiave Deformata dal Calore~
+@399 = ~Questa chiave sembra essere stata esposta a un calore estremo per molto tempo.~
+@400 = ~Apri lo sportello dell'altoforno e ne erompe un possente elementale del fuoco!~
+@405 = ~Tavoletta Runica Nanica~
+@406 = ~Questa è una pietra runica nanica. Vi sono incise frettolosamente le parole:
+«Abbiamo sigillato i sentieri verso il Sottosuolo. Ormai non vi è via di ritorno. Il flagello portato su di noi dal Reietto e dalle sue bestie alate non deve diffondersi negli altri regni minori di Shanatar. Il mio dovere è restare qui con Garbo, mio fratello d'arme, e sorvegliare il portale sigillato.
+
+Molte anime disperate cercano di fuggire dalla città, ma non c'è modo di passare, non da quando i traditori che si rifiutarono di rinnegare il Reietto furono banditi proprio per questa via.»
+
+Benché questo oggetto possa avere valore culturale, non sembra né magico né utile per proseguire la tua missione.~
+@407 = ~«Per decreto della casata reale dei Kuldelver, tutti i passaggi verso le Terre Profonde sono stati sigillati, affinché la maledizione che affligge il nostro clan non si diffonda negli altri regni minori.
+
+D'ora in poi Korolnor resta sola, abbandonata al proprio destino contro i nemici interni ed esterni.
+
+Che il nostro regno possa risorgere nella sua ora più buia, oppure perire per sempre.»~
+@408 = ~Questo antico passaggio è bloccato da enormi massi. Sembra conducesse un tempo nel Sottosuolo, ma ormai non c'è più modo di attraversarlo.~
+@409 = ~Armatura Nanica Spezzata~
+@410 = ~Questa armatura è forgiata in un metallo sconosciuto e sembra incredibilmente antica.
+
+A giudicare dal suo aspetto, chi la indossava sopravvisse a molte battaglie, ma non all'ultima. Ora è ridotta in pezzi e non può più servire a nulla.~
+@411 = ~Scheletro Gigante~
+@413 = ~Nel pavimento di questa sala è incastonata un'enorme mappa di bronzo, sulla quale sono collocate diverse figure di pietra raffiguranti nani.~
+@415 = ~Questo possente pilastro reca rune naniche:
+
+«Edificato da Karlyn Kuldelver, Signore di Korolnor, nell'anno 433 dalla fondazione della sua casata.
+
+Possano queste sale resistere in eterno, rifugio sicuro per i fratelli e le sorelle di Shanatar.»~
+@416 = ~Numerose rune naniche sono incise su questo possente pilastro, ma non riesci a decifrarle.~
+@417 = ~Sembra essere lo stesso vano dell'ascensore che hai visto al piano superiore. Deve scendere ancora più in profondità.~
+@418 = ~Da qui un pozzo scende ulteriormente verso il basso.~
+@419 = ~Ettin Scheletrico~
+@420 = ~Libro Antico~
+@421 = ~Spirito di Karlyn Kuldelver~
+@422 = ~Statua di Clangeddin~
+@423 = ~Chimera~
+@484 = ~Dopo che l'urlo tormentato del vampiro si spegne, noti che il suo cadavere stringe un piccolo volantino usato per azionare un macchinario. Lo prendi e lo riponi al sicuro.~
+@485 = ~Anello della Conoscenza~
+@486 = ~Questo anello dall'aspetto modesto amplia enormemente le conoscenze di chi lo indossa, concedendo a <PRO_HIMHER> improvvisi lampi di memoria relativi a eventi di un lontano passato, permettendo a <PRO_HIMHER> di comprendere meglio i collegamenti storici e decifrare testi e lingue antiche.
+
+Simili manufatti sono molto ricercati dagli studiosi.
+
+Si dice che Oghma abbia donato un tempo un anello simile a un filosofo arrogante il quale, dopo essersi reso conto della propria ignoranza, abbandonò del tutto la filosofia e si dedicò invece all'agricoltura.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Conoscenza: +20~
+@487 = ~Ildanfal~
+@488 = ~In Jotun, la lingua dei giganti, «Ildanfal» significa «Assalto di Fuoco». Quest'arma dimostra che i giganti del fuoco sono maestri fabbri.
+
+Il possente martello, tuttavia, è troppo grande e pesante per chiunque sia più piccolo di un gigante del fuoco. Anche potenziando magicamente la forza di <PRO_HIMHER> quanto basta per impugnarlo, l'arma potrebbe essere brandita soltanto con grande sforzo e lentezza.
+
+Inoltre, esiste il rischio che chi la impugna venga occasionalmente avvolto dalle fiamme. Quello che per i giganti del fuoco potrebbe essere un piacevole calore curativo, per chiunque altro potrebbe trasformarsi in un inferno mortale.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– -0,5 attacchi per round
+
+Abilità in combattimento:
+– 5% di probabilità che chi impugna l'arma venga colpito da Colonna di Fuoco quando mette a segno un colpo
+
+THAC0: +4
+Danno: 2d4+4, +1d8 danni da fuoco
+Tipo di Danno: Contundente
+Fattore-velocità: 1
+Tipo di Competenza: Martello da Guerra
+Tipo: A una mano
+
+Richiede:
+Forza 22
+
+Peso: 20~
+@489 = ~Non riesci a vedere il fondo di questa fenditura, ma dal suo interno sale continuamente aria calda.~
+@490 = ~Segugio Troll~
+@491 = ~Kursh Brokenhorn~
+@495 = ~Arco della Pioggia Mortale~
+@496 = ~L'Arco della Pioggia Mortale fu realizzato secoli fa con i giovani rami di un albero sacro agli elfi. L'asta è incisa con numerosi simboli.
+
+Una volta al giorno può scatenare sui nemici una devastante pioggia di frecce.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Pioggia di Frecce: una volta al giorno, una salva di frecce piove su un bersaglio, infliggendo 2d6 danni a lui e a tutti i nemici entro un raggio di 3 metri.
+
+THAC0: +4
+Fattore-velocità: 4
+Tipo di Competenza: Arco Lungo
+Tipo: A due mani
+Richiede:
+Forza 16~
+
+@497 = ~Questa leva arrugginita un tempo serviva ad attivare e disattivare le trappole in queste stanze. Sembra ancora funzionante.~
+@498 = ~Azioni la leva. Tutte le trappole nei corridoi sembrano essere state disattivate.~
+@499 = ~Hai già disinnescato le trappole.~
+@510 = ~Editto Cavalleresco~
+@511 = ~Haimmon, ti sei dimostrato degno di essere nominato cavaliere del sacro Ordine di Kuldar di Barakmordin.
+
+La tua prova finale prima del rito d'iniziazione sarà recarti nelle Montagne dei Troll e cercare il male che inseguiamo da tempo, un male che ora si nasconde tra i resti dell'antico regno nanico di Korolnor.
+
+Il nostro ordine venne fondato sulle antiche rovine dei nani, e Barakmordin significa «Montagne dello Scudo» nella loro lingua. Inoltre, la leggenda narra che le vicine Montagne di Omlarandin fossero un tempo dimora del favoloso regno nanico di Iltkazar. Benché i nani siano scomparsi da molto tempo, noi umani continuiamo a preservare la tradizione dei loro valori e sono certo che porterai a termine questa missione con nostra piena soddisfazione.
+
+Barakmordin, 1303 CV,
+firmato Gaufrid, la Larga Lama di Torm,
+Gran Maestro dell'Ordine dei Paladini di Kuldar.~
+
+@514 = ~Qui riposa Ragmus, primogenito della Casata Kuldelver, figlio di Karlyn Ammazzagiganti, ucciso all'età di otto anni dalla freccia traditrice di un umano.~
+@515 = ~Ossa di Bambino~
+@516 = ~Queste sono le ossa di un bambino. A giudicare dalla forma del cranio, doveva trattarsi di un bambino nano.~
+@517 = ~Su questa grande pietra sono incise rune naniche:
+«Stranieri, sappiate che ora entrate nelle terre dei nani di Korolnor, eredi del grande regno di Shanatar».~
+@518 = ~Questa grande pietra è ricoperta di numerose rune naniche, ma non riesci a decifrarle.~
+@519 = ~Su questa grande pietra sono incise rune naniche:
+«Ascoltate la voce della statua di Kuldelvon, il cui lamento mette in fuga i nemici dei nani!»~
+@520 = ~Su questa grande pietra sono incise rune naniche:
+«Regno di Korolnor a nord. Karlyn del Clan Kuldelver accoglie nelle proprie sale tutti gli amici dei nani.»~
+@521 = ~Su questa grande pietra sono incise rune naniche:
+«Presso questo guado, Karlyn del Clan Kuldelver uccise con un solo colpo d'ascia il codardo Kutlog, Re dei Giganti delle Colline.»~
+@522 = ~Su questa grande pietra sono incise rune naniche:
+«I giganti superstiti fuggirono verso le Montagne della Corsa dei Giganti, dando così il nome alla catena montuosa. Karlyn decise di costruire presso questo guado la nuova fortezza del proprio clan.
+
+Per ricordare in eterno ai giganti la loro sconfitta, ordinò la costruzione di un'enorme statua di un guardiano nanico, rivolta verso est, il cui richiamo fosse udibile da lontano da chiunque si avvicinasse, proclamando per sempre: Temete l'ira dei nani!»~
+@523 = ~Questa targa di bronzo raffigura una statua nanica circondata da sette gemme. Lungo il bordo sono incise rune naniche:
+«Korolnor, Regno del Gioiello, dimora del Clan Kuldelver, orgogliosa parte del Regno di Shanatar.»~
+@524 = ~Questa targa di bronzo raffigura una statua nanica circondata da sette gemme. Il bordo è ricoperto di rune naniche, ma non riesci a decifrarle.~
+@528 = ~Sopra l'ingresso, in rune dorate, è inciso in nanico il nome «Korolnor».~
+@529 = ~La spada sacra trafigge la carne del troll demoniaco, squarciandolo.~
+@530 = ~Questa targa di bronzo mostra il simbolo di un martello e un'incudine circondati da sette gemme. È il simbolo di Moradin, il Padre di Tutti i nani.
+
+Lungo il bordo sono incise rune naniche:
+«Korolnor, Regno del Gioiello, discendenti di Taark Shanat, fondatore di Shanatar, servitori di Moradin.»~
+@531 = ~Questa targa di bronzo mostra il simbolo di un martello e un'incudine circondati da sette gemme. Il bordo è ricoperto di rune naniche, ma non riesci a decifrarle.~
+@532 = ~Questa targa di bronzo mostra il simbolo di un martello e un'incudine circondati da sette gemme: il simbolo di Moradin.
+
+Lungo il bordo sono incise rune naniche:
+«Come tutti i dieci regni di Shanatar, il Regno del Gioiello di Korolnor prosperò un tempo in un'epoca di grande benessere.
+
+Moradin guardava con favore i propri figli. Quando il loro regno fu fondato, i nani di Korolnor scelsero come divinità protettrice uno dei figli gemelli di Moradin, in un tempo in cui non era ancora sprofondato nella follia.»~
+@533 = ~Questa targa di bronzo mostra il simbolo di un nano ammantato circondato da sette gemme.
+
+Lungo il bordo sono incise rune naniche:
+«Ma col passare del tempo l'indole del loro protettore mutò, ed egli divenne un dio egoista che iniziò a ricercare magie proibite e segreti nascosti.»~
+@534 = ~Questa targa di bronzo mostra il simbolo di un nano ammantato circondato da sette gemme. Il bordo è ricoperto di rune naniche, ma non riesci a decifrarle.~
+@535 = ~Questa targa di bronzo mostra il simbolo di un mind flayer circondato da sette gemme.
+
+Lungo il bordo sono incise rune naniche:
+«Durante una delle sue spedizioni proibite, il figlio di Moradin, assieme al fratello, entrò nel dominio del dio dei mind flayer e fu maledetto con la follia eterna come punizione.»~
+@536 = ~Questa targa di bronzo mostra il simbolo di un mind flayer circondato da sette gemme. Il bordo è ricoperto di rune naniche, ma non riesci a decifrarle.~
+@538 = ~Questo ponte è stato chiaramente costruito da mani naniche e un tempo attraversava il fiume impetuoso.
+
+Sfortunatamente è crollato da molto tempo. Ti rendi conto che probabilmente fu distrutto mediante un meccanismo progettato per far precipitare gli assalitori nelle profondità sottostanti.~
+@539 = ~Questo ponte un tempo attraversava il fiume impetuoso.
+
+Sfortunatamente è crollato da molto tempo. Ti rendi conto che probabilmente fu distrutto mediante un meccanismo progettato per far precipitare gli assalitori nelle profondità sottostanti.~
+@540 = ~Questo ponte un tempo attraversava il fiume impetuoso.
+
+Sfortunatamente è crollato da molto tempo.~
+@543 = ~A questo cadavere manca la testa.~
+@544 = ~Questo sembra essere uno degli antichi pozzi di rifornimento, che scende nelle profondità sottostanti.
+
+Non riesci a vederne il fondo e temi che avvicinandoti troppo potresti precipitarvi dentro. L'aria che risale dall'oscurità è fetida e soffocante.~
+@545 = ~Questa targa reca l'effigie di Moradin, il Padre di Tutti.
+
+Intorno sono incise rune naniche:
+«Nella sua ira, Moradin bandì i propri figli gemelli dalla comunione degli dei nanici, affinché non potessero mai più arrecare al mondo una rovina tanto indicibile.»~
+@546 = ~Questa targa di bronzo mostra il simbolo di un nano barbuto.
+
+Il bordo è ricoperto di rune naniche, ma non riesci a decifrarle.~
+@547 = ~Lame Danzanti~
+@548 = ~Urlo della Vargouille~
+@549 = ~Neutralizzare Gas~
+@550 = ~Neutralizzare Gas
+(Scongiurazione)
+
+Livello: 7
+Raggio d'azione: Incantatore
+Durata: Permanente
+Tempo di lancio: 1
+Area d'effetto: Speciale
+Tiro-salvezza: Nessuno
+
+Con questo incantesimo, l'incantatore rende innocui i vapori, i gas, le nubi o le nebbie nocive presenti nell'area d'effetto.
+
+Ciò include Nube Maleodorante, Nube Assassina, Nebbia Mortale, Nube Incendiaria e incantesimi o effetti simili. Ogni gas o vapore nocivo persistente viene disperso.
+
+Le creature che erano già state colpite dal gas prima del lancio continueranno a subirne gli effetti precedenti: questo incantesimo non annulla i danni già inflitti.
+
+Se lanciato nello stesso round di un effetto gassoso, Neutralizzare Gas può essere usato anche per contrastare armi a soffio gassose, conferendo alle creature colpite un bonus di +4 ai tiri-salvezza e una resistenza del 50% contro tali attacchi a soffio.~
+@551 = ~Troll Nero~
+@552 = ~Risucchio di Massa di Larloch~
+@553 = ~Risucchio di Massa di Larloch
+(Necromanzia)
+
+Livello: 9
+Raggio d'azione: 9 metri
+Durata: Speciale
+Tempo di lancio: 3
+Area d'effetto: Creatura e quadrato di 9 metri
+Tiro-salvezza: Nessuno
+
+Con questo incantesimo, l'incantatore risucchia la forza vitale di tutti i nemici nell'area d'effetto e la aggiunge alla <PRO_HISHER> forza vitale.
+
+Le vittime subiscono 1d8 punti di danno, mentre l'incantatore ottiene 1d8 Punti Ferita aggiuntivi per ogni creatura colpita.
+
+Se i Punti Ferita dell'incantatore superano la <PRO_HISHER> soglia massima, <PRO_HESHE> perde i Punti Ferita in eccesso dopo 3 round.~
+@554 = ~Nota Rozza~
+@555 = ~Questo brandello non è fatto di carta, bensì di un pezzo di cuoio maleodorante.
+
+In Comune vi sono scarabocchiate con inchiostro rosso-nero lettere storte e sgraziate:
+«Trol del Norrte, venite a ssud e unitevvi al Regno eterrno di Stommheim! Ursummnogh l'Inammazzabbile vi aspeta.»~
+@556 = ~Protezione dal Bene~
+@557 = ~Narg il Nero~
+@558 = ~Svanire nelle Ombre~
+@559 = ~Scomparso nelle Ombre~
+@564 = ~Fantasma di Nhair Ebendar~
+@565 = ~Questa è una statua di Berronar Truesilver, dea nanica della vita, della guarigione e della sicurezza.~
+@566 = ~Spaccagiganti +2/+3~
+@567 = ~Il manico di questa ascia da battaglia è ricavato dal femore di un gigante. Un tempo l'arma apparteneva a Rothdor, un berserker nano appartenente a una confraternita dell'ascia di Clangeddin.
+
+Rothdor servì un re di Shanatar in un'epoca in cui un'enorme orda di giganti proveniente da est minacciava di travolgere le terre di superficie sopra il regno nanico. I berserker furono inviati in aiuto degli alleati umani e portarono a termine la missione con grande valore, conducendo rapidamente i giganti sull'orlo della sconfitta in una grande battaglia. Sfortunatamente, gli umani che i nani erano stati mandati ad assistere non mostrarono alcuna volontà di entrare essi stessi nella mischia. Uno dopo l'altro, dopo una lunga e massacrante lotta, i berserker furono sopraffatti e calpestati dai giganti.
+
+L'ascia di Rothdor passò attraverso molte mani prima di tornare ai nani di Shanatar, ma dopo la caduta dei regni di Xothaerin, Torglor e Korolnor, la potente arma andò perduta e cadde nell'oblio.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Quando colpisce, i giganti subiscono 3 danni da sanguinamento aggiuntivi per round per 2 round e vengono rallentati per 2 round.
+
+THAC0: +2, +3 (solo per i nani)
+Danno: 1d8+2 (tagliente); +3 (solo per i nani)
+Fattore-velocità: 5
+Tipo di Competenza: Ascia
+Tipo: A una mano
+Richiede:
+Forza 10
+
+Peso: 5~
+@570 = ~Golem di Smeraldo~
+@572 = ~Bryam Lancameth~
+@573 = ~Testa di Lancameth~
+@574 = ~Questa è la testa di Bryam Lancameth, capitano dell'esercito di Amn, che discese nel Nano Gemente assieme ai suoi compagni. Morso da una Vargouille, è diventato a sua volta una di queste creature dell'Abisso.
+
+La testa è grottesca e il volto contorto in una smorfia orrenda: in queste condizioni sarebbe poco saggio mostrarla alla vedova nel Distretto del Cimitero.~
+@575 = ~Statua del Guardiano Nanico~
+@576 = ~Chiave a Forma di Spada~
+@577 = ~Questa «spada» è in realtà una chiave finemente lavorata, progettata per inserirsi in una particolare serratura.~
+@578 = ~L'aria di questa camera puzza di marciume, decomposizione e insondabile malevolenza. Una fitta nebbia aderisce al terreno, nascondendo le profondità sottostanti e non lasciando intuire quanto in basso scenda davvero l'abisso.~
+@583 = ~Questo sembra essere l'antico trono di Korolnor. Sulla piattaforma davanti a esso sono incise rune naniche, ma non riesci a decifrarle.~
+@584 = ~L'antico e possente trono di Korolnor.
+
+Sulla piattaforma davanti a esso sono incise rune naniche:
+
+«Sei guardiani stanno, saldi e gelidi,
+le loro asce recano cristalli antichi.
+Custodiscono il Settimo, celato nel profondo,
+perché il male non si ridesti dal suo sonno maledetto.
+
+Legati alla pietra, mantengono il sigillo,
+coraggio nanico contro l'oscurità.
+Il Dio Folle infuria, bandito laggiù,
+in catene serrato dalla presa dei guardiani.»~
+@585 = ~Piccola Leva~
+@586 = ~Questa leva sembra far parte di un meccanismo più grande.~
+@595 = ~ZOTICONI!~
+@596 = ~Gisbert~
+@603 = ~Darcia Lancameth~
+@605 = ~Documenti di Lancameth~
+@606 = ~Questi sono i documenti personali del capitano Bryam Lancameth. Contengono vari registri relativi al comando di un'unità di Amn, al suo servizio a Eshpurta e ad altre questioni amministrative che hanno poco a che fare con la tua missione attuale.
+
+Alcuni appunti descrivono le sue ricerche sulle rovine naniche nell'odierno Amn, le sue indagini sulla presunta origine della piaga dei troll nelle montagne circostanti e la ricerca di compagni adatti alla sua ultima spedizione. È inclusa anche una mappa dettagliata delle Montagne dei Troll, sulla quale è evidenziata una particolare vetta vicino alla sorgente di un fiume. Sopra vi è scritto: «Il Nano Gemente».
+
+Scorri gli appunti per farti un'idea generale:
+
+«Il “Nano Gemente” è un'antica fortezza nanica nelle Montagne dei Troll.
+
+Dal periodo trascorso a Eshpurta so quanto siano numerosi e molesti i troll in questa regione. Sospetto che l'origine di questi troll possa trovarsi proprio in questa vecchia roccaforte.
+
+Inoltre, un piccolo e bizzarro mago che ho incontrato sostiene che le rovine possano contenere una grande quantità di gemme. Non cerco fama né ricchezza, ma simili tesori potrebbero certamente giovare alla mia patria.
+
+Trovare compagni affidabili per questa impresa non è stato facile, ma credo di aver finalmente riunito un gruppo degno di fiducia. Domani partiremo per Eshpurta, dove rivolgeremo un'ultima preghiera a Tempus prima di avanzare da sud nelle Montagne dei Troll.
+
+Se seguiremo verso nord il Trolltooth Run finché non diventerà poco più di un torrente di montagna, dovremmo presto scorgere il volto di pietra del “Nano Gemente”.»~
+@607 = ~Annotazioni di Iremar~
+@608 = ~Questi appunti appartengono alla sacerdotessa Iremar del Tempio di Oghma.
+
+Contengono resoconti dettagliati della storia nanica nelle terre di Amn e Tethyr.
+
+Un segnalibro indica una sezione particolare: una voce riguardante la costruzione del «Nano Gemente».~
+@610 = ~Pugnale da Pugno di Quar-Shan~
+@611 = ~Quar-Shan era un formidabile assassino del Calimshan al servizio dei primi pascià.
+
+Sebbene questo pugnale da pugno infligga pochi danni a causa della lama corta, le dimensioni ridotte lo rendono facile da nascondere, cogliendo spesso i nemici di sorpresa quando abbassano la guardia.
+
+È quindi l'arma perfetta per chi desidera infliggere il massimo danno dalle ombre.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Probabilità di Colpo Critico: +5% con quest'arma
+– Bonus al Colpo alle Spalle: +1
+
+THAC0: +3
+Danno: 1d3+3 (perforante)
+Fattore-velocità: 0
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+Forza 3
+
+Peso: 0~
+@612 = ~Jorboud Hornfinger~
+@613 = ~Glouris Mristifos~
+@846 = ~Mantello della Pietrificazione~
+@847 = ~Questo mantello, che si dice sia stato intriso nel sangue di una gorgone, trasforma istantaneamente in pietra chiunque lo indossi.
+
+Chi non desidera finire come statua nel giardino di qualche nobile della Costa della Spada farebbe bene a evitare di indossarlo.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Pietrificazione
+
+Peso: 3~
+@848 = ~Sir Kandelar~
+@900 = ~Tutti i nemici dei nani devono essere distrutti!~ [AC#MGGM1]
+@901 = ~~ [AC#MGDI1]
+@902 = ~~ [AC#MGDI2]
+@903 = ~~ [AC#MGDR4]
+@904 = ~~ [AC#MGDR5]
+@905 = ~~ [AC#MGDR1]
+@906 = ~~ [AC#MGDR2]
+@907 = ~~ [AC#MGDR3]
+@908 = ~~ [AC#MGDR6]
+@909 = ~~ [AC#MGDR7]
+@910 = ~~ [AC#MGDR8]
+@911 = ~~ [AC#MGDR9]
+@912 = ~~ [AC#MGGB2]
+@913 = ~~ [AC#MGGB3]
+@914 = ~~ [AC#MGDI3]
+@915 = ~Maledetta magia, non vuole obbedirmi!~ [AC#MGDI5]
+@916 = ~~[AC#MGDI4]
+@917 = ~~[AC#MGFG3]
+@918 = ~~ [AC#MG1KF]
+@919 = ~~ [AC#MGUR0]
+@956 = ~Evocare Vargouille~
+@961 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Drakkalor, Città dell'Avidità».~
+@962 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Xothaerin, Regno dell'Adamantio».~
+@963 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Barakuir, Regno del Ferro».~
+@964 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Ultoksamrin, Regno dello Zardazil».~
+@965 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Alatorin, Dimora di Taark Shanat».~
+@966 = ~Una piccola statua nanica si erge sul terreno. In rune Dethek si legge: «Sondarr, Regno del Mare».~
+@967 = ~Questa piccola statua nanica è rovesciata.~
+@968 = ~Questa statuetta raffigura un beholder.~
+@969 = ~Questa statuetta raffigura un gigante di roccia.~
+@970 = ~Questa statuetta raffigura un mind flayer. In rune Dethek si legge: «Oryndoll, Dimora dei Loretakers».~
+@971 = ~Lady Starthorn~
+@972 = ~Formaggio Fomoriano~
+@973 = ~Questo è un pezzo di formaggio maleodorante prodotto dai giganti fomoriani.
+
+Preferisci non immaginare quali ingredienti siano stati usati per prepararlo.~
+@975 = ~Moldark~
+@983 = ~Questo brandello non è fatto di carta, bensì di cuoio maleodorante.
+
+In Comune vi sono scarabocchiate con inchiostro rosso-nero lettere storte e sgraziate:
+«Trol e Gigganti a sSud, venitte al NANO GEMENTE e unitevvi a Ursummnogh l'INAMMAZZABBILE e Re Madugg! assieme trol e gigganti insegnerano alli UMANI ad AVER PAURA!»~
+@984 = ~Pioggia Mortale~
+@1000 = ~In questo punto sono stati accatastati in un monumento raccapricciante innumerevoli teschi di creature diverse.
+
+Puoi solo sperare che tra essi non vi siano i crani degli avventurieri che stai cercando.~
+@1001 = ~Questa bandiera reca l'immagine di una mano mostruosa protesa, forse quella di un troll.~
+@1002 = ~Ingresso Principale~
+@1102 = ~Fratello Starthorn~
+@1103 = ~Ascia d'Argento~
+@1104 = ~Questa ascia è fatta di argento puro. Sembra un'arma cerimoniale più che qualcosa destinato al combattimento.~
+@1106 = ~Infranto~
+@1107 = ~Guarigione ostacolata dal veleno di Vargouille~
+@1108 = ~Troll Velenoso~
+@1109 = ~Spruzzo Velenoso~
+@1110 = ~Troll di Faerzress~
+@1111 = ~Questa chiave non sembra adatta alla serratura di una porta, bensì a qualche altro tipo di meccanismo.~
+@1113 = ~Voce dal Corno~
+@1114 = ~Da qui un ascensore sembra scendere ancora più in profondità.~
+@1115 = ~Questo è uno strano altare, apparentemente costruito dai troll per venerare una divinità. Davanti a esso sono sparse offerte costituite da numerosi resti umani.
+Dalla parete sovrastante sporgono due tubi di bronzo; sembrano essere stati realizzati dai nani molto tempo fa.~
+@1116 = ~Numerosi cadaveri emaciati, probabilmente nani, sono ammassati in questo angolo.
+Tutti hanno una caratteristica in comune: manca loro la testa.~
+@1117 = ~Su questa tavoletta runica si legge:
+«Tutti coloro che vengono morsi devono essere condotti nelle celle finché la trasformazione non sarà completa.
+Quando la testa si separa dal corpo, deve essere distrutta con un quadrello di balestra.
+Possa Moradin avere pietà delle loro anime.»~
+@1118 = ~Riconosci che questo passaggio è stato scavato dai troll per aggirare le porte chiuse e ottenere un'altra via d'ingresso o di uscita.~
+@1119 = ~Questo passaggio sembra essere stato scavato da grandi creature per aggirare le porte chiuse e ottenere un'altra via d'ingresso o di uscita.~
+@1120 = ~Il sarcofago è fatto di metallo massiccio e non può essere forzato. Tuttavia, noti una piccola serratura sul fianco: sembra che vi si possa inserire una chiave.~
+@1121 = ~Solo una chiave specifica sembra poter entrare in questo meccanismo.~
+@1122 = ~L'alloggiamento di questo contenitore nanico è vuoto. Un tempo conteneva una piccola gemma, probabilmente usata come chiave per aprirlo. Senza di essa, la serratura non può essere sbloccata.~
+@1123 = ~Perso un punto di Saggezza~
+@1400 = ~Non risponde più nessuno.~
+@1401 = ~Un corno di bronzo sporge dalla roccia. Sembra possibile parlarvi dentro.~
+@1402 = ~Questo meccanismo sembra deviare l'aria rovente dalle fornaci verso una camera lontana, probabilmente per riscaldare altre fornaci. Tuttavia manca un volantino per aprire le valvole.~
+@1403 = ~Ti manca un volantino per aprire le valvole e liberare l'aria.~
+@1404 = ~Fissi il volantino. Se vuoi, ora puoi girarlo.~
+@1405 = ~La valvola è ora aperta.~
+@1406 = ~Giri il volantino e la valvola si apre. Senti aria roventissima sfrecciare nei tubi verso un'altra stanza.~
+@1407 = ~Non riesci ad aprire la valvola. Qualcosa sembra trattenere il calore nelle fornaci, impedendo all'aria calda di fuoriuscire.~
+@1408 = ~Non riesci ad aprire la valvola. Il calore è troppo basso: da qualche parte sembra essere rimasta aperta la porta di una fornace.~
+@1409 = ~La pietra-chiave che hai trovato nella vecchia fonderia, in possesso del vampiro, entra perfettamente in questo piccolo forziere. Si incastra al suo posto e poi svanisce.~ [AC#MGCLK]
+@1410 = ~Uscita~
+@1411 = ~Al Secondo Livello~
+@1412 = ~Alla Vecchia Fonderia~
+@1413 = ~Alla Vecchia Forgia~
+@1500 = ~Quando poni l'oggetto nella coppa, senti un lieve scatto. Un meccanismo sembra essersi bloccato in posizione.~ [AC#MGCLK]
+@1501 = ~Quando rimuovi l'oggetto, senti di nuovo lo scatto. Un meccanismo sembra essersi reimpostato.~ [AC#MGCLK]
+@1510 = ~Il simbolo del dio nanico Abbathor. Sotto si legge: «Drakkalor, Città dell'Avidità».~
+@1511 = ~Il simbolo del dio nanico Vergadain. Sotto si legge: «Sondarr, Regno della Stella Marina».~
+@1512 = ~Il simbolo di Moradin. Sotto si legge: «Holorarar, Regno dell'Oro».~
+@1513 = ~Il simbolo del dio nanico Dumathoin. Sotto si legge: «Ultoksamrin, Regno dello Zardazil».~
+@1514 = ~Il simbolo del dio nanico Laduguer. Sotto si legge: «Barakuir, Regno del Ferro».~
+@1515 = ~Questo simbolo non corrisponde ad alcuna divinità nanica che riconosci. Tuttavia, le rune Dethek sottostanti recitano: «Torglor, Regno dell'Argento».~
+@1516 = ~Il simbolo raffigura sette gemme disposte in cerchio. Sotto, le rune Dethek recitano: «Korolnor, Regno del Gioiello».~
+@1517 = ~Il simbolo del dio nanico Thard Harr. Sotto si legge: «Alto Shanatar, Regno del Ghiacciaio».~
+@1518 = ~Il simbolo della dea nanica Sharindlar. Sotto si legge: «Xothaerin, Regno dell'Adamantio».~
+@1519 = ~Il simbolo di Clangeddin Silverbeard. Sotto si legge: «Iltkazar, Regno del Mithral».~
+@1520 = ~Il simbolo di un pugnale, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1521 = ~Il simbolo di una moneta d'oro, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1522 = ~Il simbolo di un'incudine, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1523 = ~Il simbolo di una montagna con una gemma sospesa sopra, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1524 = ~Il simbolo di una freccia spezzata contro uno scudo, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1525 = ~Un simbolo sconosciuto, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1526 = ~Un simbolo sconosciuto, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1527 = ~Il simbolo di due guanti, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1528 = ~Il simbolo di un ago fiammeggiante, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1529 = ~Il simbolo di due asce incrociate, incorniciato sopra e sotto da rune naniche che non riesci a decifrare.~
+@1530 = ~Questa padella potrebbe essere fatta cadere per distrarre i giganti, dandoti il tempo di prendere il formaggio per i ratti senza essere notato.~ ~Questa padella potrebbe essere fatta cadere per distrarre i giganti, dandoti il tempo di prendere il formaggio per i ratti senza essere notata.~
+@1531 = ~Una padella è fissata in modo precario al pilastro.~
+@1600 = ~Sul cartello appeso al collo di questo troll morto si legge: «Kuesto succede ai Trol ke non si inkkinano davanti a Ursummnogh e Vaprak!»~
+@1700 = ~Questo dispositivo un tempo veniva usato per colare parti metalliche. C'è un alloggiamento in cui inserire gli stampi, ma prima dovrai rimettere in funzione la vecchia fonderia.~
+@1701 = ~Il metallo fuso viene spinto nello stampo ad alta pressione. Ne emerge una chiave perfettamente realizzata, apparentemente destinata a una serratura molto specifica.~
+@1702 = ~La fonderia sembra funzionare, almeno in parte. Sei riuscito a riscaldare una sezione della camera abbastanza da far fluire il metallo fuso dal crogiolo nel meccanismo di colata.~ ~La fonderia sembra funzionare, almeno in parte. Sei riuscita a riscaldare una sezione della camera abbastanza da far fluire il metallo fuso dal crogiolo nel meccanismo di colata.~
+@1703 = ~Devi inserire entrambe le parti dello stampo nel contenitore per avviare il processo di colata.~
+@1704 = ~Tiri la leva arrugginita per avviare il processo di colata.~
+@1800 = ~«Le asce gemelle di Clangeddin mantengono sigillato il Trono del Dio Folle.»~
+@1801 = ~Al Secondo Livello~
+@1802 = ~Ascensore verso l'Alto~
+@1803 = ~Al Trono del Dio Folle~
+@1900 = ~~
+@1901 = ~Quando rimuovi questo cristallo, l'aria nella camera diventa improvvisamente più fredda e la corrente proveniente dall'abisso sottostante si intensifica. Sembra che la rimozione dei cristalli indebolisca i legami tra i mondi.~
+@1902 = ~Salto della Gemma~
+@1903 = ~Abracadabra Magico~
+@1904 = ~Stregoneria Maldestra~
+@1905 = ~Pestone~
+@1906 = ~Illusioni di Ilsensine~
+@1907 = ~Affronta le mie paure più profonde!~
+@1908 = ~Risata Maniacale~
+@1909 = ~Zona di Magia Selvaggia~
+@1910 = ~Raffica di Vento~
+@1911 = ~Evocare Servitore~
+@1912 = ~Evocare Troll Nero~
+@1913 = ~Trasformazione in Vargouille~
+@2000 = ~Lingua e Scrittura dei Nani~
+@2001 = ~Lingua e Scrittura dei Nani
+scritto da Aldym Ryscelsar di Halarahh, Halruaa.
+
+Per gli estranei e i membri delle altre razze, i modi dei nani possono spesso risultare difficili da comprendere. I nani stessi non sembrano avere alcun interesse a cambiare questa situazione, poiché sono giustamente noti come una delle razze umanoidi più isolate e riservate.
+Per gli studiosi che, per varie ragioni, devono studiarne la cultura, ciò rappresenta una notevole difficoltà. Con le mie ricerche mi propongo di permettere al lettore di decifrare la lingua e le rune della razza nanica, nonché di comprendere alcune delle loro peculiari usanze.
+
+La lingua nanica, il Dethek, è scritta in un antico alfabeto runico anch'esso chiamato Dethek.
+
+Come ci si può aspettare dai nani, la scrittura e la struttura delle frasi sono rimaste in gran parte immutate per oltre cinquemila anni. Le rune Dethek vengono raramente scritte su carta o stoffa, poiché simili materiali sono fragili e di breve durata. Di norma, le rune vengono scolpite o incise nella pietra o nel metallo, che si tratti delle pareti di un edificio o della lama di una spada. Forme particolari di scrittura nanica si trovano in libri costituiti da piastre metalliche rilegate o su tavolette di pietra note come pietre runiche.
+
+La grammatica nanica ha una struttura simile a quella della lingua Comune, probabilmente a causa dello sviluppo parallelo dei due idiomi.
+
+Questa struttura condivisa rende relativamente semplice per chi parla il Comune imparare e tradurre il Nanico. L'alfabeto runico Dethek è composto da 24 caratteri. I suoni corrispondenti a «w», «x» e «z» sono tutti rappresentati dallo stesso simbolo.
+Ciò può confondere gli umani che tentano di tradurre la lingua, ma non crea alcuna difficoltà ai parlanti nativi del Dethek, poiché pochissime parole contengono queste lettere.
+
+I nomi dei clan e delle tribù, così come alcune delle parole, razze o espressioni più comuni, possiedono simboli propri. Questi risultavano utili per la segnaletica o per la creazione delle pietre runiche.
+
+A ciascuna delle principali razze di Faerûn è stato assegnato un simbolo unico. Tali simboli valgono sia per la forma singolare sia per quella plurale, perciò il lettore deve dedurne il significato dal contesto.
+
+Altri simboli fungono da indicatori di direzione e segnaletica, rappresentando concetti universalmente riconoscibili: un piede per indicare un percorso sicuro, un elmo rovesciato o un corno da bevuta per segnalare acqua fresca, e così via.
+
+(Segue un elenco dettagliato dei simboli runici nanici e dell'alfabeto Dethek, che potrebbe risultare utile qualora dovessi mai decifrare delle pietre runiche naniche.)~
+@2002 = ~La Storia dei Nani dello Scudo~
+@2003 = ~La Storia dei Nani dello Scudo - Volume 1
+
+Trattato di Oleus di Mintar, studioso al servizio di Oghma.
+
+Per noi umani, i nani sono una razza difficile da comprendere. Appaiono sospettosi e cupi. Per capire perché molti dei loro tratti apparentemente peculiari si siano sviluppati, dobbiamo esaminare la storia dei nani lungo la Costa della Spada.
+
+Secondo l'opinione prevalente tra gli studiosi, i Nani dello Scudo, così come li conosciamo oggi, discendono da un grande regno nanico chiamato Shanatar, fondato da Taark Shanat, eroe nanico dei tempi antichi.
+
+Taark Shanat guidò il proprio clan in quelle che oggi chiamiamo Terre dell'Intrigo. Si stabilì in una vasta caverna nel Sottosuolo, fondò il regno di Shanatar e chiamò la propria dimora Alatorin. I suoi figli partirono e fondarono propri regni, estesi per miglia nel sottosuolo. Insieme formarono l'impero nanico del Profondo Shanatar.
+
+Al culmine del suo splendore, il Profondo Shanatar comprendeva nove regni minori oltre ad Alatorin: Barakuir, Drakkalor, Iltkazar, Korolnor, Sondarr, Torglor, Ultoksamrin e Xothaerin nel Sottosuolo, e Alto Shanatar in superficie.
+
+Ciascun regno scelse una divinità protettrice dal pantheon nanico, sebbene alcuni di questi dei siano ormai caduti nell'oblio.
+
+Inoltre, a ogni regno minore fu assegnato un titolo che ne rifletteva il ruolo nel dominio nanico:
+Barakuir - il Regno del Ferro.
+Drakkalor - la Città dell'Avidità.
+Iltkazar - il Regno del Mithral.
+Korolnor - il Regno del Gioiello.
+Sondarr - il Regno della Stella Marina.
+Torglor - il Regno dell'Argento.
+Ultoksamrin - il Regno dello Zardazil.
+Xothaerin - il Regno dell'Adamantio.
+Alto Shanatar - il Regno del Ghiacciaio.
+
+I nani affrontarono molti nemici: drow, beholder, giganti e illithid.
+
+Particolarmente degni di nota furono il Clan Duergar di Barakuir nelle sue battaglie contro i mind flayer e il Clan Kuldelver, signore di Korolnor, nelle guerre contro i giganti, che diedero il nome alle vicine Montagne della Corsa dei Giganti.
+
+Ma col tempo i regni si rivoltarono gli uni contro gli altri e il loro dominio, un tempo unito, crollò.
+
+Indeboliti dalle continue lotte intestine, i nani faticarono a contenere i molti nemici che li assediavano da ogni lato, invadendo i domini dei figli di Moradin.
+
+Così cadde infine il più grande degli imperi nanici, e i superstiti migrarono verso nord per fondare nuovi regni.
+
+Essi furono gli antenati della razza che oggi chiamiamo Nani dello Scudo. Tuttavia, non raggiunsero mai più lo splendore dell'antico Shanatar.~
+@2004 = ~Gli Dei dei Nani~
+@2005 = ~Gli Dei dei Nani: Compendio
+scritto da Aldric di Arabel.
+
+Moradin, il Forgiatore di Anime.
+Moradin, il Padre di Tutti, regna supremo sul pantheon nanico. È il mastro forgiatore del mondo e il creatore dei nani. I colpi del suo martello plasmarono i primi esseri nanici dalla pietra inflessibile delle montagne. Sotto il suo sguardo vigile, i nani vengono addestrati nelle arti della forgiatura, dell'estrazione mineraria e della guerra.
+
+Berronar Truesilver, la Madre Venerata.
+Berronar Truesilver, Madre dei Nani, siede al fianco di Moradin, condividendo il dominio sul pantheon nanico. È la protettrice della famiglia, custode del focolare e della casa e patrona del matrimonio. Sotto la sua benedizione le famiglie naniche prosperano, crescendo forti e unite.
+
+Clangeddin Silverbeard, il Padre della Battaglia.
+Clangeddin Silverbeard, dio della battaglia e dell'onore in guerra, è l'inflessibile difensore del suo popolo. Con le sue possenti asce gemelle in mano, guida gli eserciti nanici in battaglia contro i loro nemici.
+Il suo nome viene invocato dai guerrieri nani all'inizio dello scontro, poiché sotto la sua protezione essi non conoscono paura.
+
+Dumathoin, il Custode Silenzioso.
+Dumathoin, Guardiano dei Segreti, veglia sulle tombe e sui tesori dei nani. Nelle profondità della terra custodisce le conoscenze perdute delle epoche passate e protegge le ricchezze forgiate da mani naniche. La sua saggezza è sconfinata e soltanto coloro che ne sono ritenuti degni possono beneficiare dei suoi consigli.
+
+Divinità Dimenticate.
+Oltre agli dei conosciuti del pantheon nanico, un tempo esistevano altre divinità meno note, venerate da determinati clan nanici. Sebbene oggi siano dimenticate, tali divinità ebbero un ruolo importante nella storia nanica e meritano ulteriori studi.
+
+Antichi racconti parlano dei figli gemelli di Moradin, espulsi dal pantheon nanico dal loro stesso padre a causa di un tradimento sconosciuto. I clan nanici che un tempo li seguivano furono particolarmente maledetti, poiché furono costretti, con estrema rapidità almeno per i tempi dei nani, a scegliere una nuova divinità protettrice.~
+@2006 = ~Contratto~
+@2007 = ~Contratto tra il Sapiente Dokuriingor e Moldark. Moldark dimora da lungo tempo in queste rovine, ma riconosce i nuovi signori, la cui stirpe risale ai nani fondatori. Moldark dovrà creare un Troll Grigio ogni decade mediante risucchio di livelli per il programma di allevamento.
+
+In cambio, il nuovo signore di Korolnor concede a Moldark il dominio sulla vecchia fonderia e consegna nuovi prigionieri umani due volte per decade come nutrimento. Il nuovo signore si impegna inoltre a mantenere sigillati i condotti delle fornaci della forgia, così da impedire che i vecchi forni da colata vengano riaccesi.~
+@2008 = ~Pietra di Preghiera Nanica~
+@2009 = ~Questa è una pietra runica nanica. Vi sono incise frettolosamente le parole: «Moradin, non abbandonarmi! Non voglio essere trasformato.» Sebbene questo oggetto possa avere un certo valore culturale, non sembra né magico né utile per proseguire la tua missione.~
+@2010 = ~Questa è una pietra runica nanica. Vi sono incise frettolosamente le parole: «Berronar, libera il nostro clan da questa maledizione! Il Reietto non deve più tormentarci.» Sebbene questo oggetto possa avere un certo valore culturale, non sembra né magico né utile per proseguire la tua missione.~
+@2011 = ~Chiave della Bara~
+@2012 = ~Questa chiave è custodita in un piccolo scrigno a forma di bara. L'oggetto puzza di morte e decomposizione e, a quanto pare, appartiene a una bara. Ma perché qualcuno dovrebbe voler chiudere a chiave la propria bara?~
+@2013 = ~Diario di Dokuriingor~
+@2014 = ~Diario di Dokuriingor
+
+Giorno 101:
+Oggi è un giorno glorioso, un giorno del destino, perché ho compreso la verità! Io, Dokuriingor, sono l'ultimo discendente del grande clan nanico di Karlyn Kuldelver! È mio destino reclamare il mio regno perduto di Korolnor! Le voci sussurrano di ricchezze e poteri incommensurabili che ci spettano di diritto, se soltanto riprenderemo le sale dei nostri antenati. Il richiamo dei miei avi riecheggia forte nelle mie orecchie e io lo seguirò, pronto a superare le sfide e le prove che mi attendono.
+
+Giorno 103:
+Le profondità del nostro antico regno mi chiamano, attirandomi con i loro tesori nascosti e i loro segreti perduti. Riesco a percepire la presenza del grande Diinkarazan, il figlio rinnegato di Moradin, imprigionato nell'Abisso eppure più potente che mai. La sua voce sussurra promesse di ricchezze inimmaginabili, di tesori oltre i nostri sogni più sfrenati. Lo seguirò, compirò la sua volontà e restaurerò Korolnor liberandolo!
+
+Giorno 121:
+Ho quasi raggiunto la prigione di Diinkarazan. Mi trovo davanti ai cancelli del suo trono oscuro, nelle profondità delle caverne tortuose del Nano Gemente. Mi promette ricchezze infinite e sono pronto a fare qualunque cosa pur di ottenerle. Il potere che sento scorrere nelle mie mani è inebriante e lo userò per ricostruire Korolnor e riconquistare il nostro posto nel mondo. È giunto il tempo del clan Derro di Korolnor e nulla potrà fermarmi!
+
+Giorno 127:
+Le porte della sala del trono sigillata rimangono chiuse e le mie speranze di aprirle da solo cominciano a svanire. Gli antichi nani infusero nelle serrature un'astuzia che supera persino la mia. I sigilli sono potenti e decretano che nessun nano di Korolnor possa mai più aprire le porte dell'antica sala del trono. Nemmeno un Derro, discendente del grande Shanatar! Nemmeno io. E ora?
+
+Giorno 130:
+Ma ecco un lampo di rivelazione! Gli antichi testi che ho studiato con tanta meticolosità svelano una verità inattesa. La porta sigillata che mi separa dal trono di Diinkarazan non può essere aperta da alcun discendente di Korolnor. Ma forse *può* essere aperta da chi non appartiene alla stirpe di Korolnor. Io non posso spezzare i sigilli, ma forse altri possono farlo! Devo trovare uno sciocco, qualcuno che possa attirare qui, qualcuno che apra le porte al mio posto.
+
+Giorno 233:
+Ho ideato un piano, un piano che userà le razze inferiori per raggiungere il mio scopo. Attirerò l'avventuriero umano Bryam Lancameth nelle profondità di questa fortezza con il pretesto di una spedizione congiunta e, senza che se ne accorga, lo indurrò ad aprire le porte che per me sono precluse. Nessuno sospetta che il debole Mago dei Cani che vedono davanti a sé sia in realtà un potente Sapiente Derro!
+
+Giorno 281:
+I preparativi sono completi e la trappola è pronta. Presto Lancameth e i suoi compagni scenderanno nelle profondità abissali, guidati dalla mia astuzia e dal mio inganno. Non capiranno mai di tenere tra le mani le chiavi del mio successo, e farò in modo che aprano i cancelli che si frappongono tra me e il mio destino. Diinkarazan attende e io non lo deluderò!
+
+Giorno 342:
+La spedizione ha raggiunto i corridoi della nostra fortezza. Le ore passano e la mia impazienza cresce a ogni battito che svanisce. Quegli sciocchi continuano a chiamarmi Mago dei Cani. Moriranno tutti urlando.
+
+Giorno 345:
+Il mio piano sembra funzionare. Uno dopo l'altro, i compagni di Bryam Lancameth sono caduti. Ora soltanto lui e io restiamo davanti alle porte sigillate, e vedo il sospetto nei suoi occhi, la scintilla della diffidenza che attecchisce nel suo cuore. Ma non cederò, non ora, non quando il traguardo è così vicino. Sta cercando un modo per aprire la porta. A me non resta che attendere.
+
+Giorno 351:
+Dannazione! Bryam Lancameth ha scoperto il mio inganno, ha percepito il tradimento nel mio cuore e smascherato la verità dietro le mie menzogne. Senza una parola d'addio ha varcato la porta tanto agognata, sigillandola alle proprie spalle e lasciandomi ancora una volta solo, condannato a indugiare nel vuoto davanti alla sala del trono! La follia mi artiglia i pensieri mentre cerco freneticamente un nuovo modo per aprire le porte. Diinkarazan attende e diventa impaziente... Devo entrare, entrare, entrare!~
+@2015 = ~Antracite~
+@2016 = ~L'antracite, una particolare forma di carbone, è nota per la sua eccezionale densità e resistenza al calore, caratteristiche che la rendono la scelta preferita dei nani per generare calore nelle proprie sale e alimentare le forge. Questo materiale nero e lucente brucia a lungo e in modo uniforme, resiste all'umidità ed emana un calore e una luminosità intensi. Per il suo valore simbolico, l'antracite viene spesso usata dai nani per illuminare i luoghi sacri.~
+@2017 = ~Cotta da Campo in Mithral +2~
+@2018 = ~Questa armatura in mithral appartenne un tempo a Karlyn Kuldelver, fondatore del regno nanico di Korolnor. L'imponente armatura è forgiata in mithral, un raro metallo blu-argenteo noto per la sua leggerezza e flessibilità. La corazza risplende di un tenue bagliore azzurro e offre una protezione eccezionale senza ostacolare significativamente i movimenti di chi la indossa. È leggera e può essere portata comodamente anche da guerrieri di forza modesta.
+
+Il mithral impiegato in questa armatura possiede una naturale resistenza alla magia, permettendo a chi la indossa di resistere meglio agli attacchi magici.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al danno magico: +30%
+– Bonus ai Tiri-salvezza: -2 contro Incantesimi
+
+Classe Armatura: -1 (-2 contro tagliente, -1 contro perforante e proiettile), -2 (nani)
+Richiede:
+Forza 10
+
+Peso: 15~
+@2019 = ~Pezzo di Armatura~
+@2020 = ~Spallaccio in Mithral (Sinistro)~
+@2021 = ~Questo pezzo di metallo finemente lavorato sembra aver fatto parte, un tempo, di un'armatura.~
+@2022 = ~Questo spallaccio fa parte dell'armatura dell'eroe nanico Karlyn Kuldelver, fondatore del regno nanico di Korolnor. È fatto di mithral. L'armatura completa doveva essere un artefatto davvero potente.~
+@2023 = ~Spallaccio in Mithral (Destro)~
+@2024 = ~Questo spallaccio fa parte dell'armatura dell'eroe nanico Karlyn Kuldelver, fondatore del regno nanico di Korolnor. È fatto di mithral. L'armatura completa doveva essere un artefatto davvero potente.~
+@2025 = ~Corazza dell'Armatura di Karlyn~
+@2026 = ~Questa è la corazza centrale dell'armatura in mithral dell'eroe nanico Karlyn Kuldelver. Se unita ai due pezzi mancanti, gli spallacci, dalle mani di un fabbro esperto, potrebbe essere riforgiata in un'eccellente armatura di mithral. Tuttavia, pochissimi fabbri possiedono le conoscenze necessarie per lavorare il mithral, fatta eccezione per i maestri fabbri nani. Artigiani del genere sono rari nei reami e assai restii a condividere i propri segreti.~
+@2027 = ~Morso Nero +3~
+@2028 = ~La punta di questa possente lancia è ornata dalla zanna di una grande bestia. Le leggende sostengono che si tratti del dente di un drago nero, il che spiegherebbe perché dalla punta della lancia goccioli continuamente acido. Il nome «Morso Nero» è dunque quanto mai appropriato.
+
+Tra i Verbeeg si racconta di un signore della guerra che guidò una banda di questi giganti nelle paludi per uccidere il drago nero Vorgarrash. Dopo uno scontro brutale, il Verbeeg spinse la propria lancia nelle fauci del drago, spezzandone una delle enormi zanne. Il gigante fece poi incastonare il dente nella lancia, dove assorbì la magia corrosiva del drago. Così nacque Morso Nero, un'arma tuttora venerata dai Verbeeg come trofeo di forza.
+
+STATISTICHE:
+
+THAC0: +3
+Danno: 1d6+3, +1 danno da acido
+Tipo di Danno: Perforante
+Fattore-velocità: 3
+Tipo di Competenza: Lancia
+Tipo: A due mani
+Richiede:
+Forza 5
+
+Peso: 3~
+@2029 = ~Amuleto del Guardiano~
+@2030 = ~Questo amuleto reca il simbolo di un martello, realizzato in ottone o bronzo. È infuso di un incantesimo divino concesso dalla dea Berronar alle sue sacerdotesse, il «Martello del Guardiano», che consente di evocare in battaglia un possente martello magico.
+
+Amuleti di questo genere erano comunemente indossati dai membri di alto rango della società nanica e dalle loro famiglie.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Una volta al giorno, chi lo indossa può evocare un Martello del Guardiano. Il martello appare a mezz'aria, infligge 2d12 danni a un avversario (un tiro-salvezza contro Incantesimi riuscito annulla l'effetto) e scompare.
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+– Tiri-salvezza: +1
+
+Peso: 1~
+@2031 = ~Anello di Berronar~
+@2032 = ~Anelli di questo tipo vengono realizzati dai Faenor, come sono chiamati nella lingua nanica i sacerdoti di Berronar. Il loro compito è servire da guardiani e protettori dei clan nanici affidati alle loro cure.
+
+Questi anelli, forgiati con i materiali più pregiati, vengono spesso indossati dai capi dei clan nanici per proteggerli dalle malattie nefaste che si annidano negli angoli bui e profondi del Sottosuolo.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Chi lo indossa è immune alle malattie e alle afflizioni trasmesse dalle creature.
+
+Ciò include il tocco di una mummia, l'attacco di un otyugh, il morso delle creature abissali note come Vargouille e i colpi dei ghoul. Si noti che l'attacco in sé non viene impedito: è soltanto la trasmissione degli effetti assimilabili a malattie a essere bloccata.
+
+Questo anello non offre tuttavia alcuna protezione contro la licantropia o il vampirismo.
+
+Peso: 0~
+@2033 = ~Zanna d'Osso +2/+3~
+@2034 = ~Questa primitiva morning star è ricavata dalle ossa di un gigante e si rivela un'arma sorprendentemente efficace. È notevolmente leggera, permettendo colpi rapidi e potenti in battaglia.
+
+Inoltre, trasmette a chi la impugna parte della forza per cui i giganti sono famosi. Infine, l'arma è incantata per fornire un bonus contro le piccole razze umanoidi tanto disprezzate dai giganti.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+
+THAC0: +2, +3 (solo per i mezzorchi); +2 aggiuntivo contro umanoidi piccoli: halfling, gnomi, nani, goblin e coboldi
+Danno: 2d4+2 (contundente), +3 (solo per i mezzorchi)
+Fattore-velocità: 3
+Tipo di Competenza: Mazzafrusto/Morning Star
+Tipo: A una mano
+Richiede:
+Forza 11
+
+Peso: 3~
+@2035 = ~Mazza Astrale dell'Esplosione~
+@2036 = ~La Mazza Astrale dell'Esplosione è una potente arma forgiata in un raro metallo scintillante simile alle stelle. L'impugnatura è avvolta in strisce di cuoio blu scuro che pulsano lievemente al tatto. La testa battente è finemente decorata con cristalli incastonati che luccicano come il cielo notturno.
+
+In origine, questa mazza veniva usata in cerimonie per segnare l'inizio o la conclusione di importanti eventi astronomici.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Una volta al giorno, chi la impugna può lanciare «Fulmine di Gloria».
+
+THAC0: +3
+Danno: 1d6+4 (contundente)
+Fattore-velocità: 4
+Tipo di Competenza: Mazza
+Tipo: A una mano
+Richiede:
+Forza 11
+
+Peso: 8~
+@2037 = ~Scarica Astrale~
+@2038 = ~Lama a Ingranaggi del Veleno~
+@2039 = ~Le origini di questa spada bastarda sono strettamente legate al piano di Mechanus. Al posto del pomolo, un complesso meccanismo lascia colare continuamente del veleno sulla lama. A causa dei suoi intricati ingranaggi, simili a quelli di un orologio gnomesco, l'arma è nota da tempo come «Lama a Ingranaggi».
+
+Il veleno che impregna la lama danneggia in modo specifico gli esseri caotici, rendendo la Lama a Ingranaggi un'arma prediletta dai giusti.
+
+La lama possiede inoltre la capacità di arrestare per un breve istante le mutevoli sabbie del tempo. Il meccanismo esatto resta un mistero, e non è quindi possibile sapere quando si verificherà l'arresto temporale.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Le creature caotiche colpite dalla lama vengono rallentate per tre round se falliscono un tiro-salvezza contro Morte con penalità -2. La Resistenza alla Magia non impedisce questo effetto.
+– Il 2% dei colpi provoca un effetto di Fermare il Tempo della durata di un round.
+
+THAC0: +3
+Danno: 2d4+3 (tagliente), +1 danno da veleno contro creature caotiche se falliscono un tiro-salvezza contro Morte con penalità -2
+Fattore-velocità: 5
+Tipo di Competenza: Spada Bastarda
+Tipo: A una mano
+Richiede:
+Forza 11
+
+Peso: 7~
+@2040 = ~Il Pantheon dei Giganti~
+@2041 = ~Trattato sul Pantheon dei Giganti
+scritto da Azmor Delduin, studioso di miti arcani e religioni antiche.
+
+Nel vasto intreccio di tradizioni mitologiche dei reami mortali, il pantheon dei giganti si distingue come uno dei più antichi e imponenti. La grandezza e la potenza di questi antichi popoli, che un tempo dominavano le terre, si riflettono nella varietà e nel potere delle loro divinità. Questi dei incarnano non soltanto le forze elementali e la potenza primordiale della natura, ma anche le complesse e brutali strutture sociali dei giganti.
+
+Al centro del pantheon si trova Annam Padre di Tutti, dio creatore dei giganti, noto anche come Padre di Tutti i Titani. È il sovrano del regno divino dell'Ordning, da cui discendono i suoi figli, le varie razze dei giganti. Tuttavia, secondo la leggenda, Annam si ritirò dalla propria progenie, deluso dai suoi interminabili conflitti, lasciando che i giganti si dividessero il mondo tra loro.
+
+I Figli di Annam: Thrym, Surtr e Stronmaeus
+
+I figli più celebri di Annam sono i Primi tra i Giganti: Thrym, dio dei giganti del gelo, signore del caos e del freddo; Surtr, dio dei giganti del fuoco, padrone delle fiamme e della distruzione; e Stronmaeus, dio dei giganti delle tempeste, noto per la saggezza e la benevolenza, ma mutevole quanto le tempeste che comanda. Questi tre incarnano i maggiori domini del popolo dei giganti: Ghiaccio, Fuoco e Tempesta.
+
+Sebbene tali dei competano per il dominio nei rispettivi ambiti, condividono la convinzione della supremazia indiscussa dei giganti sui mortali. Nelle loro leggende combattono interminabili battaglie gli uni contro gli altri, ciascuno nel tentativo di dimostrarsi il vero erede di Annam. I loro seguaci vivono nell'attesa perenne che un giorno il dio da loro prescelto assuma il controllo definitivo su tutti i giganti.
+
+Vaprak il Distruttore: un Esiliato nell'Ordning
+
+Tra i giganti esiste una figura ripugnante, né di nobile discendenza da Annam né benedetta dagli dei antichi: Vaprak il Distruttore, dio degli ogre e dei troll. Vaprak, entità brutale e selvaggia, incarna una ferocia primordiale e una fame insaziabile di distruzione. I suoi seguaci, ogre e troll, sono in netto contrasto con i giganti più ordinati e legati all'onore.
+
+Vaprak viene descritto come avido e rovinoso, un dio che si cela nelle ombre seminando caos ovunque possa. Alcuni studiosi ritengono che Vaprak abbia cercato un tempo di essere ammesso nel pantheon dei giganti, per poi essere scacciato dallo stesso Annam. La sua natura violenta lo rende temuto tanto dagli dei quanto dai mortali, poiché cerca di divorare tutto ciò che gli si para davanti.
+
+Karontor: l'Esiliato tra gli Esiliati
+
+Un capitolo ancora più oscuro del pantheon dei giganti è la leggenda di Karontor, il dio deforme dei maledetti, venerato soprattutto dai fomoriani e dai reietti. Un tempo gigante bello e possente, Karontor fu deformato dall'invidia e dall'odio, il cuore nero quanto la carne rovinata. Il suo corpo storpio riflette l'amarezza interiore e il disprezzo che nutre per i suoi simili.
+
+Karontor è considerato il patrono dei giganti esiliati, di coloro che non hanno posto tra i grandi titani elementali. Viene venerato nelle ombre più profonde del mondo, soprattutto da chi si aggrappa alla speranza di vendetta e di un ritorno al potere. Antiche leggende raccontano che un tempo Karontor fosse pari agli altri dei, ma che venne corrotto dalla gelosia verso Surtr e Thrym. Nella sua follia sfidò l'ordine stabilito da Annam e fu infine maledetto, condannato a non recuperare mai la grandezza perduta.
+
+Tra gli oscuri miti che circondano Vaprak e Karontor compaiono accenni a una contorta alleanza tra le due divinità. Entrambi sono reietti nell'ordine divino e traggono piacere dalla distruzione e dal caos. Si dice che Karontor abbia un tempo convocato Vaprak per cospirare contro gli altri giganti. Tuttavia, come per tutti gli esseri malvagi, la loro collaborazione è colma di diffidenza: ciascuno cerca di superare l'altro e di rivendicare per sé la lealtà dei reietti.
+
+La Filosofia del Pantheon
+
+Il pantheon dei giganti rispecchia le strutture sociali dei titani stessi. Rappresenta la gerarchia, il dominio dei forti e l'incessante lotta per il potere e il predominio. Annam incarna l'ideale perduto di un mondo dei giganti unito, ma in sua assenza le forze del caos e dell'odio si sono insinuate nell'Ordning. Thrym, Surtr e Stronmaeus combattono per l'eredità del padre, mentre creature come Vaprak e Karontor rodono i margini dell'ordine, attendendo l'occasione per spezzarne l'equilibrio.
+
+Questo pantheon è una rete viva e mutevole di lotte di potere e vendette personali, che spinge i giganti in un ciclo infinito di guerra, conquista e distruzione. Proprio come i giganti stessi, i loro dei incarnano il conflitto eterno fra potere, ordine e caos: una lotta destinata a non avere mai fine.~
+@2042 = ~Testa Rimpicciolita~
+@2043 = ~Stenlan il Rimproveratore~
+@2044 = ~Questa è la testa di un umano, recisa con precisione e conservata, poi rimpicciolita mediante rituali arcani.~
+@2045 = ~Questa testa rimpicciolita appartenne un tempo a Stenlan di Luskan, un mago della Torre Arcana. I suoi continui sproloqui e rimproveri esasperarono talmente i suoi apprendisti che alla fine gli tagliarono la testa e la trasformarono in una reliquia rimpicciolita. Eppure, perfino nella morte, Stenlan ha conservato il talento di scagliare insulti.
+
+STATISTICHE:
+Sfuriata Incessante (1 volta al giorno): tutte le creature ostili a portata d'orecchio devono superare un tiro-salvezza contro Incantesimi oppure interrompere momentaneamente le proprie azioni per un round, che stiano combattendo, lanciando incantesimi o facendo altro, per cercare la fonte degli insulti. Le creature colpite sono considerate confuse per un round.
+
+Peso: 1~
+@2046 = ~Pietra-Chiave dello Scrigno~
+@2047 = ~Questa delicata pietra runica nanica sembra essere stata realizzata per inserirsi in un alloggiamento, forse per sbloccare un piccolo contenitore. È pulita e brillante, il che fa pensare che non appartenga alla stanza in cui l'hai trovata.~
+@2050 = ~Stivali del Predatore Notturno~
+@2051 = ~Questi stivali neri, realizzati in morbido cuoio, sono misteriosamente legati al potere della notte. Conferiscono a chi li indossa l'agilità e l'astuzia di un predatore notturno che scivola tra le ombre. Sembrano scricchiolare quando vengono esposti a una luce intensa e non lasciano impronte visibili nell'oscurità. Quando chi li indossa rimane al buio per un periodo prolungato, gli stivali iniziano a pulsare debolmente.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Fattore-movimento: +1 di notte
+– Muoversi Silenziosamente: +25% di notte
+
+Abilità attivabili:
+– Una volta al giorno, chi li indossa può evocare un velo d'ombre, diventando invisibile per due round
+
+Peso: 4~
+@2052 = ~Boccale di Birra~
+@2053 = ~Boccale dell'Abbondanza~
+@2054 = ~Questo boccale contiene un liquido fresco e spumoso.~
+@2055 = ~Questo boccale nanico reca un incantesimo che lo riempie di birra fresca e spumosa una volta al giorno. La bevanda ha un effetto particolarmente benefico sui nani, mentre elfi e mezzelfi farebbero bene a evitare di berne.
+
+Sul bordo del boccale è incisa una frase in rune naniche:
+«NON FIDARTI MAI DI CHI NON BEVE!»
+
+STATISTICHE:
+
+Abilità attivabili (una volta al giorno):
+– THAC0: bonus +4 (solo per i nani)
+  Costituzione: bonus +1 (solo per i nani)
+  Chi beve è immune a paura e panico per la durata dell'effetto (tutti tranne gli elfi)
+  Svuotare il boccale lascia la maggior parte dei bevitori ubriachi per 8 ore, tranne i nani, che sanno reggere la birra
+  Gli elfi subiscono 3d6 danni da veleno bevendo dal boccale
+  Durata: 10 turni
+
+Peso: 1~
+@2056 = ~Diario di Bryam Lancameth~
+@2057 = ~Diario di Bryam Lancameth
+
+Abbiamo iniziato il nostro viaggio nel Nano Gemente sperando di svelare i segreti dell'antica fortezza nanica e porre fine alla minaccia dei troll. Le rovine sono pervase da uno strano lamento che riecheggia nelle sale battute dal vento. È davvero, come sospettavo, soltanto un ingegnoso trucco meccanico creato dagli antichi costruttori nani? Oppure si tratta realmente di una maledizione, come narrano le vecchie leggende?
+
+Giorno 5
+Dok, il Mago dei Cani che si è unito a noi come guida, sembra conoscere moltissimo delle strutture naniche, e ciò ci è stato di grande aiuto.
+
+Giorno 7
+Più scendiamo in profondità, più questo luogo diventa strano. Attraversiamo sale abbandonate e passaggi nascosti, eppure non incontriamo mostri.
+
+Giorno 8
+Dannazione! Il nostro ladro halfling, Nhair Ebendar, è morto. E la saracinesca che avevamo superato è stata abbassata da una mano sconosciuta. Non c'è modo di tornare indietro.
+
+Giorno 9
+Ho iniziato a sorvegliare Dok di nascosto. Sussurra spesso quando crede che nessuno lo ascolti. Più scendiamo, più sembra compiaciuto. Sta parlando con le ombre? L'aria qui è satura di antichi tradimenti. Devo restare vigile.
+
+Giorno 10
+Il Mago dei Cani conosce sentieri e segreti del Nano Gemente che ci ha tenuto nascosti. Temo che le sue intenzioni siano più oscure di quanto immaginiamo.
+
+Giorno 11
+Iremar è morta! Come è potuto accadere? Proprio mentre risolvevamo l'enigma nanico nella sala delle assemblee.
+
+Giorno 12
+Dok e io ci troviamo ora davanti alla grande porta che, si dice, conduca al Trono del Dio Folle. Ho visto il Mago dei Cani mormorare qualcosa, una preghiera o una maledizione? Non posso attendere oltre. Ho deciso di sigillare la porta per sempre. Non posso permettere che la follia in agguato dietro di essa venga liberata. Ed è esattamente ciò che vuole il Mago dei Cani.
+
+Giorno 13
+La porta è sigillata! Dok, i Derro e il loro dio folle devono restare intrappolati.
+
+Giorno 14
+Sono stato morso da una Vargouille. So che cosa significa... Morirò qui e la mia testa continuerà a vivere come una di quelle creature grottesche dell'Abisso. Devo resistere!
+
+Il mio tempo sta finendo. Il morso sta facendo effetto e presto diventerò uno di loro. Scrivo queste ultime parole nella speranza che qualcuno più capace di me trovi questo resoconto e impari dai miei errori. La mia unica speranza è che queste parole vengano scoperte prima che sia troppo tardi.~
+@2058 = ~La Storia dei Nani dello Scudo - Volume 2~
+@2059 = ~La Storia dei Nani dello Scudo - Volume 2
+
+Trattato di Oleus di Mintar, studioso al servizio di Oghma.
+
+Oltre alla ben nota razza dei Nani dello Scudo, gli studiosi hanno identificato diverse altre sottorazze naniche, molte delle quali sono ancora meno accoglienti verso gli estranei. Può sorprendere il lettore sapere che anche queste razze sono ritenute discendenti dai clan nanici di Shanatar.
+
+Tra esse vi sono i Duergar, noti anche come Nani Grigi. Secondo resoconti concordanti, i Duergar fanno risalire la propria stirpe a un clan omonimo che un tempo aveva la propria dimora a Barakuir, il Regno del Ferro. Per ragioni ignote, il clan si rivoltò contro i propri simili, scomparve per qualche tempo e infine tornò, trasformato in una versione crudele e distorta di ciò che era stato.
+
+Meno noto è il fatto che anche altri irascibili abitanti del Sottosuolo discendono dai nani: i Derro. Queste piccole creature dai capelli lunghi sono inclini a una crudeltà e a una follia eccessive. Venerano gli antichi gemelli esiliati di Moradin, Diirinka e Diinkarazan. I seguaci di Diirinka sono molto più numerosi, forse perché il fratello gemello Diinkarazan fu bandito nell'Abisso.
+
+Prima della loro espulsione dal pantheon nanico, Diirinka era venerato dai nani del regno minore di Torglor, mentre Diinkarazan era adorato dai nani di Korolnor. È ragionevole supporre che, nel corso dei secoli, alcuni degli antichi clan nanici di questi due regni si siano gradualmente trasformati nei Derro così come li conosciamo oggi, continuando a venerare i loro dei crudeli e folli, i figli rinnegati di Moradin.~
+@2060 = ~Testa di Lancameth~
+@2061 = ~Questa è la testa di Bryam Lancameth dopo che è stato liberato dalla maledizione di una Vargouille. La sua espressione è ora calma e serena. Puoi portare questi ultimi resti alla vedova, Darcia Lancameth, nel Distretto del Cimitero, affinché possa dargli l'ultimo saluto.~
+@2064 = ~Ammazza-Mind Flayer +4~
+@2065 = ~Questa spada corta finemente decorata è stata creata per un unico scopo: uccidere i mind flayer. La scelta di una spada corta può sembrare sorprendente, ma nei tunnel e nelle caverne anguste la lama più corta consente una tecnica di taglio molto più efficace rispetto a una spada bastarda o lunga, più ingombrante.
+
+La storia di quest'arma è strettamente legata a Diinkarazan, il dio nanico esiliato. Diinkarazan fu bandito nell'Abisso da Ilsensine, dio dei mind flayer. Lì il Reietto, da tempo impazzito a causa degli orrori del piano, rimugina da secoli sulla vendetta. Tutto l'odio di Diinkarazan per i mind flayer sembra essere stato intessuto in questa lama. Nelle mani di un guerriero esperto, la spada diventa l'incubo di qualunque illithid.
+
+Si ritiene che gli illithid facciano ogni sforzo possibile per cancellare il più rapidamente possibile ogni ricordo di quest'arma dalla coscienza collettiva.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Con un Colpo Critico, i tentacoli del mind flayer colpito vengono mutilati, privandolo della capacità di estrarre il cervello delle altre creature.
+
+THAC0: +4, +5 contro i mind flayer
+Danno: 1d6+4 (perforante), +5 contro i mind flayer
+Fattore-velocità: 0
+Tipo di Competenza: Spada Corta
+Tipo: A una mano
+Richiede:
+Forza 5
+
+Peso: 1~
+@2066 = ~Olio Appiccicoso~
+@2067 = ~Quest'olio contiene una sostanza vischiosa. Quando la bottiglia viene lanciata, il contenuto si rovescia all'impatto, limitando notevolmente i movimenti del bersaglio colpito. I Derro, razza lontanamente imparentata con i nani e originaria del Sottosuolo, usano spesso quest'olio per impedire alle vittime di fuggire.
+Solo chi supera un tiro-salvezza contro Incantesimi può resistere ai suoi effetti. L'olio può essere lanciato a circa 12 metri.
+
+STATISTICHE:
+
+Con un colpo riuscito, il bersaglio subisce un effetto simile all'incantesimo «Unto» per due round.
+
+Peso: 1~
+@2068 = ~Polmone~
+@2069 = ~Questo è il polmone conservato di una creatura.~
+@2070 = ~Polmone di Gorathul~
+@2071 = ~Secondo la leggenda, questo è il polmone del signore dei giganti delle tempeste Gorathul, famoso per la voce tonante e le possenti risate. Col tempo, dalla morte del proprietario, il polmone si è notevolmente rimpicciolito, ma conserva ancora la capacità di filtrare aria fresca e pura una volta al giorno.
+
+STATISTICHE:
+
+Chi lo usa è immune agli incantesimi «Nube Maleodorante» e «Nube Assassina» una volta al giorno.
+Durata: 1 turno
+
+Peso: 8~
+@2072 = ~Gioiello della Corona di Korolnor~
+@2073 = ~Questa gemma finemente tagliata fa parte dei gioielli della corona della Casata Korolnor. Nel profondo del suo nucleo si scorge un vivido bagliore. È impossibile comprendere l'antica magia che dimora nella pietra.~
+@2074 = ~Antico Libro Nanico~
+@2075 = ~Come Moradin Forgiò i Nani
+
+Nelle sale più profonde sotto la terra, dove regnano soltanto l'oscurità e gli antichi sussurri della pietra, Moradin il Padre di Tutti accese la propria forgia divina. Dalla roccia stessa, indurita dal fuoco della sua fornace, forgiò i primi nani. A ogni colpo di martello plasmò i loro corpi con ferro, argento e granito, e le loro anime con l'inflessibile volontà della terra. Infine infuse in loro la vita. Così si destarono i figli di Moradin, forti come la pietra, saldi come le montagne, pronti a compiere il proprio destino.
+
+Moradin mandò i nani fuori dalle viscere della terra, dove il nucleo fuso del mondo arde in eterno. Là, nell'oscurità, si celavano non soltanto misteri, ma anche pericoli. Antichi mali e la notte eterna cercavano di fermarne l'ascesa. Ma i nani, pervasi dal potere di Moradin, si aprirono un varco nella pietra, combattendo fianco a fianco, martello in una mano e scudo nell'altra.
+
+Dopo giorni e notti senza fine sotto terra, mentre la roccia diventava più chiara e l'aria più rarefatta, il primo nano sfondò l'ultimo strato di pietra e mise piede nella luce del mondo.
+
+Per la prima volta, i nani contemplarono il cielo, una volta infinita che li riempì di stupore e meraviglia. Ma ciò che colmò maggiormente i loro cuori di gioia fu la vista delle montagne che si innalzavano davanti a loro, maestose e fiere, quasi fossero state create apposta per loro. Compresero immediatamente che quella era la terra che Moradin aveva destinato al suo popolo, il luogo dove avrebbero costruito le proprie fortezze e insediato i propri clan.
+
+Prima che mettessero piede tra le montagne, Moradin apparve un'ultima volta. «Avete superato le prove delle profondità», disse con voce simile al tuono. «Ora il regno delle montagne è vostro. Ma non dimenticate mai da dove provenite: dal cuore della terra, dal fuoco della mia forgia.»
+
+Con queste parole li benedisse, e i nani costruirono le proprie fortezze nelle profondità della roccia. Edificarono con la saggezza e la forza che Moradin aveva donato loro, e le loro città prosperarono. I nani erano risaliti dalle profondità e divenuti guardiani delle montagne, e la loro storia rimase incisa nelle sale di pietra per l'eternità, eredità di Moradin.
+
+Così raccontano gli antenati, e così viene tramandato nelle grandi sale. Il popolo nanico non dimenticherà mai da dove proviene.~
+@2076 = ~Antico Libro Nanico~
+@2077 = ~La Matrona del Focolare – Berronar
+
+Nei più antichi testi nanici, incisi su tavolette di pietra nelle profondità delle sale degli antenati, si lodano tanto Moradin il Padre di Tutti quanto Berronar, sua sposa e Custode del Focolare. Si dice che senza la saggezza e le cure di Berronar perfino il nano più possente sarebbe debole e smarrito, poiché è lei a mantenere acceso nei cuori di tutti i nani il fuoco della lealtà e della protezione.
+
+Quando Moradin forgiò i primi nani dalla pietra e toccò i loro cuori con l'essenza della terra, fu Berronar a concedere loro il dono più prezioso: il legame della comunità. Intessé tra i nani fili invisibili, più forti di qualsiasi metallo. Questi fili erano fatti di lealtà, onore e protezione, e univano i nani non soltanto gli uni agli altri, ma anche alle tradizioni e alla saggezza dei loro antenati. Berronar era la custode di questi legami e il suo simbolo sono due anelli eterni che non si spezzano mai.
+
+Berronar insegnò loro a proteggere le proprie sale e difendere le famiglie. Mostrò come custodire il fuoco del focolare, che non portava soltanto calore ma anche sicurezza. In ogni casa nanica arde il Sacro Fuoco del Focolare, una fiamma accesa dalla stessa Berronar per proteggere le anime e le dimore dei nani.
+
+Ma il più grande gesto di Berronar avvenne quando i nani affrontarono per la prima volta il pericolo di essere divisi. Nei primi tempi, quando i Primi conquistarono le montagne e iniziarono a scavare le loro sale, invidia e discordia si insinuarono tra loro. I nani, litigando per i preziosi minerali e i tesori della terra, cominciarono ad allontanarsi gli uni dagli altri. Una frattura minacciava di scuotere le fondamenta stesse della società nanica.
+
+Allora Berronar discese dalle sale celesti e si pose tra i clan in guerra. La sua voce risuonò come il rintocco di un'antica campana dal suono grave, e la terra tremò mentre parlava: «Voi, figli di Moradin, siete tutti scolpiti dalla stessa pietra. Il vostro legame è eterno e più forte di qualsiasi vena di minerale possiate rivendicare. Non dimenticate ciò che vi rende forti: la vostra unità, la vostra lealtà, il vostro onore. Chi li rinnega è più povero di colui che non possiede alcun oro.»
+
+Con queste parole posò a terra un anello d'argento, simbolo del vincolo eterno che non può mai essere spezzato. Si inginocchiò e soffiò nell'anello una scintilla della Fiamma Sacra, che subito si accese, ardendo nei cuori di tutti i nani. I clan litigiosi caddero in ginocchio, colmi di profonda vergogna, e giurarono di non infrangere mai più la lealtà reciproca.
+
+Da quel giorno, Berronar è venerata come dea della lealtà, della protezione e dei legami di sangue. I nani indossano anelli d'argento come segno del vincolo che li unisce gli uni agli altri e alle tradizioni donate loro da Berronar. Ogni volta che viene acceso un fuoco in una sala nanica, si sussurra una preghiera silenziosa a Berronar, chiedendole di mantenere accese le fiamme della comunità e di rafforzare i legami tra i nani.
+
+E così Berronar, sposa di Moradin, rimane l'eterna custode dell'unità nanica, la Custode della Fiamma Sacra; e nei cuori dei nani perdura il suo dono, il vincolo della lealtà che né il tempo né l'ascia possono spezzare.~
+
+@2078 = ~Antico Libro Nanico~
+@2079 = ~Cinque Cose di cui un Nano ha Bisogno per Vivere
+
+Di Bardain Goldmug
+Estratto dall'opera «La Saggezza della Pietra: Precetti e Insegnamenti per una Vita Nanica»
+
+1. Solida Pietra Sotto i Piedi
+
+Nessun nano è completo se non sente la solida roccia sotto di sé, che si trovi nelle profondità di una miniera, in un pozzo o nelle sale della propria casa. La pietra ci sorregge come sorregge le montagne, inflessibile e silenziosa. Un nano senza pietra sotto i piedi è come un martello senza manico: fuori posto e inutile. Diffida di chi trascorre le giornate su terreno molle che traballa e si sposta come un giovane rothé delle profondità spaventato. Solo la roccia è la nostra casa, e stare vicini alla terra è la vera natura di un nano.
+
+2. Un Martello che Dice Sempre la Verità
+
+Un nano senza martello non è un nano, ma una roccia senza vena mineraria. Il martello, che sia quello della forgia o quello da guerra, è lo strumento che riflette la nostra stessa anima. Spacca la pietra e rivela ciò che vi si cela, che sia una vena di mithral o il cranio di un orco. Un martello in mano è più di uno strumento: è la volontà del nostro popolo e un simbolo della nostra forza. Diffida del nano che cammina senza martello, perché il suo sentiero è incerto e i suoi scopi poco chiari.
+
+3. La Lealtà del Clan
+
+Nessun nano resta solo. Per quanto in profondità possa spingersi un tunnel, il nano ha sempre al proprio fianco i fratelli e le sorelle del clan. La lealtà del clan è come una rete d'acciaio, infrangibile e salda. Ci lega e ci tiene in piedi anche quando la pietra crolla. Senza un clan, un nano è come un fiume senza sorgente: perduto e incapace di trovare il proprio scopo. La lealtà dei nostri consanguinei è il vincolo eterno che non si spezza, e ogni nano sa che il clan è il suo scudo e la sua casa.
+
+4. La Saggezza di Moradin
+
+Ogni nano può essere fiero di portare nel cuore la saggezza di Padre Moradin. Fu Moradin a forgiarci dalla pietra e a infondere in noi la conoscenza della terra e del fuoco. Questa saggezza ci insegna ciò che fortifica il cuore e rischiara la mente. Chi dimentica gli insegnamenti di Moradin è come minerale privo di purezza: inutile e debole, destinato a sgretolarsi alla prima pressione. Guardati, nano, dallo smarrire il sentiero del Padre di Tutti, perché soltanto nella sua saggezza troviamo la vera forza e l'amore per la pietra.
+
+5. Un Boccale di Buona Birra
+
+Nessun essere mortale conosce le profondità del cuore di un nano, ma ogni figlio di Moradin sa che un boccale di buona birra è come uno specchio della nostra anima. Una birra forte, amara e corposa ci scalda e ci dà forza, proprio come la pietra. Ma diffida di quelle strane bevande predilette dalle razze più deboli: simili intrugli leggeri indeboliscono il cuore. Una birra che non abbia il colore della terra non è degna di un nano, e questo ogni nano dovrebbe saperlo.
+
+In conclusione: un nano può perdere tutto, oro, armi e perfino il tetto sopra la testa, ma senza queste cinque cose vale meno di una pietra vuota.~
+@2080 = ~Antico Libro Nanico~
+@2081 = ~Sulla Magia: un Avvertimento
+
+È ben noto che noi nani siamo un popolo di pietra e terra, non di vento o parole sussurrate. La nostra forza risiede nel martello e nello scalpello, nella forgia e nel pozzo minerario, non nelle costruzioni effimere della magia. Gli eventi che un tempo si verificarono sotto questa montagna restano una cupa testimonianza della nostra incompatibilità con il mondo della stregoneria.
+
+Innumerevoli ere fa, il nostro protettore, spinto dall'ambizione e da una fatale curiosità, si rivolse alle arti della magia. La sua ricerca del potere lo condusse ai confini più remoti dei piani, dove nessuna luce di torcia avrebbe mai potuto brillare. Senza rispetto per le leggi antiche, si perse nella propria brama di magia e il risultato, come tutti sappiamo, fu una catastrofe.
+
+A causa delle sue azioni, le fondamenta profonde del nostro regno furono scosse. La magia, selvaggia e indomita, scatenò una calamità che quasi decretò la fine delle nostre grandi sale. La pietra si spezzò e mostri urlanti volarono tra le nostre schiere. È chiaro che le anime dei nani non furono mai destinate all'imprevedibilità della magia, così come la roccia non fu mai destinata a librarsi nel cielo.
+
+Da allora noi nani siamo rimasti saldi nella convinzione che la magia sia fonte di inquietudine e sventura per il nostro popolo. Rifuggiamo le arti arcane e confidiamo invece nella forza delle nostre mani, nel filo delle nostre asce e nella ricchezza delle nostre miniere. Il nostro potere risiede nel metallo e nella pietra, non nelle fugaci promesse dei maghi.
+
+Possano coloro che leggono questo libro onorare la saggezza dei nostri antenati e rispettare i confini che ci proteggono. Il mondo della magia è un regno di mutamento e incertezza, e noi, popolo della pietra, dobbiamo custodire la nostra eredità di guardiani della terra.
+
+Possa il destino del Reietto dei Morndinsamman essere insieme testimonianza degli errori del passato e monito per le generazioni future.~
+@2082 = ~La Storia di Korolnor~
+@2083 = ~Nelle profondità del tempo, sotto la vetta incontaminata del Monte Batyr nelle Montagne dei Troll, fondammo il regno di Korolnor. Sotto il saggio governo di Karlyn Kuldelver, Primo del Suo Nome, scavammo le nostre sale nella roccia viva e portammo gloria e onore alle montagne.
+
+Ma quella gloria svanì quando Diinkarazan, il nostro protettore, imboccò il sentiero della magia. Il suo cuore, un tempo puro e saldamente radicato negli insegnamenti di Moradin, venne corrotto mentre cercava stregonerie proibite e indagava segreti che avrebbero dovuto restare al di là della portata di ogni nano.
+
+Quando il suo tradimento divenne evidente, Diinkarazan fu espulso dal pantheon di Moradin. Sigillammo i cancelli delle sue sale sacre. Il suo tempio, un tempo luogo di preghiera e venerazione, venne chiuso e il suo nome cancellato dalle nostre cronache, affinché la sua magia oscura e incontrollabile non potesse mai più portarci alla rovina.
+
+Cercammo rifugio nella fede di Clangeddin, Padre della Battaglia, e giurammo di non deviare mai più dal sentiero dei nostri antenati. Qui restiamo, vigili e risoluti, a custodire la nostra storia e difendere la pace che i nostri avi un tempo sognarono.
+
+Diinkarazan, il Reietto, cercò sempre un modo per tornare nella sala del trono e nel mondo dei mortali. Il dovere di Korolnor era sorvegliare questa montagna, assicurandosi che il figlio perduto di Moradin non potesse mai più portare sciagura sul popolo nanico.
+
+Ma tra noi vi furono coloro che rifiutarono di abbandonare il sentiero della magia selvaggia di Diinkarazan. Nonostante la corruzione che si era impadronita del nostro antico protettore, continuarono a essergli devoti, mossi dalla sete di potere e da una fede cieca. Tentarono di liberarlo e, così facendo, scatenarono bestie dell'Abisso che si abbatterono su di noi a sciami. Il loro morso portava la maledizione del Reietto e i nostri amati fratelli del clan si trasformarono nei servitori alati di Diinkarazan.
+
+Quando il tradimento fu scoperto, gli anziani di Korolnor decretarono che chi non avesse rinnegato Diinkarazan non avrebbe più potuto vivere tra noi. Furono scacciati come esiliati, banditi nelle profondità del Sottosuolo, nel regno dell'oscurità eterna. Karlyn in persona pronunciò una potente maledizione runica: nessun nano di Korolnor avrebbe mai più potuto aprire la porta del Trono del Dio Folle. Karlyn ne sarebbe stato il guardiano e avrebbe assolto questo dovere per l'eternità, perfino oltre la morte.
+
+Possano i discendenti imparare a riconoscere il bene e rifuggire il male, e possano gli errori degli Esiliati insegnare loro a cercare sempre il vero sentiero.~
+@2084 = ~Nota dei Derro~
+@2085 = ~Programma di Allevamento dei Troll~
+@2086 = ~Questa nota è scritta in una forma stranamente alterata della scrittura nanica, che non riesci a decifrare facilmente.~
+@2087 = ~Questo testo è scritto nella grafia dei Derro, che sembra essere una variante della scrittura nanica. È un registro degli sforzi compiuti dai Sapienti Derro per istituire un programma di allevamento dei troll:
+
+Programma di Allevamento dei Troll:
+5 Troll Grigi ricevuti dal vampiro
+Reclutati Troll di Fuoco e Troll dei Ghiacci
+4 Troll di Faerzress arrivati dal Sottosuolo
+
+Piani Futuri:
+Creare 20 Troll Spettrali mediante contatto con un wraith
+Creare 20 Troll di Pietra mediante lo sguardo di un basilisco
+Creare 30 Troll Fantasma incrociandoli con un cacciatore invisibile
+Creare 30 Troll Velenosi mediante contatto con veleno di viverna
+
+Tutti i troll normali vengono inviati in superficie a caccia di schiavi umani, di cui il nostro padrone ha bisogno per aprire i cancelli sigillati.
+Una volta aperti i cancelli e liberato il nostro dio, completeremo l'esercito dei troll. Allora verrà messo in atto il piano per conquistare il Sottosuolo.~
+@2088 = ~Nota di Ursummnogh~
+@2089 = ~Mio fedele servitore Ursummnogh,
+
+Presto un gruppo di avventurieri entrerà nelle rovine che ci servono per i nostri scopi.
+Dovrai nasconderti con tutti i tuoi troll finché ogni membro del gruppo non avrà oltrepassato il cancello. Poi dovrai chiuderlo. Ricorda: potrai riaprire il cancello soltanto realizzando una nuova chiave! Quindi non sigillarlo troppo presto. Gli avventurieri devono credere che questa parte delle rovine sia disabitata.
+
+Il gruppo di avventurieri è composto dai seguenti membri:
+un soldato umano di nome Bryam Lancameth
+un ladro halfling di nome Nhair Ebendar
+un'arciera elfa che si fa chiamare Fanciulla Starthorn
+una sacerdotessa umana conosciuta come Iremar
+e un mago di razza sconosciuta.
+
+Il gruppo è estremamente potente e distruggerà qualunque tuo troll se verrà scoperto.
+
+Uno di questi membri tenterà di liberare il nostro dio dalle profondità. Ti rivelerà la propria identità una volta che l'intero gruppo sarà passato.~
+@2090 = ~Scudo del Tuono +2~
+@2091 = ~Forgiato nel raro metallo Hizaagkur, che possiede una carica elettrica innata, questo scudo infligge una sgradevole scossa a chiunque lo tocchi, tranne a chi lo impugna. Una volta al giorno, l'energia accumulata nello scudo può essere liberata in un potente rombo di tuono. Si narra che un guerriero nano senza nome abbia usato un tempo questo scudo per provocare una valanga nelle Montagne dei Troll, seppellendo sotto le rocce una schiera di orchi all'attacco.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Rombo di Tuono: una violenta esplosione sonora che stordisce tutti entro un raggio di 4,5 metri (un tiro-salvezza contro Incantesimi riuscito annulla l'effetto) una volta al giorno
+  Durata: 3 round
+
+Abilità durante l'uso:
+– Classe Armatura: +3
+– Nessuna protezione contro gli attacchi con proiettili
+– Un colpo riuscito contro chi impugna questo scudo infligge all'attaccante 1 punto di danno da elettricità.
+
+Richiede:
+Forza 4
+
+Peso: 2~
+@2092 = ~Martello degli Arconti~
+@2093 = ~La testa di questo martello ha la forma delle ali di un essere celestiale. È bilanciato con maestria per sferrare colpi possenti. Come la maggior parte delle armi provenienti dai Piani Superiori, possiede la capacità di distruggere i non morti, anche se non allo stesso livello delle armi brandite da esseri più potenti quali planetar o solar.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Con un colpo riuscito, una creatura non morta ha il 5% di probabilità di essere distrutta (tiro-salvezza contro Morte con penalità -4)
+
+THAC0: +3
+Danno: 1d4+4 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Martello da Guerra
+Tipo: A una mano
+Richiede:
+Forza 16
+
+Peso: 3~
+@2094 = ~Mantello del Caos~
+@2095 = ~Questo mantello può essere al tempo stesso una benedizione e una maledizione per chi lo indossa, mutando da un istante all'altro. Può essere una potente risorsa in un momento e una pericolosa debolezza in quello successivo. La fonte della sua energia è ignota, ma soltanto gli avventurieri più sconsiderati o folli dovrebbero osare indossarlo.
+
+I Maghi Selvaggi, noti per la capacità di manipolare la magia caotica, ottengono maggiori benefici dall'uso di questo oggetto, sebbene neppure loro possano controllarne completamente la natura selvaggia. Gli incantesimi «Scudo del Caos» e «Scudo del Caos Potenziato» proteggono dagli effetti negativi del mantello. Tuttavia, perfino per un Mago Selvaggio, i bonus alla Classe Armatura e ai Tiri-salvezza rimangono imprevedibili, oscillando ogni round tra 0 e -5.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: oscilla ogni round tra -5 e +5
+– Tiri-salvezza: oscillano ogni round tra -5 e +5
+
+Peso: 3~
+@2096 = ~Guardiano della Montagna~
+@2097 = ~Questo robusto elmo è inciso sulla fronte con delicate rune che gli conferiscono un'aura di antica autorità. Oltre a offrire una solida protezione dagli attacchi, consente a chi lo indossa di vedere attraverso la pietra massiccia una volta al giorno, come se fosse vetro. Questa capacità magica viene attivata dalle antiche rune naniche e permette di scorgere caverne nascoste, pozzi minerari e altri segreti sotterranei. Progettato in origine per aiutare i sorveglianti delle miniere a localizzare vene minerarie nascoste e garantire la sicurezza dei tunnel, il Guardiano della Montagna è uno strumento inestimabile per chi cerca di svelare i misteri del Sottosuolo.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Vista nella Pietra
+  Chi indossa questo elmo può esaminare una volta al giorno un'area sotterranea (non all'aperto), in modo simile all'incantesimo da mago «Visione Distante». Dopo un round, l'effetto svanisce.
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+– Protegge contro i colpi critici
+
+Peso: 2~
+@2098 = ~Anello della Compagnia~
+@2099 = ~Questo anello è l'unico ricordo dei compagni che accompagnarono Bryam Lancameth nella sua ultima spedizione. È intagliato nel legno e dipinto. L'anello simboleggia la lealtà, la forza e il legame condiviso soltanto da coloro che si avventurano insieme nell'ignoto.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Armonia Difensiva (una volta al giorno)
+– Forza di uno (una volta al giorno)
+
+Peso: 0~
+@2100 = ~Guanti Nati dalla Forgia~
+@2101 = ~Questi guanti furono creati per modellare il metallo e forgiare l'acciaio. Per questo sono stati infusi con una serie di incantesimi destinati ad assistere un maestro fabbro nella <PRO_HISHER> attività di forgiatura. Possono essere indossati soltanto dalle razze della pietra, nani e gnomi. I nani li indossano con la benedizione di Moradin, mentre gli gnomi ricevono il favore di Flandal Steelskin, rispettivi patroni dell'arte della forgia.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al Fuoco: +25%
+– Competenza nelle Armi con i Martelli da Guerra: +1
+– Bonus al THAC0 contro i Golem di Ferro: -2
+– Bonus al Danno contro i Golem di Ferro: +2
+
+Peso: 2~
+@2102 = ~Mano di Troll~
+@2103 = ~Mano di Grubnuk +3~
+@2104 = ~Questa è la mano mozzata di un troll.~
+@2105 = ~Questa mano apparteneva un tempo al troll Grubnuk, prima che te la donasse per gratitudine. L'arto reciso si rivela un'arma sorprendentemente efficace. Quando viene equipaggiato, i tendini della mano del troll si fondono con quelli di chi la usa, permettendo di brandirla come un artiglio e infliggere danni perforanti. Sebbene sia più lenta delle armi più piccole, il maggior danno compensa ampiamente questo svantaggio. Una frazione del potere rigenerativo del troll passa a chi la impugna. In cambio, tuttavia, la mano risucchia parte della <PRO_HISHER> forza vitale e non può essere rimossa facilmente.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Rigenera 1 Punto Ferita ogni 2 round
+– Punti Ferita: -10
+– Può essere rimossa soltanto con un incantesimo Scaccia Maledizione
+
+THAC0: +6
+Danno: 1d6+3 (perforante)
+Fattore-velocità: 3
+Tipo di Competenza: Nessuna
+Tipo: A una mano
+Richiede:
+Forza 3
+
+Peso: 3~
+@2106 = ~Corona~
+@2107 = ~Verità Sussurrante~
+@2108 = ~Una corona finemente lavorata e riccamente ornata.~
+@2109 = ~Questa corona risale all'epoca dei grandi imperi di Netheril, quando un sovrano capace di usare la magia cercò di raggiungere l'illuminazione assoluta.
+
+Per conseguire il proprio obiettivo, legò al diadema l'essenza di un antico essere noto come Yllatharn il Pensatore. Yllatharn era un'entità di incredibile intelligenza ma completamente folle, sopraffatta dal flusso infinito di pensieri e possibilità del Piano Astrale.
+
+Con la guida di Yllatharn, il sovrano creò questo artefatto dal disegno intricato, foggiato come una piccola corona. La gemma blu incastonata al suo interno sembra pulsare debolmente alla luce. L'oggetto emana un'aura inquietante, una sensazione di profonda comprensione accompagnata da un peso opprimente. Chiunque lo indossi sente continuamente un lieve sussurro, che concede intuizioni brillanti ma semina al contempo dubbi e conflitti interiori.
+
+Di conseguenza, ne risentono la sicurezza di chi lo indossa e la capacità di reagire rapidamente alle situazioni.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Intelligenza: +1
+– Saggezza: +1
+– Carisma: -1
+– Tiri-salvezza: -1
+
+Peso: 0~
+@2110 = ~Scudo del Custode della Morte~
+@2111 = ~Questo scudo è consacrato a Kelemvor, Signore dei Morti. Oltre a fornire una solida protezione in battaglia, funge da baluardo contro i non morti, contribuendo a mandarli al riposo definitivo. È realizzato in legno scuro e rinforzato da una cornice di bronzo. Al centro spicca il simbolo di Kelemvor: una mano scheletrica che regge una bilancia in equilibrio.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +3
+– Bonus alla CA e ai Tiri-salvezza contro i Non Morti: +2
+– Bonus ai Tiri-salvezza contro Necromanzia: +2
+
+Richiede:
+Forza 12
+
+Peso: 5~
+@2112 = ~Cintura del Troll~
+@2113 = ~Questa cintura è realizzata cucendo insieme varie parti di un troll: ossa, pelle e interiora. Chiunque la indossi beneficia della rigenerazione accelerata per cui i troll sono tanto famigerati.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Rigenerazione: 1 Punto Ferita per round
+
+Peso: 2~
+@2114 = ~Questo scudo è completamente ammaccato e non è riuscito a proteggere chi lo portava da un colpo devastante.~
+@2115 = ~Torcia Eterna~
+@2116 = ~La Torcia Eterna è una torcia perennemente ardente, intagliata grossolanamente nel legno resistente al fuoco di un albero sconosciuto. Non funge soltanto da fonte permanente di luce, ma anche da discreta clava in combattimento. A ogni colpo infligge al nemico un piccolo danno da fuoco aggiuntivo. Grazie alla fiamma che non si spegne mai, conferisce a chi la porta l'infravisione, permettendo di vedere meglio nell'oscurità.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Infravisione fino a 36 metri
+
+THAC0: +0
+Danno: 1d2, +1d4 danni da fuoco
+Tipo di Danno: Contundente
+Fattore-velocità: 3
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+Forza 5
+
+Peso: 3~
+@2117 = ~Chiave Dentellata~
+@2118 = ~Questa chiave è affilata e frastagliata e sembra destinata a uno scrigno particolare o a una gabbia.~
+@2119 = ~Scimitarra Prismatica +3~
+@2120 = ~Il Prigioniero degli Elementi
+
+Questa Scimitarra Prismatica, forgiata dalle stesse forze elementali, fu creata come ricettacolo del loro potere. Spiriti del fuoco, del ghiaccio, del fulmine, dell'acido e della pura energia magica sono imprigionati nella lama e liberano casualmente le proprie forze a ogni colpo. Il suo bagliore cangiante protegge chi la impugna dalla cecità.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Chi la impugna è immune alla cecità.
+
+THAC0: +3
+Danno: 1d8+3 (tagliente), più casualmente +1 fuoco, +1 acido, +1 magia, +1 freddo oppure +1 elettricità
+Fattore-velocità: 2
+Tipo di Competenza: Scimitarra/Wakizashi/Ninjato
+Tipo: A una mano
+Richiede:
+Forza 10
+
+Peso: 1~
+@2121 = ~Martello dell'Aria +3~
+@2122 = ~Forgiato da artigiani nani, il Martello dell'Aria fu progettato come strumento magico di soccorso per i tunnel bui e pericolosi del Sottosuolo, dove fumo e vapori tossici costituiscono una minaccia costante. L'oggetto apre un passaggio verso un reame al di là del mondo materiale, colmo dell'aria pura del Piano Elementale. Quando la sua runa viene attivata, il martello libera una poderosa raffica che rinnova con aria pulita un'area di 9 metri, sufficiente a sostenere otto umani (o dodici nani) sottoposti a uno sforzo moderato. Questo vento può disperdere nubi velenose e nebbie magiche, comprese quelle create da incantesimi come Nube Assassina.
+Quest'arma può essere usata soltanto dai nani.
+
+Abilità attivabili:
+– Zona di Aria Fresca una volta al giorno
+
+STATISTICHE:
+
+THAC0: +3
+Danno: 1d4+4 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Martello da Guerra
+Tipo: A una mano
+Richiede:
+Forza 9
+
+Peso: 4~
+@2123 = ~Candela di Fumo~
+@2124 = ~Questa candela è fatta di una cera fuligginosa che, appena accesa, comincia subito a sprigionare dense volute di fumo. Funge da tramite per evocare un Mephit di Fumo dai Piani Interni, che servirà chi la usa per un breve periodo. La candela può essere usata tre volte prima di consumarsi completamente.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Evoca Mephit di Fumo (3 cariche)
+  Durata: 1 turno
+
+Peso: 1~
+@2125 = ~Seconda Pelle del Nano +3~
+@2126 = ~Chiunque sostenga che i nani eccellano soltanto nella lavorazione della pietra e del metallo verrà smentito da questa armatura di cuoio. Realizzata con la pelle di un rothé delle profondità, è stata accuratamente conciata con tinture magiche per fornire un'eccellente resistenza ai danni, vantando al contempo un profumo sorprendentemente gradevole.
+
+Tuttavia, bisogna possedere la corporatura robusta e l'ampia circonferenza di un nano per beneficiare pienamente di questa armatura.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– +10% resistenza ai danni taglienti, perforanti, da proiettile e contundenti (solo per i nani)
+– Carisma: +1 (solo per i nani)
+
+Classe Armatura: 5 (7 contro perforante e proiettile)
+Richiede:
+Forza 3
+
+Peso: 4~
+@2127 = ~Proiettile del Ratto +1~
+@2128 = ~Questi proiettili sono fatti di pelo di ratto, fuso in un grumo indurito da una sostanza sconosciuta. Possiedono la capacità di evocare un ratto per la durata di tre round, facendolo apparire nel punto in cui si trova il nemico colpito.
+
+STATISTICHE:
+
+– Quando colpisce: evoca un ratto comune accanto alla creatura colpita
+
+THAC0: +1
+Danno: 1d4+2 (proiettile)
+Dispositivo: Fionda
+
+Peso: 0~
+@2129 = ~Ammiccamento dell'Ubriaco~
+@2130 = ~L'Ammiccamento dell'Ubriaco è una mazza magica impugnata dal celebre mastro birraio e sacerdote di Vergadain Bardain Goldmug, noto anche come Bardain l'Unto di Birra. Il suo principio guida era: «Vergadain accumula oro con allegria, Bardain lo annega tutto nella birra.»
+
+La testa dell'arma è un boccale di metallo, il cui robusto manico è stato riadattato a letale strumento contundente. Questa mazza cerimoniale veniva spesso impiegata nei rituali sacri per inondare di birra i fedeli riuniti, una benedizione nel nome della divina baldoria del Mastro Birraio. Ancora oggi, dal bordo superiore della mazza cola senza sosta un sottile rivolo di birra. Dopo un'esposizione prolungata, sia il nemico colpito sia chi la impugna possono ritrovarsi ubriachi. Sul manico è inciso un antico detto nanico: «Se non puoi batterli in battaglia, battili a bevute!»
+
+La mazza è considerata una divina fusione di maestria nanica e assoluta irresponsabilità.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Costituzione: +1 (solo per i nani)
+
+Abilità attivabili:
+– Una volta al giorno, se in stato di ebbrezza, chi la impugna può pronunciare una Parola Sacra emettendo un rutto fragoroso.
+
+Abilità in combattimento:
+– Con un colpo riuscito, la mazza aumenta di 10 l'intossicazione del bersaglio oppure di chi la impugna.
+
+THAC0: +3
+Danno: 1d6+4
+Tipo di Danno: Contundente
+Fattore-velocità: 4
+Tipo di Competenza: Mazza
+Tipo: A una mano
+Richiede:
+Forza 10
+
+Peso: 6~
+@2131 = ~Borsa delle Gemme e degli Scarabei Capricciosi~
+@2132 = ~Questa consunta borsa di cuoio tintinna e fruscia in modo inquietante, quasi possedesse una volontà imprevedibile tutta sua. È il risultato del curioso esperimento di uno gnomo eccentrico che tentò di creare una fonte inesauribile di gemme, ma un piccolo incidente alchemico legò la sua matrice magica alle forze caotiche della natura.
+
+Ora, una volta al giorno, chi possiede la borsa può infilarvi la mano ed estrarne una gemma scintillante. Tuttavia la magia è capricciosa: talvolta, al posto del tesoro, ne emerge uno scarabeo furioso, desideroso di manifestare il proprio disappunto. La creatura morde immediatamente la mano di chi usa la borsa, quindi corre ad attaccare qualunque creatura a portata.
+
+STATISTICHE:
+
+– Una volta al giorno produce una gemma casuale
+– 15% di probabilità di evocare invece uno scarabeo ostile, che infligge prima 20 punti di danno e poi attacca le creature vicine
+
+Peso: 6~
+@2133 = ~Bastone della Difesa~
+@2134 = ~Il Bastone della Difesa è un bastone rinforzato incantato che rafforza chi lo impugna con magie protettive. Permette al proprietario di lanciare Armatura e Scudo una volta al giorno. Inoltre, il bastone migliora la Classe Armatura di chi lo impugna emanando una lieve aura protettiva.
+
+Secondo la leggenda, questi bastoni venivano un tempo creati a Myth Drannor per offrire ai maghi maggiori possibilità di sopravvivenza sul campo di battaglia. Molti andarono perduti nel caos della caduta della città e, ancora oggi, gli studiosi sussurrano di reliquie da tempo dimenticate che giacciono nelle profondità di antiche rovine, in attesa di un nuovo possessore.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+
+Abilità attivabili:
+– Armatura (come l'incantesimo da mago di 1° livello) una volta al giorno
+– Scudo (come l'incantesimo da mago di 1° livello) una volta al giorno
+
+THAC0: +2
+Danno: 1d6+2 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Bastone Rinforzato
+Tipo: A due mani
+Richiede:
+Forza 5
+
+Peso: 1~
+@3000 = ~Una statua di Clangeddin Silverbeard~
+@3001 = ~Diinkarazan, il Figlio Reietto di Moradin~
+@3002 = ~Il cranio cavo di un gigante, che irradia ancora un forte calore. Probabilmente veniva usato regolarmente per bruciare sostanze.~
+@3003 = ~Il dio illithid Ilsensine bandisce Diinkarazan nell'Abisso~
+@3004 = ~Karlyn Kuldelver, Patriarca di Korolnor~
+@3005 = ~Questo sembra essere l'altro capo del corno usato per comunicare con i livelli superiori.~
+@3006 = ~L'antracite si accende con una fiamma luminosa.~
+@3007 = ~«All'Antica Sala del Trono del Reietto»~
+@3008 = ~«Diinkarazan, Traditore degli Ideali Nanici»~
+@3009 = ~«Diinkarazan, Accusato di Praticare Magia Incontrollabile»~
+@3010 = ~«Diinkarazan, Espulso dal Pantheon Nanico»~
+@3011 = ~Su questo altare è stata posata un'ascia. Un secondo alloggiamento è ancora vuoto: sembra che collocarvi un'altra arma possa attivare un meccanismo.~
+@3012 = ~Non puoi usare l'incantesimo «Vista nella Pietra» all'aperto.~
+@3013 = ~Non puoi usare l'incantesimo «Vista nella Pietra» qui.~
+@3014 = ~La statua di Kelemvor si illumina brevemente e una targa recante il simbolo del Signore dei Morti cade improvvisamente a terra.~
+@3015 = ~Senti una porta metallica chiudersi più in alto.~
+@3016 = ~Una porta metallica più in alto si è riaperta.~
+@3017 = ~Peccato che non abbia riconosciuto un altro Zhentarim. Be', forse era troppo stupido per farlo! Fa niente. Riposa bene, Glouris Sbagliatifos! Ah!~
+@3018 = ~Io non dirò niente di tutto questo ai miei capi. Non è raro che gli Zhentarim si ammazzino tra loro ogni tanto, ma non facciamo un affare di stato per il cadavere che abbiamo qui.~
+@3019 = ~Quando l'afferri, la gemma si disintegra in polvere scintillante.~ [EFF_E03]
+@3020 = ~«Che diavolo è questo rumore? Sento qualcuno là fuori!»~
+@3021 = ~«Argh. Incapaci.»~
+@3022 = ~«Chi sta pasticciando con i miei troll lassù? Fatti vedere!»~
+@3023 = ~«Darò in pasto ai giganti il prossimo idiota che mi delude!»~
+@3024 = ~«Fate cessare immediatamente questo fracasso, o verrò lassù di persona!»~
+@3025 = ~«Qualcuno pagherà caro questo affronto.»~
+@3026 = ~«Se quei troll mi hanno deluso, cadranno teste, lo giuro!»~
+@3027 = ~«Che maledizione grava su questa giornata miserabile! Esigo silenzio!»~
+@3028 = ~«Chiunque stia provocando questo caos pagherà caro. Mi senti? MI SENTI?»~
+@3029 = ~«Sto perdendo la pazienza!»~
+@3030 = ~«Questo rumore è insopportabile! Chi sta mettendo le mani sulle mie guardie?»~
+@3031 = ~«Che tradimento è questo? Mostrati, codardo!»~ ~«Che tradimento è questo? Mostrati, codarda!»~
+@3032 = ~«Lassù nessuno è capace di fare il proprio lavoro? Fate tacere quegli intrusi!»~
+@3033 = ~«I miei ordini sono così difficili da seguire? Zittite subito quegli intrusi!»~
+@3034 = ~«Per i denti di Vaprak, farò in modo che qualcuno soffra per questo baccano!»~
+@3035 = ~Tana dei Ratti~
+@3036 = ~Il Dio Folle è stato nuovamente bandito.~
+@3037 = ~Emberon~
+@3038 = ~Scarabeo Perforatore~
+@3039 = ~Puoi ruttare la Parola Sacra soltanto quando sei ubriaco.~ ~Puoi ruttare la Parola Sacra soltanto quando sei ubriaca.~
+@3040 = ~Poltiglia Velenosa~
+@3041 = ~Nube Velenosa~

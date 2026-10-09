@@ -1,0 +1,137 @@
+// Stringhe del diario
+// Il Trono del Dio Folle
+@15000 = ~Una tattica al formaggio
+
+Al secondo livello del Nano Gemente ho incontrato un gruppo di ratti intelligenti. In cambio del furto di un pezzo di formaggio ai giganti, hanno promesso di aiutarmi a combattere quelle creature. Dovrei cercare di avvicinarmi furtivamente al formaggio senza farmi notare e distrarre i giganti per poterlo sottrarre.~
+
+@15001 = ~Una tattica al formaggio
+
+Ho il formaggio! Ora devo riportarlo ai ratti parlanti.~
+
+@15002 = ~Una tattica al formaggio
+
+I ratti erano estremamente grati per il formaggio e mi hanno fornito informazioni e aiuto utili.~
+
+@17000 = ~L'antica fonderia nanica
+
+Nelle sale del Nano Gemente ho scoperto un'antica fonderia ormai spenta. Mi chiedo se sia possibile rimetterla in funzione.~
+
+@17001 = ~L'antica fonderia nanica
+
+Ho riavviato la fonderia e dovrei esaminare più attentamente il suo funzionamento.~
+
+@17002 = ~L'antica fonderia nanica
+
+Ho trovato la parte superiore di uno stampo che potrebbe essere usato per realizzare una chiave per fusione, se avessi anche l'altra metà e riuscissi a riattivare l'antica fonderia nella parte settentrionale del Nano Gemente.~
+
+@17003 = ~L'antica fonderia nanica
+
+Ho trovato la parte inferiore di uno stampo che potrebbe essere usato per realizzare una chiave per fusione, se avessi anche l'altra metà e riuscissi a riattivare l'antica fonderia nella parte settentrionale del Nano Gemente.~
+
+@17004 = ~L'antica fonderia nanica
+
+Tra le mani di un vampiro ho trovato un volantino che, probabilmente, un tempo serviva ad aprire e chiudere delle condutture.~
+
+@17010 = ~L'antica fonderia nanica
+
+Nella fonderia sono riuscito a realizzare per fusione una grande chiave che, spero, mi permetterà di avanzare ulteriormente nelle rovine naniche.~ ~L'antica fonderia nanica
+
+Nella fonderia sono riuscita a realizzare per fusione una grande chiave che, spero, mi permetterà di avanzare ulteriormente nelle rovine naniche.~
+
+@19000 = ~Il Trono del Dio Folle
+
+I nani sigillarono le sezioni più profonde, dove un tempo veniva venerato il «Reietto». Sembra che la statua di Clangeddin sorvegli gli ingressi di quest'area, e forse potrò trovare un modo per aprire i cancelli.~
+
+@19001 = ~Il Trono del Dio Folle
+
+Mi è apparso lo spirito di Karlyn Kuldelver. Non mi impedirà di aprire la sala del trono, poiché non sono un discendente di Korolnor. Per accedere alla sala del trono del Reietto devo riunire le due metà di un'arma, se ho capito correttamente, presso la statua di Clangeddin Silverbeard.~ ~Il Trono del Dio Folle
+
+Mi è apparso lo spirito di Karlyn Kuldelver. Non mi impedirà di aprire la sala del trono, poiché non sono una discendente di Korolnor. Per accedere alla sala del trono del Reietto devo riunire le due metà di un'arma, se ho capito correttamente, presso la statua di Clangeddin Silverbeard.~
+
+@19002 = ~Il Trono del Dio Folle
+
+Ho aperto i cancelli sigillati. Da qualche parte più in basso deve trovarsi la sala del trono e, spero, anche il capitano Bryam Lancameth.~
+
+@19003 = ~Il Trono del Dio Folle
+
+Dietro l'ultima porta sigillata si trova il Trono del Dio Folle. Bryam Lancameth mi ha ammonito con fermezza a non aprire questa sala e a non affrontare l'entità imprigionata al suo interno.~ ~Il Trono del Dio Folle
+
+Dietro l'ultima porta sigillata si trova il Trono del Dio Folle. Bryam Lancameth mi ha ammonita con fermezza a non aprire questa sala e a non affrontare l'entità imprigionata al suo interno.~
+
+@19010 = ~Il Trono del Dio Folle
+
+Ho sconfitto Diinkarazan nella sua antica sala del trono. Forse ora la pace tornerà nell'antica fortezza.~
+
+@50000 = ~L'ultima spedizione di Lancameth
+
+Nella taverna «Tana dei Sette Veli», nella Passeggiata di Waukeen, ho ascoltato la ballata di un bardo. La canzone dovrebbe raccontare una storia vera su un gruppo di avventurieri che si recò nelle Montagne dei Troll e non fece mai ritorno. Se voglio saperne di più, dovrei parlare con il bardo.~
+
+@50001 = ~L'ultima spedizione di Lancameth
+
+Ho appreso alcune informazioni sulla ballata eseguita da un bardo nella «Tana dei Sette Veli». Narra di un gruppo di avventurieri guidato dal capitano dell'Amn Bryam Lancameth che, insieme a quattro compagni, partì per esplorare una fortezza nanica nelle Montagne dei Troll. Pare che il gruppo fosse composto da individui con obiettivi e ambizioni differenti. Nessuno fece ritorno, nonostante le potenti armi che portavano con sé. Potrei chiedere alla vedova di Lancameth dove fosse diretto il suo ultimo viaggio. Da quando suo marito è scomparso, si trattiene nel Distretto del Cimitero, presso la statua di Kelemvor ad Athkatla.~
+
+@51000 = ~L'ultima spedizione di Lancameth
+
+Ho incontrato l'ultimo membro sopravvissuto del gruppo del capitano Bryam Lancameth. Colui che si faceva chiamare «Mago dei Cani» era in realtà un mago Derro. Credeva che i Derro fossero i veri discendenti di questo clan nanico. Aveva condotto la spedizione di Lancameth in questo luogo soltanto per riaprire le porte sigillate dell'antica sala del trono del dio rinnegato. Lancameth sembra aver scoperto l'inganno e, dopo essere entrato, sigillò nuovamente le porte. Devo oltrepassarle per trovare finalmente Bryam Lancameth.~
+
+@52001 = ~L'ultima spedizione di Lancameth
+
+La vedova del capitano scomparso Bryam Lancameth mi ha consegnato i suoi vecchi appunti. Il suo gruppo si recò in un'antica fortezza nanica nelle Montagne dei Troll, conosciuta come «Nano Gemente». Lei attende nel Distretto del Cimitero di Athkatla, presso la statua di Kelemvor. Se scoprirò qualcosa sulla sorte di suo marito, potrò tornare lì e riferirglielo.~
+
+@52002 = ~L'ultima spedizione di Lancameth
+
+Ho trovato Bryam Lancameth. Purtroppo si era trasformato in una Vargouille e non ho avuto altra scelta che ucciderlo. Mi ha chiesto di prendere la sua testa e trovare un modo per liberarlo dalla maledizione, anche se ciò non lo riporterà in vita.~
+
+@52003 = ~L'ultima spedizione di Lancameth
+
+Ho preso il cranio di Bryam Lancameth. Mi ha chiesto di cercare un modo per spezzare la maledizione in un tempio di Helm, anche se ciò non lo riporterà in vita.~
+
+@52004 = ~L'ultima spedizione di Lancameth
+
+Con la benedizione di Helm, la testa grottescamente trasformata di Bryam Lancameth è tornata alla sua vera forma umana. In questo stato posso riportare il cranio alla sua vedova, che attende presso la statua di Kelemvor nel Distretto del Cimitero di Athkatla.~
+
+@52008 = ~L'ultima spedizione di Lancameth
+
+I resti di Lancameth hanno trovato il loro riposo definitivo nel tempio di Helm.~
+
+@52009 = ~L'ultima spedizione di Lancameth
+
+Ho consegnato alla vedova di Lancameth la testa grottescamente trasformata di suo marito. Si è rifiutata di credere che fosse tutto ciò che restava di lui ed è fuggita sconvolta.~
+
+@52010 = ~L'ultima spedizione di Lancameth
+
+Ho restituito alla vedova di Lancameth i resti mortali di suo marito, per i quali mi è stata molto grata.~
+
+@52050 = ~L'ultima spedizione di Lancameth
+
+Ho incontrato Nhair Ebendar, il ladro halfling del gruppo di Lancameth, che ora indugia nel Nano Gemente come spirito non morto. I suoi vaghi accenni fanno pensare che un tradimento tra gli antichi compagni impedisca alla sua anima di trovare riposo.~
+
+@52051 = ~L'ultima spedizione di Lancameth
+
+Ho incontrato un altro ex membro del gruppo di avventurieri del capitano Bryam Lancameth: la sacerdotessa Iremar. Anche lei ora indugia come spirito inquieto nell'antica roccaforte nanica. Parla anch'essa di un tradimento che impedisce alla sua anima di trovare pace.~
+
+@52052 = ~L'ultima spedizione di Lancameth
+
+Ho trovato anche Lady Starthorn: è il terzo membro del vecchio gruppo di Bryam Lancameth che ho rintracciato. Come gli altri incontrati finora, esiste soltanto come fantasma inquieto e cerca vendetta contro un traditore.~
+
+@55000 = ~L'ultima spedizione di Lancameth
+
+Bryam Lancameth partì verso un luogo nelle Montagne dei Troll chiamato «Nano Gemente» e non fu mai più visto.~
+
+@52060 = ~L'ultima spedizione di Lancameth
+
+Bryam Lancameth partì verso un luogo nelle Montagne dei Troll chiamato «Nano Gemente» e non fu mai più visto.~
+
+@70000 = ~Una ballata alla «Tana dei Sette Veli»
+
+Nella taverna «Tana dei Sette Veli», nella Passeggiata di Waukeen, un bardo desidera esibirsi in una ballata. Se sono interessato, dovrei ascoltare la storia.~ ~Una ballata alla «Tana dei Sette Veli»
+
+Nella taverna «Tana dei Sette Veli», nella Passeggiata di Waukeen, un bardo desidera esibirsi in una ballata. Se sono interessata, dovrei ascoltare la storia.~
+
+@80000 = ~L'alchimista nel «Nano Gemente»
+
+Nei sotterranei del «Nano Gemente» ho liberato un alchimista gnomo che era stato costretto a preparare pozioni per i troll. Era felicissimo di essere stato salvato e mi ha dato alcune delle sue pozioni, che si riveleranno certamente utili.~
+
+@80001 = ~L'alchimista nel «Nano Gemente»
+
+Jamrry, l'alchimista, ha accettato di restare nelle rovine naniche e continuare a rifornirmi di pozioni.~

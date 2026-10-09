@@ -53,6 +53,7 @@ The mod is available in:
 - Russian
 - Brazilian Portuguese
 - Polish
+- Italian
 
 ---
 
@@ -117,6 +118,8 @@ Read a detailed article at **The Smoldering Mods Bar**:
 **Lava** – Additional design, item and worldmap icons, testing  
 **Megrimlock** – English version  
 **Shai Hulud** – German version
+
+**Sauler** – Italian version
 
 ---
 
