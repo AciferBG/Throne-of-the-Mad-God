@@ -534,3 +534,6 @@ COPY ~%MOD_FOLDER%/cre/AC#15RAT.cre~ ~override~ // Cranium Rat speaker
   
 COPY ~%MOD_FOLDER%/cre/AC#MGMA1.cre~ ~override~ // Zhentarim Mage
   SAY NAME1 @613 SAY NAME2 @613
+
+// Preserve Mad God troll regeneration and custom death mechanics with or without SCS.
+INCLUDE ~%MOD_FOLDER%/lib/madgod-troll-regeneration.tpa~

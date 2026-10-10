@@ -1,0 +1,379 @@
+// Own the regeneration/death graph; do not change vanilla or SCS resources.
+// Effect definitions reproduce the archived BG2EE standard/fire troll mechanics.
+// Apply after all Mad God CRE files have been installed.
+
+COPY_EXISTING ~trollreg.itm~ ~override/AC#TRRG.itm~
+    LPF DELETE_EFFECT END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 232 target = 1 power = 0 parameter1 = 0 parameter2 = 19 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 12 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#TRRG~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 267 target = 0 power = 0 parameter1 = 14001 parameter2 = 0 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 101 target = 0 power = 0 parameter1 = 0 parameter2 = 39 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 101 target = 0 power = 0 parameter1 = 0 parameter2 = 217 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 98 target = 1 power = 0 parameter1 = 1 parameter2 = 2 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 142 target = 1 power = 0 parameter1 = 0 parameter2 = 87 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+
+
+COPY_EXISTING ~trollreg.spl~ ~override/AC#TRRG.spl~
+    LPF DELETE_EFFECT END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 58 target = 1 power = 0 parameter1 = 99 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 112 target = 1 power = 0 parameter1 = 3 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#TRRG~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 11 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 2 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 4 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 46 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 75 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 77 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 81 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 161 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 162 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 242 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 79 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 173 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 101 target = 1 power = 0 parameter1 = 0 parameter2 = 25 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 39752 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 54337 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 14662 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 14017 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 101 target = 1 power = 0 parameter1 = 0 parameter2 = 78 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 28 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 29 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 31 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 85 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 86 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 87 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 88 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 89 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 112 target = 1 power = 0 parameter1 = 3 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~MONHP1~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 143 target = 1 power = 0 parameter1 = 0 parameter2 = 0 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~MONHP1~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 39 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 14 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 325 target = 1 power = 0 parameter1 = 20 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 17 target = 1 power = 0 parameter1 = 100 parameter2 = 2 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~reg1hp2~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 143 target = 1 power = 0 parameter1 = 7 parameter2 = 0 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#TRRG~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 17 target = 2 power = 0 parameter1 = 1 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+
+
+COPY_EXISTING ~cdhgtrl.itm~ ~override/AC#FRRG.itm~
+    LPF DELETE_EFFECT END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 232 target = 1 power = 0 parameter1 = 0 parameter2 = 19 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 12 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#FRRG~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 267 target = 0 power = 0 parameter1 = 14001 parameter2 = 0 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 101 target = 0 power = 0 parameter1 = 0 parameter2 = 39 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 101 target = 0 power = 0 parameter1 = 0 parameter2 = 217 timing = 2 resist_dispel = 2 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 98 target = 1 power = 0 parameter1 = 3 parameter2 = 2 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_ITEM_EQEFFECT
+        INT_VAR opcode = 142 target = 1 power = 0 parameter1 = 0 parameter2 = 87 timing = 2 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+
+
+COPY_EXISTING ~cdhgtrl.spl~ ~override/AC#FRRG.spl~
+    LPF DELETE_EFFECT END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 58 target = 1 power = 0 parameter1 = 99 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 112 target = 1 power = 0 parameter1 = 0 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#FRRG~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 11 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 2 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 4 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 46 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 75 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 77 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 81 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 161 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 162 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 242 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 79 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 173 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 101 target = 1 power = 0 parameter1 = 0 parameter2 = 25 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 39752 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 54337 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 14662 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 267 target = 1 power = 0 parameter1 = 14017 parameter2 = 0 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 101 target = 1 power = 0 parameter1 = 0 parameter2 = 78 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 30 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 29 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 31 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 84 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 86 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 87 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 88 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 89 target = 1 power = 0 parameter1 = 100 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 112 target = 1 power = 0 parameter1 = 0 parameter2 = 0 timing = 9 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~MONHP1~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 143 target = 1 power = 0 parameter1 = 0 parameter2 = 0 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~MONHP1~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 39 target = 1 power = 0 parameter1 = 0 parameter2 = 1 timing = 0 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 14 insert_point = (0 - 1)
+        STR_VAR resource = ~TROLLDE~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 17 target = 1 power = 0 parameter1 = 100 parameter2 = 2 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~reg1hp2~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 143 target = 1 power = 0 parameter1 = 7 parameter2 = 0 timing = 4 resist_dispel = 0 duration = 20 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~AC#FRRG~
+    END
+    LPF ADD_SPELL_EFFECT
+        INT_VAR opcode = 17 target = 2 power = 0 parameter1 = 1 parameter2 = 1 timing = 1 resist_dispel = 0 duration = 0 probability1 = 100 probability2 = 0 dicenumber = 0 dicesize = 0 savingthrow = 0 savebonus = 0 special = 0 insert_point = (0 - 1)
+        STR_VAR resource = ~~
+    END
+
+
+// Patch only shipped mod templates, and only exact inventory references.
+ACTION_BASH_FOR ~%MOD_FOLDER%/cre~ ~.*\.[Cc][Rr][Ee]~ BEGIN
+    ACTION_IF FILE_EXISTS_IN_GAME ~%BASH_FOR_FILE%~ BEGIN
+        COPY_EXISTING ~%BASH_FOR_FILE%~ ~override~
+            READ_LONG 0x2bc ac_tr_items
+            READ_LONG 0x2c0 ac_tr_count
+            FOR (ac_tr_i=0; ac_tr_i<ac_tr_count; ++ac_tr_i) BEGIN
+                READ_ASCII (ac_tr_items + ac_tr_i*0x14) ac_tr_item (8) NULL
+                PATCH_IF ~%ac_tr_item%~ STRING_EQUAL_CASE ~TROLLREG~ BEGIN
+                    WRITE_ASCII (ac_tr_items + ac_tr_i*0x14) ~AC#TRRG~ #8
+                END
+                PATCH_IF ~%ac_tr_item%~ STRING_EQUAL_CASE ~CDHGTRL~ BEGIN
+                    WRITE_ASCII (ac_tr_items + ac_tr_i*0x14) ~AC#FRRG~ #8
+                END
+            END
+        BUT_ONLY
+    END
+END
+ACTION_BASH_FOR ~%MOD_FOLDER%/cre/copy~ ~.*\.[Cc][Rr][Ee]~ BEGIN
+    ACTION_IF FILE_EXISTS_IN_GAME ~%BASH_FOR_FILE%~ BEGIN
+        COPY_EXISTING ~%BASH_FOR_FILE%~ ~override~
+            READ_LONG 0x2bc ac_tr_items
+            READ_LONG 0x2c0 ac_tr_count
+            FOR (ac_tr_i=0; ac_tr_i<ac_tr_count; ++ac_tr_i) BEGIN
+                READ_ASCII (ac_tr_items + ac_tr_i*0x14) ac_tr_item (8) NULL
+                PATCH_IF ~%ac_tr_item%~ STRING_EQUAL_CASE ~TROLLREG~ BEGIN
+                    WRITE_ASCII (ac_tr_items + ac_tr_i*0x14) ~AC#TRRG~ #8
+                END
+                PATCH_IF ~%ac_tr_item%~ STRING_EQUAL_CASE ~CDHGTRL~ BEGIN
+                    WRITE_ASCII (ac_tr_items + ac_tr_i*0x14) ~AC#FRRG~ #8
+                END
+            END
+        BUT_ONLY
+    END
+END
