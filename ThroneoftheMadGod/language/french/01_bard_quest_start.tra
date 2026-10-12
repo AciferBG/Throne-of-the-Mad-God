@@ -1,0 +1,156 @@
+﻿@4000 = ~J'ai entendu dire que cette ballade faisait pleurer même les guerriers les plus endurcis.~
+@4001 = ~J'espère qu'il ne se trompera pas dans le passage avec le dragon !~
+@4002 = ~Je parie que je pourrais être barde, moi aussi, si seulement j'en avais le temps !~
+@4003 = ~Voyons si le barde arrivera au bout sans trébucher sur ses mots, cette fois.~
+@4004 = ~Chaque fois que j'entends cette histoire, j'en ai la chair de poule.~
+@4005 = ~C'est l'histoire où tout le monde meurt à la fin ? Je n'aime pas les fins tristes !~
+@4006 = ~J'espère que l'histoire n'est pas trop longue… Ma bière, elle, ne durera pas éternellement.~
+@4007 = ~Écoutez donc ma voix et les sons de mon yarting — et si mon œuvre vous plaît, peut-être qu'une perle ou deux dans ma bourse suffiront à nourrir ma muse et à inspirer mes vers.~
+@4008 = ~Tenez-vous cois et écoutez ma ballade, intitulée « La dernière expédition de Lancameth », inspirée d'une histoire vraie…~
+@4009 = ~« La Ballade de la dernière expédition de Lancameth »~
+@4010 = ~…par Gisbert de Myratma. (C'est moi.)~
+@4011 = ~*Hum hum*~ [ACT_01]
+@4012 = ~Un fier guerrier parcourait les routes,
+l'acier solide en sa main,
+il jura de défendre les faibles,
+et rejoignit les gardiens.~
+@4013 = ~Mais il rêvait d'une plus grande gloire,
+de renommée et d'exploits,
+vers les Montagnes des Trolls il partit,
+laissant épouse et toit.~
+@4014 = ~Une forteresse bâtie de main naine,
+que le temps avait figée,
+avec de hardis compagnons il partit,
+de Calimshan et d'Amn rassemblés.~
+@4015 = ~Mais le mal se montra plus rusé,
+pièges et ennemis féroces,
+et nul alchimiste ne put percer
+les secrets des pierres naines.~
+@4016 = ~Hé ! Ne m'interrompez pas et écoutez la chanson jusqu'au bout !~
+@4017 = ~Où en étais-je ? Ah oui…~
+@4018 = ~Dans les tunnels noirs ils combattirent,
+sans trouver gemmes ni or,
+en vain cherchèrent-ils fortune et lumière,
+sans connaître la route encore.~
+@4019 = ~À la fin, tout espoir s'éteignit,
+nul salut ne leur fut donné,
+perdus, sans espoir de retour,
+seuls et sans tombe ils périrent.~
+@4020 = ~La forteresse fut leur tombe silencieuse,
+la veuve du capitaine pleura,
+et l'offrande qu'elle apportait
+au sanctuaire de Kelemvor elle porta.~
+@4021 = ~Nulle épitaphe, nulle pierre dressée
+ne marque leur dernier repos,
+mais les bardes gardent leurs noms vivants
+en chantant leurs valeureux travaux.~
+@4022 = ~…~
+@4023 = ~(C'est maintenant que les applaudissements sont censés commencer…)~
+@4024 = ~Hum… TERMINÉ ! C'était la fin de la ballade de « La dernière expédition de Lancameth » !~
+@4025 = ~Braves gens, que diriez-vous d'une petite contribution pour ma prestation ? Quelques pièces seulement ?~
+@4026 = ~Rien ? Pas même une seule pièce ? *Soupir*.~
+@4027 = ~Foutus philistins ! Aucun respect pour l'art ! Et *vous*, qu'est-ce que vous me voulez ?~
+@4028 = ~J'ai apprécié votre ballade.~
+@4029 = ~Votre ballade était vraiment épouvantable.~
+@4030 = ~Je ne l'ai pas trouvée mauvaise.~
+@4031 = ~Je m'en vais.~
+@4032 = ~Pas mauvaise ? Je ne me contente pas de la médiocrité ! Mais soit, au moins vous avez écouté jusqu'au bout.~
+@4033 = ~Vous avez dit que la chanson était inspirée d'une histoire vraie ?~
+@4034 = ~L'histoire que vous avez racontée… elle est vraie ?~
+@4035 = ~Oui, oui. Allez-y, remuez encore le couteau dans la plaie de mon art incompris !~
+@4036 = ~Qu'est-ce qui a bien pu vous inspirer une chanson pareille ?~
+@4037 = ~Eh bien, l'histoire de ces aventuriers s'est réellement produite !~
+@4038 = ~Et comment le savez-vous ?~
+@4039 = ~Dites-m'en davantage.~
+@4040 = ~Oh ! Voilà qui me fait plaisir !~
+@4041 = ~Comme vous voudrez. Peut-être que mon prochain public se montrera plus généreux !~
+@4042 = ~Oui, l'histoire derrière la ballade est vraie. J'ai peut-être ajouté quelques fioritures — pour l'effet dramatique, bien entendu — mais dans l'ensemble, elle repose sur des événements réels.~
+@4043 = ~Comment savez-vous tout cela ?~
+@4044 = ~En ville, on parle encore du capitaine Lancameth, parti pour sa dernière aventure sans jamais revenir. Le dernier chapitre de sa vie fut écrit à l'encre rouge, j'en ai bien peur.~
+@4045 = ~Parlez-moi davantage de ce Lancameth.~
+@4046 = ~Toute histoire d'aventurier doit bien finir un jour.~
+@4047 = ~Lancameth ? Jamais entendu parler de lui.~
+@4048 = ~Bien sûr ! Écoutez attentivement…~
+
+@4049 = ~Pas si hautain, mon ami ! L'aventurier de cette histoire n'était pas un débutant.~
+@4050 = ~Bryam Lancameth ne prêtait aucune attention aux histoires qui circulaient sur la forteresse et les Montagnes des Trolls. Il était bien décidé à s'y rendre et commença à se renseigner sur le clan nain qui aurait vécu dans la région. Beaucoup jugeaient son ambition téméraire, car aucun groupe n'était jamais revenu vivant de ces montagnes.~
+@4051 = ~Certains disent que la promesse de richesses incommensurables poussa Lancameth à abandonner sa prudence habituelle. Les rumeurs parlaient d'un savoir antique et d'une magie puissante enfouis dans la vieille forteresse naine. Et là où de telles choses sont cachées, l'héroïsme n'est peut-être pas le seul moteur — il se pourrait bien qu'une pointe d'avidité y ait aussi été pour quelque chose.~
+@4052 = ~Une gemme ou deux ne font jamais de mal quand on part à l'aventure.~
+@4053 = ~L'avidité a causé la perte de bien des grandes aventures — peut-être de celle-ci aussi.~
+@4054 = ~Continuez.~
+@4055 = ~Qui sait quels trésors dorment dans de telles ruines naines ? Des gemmes, des armes puissantes… un dragon endormi, peut-être ? Je ne saurais le dire. Mais l'histoire de cette région est étroitement liée à celle des nains, même si une grande partie en a depuis longtemps été oubliée.~
+@4056 = ~J'ai déjà percé les secrets de quelques anciennes forteresses naines.~
+@4057 = ~Vous avez piqué ma curiosité. Que s'est-il passé ensuite ?~
+@4058 = ~Quoi qu'il en soit, Lancameth ne tint aucun compte des avertissements. Il était convaincu qu'il devait mener à bien cette dernière grande aventure, pour l'aventure elle-même. Il rassembla quelques-uns des meilleurs aventuriers qu'il put trouver, eux aussi attirés par la promesse de trésors et de gloire.~
+@4059 = ~Une sage décision que de ne pas entreprendre ce voyage seul.~
+@4060 = ~Qui étaient ces autres aventuriers ?~
+@4061 = ~Intéressant. Continuez, je vous prie.~
+@4062 = ~Quatre personnes accompagnèrent Lancameth dans son expédition dans les Montagnes des Trolls : un voleur halfelin d'Athkatla, une archère elfe, une prêtresse et un étrange petit mage.~
+@4063 = ~Pouvez-vous m'en dire davantage sur les compagnons de Lancameth ?~
+@4064 = ~Et ensuite ?~
+@4065 = ~Je ne sais pas grand-chose des compagnons de Lancameth — sauf de l'un d'eux. Le voleur halfelin s'appelait Nhair Ebendar. Il était bien connu à Athkatla, toujours mêlé à des ennuis avec la garde municipale ou les Voleurs de l'Ombre. Pourtant, ni les uns ni les autres ne parvenaient jamais à l'attraper, car les halfelins du coin lui donnaient toujours refuge.~
+@4066 = ~On raconte qu'il vola jadis une précieuse dague à un noble, ce qui lui valut d'être depuis poursuivi par les hommes de ce dernier. Peut-être vit-il dans l'expédition de Bryam Lancameth un bon moyen de laisser toute cette affaire se tasser.~
+@4067 = ~J'ai rencontré Lancameth une fois, à l'époque où il était capitaine de la garde ici, à Athkatla. Il m'avait fait jeter au cachot pour avoir « emprunté » une bague à quelque noble dame du Quartier du Gouvernement.~
+@4068 = ~C'était un brave homme. Pendant que j'étais en prison, il venait me voir de temps en temps — il aimait beaucoup mes ballades. Je n'aurais jamais cru finir par en composer une sur lui ! Finalement, il m'a relâché. Je ne l'ai jamais revu ensuite.~
+@4069 = ~Tous les membres du groupe de Lancameth étaient des aventuriers expérimentés, bien armés d'armes puissantes — prêts à affronter tout mal qui croiserait leur chemin.~
+@4070 = ~Qu'est devenu le groupe ?~
+@4071 = ~On dirait que ça ne leur a pas beaucoup servi.~
+@4072 = ~Une arme ne vaut jamais mieux que le bras qui la manie.~
+@4073 = ~Un peu plus de sagesse, en plus d'un bon acier, leur aurait peut-être permis de s'en sortir.~
+@4074 = ~Ainsi, les cinq héros partirent un jour pour les Montagnes des Trolls… et ne revinrent jamais. Plus personne ne les vit ni n'entendit parler d'eux.~
+@4075 = ~Pouvez-vous me dire où se trouve l'endroit qu'ils cherchaient à atteindre ?~
+@4076 = ~Pouvez-vous me rappeler où se trouve cette forteresse ?~
+@4077 = ~Et vous avez écrit une ballade sur eux.~
+@4078 = ~Merci de m'avoir raconté cette histoire.~
+@4079 = ~Exactement. Je savais que les gens aiment les bonnes histoires tragiques de héros.~
+@4080 = ~J'ai rencontré Lancameth une fois, à l'époque où il était capitaine de la garde ici, à Athkatla. Il m'avait fait jeter au cachot pour avoir « emprunté » une bague à quelque noble dame du Quartier du Gouvernement. C'était un brave homme. Pendant que j'étais en prison, il venait me voir de temps en temps — il aimait beaucoup mes ballades. Je n'aurais jamais cru finir par en composer une sur *lui* ! Finalement, il m'a relâché. Je ne l'ai jamais revu ensuite.~
+@4081 = ~Et vous avez écrit une ballade sur lui.~
+@4082 = ~Et voilà : vous connaissez maintenant l'histoire de « La dernière expédition de Lancameth ».~
+@4083 = ~Où puis-je trouver cette ancienne forteresse naine ?~
+
+@4084 = ~L'ancienne forteresse naine se trouve quelque part dans les Montagnes des Trolls. On dit qu'elle est signalée par une immense statue taillée dans la pierre appelée le « Nain Gémissant ». Le vent hurle dans sa bouche béante et glace le sang de ceux qui passent à proximité.~
+@4085 = ~Merci ! Voilà qui me fait plaisir ! Si seulement tout le monde ici se montrait aussi intéressé et… généreux que vous…~
+@4086 = ~Prenez soin de vous, d'accord ? Je crois que je vais chercher une autre taverne — peut-être trouverai-je ailleurs un public qui appréciera davantage mes chansons. Vous excepté, bien sûr. Adieu !~
+@4087 = ~Braves gens ! Prêtez-moi vos oreilles et approchez ! Car je m'apprête à interpréter une ballade !~
+@4088 = ~Voilà ce que j'aime entendre ! Envoie la musique, barde !~
+@4089 = ~Ça ne peut pas faire de mal d'écouter une chanson ou deux dans cette taverne.~
+@4090 = ~Une ballade ? Je l'écouterai plus tard.~
+@4091 = ~Quoi, personne ne veut écouter ? Ne mettez pas trop longtemps à vous décider, ou je partirai pour une autre taverne et vous raterez une excellente histoire !~
+@4092 = ~Approchez — ça va commencer ! Mon yarting est accordé, ma langue est déliée : préparez-vous à une histoire de héros, d'aventure et d'audace… avec une fin tragique !~
+@4093 = ~Tu pourrais pas, pour une fois, chanter une histoire qui finit bien ?~
+@4094 = ~Hé, tais-toi ! Je veux entendre la ballade !~
+@4095 = ~Pfff, pas encore cette chanson ! Toujours le même vieux refrain…~
+@4096 = ~Je ne connais pas encore cette ballade ! Alors vas-y, barde !~
+@4097 = ~Silence ! SILENCE, braves gens !~
+@4098 = ~J'ai connu un ogre qui rimait mieux que ce barde.~
+@4099 = ~Et moi, j'ai coupé des langues pour bien moins que ça.~
+@4100 = ~Tel est le destin des artistes, grands comme modestes : être constamment interrompus. Laissez chanter le barde ! Chaque interruption est comme une dague plantée dans le cœur de la mélodie.~
+@4101 = ~Arrêtez d'interrompre le barde ! Une bonne ballade, c'est comme un bras solide à l'épée : il ne faut pas essayer de l'arrêter !~
+@4102 = ~Silence ! Moi, je la trouve plutôt bonne, cette ballade.~
+@4103 = ~C'est quoi, un alchimiste ?~
+@4104 = ~Quoi, c'est déjà fini ?~
+@4105 = ~Eh bien, je ne sais pas trop quoi penser de cette ballade…~
+@4106 = ~Allons-nous-en. Ça n'avait rien d'extraordinaire.~
+@4107 = ~J'ai entendu dire qu'une troupe d'acteurs logeait aux « Cinq Chopes ». On aurait dû aller là-bas à la place.~
+@4108 = ~Allons aux « Cinq Chopes » !~
+@4109 = ~Ouais, je meurs d'ennui ici. Allons-y !~
+@4110 = ~Il y a quelques années, un capitaine de la garde amnienne s'était également fait un nom comme aventurier. Il s'appelait Bryam Lancameth, et son courage et son honneur lui valaient l'affection du peuple comme de ses soldats.~
+@4111 = ~Je me souviens bien de ce capitaine. C'était l'un des meilleurs hommes que j'aie jamais connus dans la garde d'Athkatla.~
+@4112 = ~Ça devait remonter à longtemps. Je n'ai jamais entendu son nom depuis que je suis à Athkatla.~
+@4113 = ~Une chose est sûre : il n'aimait pas les navets.~
+@4114 = ~À l'approche de la fin de son service, il décida d'entreprendre une dernière grande aventure. Il voulait débarrasser les Montagnes des Trolls des monstres qui leur avaient donné leur nom.~
+@4115 = ~Les trolls tourmentent ces terres depuis longtemps, ça c'est vrai.~
+@4116 = ~Un noble objectif que de débarrasser les montagnes du fléau des trolls.~
+@4117 = ~Il pensait que les bêtes avaient leur repaire dans une ancienne construction naine appelée « le Nain Gémissant ». Il s'agirait d'un immense monument représentant un guerrier nain. Ça doit valoir le coup d'œil. Enfin… si ce n'était pas infesté de trolls.~
+@4118 = ~Les gigantesques monuments nains ne me font pas peur.~
+@4119 = ~Les trolls sont vraiment des créatures pénibles.~
+@4120 = ~La veuve de Lancameth en sait peut-être davantage. Elle se rend encore auprès de la statue de Kelemvor dans le cimetière, même après toutes ces années. Vous pourriez l'interroger sur le sort de son mari — si elle accepte d'en parler. Il ne doit pas être facile de pleurer un homme disparu depuis si longtemps.~
+@4121 = ~Je connais trop bien la douleur de perdre un être aimé sans jamais savoir ce qui lui est arrivé. Nous devrions aider cette veuve à découvrir la vérité sur son mari, afin qu'elle n'ait plus à subir cette incertitude sans fin.~
+@4122 = ~Le capitaine Bryam Lancameth était un homme d'honneur et de devoir. Il est juste que nous apportions notre soutien à sa veuve. Parlons-lui et faisons tout notre possible pour découvrir la vérité sur son destin.~
+@4123 = ~La guerre exige un lourd tribut, et un soldat court toujours des risques sur le champ de bataille. Mais il est du devoir d'un prêtre d'apporter du réconfort à ceux qui restent.~
+@4124 = ~Une veuve éplorée et son capitaine disparu ? Ces histoires sentimentales ne nous concernent pas.~
+@4125 = ~Oh, la pauvre femme ! Sa peine doit être insupportable. Nous devons l'aider ! Allons la voir tout de suite et voyons ce que nous pouvons faire.~
+@4126 = ~D'habitude, c'est la dame qu'il faut sauver. Mais là, la dame va bien et c'est le héros qui a disparu ? C'est compliqué. Enfin, peu importe — aidons cette pauvre dame à retrouver son mari !~
+@4127 = ~Merci pour votre histoire. Tenez, prenez dix pièces d'or.~
+@4128 = ~Je crois que je vais rendre visite à la veuve.~
+@4129 = ~Ça ressemble bien à un problème de halfelin. Même si ce Nhair était une fripouille, je me sens quand même obligé de découvrir ce qui lui est arrivé.~
