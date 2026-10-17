@@ -1,0 +1,129 @@
+// Journal strings
+// Throne of the Mad God
+@15000 = ~Une tactique à fromage
+
+Au deuxième niveau du Nain Gémissant, j'ai rencontré un groupe de rats intelligents. En échange du vol d'un morceau de fromage appartenant à des géants, ils ont promis de m'aider à combattre ces créatures. Je devrais tenter d'approcher discrètement du fromage et de distraire les géants pour m'en emparer.~
+
+@15001 = ~Une tactique à fromage
+
+J'ai le fromage ! Je dois maintenant le rapporter aux rats qui parlent.~
+
+@15002 = ~Une tactique à fromage
+
+Les rats m'ont été extrêmement reconnaissants pour le fromage et m'ont fourni des informations ainsi qu'une aide précieuses.~
+
+@17000 = ~L'ancienne fonderie naine
+
+Dans les salles du Nain Gémissant, j'ai découvert une ancienne fonderie désormais froide. Je me demande s'il serait possible de la remettre en marche.~
+
+@17001 = ~L'ancienne fonderie naine
+
+J'ai réussi à redémarrer la fonderie. Je devrais examiner son fonctionnement de plus près.~
+
+@17002 = ~L'ancienne fonderie naine
+
+J'ai trouvé la partie supérieure d'un moule qui pourrait servir à couler une clé, si je possédais l'autre moitié et parvenais à remettre en marche l'ancienne fonderie située dans la partie nord du Nain Gémissant.~
+
+@17003 = ~L'ancienne fonderie naine
+
+J'ai trouvé la partie inférieure d'un moule qui pourrait servir à couler une clé, si je possédais l'autre moitié et parvenais à remettre en marche l'ancienne fonderie située dans la partie nord du Nain Gémissant.~
+
+@17004 = ~L'ancienne fonderie naine
+
+J'ai trouvé sur un vampire un volant qui servait vraisemblablement autrefois à ouvrir et fermer des conduits.~
+
+@17010 = ~L'ancienne fonderie naine
+
+Dans la fonderie, j'ai pu couler une grande clé qui, je l'espère, me permettra de progresser plus avant dans les ruines naines.~
+
+@19000 = ~Le Trône du Dieu Fou
+
+Les nains ont condamné les sections les plus profondes où le « Banni » était autrefois vénéré. Il semble que la statue de Clangeddin garde les accès à cette zone ; je pourrai peut-être y découvrir un moyen d'ouvrir les portes.~
+
+@19001 = ~Le Trône du Dieu Fou
+
+L'esprit de Karlyn Kuldelver m'est apparu. Il ne m'empêchera pas d'ouvrir la salle du trône, puisque je ne descends pas de Korolnor. Pour accéder à la salle du trône du Banni, je dois réunir les deux moitiés d'une arme — si j'ai bien compris, auprès de la statue de Clangeddin Barbe-d'Argent.~
+
+@19002 = ~Le Trône du Dieu Fou
+
+J'ai ouvert les portes scellées. La salle du trône doit se trouver quelque part plus bas — et, je l'espère, le capitaine Bryam Lancameth aussi.~
+
+@19003 = ~Le Trône du Dieu Fou
+
+Derrière la dernière porte scellée se trouve le Trône du Dieu Fou. Bryam Lancameth m'a vivement déconseillé d'ouvrir cette salle et d'affronter l'entité qui y est emprisonnée.~
+
+@19010 = ~Le Trône du Dieu Fou
+
+J'ai vaincu Diinkarazan dans son ancienne salle du trône. Peut-être la paix reviendra-t-elle enfin dans l'antique forteresse.~
+
+@50000 = ~La dernière expédition de Lancameth
+
+À la taverne de « l'Antre des Sept Vaux », sur la Promenade de Waukyne, j'ai écouté la ballade d'un barde. La chanson serait inspirée d'une histoire vraie : celle d'un groupe d'aventuriers parti dans les Montagnes des Trolls et qui n'en est jamais revenu. Je devrais parler au barde si je veux en savoir davantage.~
+
+@50001 = ~La dernière expédition de Lancameth
+
+J'ai appris quelques détails sur la ballade interprétée par un barde à « l'Antre des Sept Vaux ». La « Dernière Expédition de Lancameth » était composée d'un groupe d'aventuriers mené par le capitaine amnien Bryam Lancameth qui, accompagné de quatre compagnons, partit explorer une forteresse naine dans les Montagnes des Trolls. Le groupe semble avoir réuni des individus aux objectifs et ambitions fort différents. Aucun ne revint, malgré les puissantes armes qu'ils emportaient. Je pourrais demander à l'épouse éplorée de Lancameth où l'avait conduit son dernier voyage. Depuis la disparition de son mari, elle séjourne dans le Quartier du Cimetière d'Athkatla, près de la statue de Kelemvor.~
+
+@51000 = ~La dernière expédition de Lancameth
+
+J'ai rencontré le dernier survivant du groupe du capitaine Bryam Lancameth. Celui qui se faisait appeler « Mage-Chien » était en réalité un mage derro. Il croyait que les Derros étaient les véritables descendants de ce clan nain. Il avait conduit l'expédition de Lancameth jusqu'ici dans le seul but de rouvrir les portes scellées menant à l'ancienne salle du trône du dieu renié. Lancameth semble avoir découvert sa supercherie et refermé les portes après les avoir franchies. Je dois trouver un moyen de les dépasser pour enfin retrouver Bryam Lancameth.~
+
+@52001 = ~La dernière expédition de Lancameth
+
+La veuve du capitaine disparu Bryam Lancameth m'a remis ses anciennes notes. Son groupe s'était rendu dans une antique forteresse naine des Montagnes des Trolls appelée le « Nain Gémissant ». Elle attend dans le Quartier du Cimetière d'Athkatla, près de la statue de Kelemvor. Si je découvre quoi que ce soit sur le sort de son mari, je pourrai revenir l'en informer.~
+
+@52002 = ~La dernière expédition de Lancameth
+
+J'ai retrouvé Bryam Lancameth. Malheureusement, il avait été transformé en vargouille et je n'ai eu d'autre choix que de le tuer. Il m'a demandé d'emporter sa tête et de chercher un moyen de lever la malédiction qui le frappait, même si cela ne pourra pas le ramener à la vie.~
+
+@52003 = ~La dernière expédition de Lancameth
+
+J'ai emporté le crâne de Bryam Lancameth. Il m'a demandé de chercher dans un temple de Helm un moyen de lever sa malédiction, même si cela ne pourra pas le ramener à la vie.~
+
+@52004 = ~La dernière expédition de Lancameth
+
+Grâce à la bénédiction de Helm, la tête grotesquement transformée de Bryam Lancameth a retrouvé son apparence humaine. Je peux maintenant rendre son crâne à sa veuve, qui attend près de la statue de Kelemvor dans le Quartier du Cimetière d'Athkatla.~
+
+@52008 = ~La dernière expédition de Lancameth
+
+Les restes de Lancameth ont trouvé leur repos définitif dans le temple de Helm.~
+
+@52009 = ~La dernière expédition de Lancameth
+
+J'ai remis à la veuve de Lancameth la tête grotesquement transformée de son mari. Elle a refusé de croire que c'était tout ce qu'il restait de lui et s'est enfuie, bouleversée.~
+
+@52010 = ~La dernière expédition de Lancameth
+
+J'ai rendu à la veuve de Lancameth la dépouille mortelle de son mari, ce dont elle m'a été profondément reconnaissante.~
+
+@52050 = ~La dernière expédition de Lancameth
+
+J'ai rencontré Nhair Ebendar, le voleur halfelin du groupe de Lancameth, qui erre désormais dans le Nain Gémissant sous la forme d'un esprit mort-vivant. Ses allusions obscures laissent entendre qu'une trahison entre les anciens compagnons empêche son âme de trouver le repos.~
+
+@52051 = ~La dernière expédition de Lancameth
+
+J'ai rencontré une autre ancienne membre du groupe d'aventuriers du capitaine Bryam Lancameth : la prêtresse Iremar. Elle aussi erre désormais comme un esprit sans repos dans l'antique forteresse naine. Elle évoque elle aussi une trahison qui empêche son âme de trouver la paix.~
+
+@52052 = ~La dernière expédition de Lancameth
+
+J'ai maintenant retrouvé la troisième ancienne compagne de Bryam Lancameth : dame Starthorn. Comme les autres que j'ai rencontrés jusqu'ici, elle n'existe plus que sous la forme d'un fantôme sans repos, avide de vengeance contre un traître.~
+
+@55000 = ~La dernière expédition de Lancameth
+
+Bryam Lancameth partit pour un lieu des Montagnes des Trolls appelé le « Nain Gémissant » et ne fut jamais revu.~
+
+@52060 = ~La dernière expédition de Lancameth
+
+Bryam Lancameth partit pour un lieu des Montagnes des Trolls appelé le « Nain Gémissant » et ne fut jamais revu.~
+
+@70000 = ~Une ballade à « l'Antre des Sept Vaux »
+
+À la taverne de « l'Antre des Sept Vaux », sur la Promenade de Waukyne, un barde souhaite interpréter une ballade. Si cela m'intéresse, je devrais écouter son histoire.~
+
+@80000 = ~L'alchimiste du « Nain Gémissant »
+
+Dans les cachots du « Nain Gémissant », j'ai libéré un alchimiste gnome que les trolls forçaient à préparer des potions pour eux. Fou de joie d'avoir été sauvé, il m'a donné quelques-unes de ses potions, qui me seront certainement utiles.~
+
+@80001 = ~L'alchimiste du « Nain Gémissant »
+
+Jamrry, l'alchimiste, a accepté de rester dans les ruines naines et de continuer à me fournir des potions.~
