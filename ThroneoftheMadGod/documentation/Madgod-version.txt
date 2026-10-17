@@ -1,5 +1,8 @@
 ***Throne of the Mad God - Version***
 
+V 2.6
+- added French translation by Deratiseur - thank you very much!
+
 V 2.5
 - fixed the SCS unkillable troll incompatibility, by AvengerMods - thank you!
 
